@@ -30830,4 +30830,14 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/meadowcrofts-taffy-pul
  irst on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Y2GAY w/ DJs Cryptid Yinzer & StonyMFStone
+DTSTART;TZID=America/New_York:20251016T230000
+DTEND;TZID=America/New_York:20251017T000000
+DTSTAMP:20251003T080112Z
+UID:20c80a14-a02f-11f0-aa2b-0242ac110013
+DESCRIPTION:https://www.poetrymillvale.com/event/y2gay-w-djs-cryptid-yinzer
+ -stonymfstone/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
