@@ -30806,4 +30806,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/id-ship-it-smut-fanfiction
  -open-mic/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Night w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20251022T220000
+DTEND;TZID=America/New_York:20251022T230000
+DTSTAMP:20251003T040103Z
+UID:94b78b2e-a00d-11f0-a9fe-0242ac110013
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-night-w-d
+ j-todd-cheat-52/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
