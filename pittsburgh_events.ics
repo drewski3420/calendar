@@ -30796,4 +30796,14 @@ ACTION:DISPLAY
 DESCRIPTION:Test
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'd Ship It! Smut Fanfiction Open Mic
+DTSTART;TZID=America/New_York:20251022T190000
+DTEND;TZID=America/New_York:20251022T200000
+DTSTAMP:20251003T020059Z
+UID:ce99505e-9ffc-11f0-ba78-0242ac110013
+DESCRIPTION:https://www.poetrymillvale.com/event/id-ship-it-smut-fanfiction
+ -open-mic/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
