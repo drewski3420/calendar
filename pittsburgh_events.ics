@@ -30840,4 +30840,32 @@ DESCRIPTION:https://www.poetrymillvale.com/event/y2gay-w-djs-cryptid-yinzer
  -stonymfstone/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louis Tomlinson
+DTSTART:20260711T000000Z
+DTEND:20260711T010000Z
+DTSTAMP:20251003T140114Z
+UID:6d05f7ba-a061-11f0-9c06-0242ac110020
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nLouis Tomlinson
+LOCATION:Stage AE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Favorite Band and Reuben’s Painted Mandolin
+DTSTART:20251018T000000Z
+DTEND:20251018T010000Z
+DTSTAMP:20251003T140115Z
+UID:6d0989a2-a061-11f0-9c06-0242ac110020
+DESCRIPTION:https://thunderbirdmusichall.com/event/favorite-band-and-reuben
+ s-painted-mandolin/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\
+ nFavorite Band and Reuben’s Painted MandolinFriday October 17\, 2025Thun
+ derbird Music Hall4053 Butler Street\, Pittsburgh\, PADoors @ 7pmShow @ 8p
+ mAGE RESTRICTION: 21+\nTicket Tier Info:General Admission Tickets – Stan
+ ding Room Only\nThere are no additional entry protocols at this time. En
+ try requirements are subject to change. By purchasing tickets to this even
+ t you agree to abide by entry requirements in effect at the time of the
+  event. Check the venue website leading up to your event for the latest pr
+ otocols. Please visit https://thunderbirdmusichall.com/safety/ for more in
+ formation on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
