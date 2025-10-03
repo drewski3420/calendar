@@ -31016,4 +31016,30 @@ DESCRIPTION:27000m8l8t0sl06lc7ki8aomu2@google.com\nIt's October 3rd. Wear P
  ink!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20251006T230000Z
+DTEND:20251007T000000Z
+DTSTAMP:20251003T190103Z
+UID:4f12cdbc-a08b-11f0-b6b7-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-10/\nMMONDAY
+  OCT 6\, 2025 - WYEP 91.3 & Straub Brewing Presents:\nAcoustiCafe Open Sta
+ ge host John Kolar with Special Guests!\nTHEME: “COLORS”\nJOHN KOLAR h
+ as a new album "color blind" coming out this November\, so we're looking f
+ or songs about Colors\, Kolars\, Collars\, Colas\, Koalas\, Curlers and Co
+ olers BUT NOTHING ELSE. (or like whatever you want to do is ok too)\nFrom 
+ the hills of Morgantown\, WV\, JOHN KOLAR is an indie artist with rock\, p
+ op\, country\, and jazz influences. John’s most recent release “Watchi
+ ng Reruns” is a guitar driven indie rock song inspired by “Back to the
+  Future.” This is the 8th song of a ten-song album that is scheduled to 
+ release this November.\nOn his growing social media pages\, John regularly
+  posts music theory\, audio engineering\, and music performance content. J
+ ohn works as an audio engineering professor at Ball State University in Mu
+ ncie\, IN\, where he teaches production\, mixing\, acoustics\, electronics
+ \, and performance classes to undergraduate students in the School of Musi
+ c. John’s teaching inspires his music\, as mentoring his students to fin
+ d their own musical voices helps him to find his own.\nJohn enjoys growing
+  vegetables in his garden and riding his bicycle without training wheels.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
