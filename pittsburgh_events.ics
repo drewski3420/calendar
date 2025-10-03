@@ -31006,4 +31006,14 @@ DESCRIPTION:https://cityofasylum.org/program/litfest-2025-deaf-storytelling
  re this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls Night
+DTSTART:20251003T220000Z
+DTEND:20251003T230000Z
+DTSTAMP:20251003T180120Z
+UID:f73d8e18-a082-11f0-b74c-0242ac110020
+DESCRIPTION:27000m8l8t0sl06lc7ki8aomu2@google.com\nIt's October 3rd. Wear P
+ ink!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
