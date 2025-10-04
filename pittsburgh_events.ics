@@ -31136,4 +31136,14 @@ DESCRIPTION:https://pittsburghparks.org/event/evening-fores-bathing-frick-p
  athing – Frick Park first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On Cinema: Tim Heidecker & Gregg Turkington
+DTSTART:20260405T000000Z
+DTEND:20260405T010000Z
+DTSTAMP:20251004T200109Z
+UID:def98ec6-a15c-11f0-b5f5-0242ac110020
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nOn Cinema: Tim Heideck
+ er & Gregg Turkington
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
