@@ -31122,4 +31122,18 @@ DESCRIPTION:https://www.poetrymillvale.com/event/skip-the-admiral-benefit-f
   by Midnight Stereo w/ DJ Cryptid Yinzer
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Forest Bathing – Frick Park
+DTSTART:20251018T223000Z
+DTEND:20251018T233000Z
+DTSTAMP:20251004T160057Z
+UID:506ef3d8-a13b-11f0-adea-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/evening-fores-bathing-frick-p
+ ark-2025-10-18/?utm_source=rss&utm_medium=rss&utm_campaign=evening-fores-b
+ athing-frick-park-2025-10-18\nTreat yourself to a couple of hours of peace
+  and serenity during an evening forest bathing session. We will get to exp
+ erience the change in lighting at the end of…\nThe post Evening Forest B
+ athing – Frick Park first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
