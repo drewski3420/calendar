@@ -31110,4 +31110,16 @@ UID:c1551c5e-a0d6-11f0-90f4-0242ac110020
 DESCRIPTION:https://www.poetrymillvale.com/event/red-lines/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skip & The Admiral Benefit for Trevor Project
+DTSTART;TZID=America/New_York:20251009T200000
+DTEND;TZID=America/New_York:20251009T210000
+DTSTAMP:20251004T050055Z
+UID:1bda00f6-a0df-11f0-8c0e-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/skip-the-admiral-benefit-f
+ or-trevor-project/\nEmbury alum Allie Contreras and Sean Enright together 
+ behind the bar again… $5 suggested donation for Trevor Project. Followed
+  by Midnight Stereo w/ DJ Cryptid Yinzer
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
