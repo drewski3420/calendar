@@ -31101,4 +31101,13 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/rev-peytons-big-damn-ban
  s are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Redlines // Z-Nemo & The Big Slime // Abstract Theory
+DTSTART;TZID=America/New_York:20251023T190000
+DTEND;TZID=America/New_York:20251023T200000
+DTSTAMP:20251004T040107Z
+UID:c1551c5e-a0d6-11f0-90f4-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/red-lines/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
