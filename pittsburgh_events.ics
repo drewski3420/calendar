@@ -31190,4 +31190,19 @@ DESCRIPTION:https://app.opendate.io/e/stillers-sunday-vs-buffalo-november-3
   fear.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPC Family Days – Family Day Halloween Spooktacular!
+DTSTART:20251019T150000Z
+DTEND:20251019T160000Z
+DTSTAMP:20251005T200059Z
+UID:037db4ba-a226-11f0-b6b0-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/ppc-family-days-family-day-ha
+ lloween-spooktacular/?utm_source=rss&utm_medium=rss&utm_campaign=ppc-famil
+ y-days-family-day-halloween-spooktacular\nTake a not-so-scary ride on the 
+ PNC carousel bedecked for the season and meet frightful friends Jack\, Sal
+ ly\, and Mr. Oogie for a day full of fun and special treats.…\nThe post 
+ PPC Family Days – Family Day Halloween Spooktacular! first appeared on P
+ ittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
