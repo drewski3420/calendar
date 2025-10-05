@@ -31205,4 +31205,14 @@ DESCRIPTION:https://pittsburghparks.org/event/ppc-family-days-family-day-ha
  ittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus with Witches Brew 
+DTSTART:20251025T114500Z
+DTEND:20251025T124500Z
+DTSTAMP:20251005T221308Z
+UID:7916432e-a238-11f0-968e-0242ac110020
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/hocus-pocus/\n
+ 7:45 pm – Oct. 25 – $12.50
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
