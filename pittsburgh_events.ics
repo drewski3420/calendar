@@ -31146,4 +31146,48 @@ DESCRIPTION:https://www.stagepittsburgh.com/events/\nOn Cinema: Tim Heideck
  er & Gregg Turkington
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STILLERS SUNDAY: vs Chicago
+DTSTART:20251123T180000Z
+DTEND:20251123T190000Z
+DTSTAMP:20251005T040056Z
+UID:e54c19cc-a19f-11f0-a019-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/stillers-sunday-vs-chicago-november-2
+ 3-2025-617667\n  STILLERS SUNDAY at Bottlerocket This season\, there's no 
+ better place to watch our beloved Steelers than your neighborhood Bottlero
+ cket! With non-annoying music during the commercial breaks\, $3 Draft Beer
+ s\, Steelers Bingo\, and food from our brand new BottleDogs cart - every S
+ unday it's the best dive bar in town\, and that means the best place to wa
+ tch a ballgame. The bar is open to ALL AGES & totally free! Come hang!  ST
+ EELERS BINGO We give you a sheet of things that will probably happen at so
+ me point during a Steelers game (Najee Harris Touchdowns\, TJ Watt Sacks\,
+  someone in the bar disagreeing with a coaching decision\, etc.) - you mar
+ k them off as they happen\, and win! Even if the Steelers lose you can sti
+ ll go home a winner from the prize pile - and we don't interrupt a second 
+ of the game to play\, so if you're locked in to the actual game\, have no 
+ fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STILLERS SUNDAY: vs Buffalo
+DTSTART:20251130T212500Z
+DTEND:20251130T222500Z
+DTSTAMP:20251005T040056Z
+UID:e5517af2-a19f-11f0-a019-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/stillers-sunday-vs-buffalo-november-3
+ 0-2025-617668\n  STILLERS SUNDAY at Bottlerocket  This season\, there's no
+  better place to watch our beloved Steelers than your neighborhood Bottler
+ ocket! With non-annoying music during the commercial breaks\, $3 Draft Bee
+ rs\, Steelers Bingo\, and food from our brand new BottleDogs cart - every 
+ Sunday it's the best dive bar in town\, and that means the best place to w
+ atch a ballgame. The bar is open to ALL AGES & totally free! Come hang!  S
+ TEELERS BINGO We give you a sheet of things that will probably happen at s
+ ome point during a Steelers game (Najee Harris Touchdowns\, TJ Watt Sacks\
+ , someone in the bar disagreeing with a coaching decision\, etc.) - you ma
+ rk them off as they happen\, and win! Even if the Steelers lose you can st
+ ill go home a winner from the prize pile - and we don't interrupt a second
+  of the game to play\, so if you're locked in to the actual game\, have no
+  fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
