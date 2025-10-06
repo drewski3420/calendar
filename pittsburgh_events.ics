@@ -31280,4 +31280,17 @@ DESCRIPTION:https://mrsmalls.com/events/donna-the-buffalo-4/\nThis Event Is
  \, click here.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tophouse
+DTSTART:20260314T000000Z
+DTEND:20260314T010000Z
+DTSTAMP:20251006T160102Z
+UID:a80fbf6c-a2cd-11f0-8ebc-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/tophouse-2/\nThis Event Is All Ages
+ \n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticket 
+ is REQUIRED to enter the venue in addition to your Balcony Reservation. Ba
+ lcony Area is 21 + Only. For more information on Balcony Upgrades\, click 
+ here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
