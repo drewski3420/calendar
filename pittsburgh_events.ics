@@ -31239,4 +31239,32 @@ DESCRIPTION:https://app.opendate.io/e/harrison-gordon-december-03-2025-6121
  illinois 4ever"     
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dollop
+DTSTART:20260329T000000Z
+DTEND:20260329T010000Z
+DTSTAMP:20251006T140100Z
+UID:e37da552-a2bc-11f0-8bf5-0242ac110020
+DESCRIPTION:https://librarymusichall.com/event/the-dollop-2\nEmporium Prese
+ nts and Drusky Entertainment presents:\nThe Dollop\nSaturday\, March 28th\
+ , 2026\nDoors: 7:00PM / Show: 8:00PM\nCarnegie of Homestead Music Hall (Mu
+ nhall\, PA)\n*All tickets subject to day of show price increase. Prices at
+  the ticket link reflect the all-in ticket price (face value + fees) - min
+ us any taxes / credit card processing fees.\nThis event is recommended for
+  all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bill Nunn Day with Do the Right Thing 
+DTSTART:20251020T040000Z
+DTEND:20251020T050000Z
+DTSTAMP:20251006T140100Z
+UID:e3804794-a2bc-11f0-8bf5-0242ac110020
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/do-the-right-t
+ hing/\nJoin us for BILL NUNN DAY in the City of Pittsburgh—a special cel
+ ebration honoring the late\, great Pittsburgh native and acclaimed stage a
+ nd film actor Bill Nunn — best known for his unforgettable role as Radio
+  Raheem in Spike Lee’s Do the Right Thing.
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
