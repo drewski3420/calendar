@@ -31215,4 +31215,14 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/hocus-pocus/\n
  7:45 pm – Oct. 25 – $12.50
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream Queens w/ DJs Cryptid Yinzer & Stony Montana
+DTSTART;TZID=America/New_York:20251023T220000
+DTEND;TZID=America/New_York:20251023T230000
+DTSTAMP:20251006T020057Z
+UID:4cdb6788-a258-11f0-a029-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/scream-queens-w-djs-crypti
+ d-yinzer-stony-montana/\nEmo Night!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
