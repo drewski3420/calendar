@@ -31267,4 +31267,17 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/do-the-right-t
   Raheem in Spike Lee’s Do the Right Thing.
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donna the Buffalo
+DTSTART:20260201T010000Z
+DTEND:20260201T020000Z
+DTSTAMP:20251006T150055Z
+UID:424c698a-a2c5-11f0-8c57-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/donna-the-buffalo-4/\nThis Event Is
+  All Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admissio
+ n ticket is REQUIRED to enter the venue in addition to your Balcony Reserv
+ ation. Balcony Area is 21 + Only. For more information on Balcony Upgrades
+ \, click here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
