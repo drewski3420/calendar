@@ -31622,4 +31622,19 @@ UID:0cc22038-a343-11f0-934c-0242ac110020
 DESCRIPTION:/corey.pisarski/detail/83/1762043400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All You Need is George - The Music of George Harrison
+DTSTART:20260225T010000Z
+DTEND:20260225T020000Z
+DTSTAMP:20251007T140057Z
+UID:0c748baa-a386-11f0-8074-0242ac110020
+DESCRIPTION:https://librarymusichall.com/event/all-you-need-is-george-the-m
+ usic-of-george-harrison\nDrusky Entertainment presents:\nAll You Need is G
+ eorge - The Music of George Harrison\nTuesday\, February 24th\, 2026\nDoor
+ s: 7:00PM / Show: 8:00PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\
+ n*All tickets subject to day of show price increase. Prices at the ticket 
+ link reflect the all-in ticket price (face value + fees) - minus any taxes
+  / credit card processing fees.\nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
