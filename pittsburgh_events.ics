@@ -31585,4 +31585,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/tender-mercy/\nWhen Mark K
   Wand\, Fugitive\, Twin Limb\, Cross Record and Service.
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slim Forsythe & The Boss Stingrays
+DTSTART;TZID=America/New_York:20251025T200000
+DTEND;TZID=America/New_York:20251025T210000
+DTSTAMP:20251007T040058Z
+UID:3b3137c6-a332-11f0-b5e5-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/slim-forsythe-the-boss-sti
+ ngrays/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
