@@ -31737,4 +31737,22 @@ DESCRIPTION:https://mrsmalls.com/events/emo-evening/\nFormed in 2018 by the
  Ages
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luci
+DTSTART:20251011T014500Z
+DTEND:20251011T024500Z
+DTSTAMP:20251007T210059Z
+UID:b9c0d540-a3c0-11f0-b0dd-0242ac110020
+DESCRIPTION:https://thunderbirdmusichall.com/event/luci/thunderbird-cafe-mu
+ sic-hall/pittsburgh-pennsylvania/\n\nLuciFriday October 10\, 2025Thunderbi
+ rd Music Hall4053 Butler Street\, Pittsburgh\, PADoors @ 9pmShow @ 10pmAGE
+  RESTRICTION: 21+\n \nTicket Tier Info:General Admission Tickets – Stan
+ ding Room Only\nThere are no additional entry protocols at this time. En
+ try requirements are subject to change. By purchasing tickets to this even
+ t you agree to abide by entry requirements in effect at the time of the
+  event. Check the venue website leading up to your event for the latest pr
+ otocols. Please visit https://thunderbirdmusichall.com/safety/ for more in
+ formation on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
