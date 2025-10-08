@@ -31822,4 +31822,16 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-35/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Willa Mae
+DTSTART:20251206T010000Z
+DTEND:20251206T020000Z
+DTSTAMP:20251008T150108Z
+UID:9f46e898-a457-11f0-8736-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/willa-mae/\nNashville-based rocker\
+ , Willa Mae\, makes music for critters\, creatures\, and girls. Weaving th
+ emes of southern living\, gender\, and nostalgia into catchy bubble-grunge
+  anthems.\n  \nThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
