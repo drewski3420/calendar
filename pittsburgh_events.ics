@@ -31834,4 +31834,18 @@ DESCRIPTION:https://mrsmalls.com/events/willa-mae/\nNashville-based rocker\
   anthems.\n  \nThis Event Is All Ages
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE HALLOWEEN COVER SHOW
+DTSTART:20251101T000000Z
+DTEND:20251101T010000Z
+DTSTAMP:20251008T180112Z
+UID:c6a0ded0-a470-11f0-a87f-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/the-halloween-cover-show-october-31-2
+ 025-621538\n Bottlerocket's annual HALLOWEEN COVER SHOW returns with anoth
+ er great lineup of bands performing as their faves!  Featuring HISTRIONIC 
+ as THE CLASH CITY MOUSE (on tour from LA) as THE MISFITS MÉGANE as THE ST
+ ROKES TILT CONTRLS as PHOEBE BRIDGERS DJ AFTERPARTY with MARZ  FREE 7PM DO
+ ORS / 8PM MUSIC ALL AGES 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
