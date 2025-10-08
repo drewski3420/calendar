@@ -31766,4 +31766,60 @@ DESCRIPTION:https://www.poetrymillvale.com/event/autumn-after-album-release
  -the-ocean-between-us/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANDREW DISMUKES (Sunday)
+DTSTART:20251124T010000Z
+DTEND:20251124T020000Z
+DTSTAMP:20251008T040058Z
+UID:6551f378-a3fb-11f0-9dcc-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/andrew-dismukes-sunday-november-23-20
+ 25-618253\n  ANDREW DISMUKES - Andrew Dismukes is a stand up comedian\, wr
+ iter and actor . This year\, he returned to “Saturday Night Live” for 
+ his sixth season as a cast member after starting on the show as a staff wr
+ iter in Season 43.   Why'd We Book It? Andrew Dismukes returns to SNL mid-
+ season after delivering one of our favorite standup sets of any cast membe
+ r last year. Since then he’s developed into a dependable favorite in Stu
+ dio 8H - appearing in more sketches than anyone else in Season 50 of the v
+ enerable program. He’s quickly carving out a niche that lives somewhere 
+ in between the absurdity of Tim Robinson and the casual observation humor 
+ of John Mulaney. That off-kilter but somehow relatable voice carries over 
+ to his standup - where he made his bones in his pre-SNL days. We’re stok
+ ed to be bringing him to Pittsburgh for 3 shows!   For Fans Of... John Mul
+ aney\, Andy Samberg\, Tim Robinson   Extended Bio: He is a series regular 
+ in the forthcoming Amazon animated original\, THE HOSPITAL\, alongside May
+ a Rudolph\, Natasha Lyonne\, Kieran Culkin and more. Andrew started perfor
+ ming stand up comedy in Austin\, TX while studying at the University of Te
+ xas where he received a B.S. in radio\, television and film. He has perfor
+ med all across North America and the UK. In 2017 he was named one of the N
+ ew Faces at the Just For Laughs Festival. He’s also performed at the Moo
+ n Tower Comedy Festival\, the Dublin comedy Festival\, Clusterfest and the
+  New York Comedy Festival\, to name a few.    Seating/Show Information: Th
+ is show will have theater seating. Seats will be assigned upon arrival\, o
+ r can be chosen ahead of time for an additional fee.   QR Code Ordering wi
+ ll be available for this performance.  Doors open at 5pm.  Don't miss our 
+ famous Bottlerocket Pre-Show Clip Collection\, beginning one hour before t
+ he start of the performance.  This show is ALL AGES  *all information subj
+ ect to change as needed.    Bottlerocket FAQ:   All shows starting before 
+ 10pm are all ages unless otherwise noted.  Free parking is available at 82
+ 4 Industry Street and 205 Allen Street\, as well as other public lots in t
+ he area.  Live Music shows have limited seating options\, please arrive ea
+ rly or reach out to the venue directly if you know that you require a seat
+ .  Doors open at 5pm for all shows unless noted otherwise. The time listed
+  on the ticket is the event's true start time.  Most shows have a preshow 
+ experience starting 1 hour before the show.  All tickets are non-refundabl
+ e - our full refund policy can be viewed here  Please contact us ahead of 
+ time with any accesibilty requests or concerns\, we're happy to accomodate
+  you.  More FAQ's can be found here   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251027T210000
+DTEND;TZID=America/New_York:20251027T220000
+DTSTAMP:20251008T040058Z
+UID:65550248-a3fb-11f0-9dcc-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-35/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
