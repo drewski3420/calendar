@@ -31755,4 +31755,15 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/luci/thunderbird-cafe-mu
  formation on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn & After: Album Release "The Ocean Between Us" w/ special gue
+ st Justiere
+DTSTART;TZID=America/New_York:20251026T190000
+DTEND;TZID=America/New_York:20251026T200000
+DTSTAMP:20251008T020059Z
+UID:a2994cba-a3ea-11f0-ad26-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/autumn-after-album-release
+ -the-ocean-between-us/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
