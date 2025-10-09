@@ -31938,4 +31938,17 @@ DESCRIPTION:https://app.opendate.io/e/abso-lutely-presents-chad-jt-november
  ere   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV JAM
+DTSTART:20251019T230000Z
+DTEND:20251020T000000Z
+DTSTAMP:20251009T190056Z
+UID:494154c4-a542-11f0-ad29-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-jam-october-19-2025-632056\nJo
+ in us at Bottlerocket for our first UCBurgh Improv Jam - folks of all leve
+ ls are welcome to join and watch or perform\, hosted by our UCBurgh instru
+ ctors! Whether you want to exercise the things you're learning in class\, 
+ or see if you'd be interested in learning more yourself\, all are welcome!
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
