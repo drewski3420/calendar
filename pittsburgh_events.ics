@@ -31858,4 +31858,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
  y-collective-25/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20251028T220000
+DTEND;TZID=America/New_York:20251028T230000
+DTSTAMP:20251009T040101Z
+UID:91841b8c-a4c4-11f0-bacf-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 8/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
