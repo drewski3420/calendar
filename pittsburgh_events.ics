@@ -31868,4 +31868,32 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  8/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mr. Smalls Post-Halloween Party: Part 2
+DTSTART:20251102T010000Z
+DTEND:20251102T020000Z
+DTSTAMP:20251009T160108Z
+UID:2b4b0d66-a529-11f0-b387-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/post-halloween-2/\nA scary night fu
+ ll of bloody good cover sets\, pop-up shops from Jerry's Records and Jack'
+ s Discount Videos\, a costume contest\, silent horror films\, themed drink
+ s and more!\n\nThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Restorative Yoga at the Frick Environmental Center
+DTSTART:20251019T180000Z
+DTEND:20251019T190000Z
+DTSTAMP:20251009T160108Z
+UID:2b4e3040-a529-11f0-b387-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/restorative-yoga-at-the-frick
+ -environmental-center/2025-10-19/?utm_source=rss&utm_medium=rss&utm_campai
+ gn=restorative-yoga-at-the-frick-environmental-center\nThis one-hour Resto
+ rative Yoga class promotes physical\, mental and emotional relaxation thro
+ ugh deep breathing\, intentional stillness and classic yoga postures. Appr
+ opriate for all levels\, restorative yoga is practiced at a…\nThe post R
+ estorative Yoga at the Frick Environmental Center first appeared on Pittsb
+ urgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
