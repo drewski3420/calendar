@@ -31848,4 +31848,14 @@ DESCRIPTION:https://app.opendate.io/e/the-halloween-cover-show-october-31-2
  ORS / 8PM MUSIC ALL AGES 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Night w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20251028T190000
+DTEND;TZID=America/New_York:20251028T200000
+DTSTAMP:20251009T020055Z
+UID:cab55d28-a4b3-11f0-b504-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
+ y-collective-25/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
