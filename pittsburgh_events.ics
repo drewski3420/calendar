@@ -31951,4 +31951,22 @@ DESCRIPTION:https://app.opendate.io/e/improv-jam-october-19-2025-632056\nJo
  or see if you'd be interested in learning more yourself\, all are welcome!
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XGN #61
+DTSTART;TZID=America/New_York:20251029T190000
+DTEND;TZID=America/New_York:20251029T200000
+DTSTAMP:20251010T020100Z
+UID:f83df06a-a57c-11f0-80fc-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/xgn-62/\nWed Oct 29 7:00 p
+ m 21+ $7 at the door (cash only please)\nPoetry Lounge\, 313 North Ave\, M
+ illvale \nAnother fantastic lineup of sonic adventures from string explore
+ rs! \nExperimental Guitar Night #61 featuring: \nCHRIS QUATTRO (Thomas\, W
+ V)\nhttps://christopherdquattro.bandcamp.com/ \nRACHEL MANGOLD (bassist\, 
+ composer\, workshop leader)\nhttps://www.instagram.com/rr.mangold/\nhttps:
+ //rachelmangold.com/ \nMATT CRIPPEN (of God Hates Unicorns / This Guise) \
+ nMICHAEL SKZ (en Eetchis\, Omnivm\, Cartoon Forest)\nhttps://eetchis.bandc
+ amp.com/ \nMARCO HAGUE (moved here from Baltimore!)\nhttps://www.instagram
+ .com/marcohague/
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
