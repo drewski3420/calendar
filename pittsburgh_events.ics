@@ -31969,4 +31969,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/xgn-62/\nWed Oct 29 7:00 p
  .com/marcohague/
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Night w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20251029T220000
+DTEND;TZID=America/New_York:20251029T230000
+DTSTAMP:20251010T040057Z
+UID:b9fd62d4-a58d-11f0-a3e9-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-night-w-d
+ j-todd-cheat-53/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
