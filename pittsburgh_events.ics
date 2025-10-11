@@ -32193,4 +32193,19 @@ DESCRIPTION:https://www.poetrymillvale.com/event/the-minks/\nThe Minks are
  tting your hair down and having a good time.
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western PA Mushroom Club Meeting
+DTSTART:20251021T230000Z
+DTEND:20251022T000000Z
+DTSTAMP:20251011T160112Z
+UID:821b0cca-a6bb-11f0-9dfb-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/western-pa-mushroom-club-meet
+ ing-2-2025-10-21/?utm_source=rss&utm_medium=rss&utm_campaign=western-pa-mu
+ shroom-club-meeting-2-2025-10-21\nJoin the Western PA Mushroom Club for an
+  evening of fungi\, fun\, and friends! This month’s meeting features ent
+ ries and winners of the club’s annual Photography Contest as well as…\
+ nThe post Western PA Mushroom Club Meeting first appeared on Pittsburgh Pa
+ rks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
