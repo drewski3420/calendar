@@ -32208,4 +32208,16 @@ DESCRIPTION:https://pittsburghparks.org/event/western-pa-mushroom-club-meet
  rks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Exile
+DTSTART:20251108T010000Z
+DTEND:20251108T020000Z
+DTSTAMP:20251011T190123Z
+UID:ae307016-a6d4-11f0-84b2-0242ac110020
+DESCRIPTION:https://trustarts.org/production/103854/in-exile\nWORLD PREMIER
+ E! When war and oppression force artists and activists from their homeland
+ s\, their creative resilience becomes an act of resistance—illuminating 
+ the struggle for justice\, identity\, and memory across borders.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
