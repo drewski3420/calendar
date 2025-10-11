@@ -32143,4 +32143,54 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/don-was-the-pan-detroit-
   Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spoopy Movies on the Patio
+DTSTART:20251012T000000Z
+DTEND:20251012T010000Z
+DTSTAMP:20251011T030106Z
+UID:87e58eb8-a64e-11f0-802a-0242ac110020
+DESCRIPTION:59bbvs9lfbp9ovgvvjl8l0hnvh@google.com\nWe're gonna watch movies
+  on the patio! Bring cozy warm things cuz it's gonna get COLD. We'll have 
+ a fire going and also mulled cider\, hot chocolate\, and tea!\, What movie
+ s will we be watching? Legally we can't tell you unless you ask us specifi
+ cally. I know. laws are weird. But you can probably guess based on the gra
+ phic.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violet's Pumpkin Carving Party
+DTSTART:20251024T233000Z
+DTEND:20251025T003000Z
+DTSTAMP:20251011T030106Z
+UID:87e7d54c-a64e-11f0-802a-0242ac110020
+DESCRIPTION:1n7tpo92nlkedl1r25n7p1v96k@google.com\npumpkin carving round 2!
+  10/24\, 7:30 - 10:30\, on the patio! byop(umpkin) this time\, plz (but if
+  you aren't going to be able\, let us know and we'll change our mind about
+  it.) don't bring your own knives tho. We have that covered. 21+
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil's Night w/ The Minks // Marsenwald // Poster Child
+DTSTART;TZID=America/New_York:20251030T190000
+DTEND;TZID=America/New_York:20251030T200000
+DTSTAMP:20251011T030106Z
+UID:87ea3d00-a64e-11f0-802a-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/the-minks/\nThe Minks are 
+ part of Nashville’s psychedelic music scene\, heavy on the rock and roll
+ . We’re talking low-down\, all the way\, purse-lipped\, eyes-shut\, head
+ -whirling kind of groove. In 2015\, on a search for creative community\, N
+ ikki Barber started the band based on the idea that “if you don’t crea
+ te\, you’ll combust”. Just like a rock and roll circus\, you never kno
+ w what you’re going to get\, but you know it’ll be good. The band’s 
+ palpable sound has roots in every music fan’s top ten—from Lou to Patt
+ i to Creedence to Hank – but blends them into something totally original
+  and current. Mixed with raw\, jangly instrumentation and soulful sacchari
+ ne vocals\, it’s as much a throwback as it is an answer to the often ove
+ rlooked underbelly of Nashville’s rock and roll scene. Their most recent
+  release “Creatures of Culture” was recorded in one of Nashville’s h
+ istoric studios\, Creative Workshop\, produced by Robbie Crowell (Deer Tic
+ k\, Midland). Look for them\, on tour forever\, spreading the gospel of le
+ tting your hair down and having a good time.
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
