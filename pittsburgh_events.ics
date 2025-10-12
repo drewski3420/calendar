@@ -32238,4 +32238,14 @@ DESCRIPTION:https://pittsburghparks.org/event/forest-bathing-with-10-27-hea
  rvancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-Stop Erotic Cabaret w/ DJ Krass Advert
+DTSTART;TZID=America/New_York:20251030T220000
+DTEND;TZID=America/New_York:20251030T230000
+DTSTAMP:20251012T030057Z
+UID:acb4a75a-a717-11f0-9dd0-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/non-stop-erotic-cabaret-w-
+ dj-krass-advert-5/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
