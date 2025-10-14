@@ -32513,4 +32513,47 @@ DESCRIPTION:https://www.poetrymillvale.com/event/the-admirals-55th-birthday
  d donation in support of Palestinian aid.
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mrs. Warren's Profession
+DTSTART:20251116T180000Z
+DTEND:20251116T190000Z
+DTSTAMP:20251014T130058Z
+UID:d3bf8d50-a8fd-11f0-a0d9-0242ac110020
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsscreenings/Mrs-Warr
+ ens-Profession.html\nNovember 16\, 2025 1:00 PM\n        				        				 
+    Five-time Olivier Award-winner Imelda Staunton (The Crown) joins forces
+  with her real-life daughter Bessie Carter (Bridgerton) for the very first
+  time\, playing mother and daughter in Bernard Shawâs incendiary mora
+ l classic.\n        				        				        	                        				 
+                                               \n    \nBuy Tickets
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Importance of Being Earnest
+DTSTART:20260125T180000Z
+DTEND:20260125T190000Z
+DTSTAMP:20251014T130058Z
+UID:d3c3a3d6-a8fd-11f0-a0d9-0242ac110020
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsscreenings/Being-ea
+ rnest.html\nJanuary 25\, 2026 1:00 PM\n        				        				    A Trivi
+ al Comedy for Serious People!\n        				        				        	          
+               				                                               \n    \nB
+ uy Tickets
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fifth Step
+DTSTART:20260329T170000Z
+DTEND:20260329T180000Z
+DTSTAMP:20251014T130058Z
+UID:d3c5de58-a8fd-11f0-a0d9-0242ac110020
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsscreenings/the-fift
+ h-step.html\nMarch 29\, 2026 1:00 PM\n        				        				    Olivier 
+ Award-winner Jack Lowden (Slow Horses\, Dunkirk) is joined by Emmy and BAF
+ TA-winner Martin Freeman (The Hobbit\, The Responder) in the critically ac
+ claimed and subversively funny new play by David Ireland.\n        				   
+      				        	                        				                            
+                    \n    \nBuy Tickets
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
 END:VCALENDAR
