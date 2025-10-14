@@ -32465,4 +32465,52 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/wpts-radio-presents-satu
  les are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADAM CONOVER (Friday\, Early)
+DTSTART:20251206T000000Z
+DTEND:20251206T010000Z
+DTSTAMP:20251014T040106Z
+UID:68db3976-a8b2-11f0-a2b1-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/adam-conover-friday-early-december-05
+ -2025-581391\n  Adam Conover is a comedian and the creator\, writer and st
+ ar of the hit series ADAM RUINS EVERYTHING\, an educational comedy that di
+ spels common misconceptions. The New York Times calls it “one of history
+ ’s most entertaining shows dedicated to the art of debunking” and refe
+ rs to Adam as a “genial provocateur.” On YouTube\, his videos have ama
+ ssed millions of views.   In 2022\, his new series THE G WORD is premierin
+ g on Netflix. Produced in partnership with Barack Obama’s Higher Ground 
+ Productions\, it pulls the curtain back on how the federal government work
+ s using comedy and documentary storytelling.   Conover was also the host o
+ f the Nickelodeon game show THE CRYSTAL MAZE\, and recurs on the animated 
+ series BOJACK HORSEMAN and TUCA AND BERTIE.   As a standup comedian\, Adam
+  performs regularly in top comedy clubs and colleges across the country.  
+   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drown the Deep // To Kill A Monster // Break Away
+DTSTART;TZID=America/New_York:20251101T200000
+DTEND;TZID=America/New_York:20251101T210000
+DTSTAMP:20251014T040106Z
+UID:68dddc44-a8b2-11f0-a2b1-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/drown-the-deep/\nWe had su
+ ch an epic time with these two bands last year\, we couldn’t wait to bri
+ ng them to Pittsburgh! Join us for an unforgettable night as Columbus-base
+ d BreakAway and To Kill A Monster team up with Pittsburgh’s own Drown th
+ e Deep at Poetry Lounge in Millvale. \nGet ready for some killer tunes and
+  good vibes! Doors open at 8PM. \n$10 / 21+
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Admiral's 55th Birthday Karaoke Palestine Benefit Celebration w
+ / DJ Paris Not France
+DTSTART;TZID=America/New_York:20251102T190000
+DTEND;TZID=America/New_York:20251102T200000
+DTSTAMP:20251014T040106Z
+UID:68e0cb2a-a8b2-11f0-a2b1-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/the-admirals-55th-birthday
+ -karaoke-palestine-benefit-celebration-w-dj-paris-not-france/\n$5 Suggeste
+ d donation in support of Palestinian aid.
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
