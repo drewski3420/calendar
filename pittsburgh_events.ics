@@ -32603,4 +32603,23 @@ DESCRIPTION:https://mrsmalls.com/events/the-commonheart-3/\nThis Event Is A
   click here.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BOTTLEROCKET HOMECOMING DANCE
+DTSTART:20251129T010000Z
+DTEND:20251129T020000Z
+DTSTAMP:20251014T160113Z
+UID:028147dc-a917-11f0-80b1-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/the-bottlerocket-homecoming-dance-nov
+ ember-28-2025-632839\n It's back! Bust out the homecoming dresses\, bring 
+ a date or come with group because you were too nervous to ask the person y
+ ou wanted (or because you asked your friend to ask their friend if they wo
+ uld say yes and their friend told your friend that they'd say no) we're he
+ aded BACK to the Glory Days for the FOURTH annual Bottlerocket Homecoming!
+   It's musical trip that'll have you dancing through the decades- with 5 o
+ f the best DJ's in the city spinning hits.  There's something for everybod
+ y\, and fun for all! Come dressed up and you may find yourself on the cour
+ t\, or marching in the parade.  DJ LINEUP: DJ MB (60's) Dini Daddy (70's) 
+ Mary Mack (80's) Rodeo Starr (90's) Rojo (00's) 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
