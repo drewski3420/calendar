@@ -32570,4 +32570,37 @@ DESCRIPTION:https://librarymusichall.com/event/dusty-slay-2\nOutback Presen
  any taxes / credit card processing fees.\nThis event is for all ages.
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K3ETH
+DTSTART:20251219T010000Z
+DTEND:20251219T020000Z
+DTSTAMP:20251014T150056Z
+UID:96397e1c-a90e-11f0-9567-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/k3eth-2/\nFollowing the release of 
+ his fourth studio album Genesis\, K3ETH returns to his hometown of Pittsbu
+ rgh for a night at The Funhouse at Mr. Smalls. Known for his boundary-push
+ ing fusion of electronic soundscapes\, hip-hop rhythms\, and melodic flows
+ \, K3ETH has carved out a sound that’s entirely his own. His live perfor
+ mances are more than concerts—they’re immersive experiences\, where el
+ ectrifying visuals\, heart-pounding beats\, and raw energy come together. 
+ K3ETH continues to evolve as one of the most exciting voices in the Pittsb
+ urgh music scene\, blending genres with fearless creativity and emotion. F
+ rom clubs to stages\, his music captures both intensity and intimacy as he
+  draws crowds into his world. This hometown show promises to be a celebrat
+ ion of sound\, movement\, and connection.\n\nThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Commonheart Secret Album Series
+DTSTART:20251228T010000Z
+DTEND:20251228T020000Z
+DTSTAMP:20251014T150056Z
+UID:963bf3f4-a90e-11f0-9567-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/the-commonheart-3/\nThis Event Is A
+ ll Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission 
+ ticket is REQUIRED to enter the venue in addition to your Balcony Reservat
+ ion. Balcony Area is 21 + Only. For more information on Balcony Upgrades\,
+  click here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
