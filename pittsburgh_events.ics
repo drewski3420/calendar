@@ -32639,4 +32639,43 @@ DESCRIPTION:https://app.opendate.io/e/phil-spector-s-gun-november-13-2025-6
  eard?   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Class 101 Show
+DTSTART:20251018T170000Z
+DTEND:20251018T180000Z
+DTSTAMP:20251014T220121Z
+UID:51ca6c2e-a949-11f0-a43c-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-class-101-show-october-18-2025
+ -633213\n Our students have been learning the ins and outs of UCB improv i
+ n our 101 class\, and now it's time to show off all they've learned at our
+  class showcase!  This show is FREE\, and open to family\, friends or any 
+ supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Class 101 Show
+DTSTART:20251018T190000Z
+DTEND:20251018T200000Z
+DTSTAMP:20251014T220121Z
+UID:51ccdde2-a949-11f0-a43c-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-class-101-show-october-18-2025
+ -618781\n Our students have been learning the ins and outs of UCB improv i
+ n our 101 class\, and now it's time to show off all they've learned at our
+  class showcase!  This show is FREE\, and open to family\, friends or any 
+ supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20251101T150000Z
+DTEND:20251101T160000Z
+DTSTAMP:20251014T220121Z
+UID:51ced098-a949-11f0-a43c-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-november-01-202
+ 5-618783\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
