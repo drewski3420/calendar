@@ -32741,4 +32741,21 @@ UID:c4994cf2-a994-11f0-8fd2-0242ac110020
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nDropkick Murphys
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creatures of the Night Schenley Park Fall Hikes with Pittsburgh Par
+ k Rangers
+DTSTART:20251028T210000Z
+DTEND:20251028T220000Z
+DTSTAMP:20251015T160057Z
+UID:235f16ea-a9e0-11f0-88a4-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/creatures-of-the-night-schenl
+ ey-park-fall-hikes-with-pittsburgh-park-rangers/2025-10-28/?utm_source=rss
+ &utm_medium=rss&utm_campaign=creatures-of-the-night-schenley-park-fall-hik
+ es-with-pittsburgh-park-rangers\nExplore the Schenley Park at twilight on 
+ three hikes perfect for the spooky season: October 28 5 PM – 6:30 PM Fal
+ l Hike – Explore the plants and animals of…\nThe post Creatures of the
+  Night Schenley Park Fall Hikes with Pittsburgh Park Rangers first appeare
+ d on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
