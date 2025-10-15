@@ -32810,4 +32810,30 @@ DESCRIPTION:https://cityofasylum.org/program/on-topic-george-packer/\nCity
  days\, but a cash wine bar will be available.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20251018T170000Z
+DTEND:20251018T180000Z
+DTSTAMP:20251015T180103Z
+UID:ea04311c-a9f0-11f0-a740-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-october-18-2025
+ -633213\n Our students have been learning the ins and outs of UCB improv i
+ n our 101 class\, and now it's time to show off all they've learned at our
+  class showcase!  This show is FREE\, and open to family\, friends or any 
+ supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20251018T190000Z
+DTEND:20251018T200000Z
+DTSTAMP:20251015T180103Z
+UID:ea068188-a9f0-11f0-a740-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-october-18-2025
+ -618781\n Our students have been learning the ins and outs of UCB improv i
+ n our 101 class\, and now it's time to show off all they've learned at our
+  class showcase!  This show is FREE\, and open to family\, friends or any 
+ supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
