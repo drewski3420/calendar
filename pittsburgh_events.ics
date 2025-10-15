@@ -32694,4 +32694,23 @@ DESCRIPTION:https://pittsburghparks.org/event/trail-tour-in-hays-woods-park
  ncy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sean Tobin
+DTSTART;TZID=America/New_York:20251103T190000
+DTEND;TZID=America/New_York:20251103T200000
+DTSTAMP:20251015T020127Z
+UID:dc760f38-a96a-11f0-9495-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/sean-tobin/\nBorn and rais
+ ed on the New Jersey shore\, Sean Tobin was influenced by folk-singing tro
+ ubadours and high-energy rockers alike. His high-energy performances and r
+ ock-tinged releases are due mostly in part to his upbringing in the Jersey
+  shore bar scene. Tobin honed his craft playing countless shows in dives\,
+  clubs and basements\, as well as during his time busking on the streets o
+ f Galway\, Ireland throughout 2015 and 2017.  He has performed at such fe
+ stivals as SXSW\, Americanafest\, North2Shore\, and Frank Turner’s Lost 
+ Evenings\, and has opened for the likes of Jason Isbell\, Rhett Miller\, a
+ nd many more. His fifth album\, Seasick\, will be released on October 24\,
+  2025.
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
