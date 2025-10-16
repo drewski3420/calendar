@@ -32895,4 +32895,43 @@ DESCRIPTION:https://mrsmalls.com/events/an-evening-with-vnv-nation/\nThis E
  pgrades\, click here.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20251020T230000Z
+DTEND:20251021T000000Z
+DTSTAMP:20251016T160101Z
+UID:4fa1b9dc-aaa9-11f0-ba9f-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-12/\nMONDAY 
+ OCT 20\, 2025 - WYEP 91.3 & Straub Brewing Presents:\nAcoustiCafe Open Sta
+ gehost Abbey Martin ft Ryan Hoffman & the Pioneers!!\nTHEME: “Inner Chil
+ d” work\nBring an original or cover song that gives a nod to your inner 
+ child! Did you have a favorite cheesy pop song when you were a kid? What s
+ ong was popular the year you were born? Whatever your inner child has to s
+ ay\, we want to hear!\nABBEY MARTIN grew up in a hippie commune in rural O
+ H and spent a lot of time in trees: (see pic) She started playing guitar a
+ nd writing songs in the past couple years (her inner child made her do it)
+ . She has recently started playing solo in Pittsburgh and also as part of 
+ a trio\, “Aubergine.” You can catch her at the Breezeway Home this wee
+ k on Oct 23rd and at the upcoming “Songs for Gaza” World Food Kitchen 
+ Fundraiser on Nov 1st at the Pittsburgh Winery.IG: @abbey_martin_\nRYAN HO
+ FFMAN & THE PIONEERS bring a modern\, cerebral spin to indie folk music - 
+ they go way back with us to the Club Cafe days\, so psyched to see what th
+ ey've been working on!
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forest Bathing at the Frick Museum
+DTSTART:20251108T150000Z
+DTEND:20251108T160000Z
+DTSTAMP:20251016T160101Z
+UID:4fa45778-aaa9-11f0-ba9f-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/forest-bathing-at-the-frick-m
+ useum/2025-11-08/?utm_source=rss&utm_medium=rss&utm_campaign=forest-bathin
+ g-at-the-frick-museum\nThis event is put on in partnership with the Frick 
+ Museum and the Pittsburgh Parks Conservancy. Please note that registration
+  is required through the Frick Museum’s website (link below). Inspired
+ …\nThe post Forest Bathing at the Frick Museum first appeared on Pittsbu
+ rgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
