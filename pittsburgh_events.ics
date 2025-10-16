@@ -32882,4 +32882,17 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  9/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with VNV Nation
+DTSTART:20260518T010000Z
+DTEND:20260518T020000Z
+DTSTAMP:20251016T150055Z
+UID:ea5a91c8-aaa0-11f0-a39c-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/an-evening-with-vnv-nation/\nThis E
+ vent Is All Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a General A
+ dmission ticket is REQUIRED to enter the venue in addition to your Balcony
+  Reservation. Balcony Area is 21 + Only. For more information on Balcony U
+ pgrades\, click here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
