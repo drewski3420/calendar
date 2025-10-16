@@ -32872,4 +32872,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
  y-collective-26/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20251104T220000
+DTEND;TZID=America/New_York:20251104T230000
+DTSTAMP:20251016T040053Z
+UID:b5e5e368-aa44-11f0-8977-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 9/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
