@@ -32934,4 +32934,15 @@ DESCRIPTION:https://pittsburghparks.org/event/forest-bathing-at-the-frick-m
  rgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harold's Annual Fancy Pants NYE Party!
+DTSTART:20260101T000000Z
+DTEND:20260101T010000Z
+DTSTAMP:20251016T210057Z
+UID:365cb7ae-aad3-11f0-a164-0242ac110020
+DESCRIPTION:0trglirn2pio6n2mqai3pjpecn@google.com\nRing in the New Year at 
+ your favorite Haunted They Bar! \nThis will be a ticketed event\, but rem
+ ember! Cult members get in FREE! \nMore info soon!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
