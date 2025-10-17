@@ -33046,4 +33046,23 @@ DESCRIPTION:https://trustarts.org/production/103891/polish-film-festival-vi
  re it disappears forever.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slappers N Bangers Halloween Party
+DTSTART:20251026T020000Z
+DTEND:20251026T030000Z
+DTSTAMP:20251017T190113Z
+UID:a6e31d7a-ab8b-11f0-8d44-0242ac110020
+DESCRIPTION:https://thunderbirdmusichall.com/event/slappers-n-bangers-hallo
+ ween-party/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nSlapper
+ s N Bangers Halloween Party\n \nSaturday October 25\, 2025Thunderbird Mus
+ ic Hall4053 Butler Street\, Pittsburgh\, PADoors @ 9pmShow @ 10pmAGE RESTR
+ ICTION: 21+\n \nTicket Tier Info:General Admission Tickets – Standing R
+ oom Only\nThere are no additional entry protocols at this time. Entry re
+ quirements are subject to change. By purchasing tickets to this event you 
+ agree to abide by entry requirements in effect at the time of the event
+ . Check the venue website leading up to your event for the latest protocol
+ s. Please visit https://thunderbirdmusichall.com/safety/ for more informat
+ ion on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
