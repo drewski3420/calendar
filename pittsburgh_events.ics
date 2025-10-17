@@ -32996,4 +32996,54 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/history-matters-david-
   on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Film Festival: Last Expedition
+DTSTART:20251109T010000Z
+DTEND:20251109T020000Z
+DTSTAMP:20251017T170131Z
+UID:ede1dc36-ab7a-11f0-80ee-0242ac110020
+DESCRIPTION:https://trustarts.org/production/103882/polish-film-festival-la
+ st-expedition\nThe true story of Wanda Rutkiewicz\, the first woman in the
+  world to climb the highest peaks on earth. Wanda entered the ‘male’ w
+ orld of high-mountains uninvited\, and paid the highest price for it.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Film Festival: Minghun
+DTSTART:20251109T010000Z
+DTEND:20251109T020000Z
+DTSTAMP:20251017T170131Z
+UID:ede87898-ab7a-11f0-80ee-0242ac110020
+DESCRIPTION:https://trustarts.org/production/103885/polish-film-festival-mi
+ nghun\nAfter his daughter's death\, Jurek and his Chinese father-in-law Be
+ n seek a "dead husband" for her and perform a Confucian ritual called Ming
+ hun. Their search leads them into absurd situations as they cross boundari
+ es.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Film Festival: Sparrow
+DTSTART:20251110T010000Z
+DTEND:20251110T020000Z
+DTSTAMP:20251017T170131Z
+UID:edeb9b4a-ab7a-11f0-80ee-0242ac110020
+DESCRIPTION:https://trustarts.org/production/103888/polish-film-festival-sp
+ arrow\nA bachelor postman passionate about soccer and studying unexpectedl
+ y meets his unknown grandfather and new neighbor Marzenka\, upending his o
+ rderly life.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Film Festival: Vinci 2
+DTSTART:20251110T010000Z
+DTEND:20251110T020000Z
+DTSTAMP:20251017T170131Z
+UID:edee0556-ab7a-11f0-80ee-0242ac110020
+DESCRIPTION:https://trustarts.org/production/103891/polish-film-festival-vi
+ nci-2\nAfter years of hiding and leading quiet lives\, Julian and Cuma are
+  pulled back into the underworld when a mysterious collector offers them t
+ he deal of a lifetime: steal a priceless Leonardo da Vinci manuscript befo
+ re it disappears forever.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
