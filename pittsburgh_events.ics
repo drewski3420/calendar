@@ -32963,4 +32963,14 @@ UID:1b4e7c66-aafd-11f0-9d67-0242ac110020
 DESCRIPTION:https://www.poetrymillvale.com/event/kerosene-scream/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Night w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20251105T220000
+DTEND;TZID=America/New_York:20251105T230000
+DTSTAMP:20251017T040053Z
+UID:e085236c-ab0d-11f0-a38e-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-night-w-d
+ j-todd-cheat-54/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
