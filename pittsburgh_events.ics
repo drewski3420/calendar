@@ -32954,4 +32954,13 @@ UID:5a8ed986-aaec-11f0-a9df-0242ac110020
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nThe Last Dinner Party
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amish Darr // Kerosene Scream // You Should Have Brought Me Flowers
+DTSTART;TZID=America/New_York:20251105T190000
+DTEND;TZID=America/New_York:20251105T200000
+DTSTAMP:20251017T020051Z
+UID:1b4e7c66-aafd-11f0-9d67-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/kerosene-scream/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
