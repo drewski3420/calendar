@@ -32945,4 +32945,13 @@ DESCRIPTION:0trglirn2pio6n2mqai3pjpecn@google.com\nRing in the New Year at
  ember! Cult members get in FREE! \nMore info soon!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Dinner Party
+DTSTART:20260409T000000Z
+DTEND:20260409T010000Z
+DTSTAMP:20251017T000055Z
+UID:5a8ed986-aaec-11f0-a9df-0242ac110020
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nThe Last Dinner Party
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
