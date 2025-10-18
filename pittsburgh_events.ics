@@ -33065,4 +33065,18 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/slappers-n-bangers-hallo
  ion on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moviola // Bat Radar // Bob & Scott
+DTSTART;TZID=America/New_York:20251106T190000
+DTEND;TZID=America/New_York:20251106T200000
+DTSTAMP:20251018T030057Z
+UID:ab4dbe86-abce-11f0-bd45-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/moviola/\nMoviola is a mus
+ ic and art-making collective of five friends that started in Columbus in 1
+ 993\, who have released full-length records\, singles\, videos\, and mult
+ imedia shows that run the gamut\, an inimitable mix of early 4-track fuzz-
+ pop to present-day hi-fi soul\, country\, and many lands inbetween. Liste
+ ning to them will improve your life\, simple as that.
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
