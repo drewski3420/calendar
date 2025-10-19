@@ -33109,4 +33109,14 @@ DESCRIPTION:https://pittsburghparks.org/event/frick-park-stewardship-days-2
  s first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dj.william does down|TEMPO
+DTSTART;TZID=America/New_York:20251106T220000
+DTEND;TZID=America/New_York:20251106T230000
+DTSTAMP:20251019T030056Z
+UID:d5562276-ac97-11f0-beed-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/dj-william-does-downtempo-
+ 3/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
