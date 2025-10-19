@@ -33185,4 +33185,20 @@ DESCRIPTION:https://app.opendate.io/e/adam-conover-saturday-late-december-0
     
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Restorative Yoga at the Frick Environmental Center
+DTSTART:20251116T190000Z
+DTEND:20251116T200000Z
+DTSTAMP:20251019T190106Z
+UID:f780c370-ad1d-11f0-af6d-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/restorative-yoga-at-the-frick
+ -environmental-center-2025-11-16/?utm_source=rss&utm_medium=rss&utm_campai
+ gn=restorative-yoga-at-the-frick-environmental-center-2025-11-16\nThis one
+ -hour Restorative Yoga class promotes physical\, mental and emotional rela
+ xation through deep breathing\, intentional stillness and classic yoga pos
+ tures. Appropriate for all levels\, restorative yoga is practiced at a…\
+ nThe post Restorative Yoga at the Frick Environmental Center first appeare
+ d on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
