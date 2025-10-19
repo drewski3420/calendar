@@ -33094,4 +33094,19 @@ DESCRIPTION:https://pittsburghparks.org/event/discovery-time-loose-leaves-f
   first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frick Park Stewardship Days
+DTSTART:20251112T140000Z
+DTEND:20251112T150000Z
+DTSTAMP:20251019T000102Z
+UID:b331cb00-ac7e-11f0-95ec-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/frick-park-stewardship-days-2
+ -2025-09-12-2025-11-12/?utm_source=rss&utm_medium=rss&utm_campaign=frick-p
+ ark-stewardship-days-2-2025-09-12-2025-11-12\nFrick Park Stewardship Days 
+ (rotating Wednesdays) Ecological Restoration | Invasive Species Management
+  | At 644 acres\, Frick Park is the largest historical regional park in Pi
+ ttsburgh. Our dedicated team works…\nThe post Frick Park Stewardship Day
+ s first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
