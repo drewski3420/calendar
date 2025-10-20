@@ -33229,4 +33229,26 @@ DESCRIPTION:https://www.poetrymillvale.com/event/the-stars-of-disaster/\nru
  ttps://music.apple.com/au/artist/the-stars-of-disaster/1321282817
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STILLERS SUNDAY: vs Baltimore
+DTSTART:20251207T180000Z
+DTEND:20251207T190000Z
+DTSTAMP:20251020T040059Z
+UID:62e8b1a4-ad69-11f0-b441-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/stillers-sunday-vs-baltimore-december
+ -07-2025-617669\n  STILLERS SUNDAY at Bottlerocket This season\, there's n
+ o better place to watch our beloved Steelers than your neighborhood Bottle
+ rocket! With non-annoying music during the commercial breaks\, $3 Draft Be
+ ers\, Steelers Bingo\, and food from our brand new BottleDogs cart - every
+  Sunday it's the best dive bar in town\, and that means the best place to 
+ watch a ballgame. The bar is open to ALL AGES & totally free! Come hang!  
+ STEELERS BINGO We give you a sheet of things that will probably happen at 
+ some point during a Steelers game (Najee Harris Touchdowns\, TJ Watt Sacks
+ \, someone in the bar disagreeing with a coaching decision\, etc.) - you m
+ ark them off as they happen\, and win! Even if the Steelers lose you can s
+ till go home a winner from the prize pile - and we don't interrupt a secon
+ d of the game to play\, so if you're locked in to the actual game\, have n
+ o fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
