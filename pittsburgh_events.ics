@@ -33266,4 +33266,20 @@ DESCRIPTION:https://pittsburghparks.org/event/azure-concerts-monster-bash-a
  red on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOLLAR MONDAY
+DTSTART:20251104T010000Z
+DTEND:20251104T020000Z
+DTSTAMP:20251020T150058Z
+UID:95c13a9a-adc5-11f0-b405-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/dollar-monday-november-03-2025-632367
+ \n  Do you like local music? Do you like cheap beer? Would you like both o
+ f those things together?  Yeah\, we thought so.  DOLLAR MONDAYS - every fi
+ rst Monday of the Month we'll give you 2 handpicked local bands\, $1 beer*
+ \, and no cover. All night. All you've gotta do is show up. Pretty good de
+ al huh?  SPONSORED BY HELLBENDER VINYL!  November Edition with... LATECOME
+ R MIDNIGHT LIGHTS  The Pittsburgh Brewing Company will be there with FREE 
+ MERCH!!    *10oz Old German Drafts & other rotating specials   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
