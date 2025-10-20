@@ -33251,4 +33251,19 @@ DESCRIPTION:https://app.opendate.io/e/stillers-sunday-vs-baltimore-december
  o fear.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azure Concerts Monster Bash at Schenley Plaza
+DTSTART:20251026T180000Z
+DTEND:20251026T190000Z
+DTSTAMP:20251020T140121Z
+UID:422ebca2-adbd-11f0-9fa7-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/azure-concerts-monster-bash-a
+ t-schenley-plaza/?utm_source=rss&utm_medium=rss&utm_campaign=azure-concert
+ s-monster-bash-at-schenley-plaza\nJoin the Pittsburgh Parks Conservancy fo
+ r the Azure Monster Bash Concert from 2:00 to 3:00 p.m. under the Schenley
+  Plaza Tent\, where Anton DeFade’s Half Step All-Stars will perform clas
+ sic…\nThe post Azure Concerts Monster Bash at Schenley Plaza first appea
+ red on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
