@@ -33216,4 +33216,17 @@ DESCRIPTION:https://pittsburghparks.org/event/hays-woods-stewardship-days-3
  appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Stars of Disaster // Benefits // Dumplings
+DTSTART;TZID=America/New_York:20251107T200000
+DTEND;TZID=America/New_York:20251107T210000
+DTSTAMP:20251020T020055Z
+UID:9d49c286-ad58-11f0-bc50-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/the-stars-of-disaster/\nru
+ st belt garage psych and psychedelic yacht rock—a mix of raw energy and 
+ vintage vibes.\n\n\nSpotify: https://open.spotify.com/artist/0dGahxInegAh
+ 0tb2GTRdd6\nBandcamp: https://thestarsofdisaster.bandcamp.com/\nApple: h
+ ttps://music.apple.com/au/artist/the-stars-of-disaster/1321282817
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
