@@ -33371,4 +33371,21 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/the-lone-bellow/thunderb
  sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AN EVENING WITH RACHEL ANN BOVIER
+DTSTART:20251125T010000Z
+DTEND:20251125T020000Z
+DTSTAMP:20251021T190108Z
+UID:4d953820-aeb0-11f0-9113-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/an-evening-with-rachel-ann-bovier-nov
+ ember-24-2025-633418\n Ever wonder what diva is on those billboards all ov
+ er the city? Come find out at Bottlerocket\, because Pitsburgh's Poetess i
+ s back with her famous one-woman variety show featuring whatever she feels
+  like doing that evening. It's a celebration of outsider art\, and you nev
+ er know what's next. There's no one like Rachel - spend an evening with he
+ r and find out why.   Expect\, in her words "Poetry...Songs...One Liners..
+ .Movie Trivia...Elvis & Beatles Skit...Candy Bar Reading...Q & A...Singalo
+ ngs." 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
