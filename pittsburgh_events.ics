@@ -33388,4 +33388,17 @@ DESCRIPTION:https://app.opendate.io/e/an-evening-with-rachel-ann-bovier-nov
  ngs." 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 201 CLASS SHOW
+DTSTART:20251101T170000Z
+DTEND:20251101T180000Z
+DTSTAMP:20251021T200137Z
+UID:c07b911a-aeb8-11f0-838e-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-november-01-202
+ 5-635627\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
