@@ -33282,4 +33282,13 @@ DESCRIPTION:https://app.opendate.io/e/dollar-monday-november-03-2025-632367
  MERCH!!    *10oz Old German Drafts & other rotating specials   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seven Mile Detour
+DTSTART;TZID=America/New_York:20251108T200000
+DTEND;TZID=America/New_York:20251108T210000
+DTSTAMP:20251021T040052Z
+UID:89a567be-ae32-11f0-9d98-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/seven-mile-detour-2/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
