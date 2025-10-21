@@ -33438,4 +33438,13 @@ DESCRIPTION:https://mrsmalls.com/events/greggy_oke-karaoke-45/\nKaraoke eve
  ent Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cheats // Ravagers // The Pooks
+DTSTART;TZID=America/New_York:20251109T190000
+DTEND;TZID=America/New_York:20251109T200000
+DTSTAMP:20251021T230056Z
+UID:cd58bade-aed1-11f0-9925-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/the-cheats-2/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
