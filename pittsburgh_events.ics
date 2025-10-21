@@ -33401,4 +33401,41 @@ DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-november-01-202
   supportive audience! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20251115T170000Z
+DTEND:20251115T180000Z
+DTSTAMP:20251021T210100Z
+UID:0c18f6dc-aec1-11f0-83c9-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-november-15-202
+ 5-618784\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20251122T160000Z
+DTEND:20251122T170000Z
+DTSTAMP:20251021T210100Z
+UID:0c1b4aae-aec1-11f0-83c9-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-november-22-202
+ 5-621267\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greggy_oke Karaoke
+DTSTART:20251031T000000Z
+DTEND:20251031T010000Z
+DTSTAMP:20251021T210100Z
+UID:0c1d9818-aec1-11f0-83c9-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/greggy_oke-karaoke-45/\nKaraoke eve
+ ry Thursday when there is not a Theatre show!\n8PM to 11PM\nFREE!\nThis Ev
+ ent Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
