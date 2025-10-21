@@ -33291,4 +33291,17 @@ UID:89a567be-ae32-11f0-9d98-0242ac110020
 DESCRIPTION:https://www.poetrymillvale.com/event/seven-mile-detour-2/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Estate – A Celebration of Atlas
+DTSTART:20260113T010000Z
+DTEND:20260113T020000Z
+DTSTAMP:20251021T150107Z
+UID:c5b77484-ae8e-11f0-a3ee-0242ac110020
+DESCRIPTION:https://mrsmalls.com/events/real-estate-a-celebration-of-atlas/
+ \nThis Event Is All Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a G
+ eneral Admission ticket is REQUIRED to enter the venue in addition to your
+  Balcony Reservation. Balcony Area is 21 + Only. For more information on B
+ alcony Upgrades\, click here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
