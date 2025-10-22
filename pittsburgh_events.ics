@@ -33925,4 +33925,44 @@ DTEND;TZID=America/New_York:20251114T220000
 RRULE:FREQ=MONTHLY;WKST=MO;BYDAY=2FR
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caldron on Creativity - Open Stage
+DTSTART:20251121T010000Z
+DTEND:20251121T020000Z
+DTSTAMP:20251022T200106Z
+UID:d8ae5410-af81-11f0-a3d0-0242ac110020
+DESCRIPTION:1okmobpvltl8ihdhlk15ph75f9@google.com\nJoin the Coven of Misfit
+ s for the next installment of their non-competitive open stage\, The Cauld
+ ron of Creativity! If you’re a drag performer\, burlesque artist\, live 
+ singer\, cosplayer\, spoken word performer\, or whatever other live perfor
+ ming art form we haven’t mentioned here\, this is for YOU!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coven of Misfits Deltarune/Undertale themed variety show
+DTSTART:20251116T000000Z
+DTEND:20251116T010000Z
+DTSTAMP:20251022T200106Z
+UID:d8b12afa-af81-11f0-a3d0-0242ac110020
+DESCRIPTION:2pm2mapb0950aelgouhvnjv1gg@google.com\nThis is an Undertale and
+  Deltarune tribute variety show with drag\, burlesque\, and so much more! 
+ The event is 21+ and doors open at 7pm! <br><br>Bringing cash is strongly 
+ recommended so you can tip all these lovely humans and monsters! Dressing 
+ up is also strongly encouraged!<br><a href="https://sickening.events/e/liv
+ e-from-the-underground-an-undertale-and-deltaru">Tickets Available Here</a
+ >
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Found Family Stitch & Witch
+DTSTART:20251102T220000Z
+DTEND:20251102T230000Z
+DTSTAMP:20251022T200106Z
+UID:d8b333e0-af81-11f0-a3d0-0242ac110020
+DESCRIPTION:5e7k45g69u15bllcdmfm4kv4ld@google.com\nFound Family is having a
+  Stitch & Witch! Bring the kids and your portable crafts. We're gonna have
+  cozy shows on the screen and chill music on the speakers. All are welcome
+ ! This event is sober - no alcohol will be sold or displayed.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
