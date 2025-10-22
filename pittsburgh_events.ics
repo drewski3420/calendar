@@ -33462,4 +33462,14 @@ DESCRIPTION:https://pittsburghparks.org/event/western-pa-mushroom-club-meet
  cy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sexual Purity // Doors in the Labyrinth // Millie Dread
+DTSTART;TZID=America/New_York:20251110T190000
+DTEND;TZID=America/New_York:20251110T200000
+DTSTAMP:20251022T020059Z
+UID:f47c986a-aeea-11f0-bbbf-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/sexual-purity/\nUkrainian 
+ Darkwave Duo
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
