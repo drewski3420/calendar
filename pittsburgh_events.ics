@@ -33519,4 +33519,17 @@ UID:eab4082a-af14-11f0-900f-0242ac110020
 DESCRIPTION:/corey.pisarski/detail/117/1763164800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veterans Day Flag Folding Ceremony
+DTSTART:20251111T180000Z
+DTEND:20251111T190000Z
+DTSTAMP:20251022T150108Z
+UID:f0efb3f4-af57-11f0-88bc-0242ac110020
+DESCRIPTION:https://www.heinzhistorycenter.org/event/veterans-day-flag-fold
+ ing-ceremony/\nJoin us on Tuesday\, Nov. 11 to participate in the unfurlin
+ g and folding of a giant 36-foot American flag in the Great Hall. Reflect 
+ upon the civic democracy and history…\nThe post Veterans Day Flag Foldin
+ g Ceremony appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
