@@ -33704,4 +33704,46 @@ DESCRIPTION:https://mrsmalls.com/events/big-laughs-comedy-open-mic-65/\nWe
  start at 7PM. Open mic from 7:30PM to 10PM\nFREE!\nThis Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRIVIA NIGHT
+DTSTART:20251112T003000Z
+DTEND:20251112T013000Z
+DTSTAMP:20251022T180136Z
+UID:26efa982-af71-11f0-a5aa-0242ac110020
+DESCRIPTION:https://app.opendate.io/e/trivia-night-november-11-2025-635784\
+ n Our very own world famous Hot Dog Man becomes our Trivia Man for a brand
+  new Trivia night! Bring a group or find one here\, impress your friends o
+ r look like a fool!   Prizes for winners\, losers\, and even some prizes i
+ n between!  Free to play! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Balladeer - A Shanty Sing
+DTSTART:20251025T190000Z
+DTEND:20251025T200000Z
+DTSTAMP:20251022T180136Z
+UID:26f3a78a-af71-11f0-a5aa-0242ac110020
+DESCRIPTION:6a649aenkjkhv405cgqfb0q0b2@google.com\nJoin an all skill levels
+ \, all knowledge levels group singing event for anyone interested in shant
+ ies\, sailing songs\, and pub songs! Come prepared to learn and share trad
+ itional and modern songs! Songs themselves do not need to be explicitly qu
+ eer but we are open to adding or modifying lyrics to suit our tastes. Brin
+ g a tune\, bring an acoustic instrument\, or just bring your own self - we
+  can’t wait to sing along with you!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Save Vanka Murals Fundraiser Event
+DTSTART:20251028T230000Z
+DTEND:20251029T000000Z
+DTSTAMP:20251022T180136Z
+UID:26f5cb0a-af71-11f0-a5aa-0242ac110020
+DESCRIPTION:15j9cmltfar4cphfk5rjq8jo18@google.com\n<p dir="ltr"><b>Join us 
+ at Harold’s Haunt for our second annual live reading of “The Millvale 
+ Apparition\,” by Louis Adamic. This year’s reader is Brett Sullivan Sa
+ ntry</b><b> </b><b>– an actor\, director\, teaching artist\, dramaturg\,
+  and creator of </b><b><i>Lady Lord Macbeth</i></b><b>\, a newly-devised 
+ production distilled from Shakespeare’s tragedy. </b></p>
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
