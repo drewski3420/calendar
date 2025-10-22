@@ -33482,4 +33482,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-38/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ringa's Halloween party
+DTSTART:20251101T230000Z
+DTEND:20251102T000000Z
+DTSTAMP:20251022T060056Z
+UID:79a9ed64-af0c-11f0-ab96-0242ac110020
+DESCRIPTION:6ti62e3374o3gbb4c8r36b9kccrjeb9p75h6abb660r6cdr1c4p3ed1pco@goog
+ le.com\ninfo TBD
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
