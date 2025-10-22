@@ -33472,4 +33472,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/sexual-purity/\nUkrainian
  Darkwave Duo
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251110T220000
+DTEND;TZID=America/New_York:20251110T230000
+DTSTAMP:20251022T040054Z
+UID:b54509f0-aefb-11f0-92a5-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-38/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
