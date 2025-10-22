@@ -33447,4 +33447,19 @@ UID:cd58bade-aed1-11f0-9925-0242ac110020
 DESCRIPTION:https://www.poetrymillvale.com/event/the-cheats-2/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western PA Mushroom Club Meeting
+DTSTART:20251119T000000Z
+DTEND:20251119T010000Z
+DTSTAMP:20251022T010056Z
+UID:9103b398-aee2-11f0-b53a-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/western-pa-mushroom-club-meet
+ ing-2-2025-11-18/?utm_source=rss&utm_medium=rss&utm_campaign=western-pa-mu
+ shroom-club-meeting-2-2025-11-18\nJoin the Western PA Mushroom Club for an
+  evening of fungi\, fun\, and friends! This month’s meeting is our annua
+ l potluck. Attendees are invited to bring a dish to share…\nThe post Wes
+ tern PA Mushroom Club Meeting first appeared on Pittsburgh Parks Conservan
+ cy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
