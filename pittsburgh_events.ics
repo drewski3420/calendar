@@ -33965,4 +33965,14 @@ DESCRIPTION:5e7k45g69u15bllcdmfm4kv4ld@google.com\nFound Family is having a
  ! This event is sober - no alcohol will be sold or displayed.
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STEEL CITY SLAM & Open Mic Night w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20251111T190000
+DTEND;TZID=America/New_York:20251111T200000
+DTSTAMP:20251023T020110Z
+UID:255f4efe-afb4-11f0-8776-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/steel-city-slam-open-mic-n
+ ight-w-pgh-poetry-collective/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
