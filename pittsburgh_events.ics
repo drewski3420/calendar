@@ -34048,4 +34048,19 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/sons-of-legion-moved-to-
  tion on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frick Park Stewardship Days
+DTSTART:20251210T140000Z
+DTEND:20251210T150000Z
+DTSTAMP:20251023T200100Z
+UID:ff674ebc-b04a-11f0-a637-0242ac110020
+DESCRIPTION:https://pittsburghparks.org/event/frick-park-stewardship-days-2
+ -2025-09-12-2025-12-10/?utm_source=rss&utm_medium=rss&utm_campaign=frick-p
+ ark-stewardship-days-2-2025-09-12-2025-12-10\nFrick Park Stewardship Days 
+ (rotating Wednesdays) Ecological Restoration | Invasive Species Management
+  | At 644 acres\, Frick Park is the largest historical regional park in Pi
+ ttsburgh. Our dedicated team works…\nThe post Frick Park Stewardship Day
+ s first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
