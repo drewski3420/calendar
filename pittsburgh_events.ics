@@ -34063,4 +34063,17 @@ DESCRIPTION:https://pittsburghparks.org/event/frick-park-stewardship-days-2
  s first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ontologics
+DTSTART;TZID=America/New_York:20251112T200000
+DTEND;TZID=America/New_York:20251112T210000
+DTSTAMP:20251024T020100Z
+UID:49b6e4d2-b07d-11f0-8646-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/ontologics/\nOntologics ha
+ s 4 LP’s\, 3 Top 30 albums featured in Relix Magazine\,/Jambands Radio C
+ harts & FMQB SubModern Top 200\, 4 collaborations with P-Nut of 311\, exte
+ nsive College radio support\, and 10+ years of touring [Supported: Godsmac
+ k\, Michelle Branch\, Afroman\, Gangstagrass\, and more].
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
