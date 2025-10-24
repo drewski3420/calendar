@@ -34076,4 +34076,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/ontologics/\nOntologics ha
  k\, Michelle Branch\, Afroman\, Gangstagrass\, and more].
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Night w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20251112T220000
+DTEND;TZID=America/New_York:20251112T230000
+DTSTAMP:20251024T040128Z
+UID:1e3fb6d8-b08e-11f0-bfd3-0242ac110020
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-night-w-d
+ j-todd-cheat-55/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
