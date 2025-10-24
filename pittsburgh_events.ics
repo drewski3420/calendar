@@ -34086,4 +34086,24 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-night-w-d
  j-todd-cheat-55/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zoso - Led Zeppelin Tribute Band
+DTSTART:20260131T010000Z
+DTEND:20260131T020000Z
+DTSTAMP:20251024T150058Z
+UID:3f79479a-b0ea-11f0-b961-0242ac11001c
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nZoso - Led Zeppelin Tr
+ ibute Band
+LOCATION:Stage AE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainbow Kitten Surprise
+DTSTART:20260924T000000Z
+DTEND:20260924T010000Z
+DTSTAMP:20251024T150058Z
+UID:3f7f41a4-b0ea-11f0-b961-0242ac11001c
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nRainbow Kitten Surpris
+ e
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
