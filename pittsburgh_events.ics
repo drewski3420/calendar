@@ -34190,4 +34190,19 @@ UID:e51ded98-b191-11f0-803b-0242ac11001c
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nVincent Mason
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hays Woods Stewardship Days
+DTSTART:20251216T140000Z
+DTEND:20251216T150000Z
+DTSTAMP:20251025T160057Z
+UID:cb1f3c7e-b1bb-11f0-bb9f-0242ac11001c
+DESCRIPTION:https://pittsburghparks.org/event/hays-woods-stewardship-days-3
+ -2025-12-16/?utm_source=rss&utm_medium=rss&utm_campaign=hays-woods-steward
+ ship-days-3-2025-12-16\nREGISTER HERE Hays Woods Park Stewardship Days Eco
+ logical Restoration | Invasive Species Management | Trail Work | Park Clea
+ n-up | Entry-garden CareContribute to environmental stewardship in Pittsbu
+ rgh’s brand new 626-acre…\nThe post Hays Woods Stewardship Days first 
+ appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
