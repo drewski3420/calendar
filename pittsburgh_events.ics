@@ -34181,4 +34181,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/shel-the-philosopher-dereo
  s-roads/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vincent Mason
+DTSTART:20260222T010000Z
+DTEND:20260222T020000Z
+DTSTAMP:20251025T110102Z
+UID:e51ded98-b191-11f0-803b-0242ac11001c
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nVincent Mason
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
