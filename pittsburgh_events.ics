@@ -34171,4 +34171,14 @@ DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-mystery-horror-movie-
  MYSTERY MOVIE MONTH! No matter what it is\, we guarantee it'll be BAD! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shel The Philosopher // Dereos Roads
+DTSTART;TZID=America/New_York:20251113T200000
+DTEND;TZID=America/New_York:20251113T210000
+DTSTAMP:20251025T030059Z
+UID:d56a611c-b14e-11f0-a18a-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/shel-the-philosopher-dereo
+ s-roads/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
