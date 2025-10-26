@@ -34205,4 +34205,14 @@ DESCRIPTION:https://pittsburghparks.org/event/hays-woods-stewardship-days-3
  appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Stereo w/ DJs Cryptid Yinzer & Dodgeball Danny
+DTSTART;TZID=America/New_York:20251113T220000
+DTEND;TZID=America/New_York:20251113T230000
+DTSTAMP:20251026T030053Z
+UID:fc19a268-b217-11f0-8aca-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/midnoght-stereo-w-djs-cryp
+ tid-yinzer-dodgeball-danny/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
