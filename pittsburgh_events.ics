@@ -34242,4 +34242,18 @@ DESCRIPTION:https://app.opendate.io/e/a-very-merry-rick-sebak-screening-dec
  ps its most celebrated storyteller. And our friend! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATE NITE KARAOKE
+DTSTART:20251109T030000Z
+DTEND:20251109T040000Z
+DTSTAMP:20251026T190057Z
+UID:1af0aade-b29e-11f0-a7a9-0242ac11001c
+DESCRIPTION:https://app.opendate.io/e/late-nite-karaoke-november-08-2025-63
+ 1513\n It's Late Night Karaoke!   Come sing all your favorite hits with yo
+ ur friends\, or make new friends here! Singers of all skill levels and gen
+ res encouraged! Write your name on the sheet\, and when it's your turn\, y
+ ou can dazzle the crowd with pretty much any song of your choice! (As long
+  as we have it in our Karaoke software.)  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
