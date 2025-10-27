@@ -34327,4 +34327,43 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/butler-street-revival-a-
  9 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sensory Friendly Screening of My Neighbor Totoro
+DTSTART:20251108T171500Z
+DTEND:20251108T181500Z
+DTSTAMP:20251027T170103Z
+UID:851cf8fa-b356-11f0-b53f-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/my-neighbor
+ -totoro-11-8-25-1215-pm/\nJoin us for a kid/sensory friendly screening of 
+ this Miyazaki classic! This means the film volume will be slightly lowered
+ \, house lights will be on low throughout the show\, and patrons can expec
+ t more chatter and noise than a regular theater experience. Thank you for 
+ your help making Row House a welcoming place for everyone.  
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rubber
+DTSTART:20251115T050000Z
+DTEND:20251115T060000Z
+DTSTAMP:20251027T170103Z
+UID:8523aac4-b356-11f0-b53f-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/rubber/\nOne n
+ ight only! In Quentin Dupieux’s breakout film\, a group of people gather
+  in the California desert to watch a “film” set in the late 1990s feat
+ uring a sentient\, homicidal car tire named Robert. The assembled crowd of
+  onlookers watch as Robert becomes obsessed with a beautiful and mysteriou
+ s woman and goes on a rampage through a desert town.
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coconut Night w. Monty Python and the Holy Grail 
+DTSTART:20251115T050000Z
+DTEND:20251115T060000Z
+DTSTAMP:20251027T170103Z
+UID:852a695e-b356-11f0-b53f-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/monty-python-a
+ nd-the-holy-grail/\nWhat’s that sound?? Could it be coconuts approaching
+ … must be the gallant return of COCONUT NIGHT
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
