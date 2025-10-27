@@ -34256,4 +34256,13 @@ DESCRIPTION:https://app.opendate.io/e/late-nite-karaoke-november-08-2025-63
   as we have it in our Karaoke software.)  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Highland Grove & Co.
+DTSTART;TZID=America/New_York:20251114T200000
+DTEND;TZID=America/New_York:20251114T210000
+DTSTAMP:20251027T020056Z
+UID:c6c18b28-b2d8-11f0-b677-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/highland-grove-co/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
