@@ -34464,4 +34464,40 @@ DESCRIPTION:https://pittsburghparks.org/event/mckinley-park-tree-planting-v
   appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aunt Dee Performs
+DTSTART:20251115T013000Z
+DTEND:20251115T023000Z
+DTSTAMP:20251028T190130Z
+UID:83a601ee-b430-11f0-ad2b-0242ac11001c
+DESCRIPTION:43siavkmee1ej2snef4hnld66r@google.com\nAunt Dee\, a trans femme
+  blues singer from Cleveland\, performs live. \n\nDoors at 8:30\nShow at 
+ 9\n\n5$ at the Door\n\nJoin with Google Meet: https://meet.google.com/vnd-
+ rsvk-yyn\n\nLearn more about Meet at: https://support.google.com/a/users/a
+ nswer/9282720
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trans Book Club
+DTSTART:20251101T180000Z
+DTEND:20251101T190000Z
+DTSTAMP:20251028T190130Z
+UID:83a86a4c-b430-11f0-ad2b-0242ac11001c
+DESCRIPTION:285baa7ckdr2b3l2a2rq9tflpl@google.com\nNovember's books is\n\nL
+ ight from Uncommon Stars
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basement Dwellers Shanty Sing
+DTSTART:20251124T000000Z
+DTEND:20251124T010000Z
+DTSTAMP:20251028T190130Z
+UID:83aa83ae-b430-11f0-ad2b-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/basement-dwellers-shanty-sing/\nThi
+ s is an open Shanty Sing\, the Shanty person will lead each song\, explain
+ ing how it is sung\, most shanties are call and answer.\nYou don't have to
+  sing along\, but it is strongly encouraged.  \nThe Shanty Sing will run f
+ rom 7-9pm. \nFree!\n\nThis Event Is All Ages.
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
