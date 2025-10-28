@@ -34449,4 +34449,19 @@ DESCRIPTION:https://mrsmalls.com/events/the-antlers/\nGleemer is an America
   10AM!\n\nThis Event Is All Ages
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McKinley Park Tree Planting Volunteer Event
+DTSTART:20251101T140000Z
+DTEND:20251101T150000Z
+DTSTAMP:20251028T160109Z
+UID:51d41098-b417-11f0-b7b9-0242ac11001c
+DESCRIPTION:https://pittsburghparks.org/event/mckinley-park-tree-planting-v
+ olunteer-event/?utm_source=rss&utm_medium=rss&utm_campaign=mckinley-park-t
+ ree-planting-volunteer-event\nJoin the Pittsburgh Parks Conservancy’s Ho
+ rticulture and Forestry team for a volunteer tree planting on Saturday\, N
+ ovember 1! We’ll be planting within a former Tree Pittsburgh site from 2
+ 022\, where…\nThe post McKinley Park Tree Planting Volunteer Event first
+  appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
