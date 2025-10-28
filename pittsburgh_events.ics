@@ -34393,4 +34393,48 @@ DESCRIPTION:https://mrsmalls.com/events/the-douds-duo/\nThe Acousticafe Son
   Suggested Donation (Collected at the door!)\nThis Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COWGIRL CLUE
+DTSTART:20251210T010000Z
+DTEND:20251210T020000Z
+DTSTAMP:20251028T040106Z
+UID:ba5d7718-b3b2-11f0-b864-0242ac11001c
+DESCRIPTION:https://app.opendate.io/e/cowgirl-clue-december-09-2025-610742\
+ n  COWGIRL CLUE with support from HER NEW KNIFE SWEET93  $18 ADV / $20 DOS
+  7PM DOORS / 8PM MUSIC ALL AGES  for fans of... Grimes\, Alice Glass\, Yae
+ ji\, Uffie\, HEALTH  BIO: Born and raised in the heart of the Lonestar Sta
+ te\, Cowgirl Clue is an artist\, electronic producer\, and singer songwrit
+ er best known for her eclectic\, electronic music and esoterically-trendse
+ tting visuals. Taking influence from her experience as an underground DJ i
+ n her teenage years\; Ashley blends classic rave sounds stylized with twan
+ gy country guitars\, witch house saws and electropop elements\, she often 
+ refers to her sound as “Y’allternative Music”.  Cowgirl Clue’s ear
+ liest release\, “Cherry Jubilee” showcases her creative soar with drum
+  and bass meets sugary vocals. Her debut album in 2019\, Icebreaker was an
+  introduction to her Y2K revival sound that captured a niche\, stylish aud
+ ience.  Her most recent sophomore album\, Rodeo Star released in August of
+  2023 diving deeper into her Southern roots with twangy guitar tones and h
+ ard techno bass styles. From her unique take on Country Pop\, songs like 
+ “Trailblaze ☆” and “Gold Switchblade” to her more electronic bas
+ ed songs like “$somethin’s in The Air” and “Picket Fence”\, Ashl
+ ey demonstrates a vast range of expression to make for an culture defining
+  and meaningful album. Cowgirl Clue’s live performances are often consid
+ ered highly energetic\, mystical and punk. Cowgirl Clue is a longtime asse
+ t and contributor to California based collective\, Vada Vada. She ignites 
+ her ability to innovate genres while articulating suburban-fantasy-nostalg
+ ia in a present day fashion. Her carving sound and visual world has been k
+ nown to be quite influential among the internet. Cowgirl Clue has shared t
+ he stage with acts such as Crystal Castles\, Sky Ferriera\, The Garden\, W
+ hite Ring\, Enjoy\, Kumo 99\, MGNA CRRTA and more.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fablespout // The FMs (NYC) // Radderall // Lylyth
+DTSTART;TZID=America/New_York:20251115T190000
+DTEND;TZID=America/New_York:20251115T200000
+DTSTAMP:20251028T040106Z
+UID:ba66a5fe-b3b2-11f0-b864-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/fablespout-2/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
