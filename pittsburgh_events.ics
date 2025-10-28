@@ -34437,4 +34437,16 @@ UID:ba66a5fe-b3b2-11f0-b864-0242ac11001c
 DESCRIPTION:https://www.poetrymillvale.com/event/fablespout-2/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Antlers
+DTSTART:20260412T000000Z
+DTEND:20260412T010000Z
+DTSTAMP:20251028T150108Z
+UID:ef2ca00c-b40e-11f0-a95f-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/the-antlers/\nGleemer is an America
+ n noise pop / shoegaze quartet from Loveland\, Colorado.\n\nSPOTIFY PRE-SA
+ LE 10/29 @ 10AM - 10/30 @ 10PM! (CODE REQ.)\n\nGENERAL ON-SALE FRI 10/31 @
+  10AM!\n\nThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
