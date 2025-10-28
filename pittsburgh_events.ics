@@ -34514,4 +34514,14 @@ DESCRIPTION:6sgs8es9s36lb8oquh1ou9k28o@google.com\nA drag show honoring My
  Show at 9:30\n\n10$ at the door for the show
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Survivor 49 Live Watch Party
+DTSTART;TZID=America/New_York:20251029T200000
+DTEND;TZID=America/New_York:20251029T210000
+DTSTAMP:20251028T210110Z
+UID:3b3e3f64-b441-11f0-8bfa-0242ac11001c
+DESCRIPTION:4r94qlj3076j9t0mfhciouq8cg_R20251030T000000@google.com\nJoin us
+  for Season 49 of Survivor!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
