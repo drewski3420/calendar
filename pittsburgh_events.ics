@@ -34543,4 +34543,39 @@ DESCRIPTION:https://www.poetrymillvale.com/event/big-chemical/\nBig Chemica
  d Chaka Khan
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RYAN DAVIS & THE ROADHOUSE BAND
+DTSTART:20251211T010000Z
+DTEND:20251211T020000Z
+DTSTAMP:20251029T040059Z
+UID:e1109f4c-b47b-11f0-abee-0242ac11001c
+DESCRIPTION:https://app.opendate.io/e/ryan-davis-the-roadhouse-band-decembe
+ r-10-2025-617852\n  RYAN DAVIS & THE ROADHOUSE BAND with support from MIKE
+  POLIZZE  $18 ADV / $20 DOS 7PM DOORS / 8PM MUSIC ALL AGES  BIO: New Threa
+ ts from the Soul is a masterclass in reducing the sublime to the prosaic\,
+  immensity to infinitesimally\, and vice versa (the trick can only work bo
+ th ways). Everything in our universe is essentially flotsam or jetsam\, ru
+ bbish heaps of fragments and shards. We\, especially\, are jerry-rigs of b
+ ubblegum and driftwood\, inconsistencies and incoherencies\, dead dreams a
+ nd necrophagous hopes. The record functions in parallel with Kafka’s win
+ king dictum that there is an infinite amount of hope in the universe\, jus
+ t not for us. New Threats suggests that maybe\, just maybe\, something lik
+ e redemption is possible\, but only once we’re entirely emptied out and 
+ hawked in toto down at Walden Pawn.  “New Threats from the Soul [is] a b
+ eautiful and wildly smart record about making do in an upside-down world.
+ ” — Amanda Petsurich\, The New Yorker  “If you don’t know it yet\,
+  it’s my privilege to tell you that Ryan Davis is one of the greatest so
+ ngwriters of his generation.” — Nathan Salsberg   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251117T210000
+DTEND;TZID=America/New_York:20251117T220000
+DTSTAMP:20251029T040059Z
+UID:e1150d8e-b47b-11f0-abee-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-39/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
