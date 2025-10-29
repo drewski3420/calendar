@@ -34603,4 +34603,14 @@ DESCRIPTION:https://mrsmalls.com/events/smallsgrass-bluegrass-jam-65/\nWe w
  E!\nThis Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LSGM 30
+DTSTART:20251130T010000Z
+DTEND:20251130T020000Z
+DTSTAMP:20251029T190127Z
+UID:ac2d3dde-b4f9-11f0-ba33-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/lsgm-30/\n"you're happy for a momen
+ t\, then you're gone..."\n\nThis Event Is All Ages.
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
