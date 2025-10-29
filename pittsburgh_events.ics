@@ -34524,4 +34524,23 @@ DESCRIPTION:4r94qlj3076j9t0mfhciouq8cg_R20251030T000000@google.com\nJoin us
   for Season 49 of Survivor!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Chemical
+DTSTART;TZID=America/New_York:20251116T190000
+DTEND;TZID=America/New_York:20251116T200000
+DTSTAMP:20251029T020055Z
+UID:1b1f0504-b46b-11f0-aef0-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/big-chemical/\nBig Chemica
+ l is a Rock and Roll band currently based in Brooklyn\, NY with members fr
+ om California\, Tennessee\, and New York City. The band has been releasing
+  original music since 2021 and just put out their fifth single in anticipa
+ tion of a third album. Each member of the band is a professional musician 
+ in a variety of disciplines\, having individually done tours across North 
+ America and Europe with bands like Snail Mail and Hello Mary while also pl
+ aying gigs in a wide range of styles including Funk\, R&B\, and Folk music
+  across the Northeast and the Midwest. Collectively\, the band’s main in
+ fluences include The Band\, Dear Nora\, Mint Condition\, MJ Lenderman\, an
+ d Chaka Khan
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
