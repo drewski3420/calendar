@@ -34772,4 +34772,41 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/pickpocket/\nO
  ft. 
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Year Showcase
+DTSTART:20251220T010000Z
+DTEND:20251220T020000Z
+DTSTAMP:20251030T170114Z
+UID:0b4035d4-b5b2-11f0-967c-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/big-laughs-comedy-showcase/\nJoin u
+ s for the "Big Laughs at Mr Smalls" end of the year comedy showcase hosted
+  by Zach Funk!\n\nThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sensory Friendly Screening of The Iron Giant
+DTSTART:20251122T050000Z
+DTEND:20251122T060000Z
+DTSTAMP:20251030T170114Z
+UID:0b42baa2-b5b2-11f0-967c-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/the-iron-gi
+ ant-11-22-25-1200-pm/\nJoin us for a kid/sensory friendly screening of The
+  Iron Giant! This means the film volume will be slightly lowered\, house l
+ ights will be on low throughout the show\, and patrons can expect more cha
+ tter and noise than a regular theater experience. Thank you for your help 
+ making Row House a welcoming place for everyone.  
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pay-What-You-Wish: STAR WARS THE PHANTOM MENACE
+DTSTART:20251122T065500Z
+DTEND:20251122T075500Z
+DTSTAMP:20251030T170114Z
+UID:0b45330e-b5b2-11f0-967c-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/star-wars-e
+ pisode-i-the-phantom-menace-11-22-25-155-pm/\nWatch a Star Wars film from 
+ the 1990s at Row House – Lawrenceville and YOU choose what to pay. Diffe
+ rent price points are available online at the box office! 
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
