@@ -34747,4 +34747,29 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/santa-at-the-history-c
  red first on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cult-O-Rama: Welcome to Tromaville
+DTSTART:20251114T050000Z
+DTEND:20251114T060000Z
+DTSTAMP:20251030T160101Z
+UID:a1ba7c3a-b5a9-11f0-b44f-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/cult-o-rama-we
+ lcome-to-tromaville/\nIt’s a Halloween tradition to show this George Rom
+ ero film at Row House – Lawrenceville! 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pickpocket
+DTSTART:20251120T124500Z
+DTEND:20251120T134500Z
+DTSTAMP:20251030T160101Z
+UID:a1bcbd10-b5a9-11f0-b44f-0242ac11001c
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/pickpocket/\nO
+ ne night only! Michel takes up pickpocketing on a lark and is arrested soo
+ n after. His mother dies shortly after his release\, and despite the objec
+ tions of his only friend\, Jacques\, and his mother’s neighbor Jeanne\, 
+ Michel teams up with a couple of petty thieves in order to improve his cra
+ ft. 
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
