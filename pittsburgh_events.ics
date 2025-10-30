@@ -34809,4 +34809,15 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/star-wars-e
  rent price points are available online at the box office! 
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greggy_oke Karaoke
+DTSTART:20251205T010000Z
+DTEND:20251205T020000Z
+DTSTAMP:20251030T180056Z
+UID:627320ca-b5ba-11f0-a03d-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/greggy_oke-karaoke-48/\nKaraoke eve
+ ry Thursday when there is not a Theatre show!\n8PM to 11PM\nFREE!\nThis Ev
+ ent Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
