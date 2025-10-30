@@ -34613,4 +34613,14 @@ DESCRIPTION:https://mrsmalls.com/events/lsgm-30/\n"you're happy for a momen
  t\, then you're gone..."\n\nThis Event Is All Ages.
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Night w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20251118T190000
+DTEND;TZID=America/New_York:20251118T200000
+DTSTAMP:20251030T020059Z
+UID:4795be88-b534-11f0-b5f8-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
+ y-collective-27/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
