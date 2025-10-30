@@ -34623,4 +34623,48 @@ DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
  y-collective-27/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAMIAM
+DTSTART:20251212T010000Z
+DTEND:20251212T020000Z
+DTSTAMP:20251030T040058Z
+UID:0ae2c40c-b545-11f0-b8e9-0242ac11001c
+DESCRIPTION:https://app.opendate.io/e/samiam-december-11-2025-623465\n  SAM
+ IAM with support from FUCK YEAH\, DINOSAURS! NIGHTMARATHONS  $20 ADV / $24
+  DOS 7PM DOORS / 8PM MUSIC ALL AGES  for fans of... Jawbreaker\, Hot Water
+  Music\, Iron Chic  BIO: Samiam is a punk band from Berkeley\, California.
+  Formed in 1988\, the band has released nine full length albums and toured
+  extensively throughout Europe\, the US\, Canada\, Australia and Japan. Th
+ e band members are Jason Beebout (vocals)\, Sergie Loobkoff (guitar)\, Sea
+ n Kennerly (guitar\, vocals)\, Chad Darby (bass) and Colin Brooks (drums).
+    The most recent album Stowaway was released in 2023 by Pure Noise recor
+ ds. Samiam toured in Europe with Hot Water Music and in the US with Bounci
+ ng Souls to support the album and released videos for the singles Lake Spe
+ ed and Crystallized.   Samiam initially was part of the 924 Gilman punk sc
+ ene in the late-80s/early 90s and released their first 7” I Am on Lookou
+ t Records. Their first three albums - (self-titled)\, Soar and Billy were 
+ all released on New Red Archives. The band toured a lot during this period
+  with similar little-known bands like Green Day\, Jawbreaker and Seaweed. 
+   In 1993\, Samiam signed to Atlantic Records and released the album Clums
+ y. The band did several successful tours including with Bad Religion and r
+ ecorded a follow-up album but was dropped before its release\, which put S
+ amiam in a state of limbo for several years. Finally in 1997\, they regain
+ ed control of the recording\, You Are Freaking Me Out\, which was released
+  jointly by Burning Heart Records and the now-defunct Tommy Boy subsidiary
+  Ignition Records in 1997.  In 2000\, Samiam signed to Hopeless Records an
+ d released Astray\, followed several years afterwards by Whatever’s Got 
+ You Down (2006) and Trips (2012) before moving to Pure Noise and releasing
+  the aforementioned Stowaway.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20251118T220000
+DTEND;TZID=America/New_York:20251118T230000
+DTSTAMP:20251030T040058Z
+UID:0ae5cc1a-b545-11f0-b8e9-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 11/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
