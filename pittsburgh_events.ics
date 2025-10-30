@@ -34667,4 +34667,32 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  11/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FELIPE ESPARZA: AT MY LEISURE WORLD TOUR
+DTSTART:20260502T230000Z
+DTEND:20260503T000000Z
+DTSTAMP:20251030T140101Z
+UID:de0c3c52-b598-11f0-bbf9-0242ac11001c
+DESCRIPTION:https://librarymusichall.com/event/felipe-esparza-at-my-leisure
+ -world-tour\nOutback and Drusky Entertainment presents:\nFELIPE ESPARZA: A
+ T MY LEISURE WORLD TOUR\nSaturday\, May 2nd\, 2026\nDoors: 6:00PM / Show: 
+ 7:00PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\n*All tickets subj
+ ect to day of show price increase. Prices at the ticket link reflect the a
+ ll-in ticket price (face value + fees) - minus any taxes / credit card pro
+ cessing fees.\nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Santa at the History Center
+DTSTART:20251128T153000Z
+DTEND:20251128T163000Z
+DTSTAMP:20251030T140101Z
+UID:de0f4686-b598-11f0-bbf9-0242ac11001c
+DESCRIPTION:https://www.heinzhistorycenter.org/event/santa-at-the-history-c
+ enter-11282025/\nThe holidays are back—and so is jolly Old Saint Nick! B
+ ring the whole family to the Heinz History Center to meet Santa in the Gre
+ at Hall on select days this…\nThe post Santa at the History Center appea
+ red first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
