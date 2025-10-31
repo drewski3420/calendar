@@ -34912,4 +34912,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/ken-waldman/\nAlaskan Poet
   over 30 years. You can visit his website at www.appalachianmusic.net.
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O.A.R.
+DTSTART:20260724T000000Z
+DTEND:20260724T010000Z
+DTSTAMP:20251031T100115Z
+UID:8a0aae06-b640-11f0-8923-0242ac11001c
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nO.A.R.
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
