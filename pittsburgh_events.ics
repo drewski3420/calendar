@@ -34921,4 +34921,15 @@ UID:8a0aae06-b640-11f0-8923-0242ac11001c
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nO.A.R.
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greggy_oke Karaoke
+DTSTART:20251212T010000Z
+DTEND:20251212T020000Z
+DTSTAMP:20251031T210115Z
+UID:bd045666-b69c-11f0-a12d-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/greggy_oke-karaoke-45/\nKaraoke eve
+ ry Thursday when there is not a Theatre show!\n8PM to 11PM\nFREE!\nThis Ev
+ ent Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
