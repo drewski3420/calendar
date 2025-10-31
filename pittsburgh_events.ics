@@ -34866,4 +34866,50 @@ DESCRIPTION:https://www.poetrymillvale.com/event/poetry-workshop-with-ken-w
  Beloit Poetry Journal\, Massachusetts Review\, and Poets & Writers.
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20251104T000000Z
+DTEND:20251104T010000Z
+DTSTAMP:20251031T040100Z
+UID:363c0a22-b60e-11f0-8a95-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-14/\nMONDAY 
+ NOV 3\, 2025 - WYEP 91.3 & Straub Brewing Presents: AcoustiCafe Open Stage
+  with host Gibson Musisko ft Zach Miller and Carcasso the Fox!\nTHEME: “
+ JOURNEY”\nNot the band. But maybe a little like the band\, what with the
+  inspirational motifs and emotional introspection. But more like the journ
+ ey in The Hobbit\, a great adventure which leads to dynamic character arcs
+  for the heroes. So imagine Journey the band\, but they're all hobbits\, a
+ nd their songs are cooler - then do that.\nGIBSON MUSISKO leads the amazin
+ g PosterChild\, which is releasing a new album in January 2026 - they are 
+ playing tonight (Thu Oct 30) at Poetry Lounge\, with a couple shows on the
+  road before coming back for Nov 15 opening for Zack Keim at Club Cafe.\nN
+ EW STUFF!!\nZACH MILLER is a brand new songwriter on the scene who Gibson 
+ digs\, we're psyched to check him out!\nCARCASSO THE FOX is an awesome ban
+ d name - fronted by our AC friend David Montez\, also brand new and sparkl
+ y!!!
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ken Waldman & Mark Tamsula
+DTSTART;TZID=America/New_York:20251119T200000
+DTEND;TZID=America/New_York:20251119T210000
+DTSTAMP:20251031T040100Z
+UID:36414c12-b60e-11f0-8a95-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/ken-waldman/\nAlaskan Poet
+ \, Writer\, Teacher\, Fiddler with Pittsburgh Fiddler\, Banjo Player\, Gui
+ taristExpect an evening of fun\, inspiration\, and surprises–from rowdy 
+ fiddle and banjo duets\, to savory twin fiddling\, to original waltzes\, t
+ o rare Southwest Pennsylvania Appalachian fiddle tunes. They’re all a ba
+ ckdrop to Ken Waldman’s poetry and Alaska-influenced storytelling. \nA f
+ ormer college professor with an MFA in Creative Writing\, Ken Waldman has 
+ published seventeen full-length poetry collections\, three additional full
+ -length poetry volumes for younger readers\, a memoir\, a creative writing
+  manual\, a short story collection\, and a novel\, all from respected inde
+ pendent small presses. \n  \nMark Tamsula plays fiddle\, banjo\, guitar\,
+  and mandolin in the Old Time Country style and knows more than 700 tunes 
+ and songs\, including a repertoire of music specific to the SW Pennsylvani
+ a region. Mark has been performing and teaching in the Pittsburgh area for
+  over 30 years. You can visit his website at www.appalachianmusic.net.
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
