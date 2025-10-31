@@ -34845,4 +34845,25 @@ DESCRIPTION:6grj0dhlcoo3cb9k68o3cb9k70smab9p70sj4b9g68omcohn75ijce9p60@goog
  le.com\nNone
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Workshop with Ken Waldman
+DTSTART;TZID=America/New_York:20251119T180000
+DTEND;TZID=America/New_York:20251119T190000
+DTSTAMP:20251031T020100Z
+UID:72f98860-b5fd-11f0-a616-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/poetry-workshop-with-ken-w
+ aldman/\nFOUR PROMPTS: THE BEGINNING OF FOUR NEW POEMS \n  \nThe more you
+  write\, the luckier you get—and each time you start a piece\, there’s
+  an opportunity to get luckier than ever. The trick is getting started. He
+ re\, you’ll not only begin four new poems\, but will learn strategies to
+  begin many more. The session is open to writers of all levels and experie
+ nce. \n  \nIn addition to being a fiddler (with 12 CDs)\, Ken Waldman is 
+ a former college professor with an MFA in Creative Writing from University
+  of Alaska Fairbanks. He has 17 full-length poetry collections\, a memoir 
+ (about his life as a touring artist)\, 3 children’s poetry collections\,
+  a creative writing manual\, a short story collection\, and a novel. Over 
+ 400 of his stories\, poems\, and essays have appeared in such journals as 
+ Beloit Poetry Journal\, Massachusetts Review\, and Poets & Writers.
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
