@@ -34932,4 +34932,23 @@ DESCRIPTION:https://mrsmalls.com/events/greggy_oke-karaoke-45/\nKaraoke eve
  ent Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Night w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20251119T220000
+DTEND;TZID=America/New_York:20251119T230000
+DTSTAMP:20251101T030056Z
+UID:fcce6322-b6ce-11f0-840c-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-night-w-d
+ j-todd-cheat-56/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bimbo // Glass Caps // Alex Joy
+DTSTART;TZID=America/New_York:20251120T190000
+DTEND;TZID=America/New_York:20251120T200000
+DTSTAMP:20251101T030056Z
+UID:fcd0f420-b6ce-11f0-840c-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/bimbo/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
