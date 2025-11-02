@@ -35076,4 +35076,15 @@ DESCRIPTION:https://mrsmalls.com/events/big-laughs-comedy-open-mic-64/\nWe
  start at 7PM. Open mic from 7:30PM to 10PM\nFREE!\nThis Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMASH THE CANVAZ w/ Shel & The Wretched Hearts // Dereos Roads // J
+ oey Aich // Sinia // Sir Lore
+DTSTART;TZID=America/New_York:20251113T190000
+DTEND;TZID=America/New_York:20251113T200000
+DTSTAMP:20251102T010055Z
+UID:63138172-b787-11f0-b62c-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/shel-the-philosopher-dereo
+ s-roads/\nA Canvas Radio & Surface Level Records Presentation
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
