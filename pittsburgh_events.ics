@@ -35263,4 +35263,17 @@ DESCRIPTION:https://cityofasylum.org/program/thursday-night-jazz-thomas-wen
  his:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maude's Mystickal Market & Small Business Saturday
+DTSTART:20251129T160000Z
+DTEND:20251129T170000Z
+DTSTAMP:20251103T020104Z
+UID:f4a674f6-b858-11f0-8422-0242ac11001c
+DESCRIPTION:6dh6cp33c8sjebb16kq30b9k6phmcbb1c9i34b9gcos30chg61hj0cj6cg@goog
+ le.com\nMillvale's Small Business Saturday Market - 10am to 5PM across Mil
+ lvale! \nMaude's Mystical Market - 11am to 5pm on Harold's Patio\nMaude's
+  will be open from 11am to 6pm\nHarold's will be open from 11am to normal 
+ close! \n\nMulled Cider\, Hot Chocolate\, local queer artists!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
