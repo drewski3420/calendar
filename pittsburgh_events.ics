@@ -35370,4 +35370,19 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/penelope-road/thunderbir
   on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birding Pittsburgh’s Parks – Schenley Park
+DTSTART:20251206T130000Z
+DTEND:20251206T140000Z
+DTSTAMP:20251103T180106Z
+UID:1222aeec-b8df-11f0-bb9b-0242ac11001c
+DESCRIPTION:https://pittsburghparks.org/event/birding-pittsburghs-parks-sch
+ enley-park/?utm_source=rss&utm_medium=rss&utm_campaign=birding-pittsburghs
+ -parks-schenley-park\nNew to birding? Looking for a group to bird with? Jo
+ in Naturalist Educator Stephen Bucklin in Birding Pittsburgh’s Parks. Be
+ ginners are welcome\, and binoculars will be available for those who…\nT
+ he post Birding Pittsburgh’s Parks – Schenley Park first appeared on P
+ ittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
