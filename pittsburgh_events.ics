@@ -35416,4 +35416,17 @@ DESCRIPTION:https://pittsburghparks.org/event/discovery-time-water-works-fe
  Water Works – FEC first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-Code Essentials: Red Headed Woman (1932) with author Kim Luperi
+DTSTART:20251116T010000Z
+DTEND:20251116T020000Z
+DTSTAMP:20251103T220115Z
+UID:9e3257cc-b900-11f0-9f4e-0242ac11001c
+DESCRIPTION:https://trustarts.org/production/104165/pre-code-essentials-red
+ -headed-woman-1932-with-author-kim-luperi\nAuthor and Pre-Code expert Kim 
+ Luperi comes all the way from Los Angeles to introduce this essential pre-
+ code film starring Jean Harlow as a woman with no morals other than to use
+  her body against influential men to move up the social ladder!
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
