@@ -35467,4 +35467,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/neostem-2/\nAMANDA’S BIR
  THDAY SHOW DAY 2!
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251124T210000
+DTEND;TZID=America/New_York:20251124T220000
+DTSTAMP:20251104T040052Z
+UID:db499120-b932-11f0-bd5f-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-40/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
