@@ -35429,4 +35429,32 @@ DESCRIPTION:https://trustarts.org/production/104165/pre-code-essentials-red
   her body against influential men to move up the social ladder!
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bootblacking and Queer Munch
+DTSTART:20251108T200000Z
+DTEND:20251108T210000Z
+DTSTAMP:20251104T020059Z
+UID:1c0ed7e4-b922-11f0-8c84-0242ac11001c
+DESCRIPTION:6hhm2o9l68omab9jchgj2b9k68pm6bb164r3ib9pcooj2p3375h68chl6g@goog
+ le.com\nAre you a bootblack looking to expand your skillset? Are you someo
+ ne interested in leather care? Do you have leather that needs some love? G
+ rab your kit/gear and join us. Prices for bootblacking set by each individ
+ ual bootblack\, and we will not have “stands”\nPer se\, but will utili
+ ze the seating in the bar and patio as works best for the establishment.\n
+ \nNo cover\, please pay your bootblack for their services!!!  \n\nQueer M
+ unch\, come on down to the Haunt on a different day of the week\, as this 
+ holiday month is a bit challenging for folks to gather!!!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lime's Show N' Tell
+DTSTART;TZID=America/New_York:20251119T183000
+DTEND;TZID=America/New_York:20251119T193000
+DTSTAMP:20251104T020059Z
+UID:1c11e7c2-b922-11f0-8c84-0242ac11001c
+DESCRIPTION:isretaeank7r6ar2suctljqm58@google.com\nSignups at 6:30\, start 
+ at 7!\n\nIt’s time to get personal! Come by and show us the things you u
+ se everyday!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
