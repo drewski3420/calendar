@@ -35457,4 +35457,14 @@ DESCRIPTION:isretaeank7r6ar2suctljqm58@google.com\nSignups at 6:30\, start
  se everyday!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neostem // One Eye Daddys // Sarah Halter
+DTSTART;TZID=America/New_York:20251122T200000
+DTEND;TZID=America/New_York:20251122T210000
+DTSTAMP:20251104T030100Z
+UID:7df82020-b92a-11f0-a463-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/neostem-2/\nAMANDA’S BIR
+ THDAY SHOW DAY 2!
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
