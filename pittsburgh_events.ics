@@ -35598,4 +35598,52 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/katatonia-3/thunderbird-
  safety/ for more information on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pigeons Playing Ping Pong – 2026 Tour (Night 1)
+DTSTART:20260207T010000Z
+DTEND:20260207T020000Z
+DTSTAMP:20251104T160106Z
+UID:78e70a8e-b997-11f0-bc02-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/pppp-night-1/\nThis Event Is All Ag
+ es\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticke
+ t is REQUIRED to enter the venue in addition to your Balcony Reservation. 
+ Balcony Area is 21 + Only. For more information on Balcony Upgrades\, clic
+ k here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pigeons Playing Ping Pong – 2026 Tour (Night 2)
+DTSTART:20260208T010000Z
+DTEND:20260208T020000Z
+DTSTAMP:20251104T160106Z
+UID:78e94c36-b997-11f0-bc02-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/pppp-night-2/\nThis Event Is All Ag
+ es\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticke
+ t is REQUIRED to enter the venue in addition to your Balcony Reservation. 
+ Balcony Area is 21 + Only. For more information on Balcony Upgrades\, clic
+ k here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lotus – Rise of the Anglerfish Tour (Night 1)
+DTSTART:20260329T000000Z
+DTEND:20260329T010000Z
+DTSTAMP:20251104T160106Z
+UID:78ed69ce-b997-11f0-bc02-0242ac11001c
+DESCRIPTION:https://mrsmalls.com/events/lotus-night-1/\nThis Event Is All A
+ ges\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission tick
+ et is REQUIRED to enter the venue in addition to your Balcony Reservation.
+  Balcony Area is 21 + Only. For more information on Balcony Upgrades\, cli
+ ck here.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Moses
+DTSTART:20260412T000000Z
+DTEND:20260412T010000Z
+DTSTAMP:20251104T160106Z
+UID:78ef8d30-b997-11f0-bc02-0242ac11001c
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nBob Moses
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
