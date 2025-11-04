@@ -35506,4 +35506,15 @@ DESCRIPTION:https://www.poetrymillvale.com/event/drifting-strangers-outlaw-
  vinyl/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl After Dark Presents: Poetry After Dark - Horror Cinema at the 
+ Lounge
+DTSTART;TZID=America/New_York:20251123T190000
+DTEND;TZID=America/New_York:20251123T200000
+DTSTAMP:20251104T060057Z
+UID:a1b0ce22-b943-11f0-b2a2-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/girl-after-dark-presents-p
+ oetry-after-dark-horror-cinema-at-the-lounge/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
