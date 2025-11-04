@@ -35477,4 +35477,33 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-40/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOOT: A Comedy & Jazz Showcase - HOLIDAY EDITION!
+DTSTART:20251220T010000Z
+DTEND:20251220T020000Z
+DTSTAMP:20251104T050058Z
+UID:408bcaf0-b93b-11f0-8846-0242ac11001c
+DESCRIPTION:https://app.opendate.io/e/zoot-a-comedy-jazz-showcase-holiday-e
+ dition-december-19-2025-633171\n Two of Pittsburgh's best bars - CON ALMA 
+ and BOTTLEROCKET are once again teaming up for one night of what they do b
+ est! Jazz\, Comedy\, Good Drinks\, and Good Times - now with a very specia
+ l Jazzy Holiday twist!  It's ZOOT! Our showcase of the very best Jazz musi
+ cians & Comedians Pittsburgh has to offer\, presented live and in person f
+ or you in one unmissable night - playing Holiday favorites with the warmth
+  only a live jazz band can provide! We're recalling the iconic glasslamp l
+ it stages of the Village\, where Jazz and Comedy mingled every night over 
+ cold drinks and warm cigarette smoke.   You can't smoke anymore\, but you 
+ can still have a jolly good time\, and a few good drinks too. 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drifting Strangers Outlaw Vinyl
+DTSTART;TZID=America/New_York:20251114T200000
+DTEND;TZID=America/New_York:20251114T210000
+DTSTAMP:20251104T050058Z
+UID:408e496a-b93b-11f0-8846-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/drifting-strangers-outlaw-
+ vinyl/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
