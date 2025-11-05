@@ -35678,4 +35678,27 @@ DESCRIPTION:https://cityofasylum.org/program/thursday-night-jazz-patrick-br
  se visit OpenTable or call 412-435-1111 to make a reservation.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20251220T160000Z
+DTEND:20251220T170000Z
+DTSTAMP:20251105T050115Z
+UID:74c6c706-ba04-11f0-9950-0242ac11001c
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-december-20-202
+ 5-625407\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Night w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20251125T190000
+DTEND;TZID=America/New_York:20251125T200000
+DTSTAMP:20251105T050115Z
+UID:74c99094-ba04-11f0-9950-0242ac11001c
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
+ y-collective-28/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
