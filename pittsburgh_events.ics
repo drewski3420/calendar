@@ -35701,4 +35701,46 @@ DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-night-w-pgh-poetr
  y-collective-28/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOY BAND NIGHT
+DTSTART:20251115T030000Z
+DTEND:20251115T040000Z
+DTSTAMP:20251105T180057Z
+UID:617fd684-ba71-11f0-beae-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/boy-band-night-november-14-2025-63814
+ 9\n Spend the evening reliving your childhood crushes at BOY BAND NIGHT! W
+ e're celebrating the release of 5SOS NEWEST ALBUM\, EVERYONE'S A STAR\, wi
+ th a trip down memory lane.   DJ VICIOUS WISHES spins 5SOS\, Jonas Brother
+ s\, One Direction\, NSYNC and MORE!  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HEX: WEEPING GLASS GOTH NIGHT
+DTSTART:20251116T030000Z
+DTEND:20251116T040000Z
+DTSTAMP:20251105T180057Z
+UID:618445e8-ba71-11f0-beae-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/hex-weeping-glass-goth-night-november
+ -15-2025-638663\n Pittsburgh's favorite gloomy shop\, The Weeping Glass\, 
+ has teamed up with Bottlerocket Social Hall and Djs Needle Mother & Lilith
+  Deville to bring you HEX: Deep Gloom monthly dance night.  We'll be servi
+ ng up the very best in goth\, industrial\, post punk\, bat cave and more. 
+  It's only $5 to party\, but you must be 21+ 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Royal Retinue in Mellon Square: Light Up Night
+DTSTART:20251122T230000Z
+DTEND:20251123T000000Z
+DTSTAMP:20251105T180057Z
+UID:6186677e-ba71-11f0-beae-0242ac110022
+DESCRIPTION:https://pittsburghparks.org/event/a-royal-retinue-in-mellon-squ
+ are-light-up-night/?utm_source=rss&utm_medium=rss&utm_campaign=a-royal-ret
+ inue-in-mellon-square-light-up-night\nThis Light Up Night\, head over to h
+ istoric Mellon Square for a brilliant light display and holiday magic. Joi
+ n us in Mellon Square for a meet-and-greet with a royal entourage!…\nThe
+  post A Royal Retinue in Mellon Square: Light Up Night first appeared on P
+ ittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
