@@ -35771,4 +35771,31 @@ DESCRIPTION:https://mrsmalls.com/events/funhouse-film-club-dysfunctional-fa
  the Greater Pittsburgh Community Food Bank.\n\n18+
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Carbonaro: Wonderboy
+DTSTART:20260418T230000Z
+DTEND:20260419T000000Z
+DTSTAMP:20251106T050103Z
+UID:985991e8-bacd-11f0-a5f1-0242ac110022
+DESCRIPTION:https://librarymusichall.com/event/michael-carbonaro-wonderboy\
+ nDrusky Entertainment presents:\nMichael Carbonaro: Wonderboy\nThursday\, 
+ November 20th\, 2025\nDoors: 6:00PM / Show: 7:00PM\nCarnegie of Homestead 
+ Music Hall (Munhall\, PA)\n*All tickets subject to day of show price incre
+ ase. Prices at the ticket link reflect the all-in ticket price (face value
+  + fees) - minus any taxes / credit card processing fees.\nVIP Meet & Gree
+ t Opportunity:  VIP includes an after show Meet & Greet with Michael Carbo
+ naro!  Michael will be excited to meet you\, take photos\, and sign an ite
+ m of your choosing!\nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20251125T220000
+DTEND;TZID=America/New_York:20251125T230000
+DTSTAMP:20251106T050103Z
+UID:985bf58c-bacd-11f0-a5f1-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 12/\n60s/Psych/RNB/Funk/Blue-Eyed-Soul/Garage/Soul/Blues!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
