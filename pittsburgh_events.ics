@@ -35840,4 +35840,38 @@ DESCRIPTION:https://cityofasylum.org/program/reel-q-november/\nAs the weath
  rd cellar. Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CITY OF PLAY: Board Game Night
+DTSTART:20251117T230000Z
+DTEND:20251118T000000Z
+DTSTAMP:20251106T170119Z
+UID:374a8582-bb32-11f0-b758-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/city-of-play-board-game-night-novembe
+ r-17-2025-638151\n Calling all BOARD GAME fans! This is CITY OF PLAY... a 
+ place where you can play both classic favorites and experimental games fro
+ m our extensive collection!   Bring your friends or come meet new ones and
+  enjoy a drink or two from our seasonal menu while you play. Whether you'r
+ e a seasoned board game enthusiast or new to the hobby\, we have something
+  for everyone!  As a special treat for November\, we will be joined by SAB
+ RINA from LUDOLIMINAL as she teaches TWO of her new games\, DIATOMS and UH
+  OH DINO!  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Reception – Maxo Vanka: Gift to America 2.0: New Voices. 
+ New Walls.
+DTSTART:20251204T230000Z
+DTEND:20251205T000000Z
+DTSTAMP:20251106T170119Z
+UID:374dc12a-bb32-11f0-b758-0242ac110022
+DESCRIPTION:https://pittsburghparks.org/event/opening-reception-maxo-vanka-
+ gift-to-america-2-0-new-voices-new-walls/?utm_source=rss&utm_medium=rss&ut
+ m_campaign=opening-reception-maxo-vanka-gift-to-america-2-0-new-voices-new
+ -walls\nJoin us at the Frick Environmental Center for the opening night of
+  an eclectic body of work inspired by the timeless Maxo Vanka murals. Draw
+ ing inspiration from Maxo Vanka’s themes…\nThe post Opening Reception 
+ – Maxo Vanka: Gift to America 2.0: New Voices. New Walls. first appeared
+  on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
