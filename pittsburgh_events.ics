@@ -35874,4 +35874,25 @@ DESCRIPTION:https://pittsburghparks.org/event/opening-reception-maxo-vanka-
   on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System Freeze ft. Dack Janiels
+DTSTART:20260117T020000Z
+DTEND:20260117T030000Z
+DTSTAMP:20251106T180119Z
+UID:98fd0e32-bb3a-11f0-b907-0242ac110022
+DESCRIPTION:https://mrsmalls.com/events/system-freeze/\n*Early Bird tickets
+  available until BLACK FRIDAY (ending 11/28 @ 11:59PM)\n**Advance tickets 
+ available until the WEEK OF SHOW (ending 1/10 @ 11:59PM)\n***Week of Show 
+ tickets. This is also the Day of Show price at doors.\n\nSYSTEM FREEZE is 
+ a high-voltage Riddim experience designed to overload your senses and melt
+  the mainframe. Expect bone-rattling bass\, filthy drops\, and a lineup en
+ gineered to push the limits of sound. As the system locks in and the frequ
+ encies surge\, the only rule is to move.\nJoin us as KKS and Mr. Smalls Fu
+ nhouse present a night of pure bass energy featuring Dack Janiels with sup
+ port from Mushroom Cloud and Krystal Klarity. Get ready to dive deep into 
+ the underground — where the rhythm glitches\, the lights pulse\, and the
+  crowd moves as one.\n\nSYSTEM FREEZE initiated. Brace for impact.\n\nThis
+  Event Is 21+
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
