@@ -35743,4 +35743,15 @@ DESCRIPTION:https://pittsburghparks.org/event/a-royal-retinue-in-mellon-squ
  ittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pamplona Worldwide presents RAPS AND THINGS 20
+DTSTART;TZID=America/New_York:20251116T180000
+DTEND;TZID=America/New_York:20251116T190000
+DTSTAMP:20251106T020055Z
+UID:6e1ffa8e-bab4-11f0-ac84-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/pamplona-worldwide-present
+ s-raps-and-things-20/\nSTIXX \nRARI CHAMBERUIN \nFATBOI GUZ \nJOEL KELLEM 
+ \nDUKE GOTT \nWINDUU CHILLLSLUT FARADE \nBIG KARMA \nP NASTY \nWAVE412
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
