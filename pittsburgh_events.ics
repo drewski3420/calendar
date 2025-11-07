@@ -36097,4 +36097,17 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/stop-making-se
  lcome!
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers: Northwoods Christmas Special
+DTSTART:20251211T010000Z
+DTEND:20251211T020000Z
+DTSTAMP:20251107T190135Z
+UID:2e797582-bc0c-11f0-ae64-0242ac110022
+DESCRIPTION:https://trustarts.org/production/104224/hundreds-of-beavers-nor
+ thwoods-christmas-special\nA special holiday edition of this slapstick mod
+ ern-day silent film with pre-recorded holiday intro from Jean Kayak! This 
+ snow-covered spectacle feels like a live-action cartoon with humans in fuz
+ zy beaver suits\, mischievous antics and wintry chaos.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
