@@ -36084,4 +36084,17 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/keller-williams-the-bill
  formation on Covid-19 Safety. All sales are final. \n\n\n\n\n
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense Dance Party 
+DTSTART:20251121T144500Z
+DTEND:20251121T154500Z
+DTSTAMP:20251107T160103Z
+UID:f64cb00c-bbf2-11f0-9ca5-0242ac110022
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/stop-making-se
+ nse-new-4k-restoration/\nWe’re inviting everyone to get up out of their 
+ seat and dance at this screening of Stop Making Sense — the concert film
+  documenting Talking Heads at the height of their popularity. Big suits we
+ lcome!
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
