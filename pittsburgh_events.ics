@@ -36021,4 +36021,14 @@ DESCRIPTION:https://www.stagepittsburgh.com/events/bob-moses-cannons-11-apr
  ut and click the "Buy Tickets" link real soon.
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skanksgiving 2025
+DTSTART;TZID=America/New_York:20251126T190000
+DTEND;TZID=America/New_York:20251126T200000
+DTSTAMP:20251107T030059Z
+UID:fd094cc4-bb85-11f0-9a2c-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/skanksgiving/\nSkankin’ 
+ Homer \nThe Skalarks \nThe Book Club \nDJ Drago
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
