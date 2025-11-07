@@ -36110,4 +36110,18 @@ DESCRIPTION:https://trustarts.org/production/104224/hundreds-of-beavers-nor
  zy beaver suits\, mischievous antics and wintry chaos.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane Austen's 250th Birthday Celebration and Screening! Pride and P
+ rejudice (1940)
+DTSTART:20251217T010000Z
+DTEND:20251217T020000Z
+DTSTAMP:20251107T200106Z
+UID:7f133f02-bc14-11f0-a3fa-0242ac110022
+DESCRIPTION:https://trustarts.org/production/104228/jane-austens-250th-birt
+ hday-celebration-and-screening-pride-and-prejudice-1940\nWe're celebrating
+  Jane Austen's 250th birtday with a special screening\, guests\, and tea a
+ nd sweets! Laurence Olivier and Greer Garson bring Austen's beloved charac
+ ters to life in this 1940 version of PRIDE AND PREDJUDICE.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
