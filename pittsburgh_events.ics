@@ -36190,4 +36190,21 @@ UID:8b0a5f32-bc57-11f0-9c72-0242ac110022
 DESCRIPTION:https://www.poetrymillvale.com/event/closed-10/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THIS CHRISTMAS: A Soul Celebration
+DTSTART:20251221T010000Z
+DTEND:20251221T020000Z
+DTSTAMP:20251108T050059Z
+UID:eacae5a6-bc5f-11f0-9549-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/this-christmas-a-soul-celebration-dec
+ ember-20-2025-632171\n Gather under the misletoe of soul this Holiday seas
+ on\, as 2 of our favorite performers in the city - KENNY STOCKARD and CAM 
+ CHAMBERS perform a collection of holiday favorites from the songbooks of M
+ otown\, Stax\, and beyond.   Featuring everyone from Stevie Wonder to Luth
+ er Vandross - this is a non-stop celebration of hits through the decades\,
+  performed with Joy\, Love\, and above all - Soul.   Limited Reserved Seat
+ ing tickets is available for a small upcharge. General Admission may have 
+ limited bar/table seating on a first come\, first serve basis. 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
