@@ -36181,4 +36181,13 @@ DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-15/\nMONDAY
  ift others while boldly embracing her own sound.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLOSED
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251108T040102Z
+UID:8b0a5f32-bc57-11f0-9c72-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/closed-10/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
