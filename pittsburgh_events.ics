@@ -36207,4 +36207,20 @@ DESCRIPTION:https://app.opendate.io/e/this-christmas-a-soul-celebration-dec
  limited bar/table seating on a first come\, first serve basis. 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TubaChristmas Concert and Holiday Pop-Up Market: Schenley Plaza
+DTSTART:20251206T203000Z
+DTEND:20251206T213000Z
+DTSTAMP:20251108T170110Z
+UID:86697ce8-bcc4-11f0-92bd-0242ac110022
+DESCRIPTION:https://pittsburghparks.org/event/tubachristmas-concert-and-hol
+ iday-pop-up-market-schenley-plaza/?utm_source=rss&utm_medium=rss&utm_campa
+ ign=tubachristmas-concert-and-holiday-pop-up-market-schenley-plaza\nFor ov
+ er 50 years\, TubaChristmas has been marveling crowds around the world. Do
+ zens of tuba and euphonium players comprised of musicians of all skills an
+ d ages will converge in Schenley…\nThe post TubaChristmas Concert and Ho
+ liday Pop-Up Market: Schenley Plaza first appeared on Pittsburgh Parks Con
+ servancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
