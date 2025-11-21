@@ -38037,4 +38037,14 @@ UID:730f4602-c654-11f0-9a8e-0242ac110022
 DESCRIPTION:/corey.pisarski/detail/122/1766188800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drifting Strangers Outlaw Vinyl Christmas Special
+DTSTART;TZID=America/New_York:20251212T200000
+DTEND;TZID=America/New_York:20251212T210000
+DTSTAMP:20251121T030057Z
+UID:4d5c19bc-c686-11f0-96c4-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/drifting-strangers-outlaw-
+ vinyl-2/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
