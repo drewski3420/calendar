@@ -38047,4 +38047,51 @@ DESCRIPTION:https://www.poetrymillvale.com/event/drifting-strangers-outlaw-
  vinyl-2/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMBER AUTRY (Friday\, Late)
+DTSTART:20260124T023000Z
+DTEND:20260124T033000Z
+DTSTAMP:20251121T050055Z
+UID:0fc1f4b2-c697-11f0-81f0-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/amber-autry-friday-late-january-23-20
+ 26-643447\n Amber Autry is a Nashville-based standup-up comedian known for
+  her high-energy performances and sharp\, relatable humor. An ancestor of 
+ iconic singing cowboy gene Autry\, Amber honed her comedic skills at Chica
+ go's renowned second city before transitioning to stand-up. Now a headline
+ r\, her dynamic stage presence has led her to share the spotlight with com
+ edy heavyweights such as Nate Bargatze\, Whiteny Cummings\, Fortune Feimst
+ er\, and Tim Meadows. Autry's growing acclaim includes feature on Peacock 
+ TV\, Drybar Comedy\, and Don't Tell Comedy\, as well as a recent appearanc
+ e on Netflix's "Introducing..."  Seating/Show Information: Limit 4 tickets
+  per transaction. You can not purchase tickets to multiple shows.   This s
+ how will have theater seating. Seats will be assigned upon arrival\, or ca
+ n be chosen ahead of time for an additional fee.   QR Code Ordering will b
+ e available for this performance.  Doors open at 8pm.  Don't miss our famo
+ us Bottlerocket Pre-Show Clip Collection\, beginning one hour before the s
+ tart of the performance.  This show is ALL AGES  *all information subject 
+ to change as needed.    Bottlerocket FAQ:   All shows starting before 10pm
+  are all ages unless otherwise noted.  Free parking is available at 824 In
+ dustry Street and 205 Allen Street\, as well as other public lots in the a
+ rea.  Live Music shows have limited seating options\, please arrive early 
+ or reach out to the venue directly if you know that you require a seat.  D
+ oors open at 5pm for all shows unless noted otherwise. The time listed on 
+ the ticket is the event's true start time.  Most shows have a preshow expe
+ rience starting 1 hour before the show.  All tickets are non-refundable - 
+ our full refund policy can be viewed here  Please contact us ahead of time
+  with any accesibilty requests or concerns\, we're happy to accomodate you
+ .  More FAQ's can be found here   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE RETURN OF WHISPER NEST!
+DTSTART;TZID=America/New_York:20251213T180000
+DTEND;TZID=America/New_York:20251213T190000
+DTSTAMP:20251121T050055Z
+UID:0fc8c652-c697-11f0-81f0-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/wn-returns/\n$20 Suggested
+  Donation to Pittsburgh Food Bank \n  \nWhisper Nest bartenders recreatin
+ g classic menu favorites and playing music all night. \n  \nDJs Poptone &
+  Brian Seiwiorek at Midnight
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
