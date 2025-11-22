@@ -38094,4 +38094,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/wn-returns/\n$20 Suggested
   Brian Seiwiorek at Midnight
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theresa Musatto
+DTSTART;TZID=America/New_York:20251214T190000
+DTEND;TZID=America/New_York:20251214T200000
+DTSTAMP:20251122T040124Z
+UID:e9b57f48-c757-11f0-97d1-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/theresa-musatto/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
