@@ -38156,4 +38156,19 @@ DESCRIPTION:https://app.opendate.io/e/amber-autry-saturday-late-january-24-
  ou.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grinch and Cindy Lou Who Visit Mellon Square
+DTSTART:20251220T230000Z
+DTEND:20251221T000000Z
+DTSTAMP:20251122T190106Z
+UID:997426a0-c7d5-11f0-94c6-0242ac110022
+DESCRIPTION:https://pittsburghparks.org/event/grinch-and-cindy-lou-who-visi
+ t-mellon-square/?utm_source=rss&utm_medium=rss&utm_campaign=grinch-and-cin
+ dy-lou-who-visit-mellon-square\nMeet everyone’s favorite residents of Wh
+ oville! Your heart may just grow twice as large. Enjoy a complimentary cu
+ p of hot cocoa while we celebrate the season with these very special guest
+ s.…\nThe post Grinch and Cindy Lou Who Visit Mellon Square first appeare
+ d on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
