@@ -38196,4 +38196,25 @@ DESCRIPTION:27u2uq4acup2rd72tgi6jbcclu@google.com\nCome meet the Author of
  the newly released Pittsburgh Tarot!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Very Muppet Christmas
+DTSTART:20251220T200000Z
+DTEND:20251220T210000Z
+DTSTAMP:20251123T040056Z
+UID:034f794e-c821-11f0-aa4c-0242ac110022
+DESCRIPTION:6nb0j3dvgickj9ugt023hhgkca@google.com\nJoin us for a celebratio
+ n of Christmas MUPPET STYLE! \nYou can expect cheeses for Meeses\, tattoo
+  flash\, movies\, hot chocolate\, and more! \nDetails coming soon!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cremationswater: Anti-Moon North American Tour w/ guests The Wolves
+  We Feed // Dead Reflection
+DTSTART;TZID=America/New_York:20251215T190000
+DTEND;TZID=America/New_York:20251215T200000
+DTSTAMP:20251123T040056Z
+UID:0351e508-c821-11f0-aa4c-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/cremationswater/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
