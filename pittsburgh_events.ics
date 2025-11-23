@@ -38349,4 +38349,16 @@ DESCRIPTION:clj3edj160r32b9p6or3ib9k71i64b9p6pgm4bb4cgpj2p326hgj6p1kc4@goog
  Eve\, now you do. If you need a break from family gatherings\, come visit.
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seven Short Films by Bob Buncher
+DTSTART:20251219T010000Z
+DTEND:20251219T020000Z
+DTSTAMP:20251123T190122Z
+UID:cd860e9e-c89e-11f0-9265-0242ac110022
+DESCRIPTION:https://trustarts.org/production/104327/seven-short-films-by-bo
+ b-buncher\nThree films about brutality\, oppression and corruption + A tri
+ logy of films based on my family’s archives + One film of existential wo
+ nder!
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
