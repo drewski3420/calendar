@@ -38186,4 +38186,14 @@ DESCRIPTION:https://pittsburghparks.org/event/winter-seed-sowing-101-with-b
  t appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Tarot Author Meet & Greet
+DTSTART:20251206T200000Z
+DTEND:20251206T210000Z
+DTSTAMP:20251123T020056Z
+UID:4011710e-c810-11f0-aea7-0242ac110022
+DESCRIPTION:27u2uq4acup2rd72tgi6jbcclu@google.com\nCome meet the Author of 
+ the newly released Pittsburgh Tarot!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
