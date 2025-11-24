@@ -38439,4 +38439,19 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/from-slavery-to-freedo
  t on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAD MOVIE BINGO: Santa's Slay
+DTSTART:20251223T003000Z
+DTEND:20251223T013000Z
+DTSTAMP:20251124T190101Z
+UID:eb5fdcc8-c967-11f0-871f-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-santa-s-slay-december
+ -22-2025-634929\n It's BAD MOVIE BINGO - a fun way to make terrible movies
+  slightly more watchable! You get a bingo card full of terrible movie trou
+ pes - we play the movie and call them out as they happen. Get a bingo and 
+ you win!  SANTA'S SLAY:  Santa Claus (WCW/WW's Bill Goldberg) is actually 
+ a demon who lost a bet with an angel\, so he becomes the giver of toys and
+  happiness. But when the bet is off\, he returns to his evil ways. 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
