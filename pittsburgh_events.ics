@@ -38454,4 +38454,17 @@ DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-santa-s-slay-december
   happiness. But when the bet is off\, he returns to his evil ways. 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV JAM
+DTSTART:20251201T010000Z
+DTEND:20251201T020000Z
+DTSTAMP:20251124T210059Z
+UID:adc39678-c978-11f0-bb07-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/improv-jam-november-30-2025-636036\nJ
+ oin us at Bottlerocket for a UCBurgh Improv Jam - folks of all levels are 
+ welcome to join and watch or perform\, hosted by our UCBurgh instructors! 
+ Whether you want to exercise the things you're learning in class\, or see 
+ if you'd be interested in learning more yourself\, all are welcome!
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
