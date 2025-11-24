@@ -38378,4 +38378,14 @@ DESCRIPTION:2fedojg0rplsosq9p4e0geaon8@google.com\nAs we head into the holi
  come\, 21+
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karaoke Monday w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251215T220000
+DTEND;TZID=America/New_York:20251215T230000
+DTSTAMP:20251124T040102Z
+UID:318ba66a-c8ea-11f0-9d02-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/karaoke-monday-w-dj-paris-
+ not-france-16/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
