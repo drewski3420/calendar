@@ -38388,4 +38388,40 @@ DESCRIPTION:https://www.poetrymillvale.com/event/karaoke-monday-w-dj-paris-
  not-france-16/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20260207T160000Z
+DTEND:20260207T170000Z
+DTSTAMP:20251124T050106Z
+UID:95986028-c8f2-11f0-ba13-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-february-07-202
+ 6-632122\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MATT LOPES
+DTSTART:20260214T010000Z
+DTEND:20260214T020000Z
+DTSTAMP:20251124T050106Z
+UID:959b2bd2-c8f2-11f0-ba13-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/matt-lopes-february-13-2026-626971\n 
+  MATT LOPES is a nationally touring stand-up comedian and content creator.
+  He headlines clubs all over the Northeast and is the house comedian at th
+ e Stress Factory Comedy Club in his hometown of Bridgeport\, CT. He’s wo
+ rked stages such as New York Comedy Club\, Stress Factory NJ\, Funny Bone 
+ Comedy Club\, and currently opens for Corey B throughout the U.S.. When he
+ ’s not performing or co-hosting The Boy Friends podcast\, he’s posting
+  hilarious clips\, that have reached over 135 million views in the last ye
+ ar\, to his growing following of over 1.6 million\, across his social medi
+ a platforms.  Why'd We Book It? You've probably seen Matt all over your FY
+ P or Reels feed - but he's way more then a few clips. He's also one of the
+  fastest growing standup comedians in the game today\, performing at some 
+ of the best venues in NY and armed with a road tested hour that's ready to
+  kill. That same boy-ish and specific sense of humor that kills you in 60 
+ second skits will have the same effect LIVE - we promise!   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
