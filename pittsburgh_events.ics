@@ -38586,4 +38586,23 @@ UID:e5f9c2d0-ca84-11f0-a4d8-0242ac110022
 DESCRIPTION:https://www.poetrymillvale.com/event/closed-private-party/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moat Rats
+DTSTART:20260215T010000Z
+DTEND:20260215T020000Z
+DTSTAMP:20251126T160101Z
+UID:1a9d94b0-cae1-11f0-8f74-0242ac110022
+DESCRIPTION:https://thunderbirdmusichall.com/event/the-moat-rats-4/thunderb
+ ird-cafe-music-hall/pittsburgh-pennsylvania/\n\nThe Moat Rats\nwith Cisco 
+ KidSaturday February 14\, 2026 Thunderbird Music Hall4053 Butler Street\,
+  Pittsburgh\, PADoors @ 7pmShow @ 8pmAGE RESTRICTION: 21+ \n \nTicket Ti
+ er Info:General Admission Tickets – Standing Room Only\nThere are no add
+ itional entry protocols at this time. Entry requirements are subject to 
+ change. By purchasing tickets to this event you agree to abide by entry re
+ quirements in effect at the time of the event. Check the venue website 
+ leading up to your event for the latest protocols. Please visit https://th
+ underbirdmusichall.com/safety/ for more information on Covid-19 Safety. A
+ ll sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
