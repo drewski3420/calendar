@@ -38605,4 +38605,21 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/the-moat-rats-4/thunderb
  ll sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funhouse Film Club: Dysfunctional Families
+DTSTART:20251210T000000Z
+DTEND:20251210T010000Z
+DTSTAMP:20251126T200112Z
+UID:a8b5ac30-cb02-11f0-98a0-0242ac110022
+DESCRIPTION:https://mrsmalls.com/events/funhouse-film-club-dysfunctional-fa
+ milies/\nIt's that time of the year for gathering the family - whether it'
+ s your yells-at-clouds Grandfather or your "always a bad time to bring it 
+ up" Uncle - round the table for the holidays. Prep for the madness with a 
+ FREE "Dysfunctional Families" themed mystery double feature!\n\nAlso in th
+ e mix: shorts and vintage trailers\, themed drinks\, snacks and fun movie 
+ facts!\n\nEach month we have suggested donations for different charities\,
+  orgs or local businesses\, with this edition being canned goods to the Gr
+ eater Pittsburgh Community Food Bank.\n\n18+
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
