@@ -38552,4 +38552,38 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  15/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APES OF THE STATE
+DTSTART:20260219T010000Z
+DTEND:20260219T020000Z
+DTSTAMP:20251126T050059Z
+UID:e5f5b29e-ca84-11f0-a4d8-0242ac110022
+DESCRIPTION:https://app.opendate.io/e/apes-of-the-state-february-18-2026-61
+ 9349\n  APES OF THE STATE - This City Isn't Big Enough 10th Anniversary To
+ ur with support from RENT STRIKE  $15 7PM DOORS / 8PM MUSIC ALL AGES  for 
+ fans of... Pat the Bunny\, Mischief Brew\, Pigeon Pit  BIO: Apes of the St
+ ate is an independent Lancaster\, PA based folk punk band.  Apes of the St
+ ate was born from the post-rehab bedroom folk punk project of singer/songw
+ riter April Hartman in 2015. In her words: “I picked up a guitar and sta
+ rted writing about s*** instead of doing drugs about it.” Their sound is
+  a distinct blend of classic folk punk\, emo\, pop punk\, folk\, and blueg
+ rass with attitude fueled vocals spitting clever lyrical wordplay. The cur
+ rent lineup consists of Dan Ebersole on mandolin & electric guitar\, Molli
+ e Swartz on bass & violin\, & Ian Cornele on drums.  Despite their growth 
+ Apes of the State remains fiercely independent and practices a DIY ethos. 
+ They hope to serve as an example that you can achieve success outside of t
+ he traditional music industry framework. In April’s words\, “we don’
+ t beg for anyone to pay attention to us and give us opportunities – we c
+ reate them for ourselves and our community.”   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLOSED - Private Party
+DTSTART;TZID=America/New_York:20251217T190000
+DTEND;TZID=America/New_York:20251217T200000
+DTSTAMP:20251126T050059Z
+UID:e5f9c2d0-ca84-11f0-a4d8-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/closed-private-party/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
