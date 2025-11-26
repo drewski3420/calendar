@@ -38542,4 +38542,14 @@ DESCRIPTION:03aede3blf4rglm3q9rloj7nro@google.com\nJoin the Queer Coven for
   a Yule gathering!\nGathering begins at 7pm\, ritual will be at 8pm!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20251216T220000
+DTEND;TZID=America/New_York:20251216T230000
+DTSTAMP:20251126T030055Z
+UID:202bcb6c-ca74-11f0-b90e-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 15/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
