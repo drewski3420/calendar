@@ -38532,4 +38532,14 @@ UID:90705ef8-ca4a-11f0-8755-0242ac110022
 DESCRIPTION:/corey.pisarski/detail/125/1767398400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yule Gathering & Ritual
+DTSTART:20251224T000000Z
+DTEND:20251224T010000Z
+DTSTAMP:20251126T010056Z
+UID:5d6e18e2-ca63-11f0-b6bf-0242ac110022
+DESCRIPTION:03aede3blf4rglm3q9rloj7nro@google.com\nJoin the Queer Coven for
+  a Yule gathering!\nGathering begins at 7pm\, ritual will be at 8pm!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
