@@ -38698,4 +38698,25 @@ UID:38f17d3c-cc17-11f0-bc6d-0242ac11001e
 DESCRIPTION:https://www.poetrymillvale.com/event/lizard_queen/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slappers N Bangers Friendsgiving
+DTSTART:20251130T020000Z
+DTEND:20251130T030000Z
+DTSTAMP:20251128T220054Z
+UID:b6304dee-cca5-11f0-bf9d-0242ac11001e
+DESCRIPTION:https://thunderbirdmusichall.com/event/slappers-n-bangers-frien
+ dsgiving/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nSlappers 
+ N Bangers Friendsgiving\n \nNovember 29th\, 2025\n \nShow 9PM\n \nAge R
+ estriction: 21+\n\nSlappers N Bangers: FriendsgivingSNB returns to Thunder
+ bird Music Hall for a special Friendsgiving edition — Give thanks to the
+  best hip hop\, RnB\, and trap.\nResident DJ\, Arie Cole leads the night
+  with an all-star lineup including DJ Shay\, DJ Motormane\, and Ms. Tiz
+ a\, taking over the room from 9PM–2AM. Expect high-energy sets and the s
+ ignature SNB sound.\nWhether you’re celebrating with friends\, chosen fa
+ mily\, or pulling up solo\, Friendsgiving is all about good music and good
+  people.\nDate: November 29\, 2025Time: 9PM–2AMAge: 21+Location: Thu
+ nderbird Music Hall — 4053 Butler St\, Pittsburgh\, PA\nGrab your ticket
+ s and meet us on the dance floor.\n \n 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
