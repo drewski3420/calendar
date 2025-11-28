@@ -38689,4 +38689,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-2/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Am The Lizard Queen // Dolltrap // Shel The Philosopher
+DTSTART;TZID=America/New_York:20251218T190000
+DTEND;TZID=America/New_York:20251218T200000
+DTSTAMP:20251128T050056Z
+UID:38f17d3c-cc17-11f0-bc6d-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/lizard_queen/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
