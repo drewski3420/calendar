@@ -38719,4 +38719,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/slappers-n-bangers-frien
  s and meet us on the dance floor.\n \n 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-Stop Erotic Cabaret w/ DJ Krass Advert
+DTSTART;TZID=America/New_York:20251218T220000
+DTEND;TZID=America/New_York:20251218T230000
+DTSTAMP:20251129T040121Z
+UID:1101bdb6-ccd8-11f0-803b-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/non-stop-erotic-cabaret-w-
+ dj-krass-advert-7/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
