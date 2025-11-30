@@ -38762,4 +38762,38 @@ UID:2bcbef94-cda1-11f0-b04a-0242ac11001e
 DESCRIPTION:https://www.poetrymillvale.com/event/favorite-band-org-drol/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20251202T000000Z
+DTEND:20251202T010000Z
+DTSTAMP:20251130T060057Z
+UID:f0856f8a-cdb1-11f0-8e59-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-18/\nMONDAY 
+ DECEMBER 1\, 2025 - WYEP 91.3 & Straub Brewing Presents: AcoustiCafe Open 
+ Stage with host Danny Rectenwald ft. Mark Williams & Obscure Spirits with 
+ special guests The EastShore Chorale!\nTheme. RECONCILIATION\nFor example\
+ , reconciling a desire to list our host\, two features and a special guest
+  in an event title with a 100-character limit! But also more poetic and mu
+ sical interpretations of the concept 🙂\nDANNY RECTENWALD is a true Guit
+ arist Around Town\, playing classical instrumentals\, teaching\, backing s
+ inger/songwriters like Molly Alphabet and Mark Dignam\, and leading the Fu
+ sion Groove band Favorite Band among many other pursuits!! Find out more a
+ t\nhttps://dannyrec.bandcamp.com/\nMARK WILLIAMS hosts Hello\, Humans! - a
+  show our neighbor Mark Williams created to give kids and adults tools and
+  language they can use to introduce mindfulness to their everyday lives.\n
+ https://www.wqed.org/hello-humans/\nOBSCURE SPIRITS writes "we are an indi
+ e-alternative thing and are a little lost perhaps now more than ever" - we
+ 've seen Brian of Obscure Spirits perform solo a few times at AC\, psyched
+  to hear the whole band!\nTHE EASTSHORE CHORALE - it's become a happy trad
+ ition to welcome The EastShore Chorale as special guests as they kick off 
+ their seasonal concerts - They will perform Fri Dec 19 at Waverly Church i
+ n Regent Square and Sat Dec 20 at Calvary Church in the North Side - The E
+ astShore Chorale is a non-sectarian\, intergenerational community choir ba
+ sed in Regent Square\, Pittsburgh. As part of Eastman Community Projects\,
+  a non-profit that focuses communities on becoming more art-centric\, the 
+ choir seeks to uplift and enrich the community through the performance of 
+ a wide range of music\, and to provide an opportunity for people to contri
+ bute to Pittsburgh’s thriving arts scene.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
