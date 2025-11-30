@@ -38753,4 +38753,13 @@ DESCRIPTION:https://mrsmalls.com/events/feed-the-burgh/\nThis Event Is All
  ick here.\nAll Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Favorite Band // Org Dröl
+DTSTART;TZID=America/New_York:20251219T200000
+DTEND;TZID=America/New_York:20251219T210000
+DTSTAMP:20251130T040055Z
+UID:2bcbef94-cda1-11f0-b04a-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/favorite-band-org-drol/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
