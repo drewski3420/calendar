@@ -38823,4 +38823,14 @@ UID:838f120a-ce38-11f0-9765-0242ac11001e
 DESCRIPTION:/corey.pisarski/detail/137/1768003200000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sickbed // Iron Appalachia // Two Wolf Moon // DJ Poptone
+DTSTART;TZID=America/New_York:20251220T200000
+DTEND;TZID=America/New_York:20251220T210000
+DTSTAMP:20251201T030057Z
+UID:f548eab4-ce61-11f0-bd33-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/sickbed-2/\nPgh’s Premie
+ re Pogues cover band
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
