@@ -38923,4 +38923,19 @@ DESCRIPTION:https://mrsmalls.com/events/nourish-your-neighbor/\nAn Acoustic
  !\n  \nThis Event Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATE NIGHT KARAOKE
+DTSTART:20251220T030000Z
+DTEND:20251220T040000Z
+DTSTAMP:20251201T180057Z
+UID:afdb7e64-cedf-11f0-989f-0242ac11001e
+DESCRIPTION:https://app.opendate.io/e/late-night-karaoke-december-19-2025-6
+ 48035\n It's Late Night Karaoke!  Come sing all your favorite hits with yo
+ ur friends\, or make new friends here! Singers of all skill levels and gen
+ res are encouraged!  Write your name on the sheet\, and when it's your tur
+ n\, you can dazzle the crowd with pretty much any song of your choice! (As
+  long as we have it in our Karaoke software.)   The best part? It's FREE! 
+   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
