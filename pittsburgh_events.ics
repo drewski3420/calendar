@@ -38912,4 +38912,15 @@ DESCRIPTION:https://app.opendate.io/e/emil-wakim-saturday-february-28-2026-
  ppy to accomodate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nourish Your Neighbor – Part 2
+DTSTART:20251213T010000Z
+DTEND:20251213T020000Z
+DTSTAMP:20251201T160112Z
+UID:f5462028-cece-11f0-9021-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/nourish-your-neighbor/\nAn Acoustic
+ afe songwriter night to benefit the Greater Pittsburgh Community Food Bank
+ !\n  \nThis Event Is All Ages\nAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
