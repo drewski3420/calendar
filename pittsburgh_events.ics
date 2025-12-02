@@ -38947,4 +38947,15 @@ UID:be5d93bc-cf22-11f0-9b46-0242ac11001e
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nMt. Joy
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl After Dark Presents: Poetry After Dark — Horror Cinema at th
+ e Lounge
+DTSTART;TZID=America/New_York:20251221T190000
+DTEND;TZID=America/New_York:20251221T200000
+DTSTAMP:20251202T030057Z
+UID:2005ab7e-cf2b-11f0-a238-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/girl-after-dark-presents-p
+ oetry-after-dark-horror-cinema-at-the-lounge/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
