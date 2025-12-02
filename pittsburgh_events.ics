@@ -38958,4 +38958,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/girl-after-dark-presents-p
  oetry-after-dark-horror-cinema-at-the-lounge/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karaoke Monday w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251222T210000
+DTEND;TZID=America/New_York:20251222T220000
+DTSTAMP:20251202T050102Z
+UID:e6421fce-cf3b-11f0-ae62-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/karaoke-monday-w-dj-paris-
+ not-france-17/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
