@@ -39049,4 +39049,23 @@ DESCRIPTION:https://mrsmalls.com/events/dance-with-the-dead-2/\nThis Event
  es\, click here.\nAll Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ole 60
+DTSTART:20260220T010000Z
+DTEND:20260220T020000Z
+DTSTAMP:20251202T220107Z
+UID:67b83410-cfca-11f0-9735-0242ac11001e
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nOle 60
+LOCATION:Stage AE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:August Burns Red & The Amity Affliction
+DTSTART:20260413T000000Z
+DTEND:20260413T010000Z
+DTSTAMP:20251202T220107Z
+UID:67bb5d8e-cfca-11f0-9735-0242ac11001e
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nAugust Burns Red & The
+  Amity Affliction
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
