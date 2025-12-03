@@ -39215,4 +39215,30 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/bahamas/thunderbird-cafe
  re information on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shadow of Intent – Imperium Delirium North American Tour 2026
+DTSTART:20260511T230000Z
+DTEND:20260512T000000Z
+DTSTAMP:20251203T160108Z
+UID:479c92e2-d061-11f0-ae00-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/shadow-of-intent-2/\nThis Event Is 
+ All Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission
+  ticket is REQUIRED to enter the venue in addition to your Balcony Reserva
+ tion. Balcony Area is 21 + Only. For more information on Balcony Upgrades\
+ , click here.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Doherty
+DTSTART:20260513T000000Z
+DTEND:20260513T010000Z
+DTSTAMP:20251203T160108Z
+UID:479ef334-d061-11f0-ae00-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/troy-doherty/\nThis Event Is All Ag
+ es\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticke
+ t is REQUIRED to enter the venue in addition to your Balcony Reservation. 
+ Balcony Area is 21 + Only. For more information on Balcony Upgrades\, clic
+ k here.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
