@@ -39241,4 +39241,19 @@ DESCRIPTION:https://mrsmalls.com/events/troy-doherty/\nThis Event Is All Ag
  k here.\nAll Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Found Family Christmas
+DTSTART:20251228T220000Z
+DTEND:20251228T230000Z
+DTSTAMP:20251203T220058Z
+UID:8c7936e0-d093-11f0-a3c8-0242ac11001e
+DESCRIPTION:66vpk30h0deo9o8uq1le6nkqpv@google.com\nHello! Annually we hold 
+ a end of year holiday dinner to both give back to our community and provid
+ e a space for those who may not have a family to spend the holidays with.\
+ n\nPlease come to our free potluck and enjoy a hot meal and be a part of o
+ ur chosen family.\nDinner to include gluten free\, vegan and traditional i
+ tems .\n\nDoors open at 5\, Dinner served at 5:30.
+LOCATION:Millvale Food + Energy Hub\, 112 E Sherman St\, Millvale\, PA 1520
+ 9\, USA
+END:VEVENT
 END:VCALENDAR
