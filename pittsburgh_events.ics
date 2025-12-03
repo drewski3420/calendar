@@ -39068,4 +39068,28 @@ DESCRIPTION:https://www.stagepittsburgh.com/events/\nAugust Burns Red & The
   Amity Affliction
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HARRISON GORDON
+DTSTART:20251204T000000Z
+DTEND:20251204T010000Z
+DTSTAMP:20251203T030107Z
+UID:50579a66-cff4-11f0-80dd-0242ac11001e
+DESCRIPTION:https://app.opendate.io/e/harrison-gordon-december-03-2025-6121
+ 73\n  HARRISON GORDON with support from HEART TO GOLD AREN'T WE AMPHIBIANS
+  MEZZANINE  $19 ADV / $21 DOS 6PM DOORS / 7PM MUSIC ALL AGES  for fans of.
+ .. Prince Daddy & The Hyena\, saturdays at your place\, Free Throw  BIO: "
+ Normal\, IL emo guitar music. band music stuff... you get it. do you get i
+ t? normal illinois 4ever"     
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20251223T190000
+DTEND;TZID=America/New_York:20251223T200000
+DTSTAMP:20251203T030107Z
+UID:5059e230-cff4-11f0-80dd-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-3/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
