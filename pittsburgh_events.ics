@@ -39333,4 +39333,17 @@ UID:37b306fa-d0ce-11f0-b416-0242ac11001e
 DESCRIPTION:https://www.poetrymillvale.com/event/closed-8/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hunter Hayes – The Evergreen Tour
+DTSTART:20260328T000000Z
+DTEND:20260328T010000Z
+DTSTAMP:20251204T160108Z
+UID:72368278-d12a-11f0-818e-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/hunter-hayes/\nThis Event Is All Ag
+ es\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticke
+ t is REQUIRED to enter the venue in addition to your Balcony Reservation. 
+ Balcony Area is 21 + Only. For more information on Balcony Upgrades\, clic
+ k here.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
