@@ -39417,4 +39417,33 @@ DESCRIPTION:https://www.poetrymillvale.com/event/karaoke-monday-w-dj-paris-
  not-france-18/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History Talk: The Two Revolutions of 1776
+DTSTART:20260102T160000Z
+DTEND:20260102T170000Z
+DTSTAMP:20251205T200110Z
+UID:24dacc00-d215-11f0-a0cf-0242ac11001e
+DESCRIPTION:https://www.heinzhistorycenter.org/event/history-talk-the-two-r
+ evolutions-of-1776-01022026/\nTwo extraordinary events reshaped the world 
+ in 1776: American independence was declared\, and the Watt steam engine en
+ tered commercial use. The sweeping transformations these turning points ig
+ nited — the American…\nThe post History Talk: The Two Revolutions of 1
+ 776 appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20251209T000000Z
+DTEND:20251209T010000Z
+DTSTAMP:20251205T200110Z
+UID:24ddba96-d215-11f0-a0cf-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-19/\nMONDAY 
+ DECEMBER 8\, 2025\nWYEP 91.3 & Straub Brewing Presents:\nAcoustiCafe Open 
+ Stage with host Dan Yost\nTheme: TOM WAITS TRIBUTE NIGHT!\nCome see covers
+  and lots of originals by local artist and musicians. And celebrate that w
+ hich is the enigmatic\, eccentric\, and entertaining in tribute to Tom Wai
+ ts.\nDAN YOST: Owner\, Audio Engineer\, Producer\, and Studio Musician at 
+ Just-Records.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
