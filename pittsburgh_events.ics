@@ -39392,4 +39392,19 @@ DESCRIPTION:https://pittsburghparks.org/event/24042/?utm_source=rss&utm_med
  st appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demos Papadimas // Carcasso The Fox
+DTSTART;TZID=America/New_York:20251227T200000
+DTEND;TZID=America/New_York:20251227T210000
+DTSTAMP:20251205T030108Z
+UID:a5816de4-d186-11f0-9502-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/demos-papadimas/\nSinger-s
+ ongwriter Demos Papadimas draws influence and inspiration from a range of 
+ American folk\, blues\, and rock’n’ roll\, as well as Rembetiko music
+ —The “Greek Blues.” Based in Youngstown\, Papadimas’ latest relea
+ se is titled The Way Up and is available on vinyl\, CD\, and digitally t
+ hrough Spotify\, Apple Music\, Bandcamp\, and other digital platforms. \n
+   \n \n 
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
