@@ -39407,4 +39407,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/demos-papadimas/\nSinger-s
    \n \n 
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karaoke Monday w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20251229T210000
+DTEND;TZID=America/New_York:20251229T220000
+DTSTAMP:20251205T050055Z
+UID:615c497a-d197-11f0-946c-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/karaoke-monday-w-dj-paris-
+ not-france-18/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
