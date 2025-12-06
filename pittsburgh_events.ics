@@ -39581,4 +39581,19 @@ DESCRIPTION:https://pittsburghparks.org/event/lichens-of-schenley-park-2/?u
  peared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birding Pittsburgh’s Parks: Point State Park
+DTSTART:20260121T210000Z
+DTEND:20260121T220000Z
+DTSTAMP:20251206T220100Z
+UID:0d1eb34e-d2ef-11f0-9c95-0242ac11001e
+DESCRIPTION:https://pittsburghparks.org/event/birding-pittsburghs-parks-poi
+ nt-state-park/?utm_source=rss&utm_medium=rss&utm_campaign=birding-pittsbur
+ ghs-parks-point-state-park\nJoin DCNR Environmental Education Specialist J
+ ack Lachendro and Pittsburgh Parks Conservancy Naturalist Educator Stephen
+  Bucklin for a special winter edition of Birding Pittsburgh’s Parks at P
+ oint State Park. As we…\nThe post Birding Pittsburgh’s Parks: Point St
+ ate Park first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
