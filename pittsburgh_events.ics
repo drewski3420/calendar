@@ -39567,4 +39567,18 @@ DESCRIPTION:https://app.opendate.io/e/tommy-brennan-saturday-early-april-25
  ou.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lichens of Schenley Park
+DTSTART:20260111T180000Z
+DTEND:20260111T190000Z
+DTSTAMP:20251206T150115Z
+UID:694e6be0-d2b4-11f0-a610-0242ac11001e
+DESCRIPTION:https://pittsburghparks.org/event/lichens-of-schenley-park-2/?u
+ tm_source=rss&utm_medium=rss&utm_campaign=lichens-of-schenley-park-2\nEver
+  notice the light green\, yellow\, and gray patches of stuff growing on ol
+ d stonework or trees? These are lichens! Pennsylvania is home to over 600 
+ species of these incredible…\nThe post Lichens of Schenley Park first ap
+ peared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
