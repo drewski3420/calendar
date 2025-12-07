@@ -39596,4 +39596,30 @@ DESCRIPTION:https://pittsburghparks.org/event/birding-pittsburghs-parks-poi
  ate Park first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yule Gathering & Ritual
+DTSTART:20251221T000000Z
+DTEND:20251221T010000Z
+DTSTAMP:20251207T010122Z
+UID:3f215cac-d308-11f0-93c3-0242ac11001e
+DESCRIPTION:03aede3blf4rglm3q9rloj7nro@google.com\nJoin the Queer Coven for
+  a Yule gathering!\nGathering begins at 7pm\, ritual will be at 8pm!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Forest Bathing with 10.27 Healing Partnership
+DTSTART:20260122T180000Z
+DTEND:20260122T190000Z
+DTSTAMP:20251207T010122Z
+UID:3f23904e-d308-11f0-93c3-0242ac11001e
+DESCRIPTION:https://pittsburghparks.org/event/winter-forest-bathing-with-10
+ -27-healing-partnership/2026-01-22/?utm_source=rss&utm_medium=rss&utm_camp
+ aign=winter-forest-bathing-with-10-27-healing-partnership\nJoin certified 
+ guides for forest bathing on gentle walks in the parks while nurturing our
+  connection to the natural world\, in collaboration with the 10.27 Healing
+  Partnership. Immersing ourselves deeply…\nThe post Winter Forest Bathin
+ g with 10.27 Healing Partnership first appeared on Pittsburgh Parks Conser
+ vancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
