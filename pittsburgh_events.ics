@@ -39725,4 +39725,58 @@ UID:0a4e4224-d40c-11f0-8b22-0242ac11001e
 DESCRIPTION:https://www.poetrymillvale.com/event/dj-cryptid-yinzer-2/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Augustine (aka Folk-IndieBob)
+DTSTART:20260110T010000Z
+DTEND:20260110T020000Z
+DTSTAMP:20251208T160134Z
+UID:2b2c49d0-d44f-11f0-be47-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/folk-indiebob/\nThe Acousticafe Son
+ gwriter Series is a showcase of local and regional up-and-coming talent!\n
+ \nBob Augustine aka Folk-IndieBob is a singer\, songwriter based in Pittsb
+ urgh\, PA. He writes songs in a folk and Folk-Indie style with poetic lyri
+ cs and acoustic guitar accompaniment. He has been featured at folk events\
+ , festivals\, concerts and poetry readings and has received much positive 
+ feedback as people enjoy his insightful writing\, soulful voice\, and orig
+ inal sound.\n\nThis Event Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead of Winter Night 1 &#8211\; Early Dead
+DTSTART:20260109T230000Z
+DTEND:20260110T000000Z
+DTSTAMP:20251208T160134Z
+UID:2b30ce38-d44f-11f0-be47-0242ac11001e
+DESCRIPTION:https://thunderbirdmusichall.com/event/dead-of-winter-night-1-e
+ arly-dead/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nDead of 
+ Winter Night 1 – Early Dead\ntheCAUSE\nwith Terpene StationFriday Januar
+ y 9\, 2026Thunderbird Music Hall4053 Butler Street\, Pittsburgh\, PADoors 
+ @ 5pmShow @ 6pmAGE RESTRICTION: 21+\n \nTicket Tier Info:General Admissio
+ n Tickets – Standing Room Only\nThere are no additional entry protocol
+ s at this time. Entry requirements are subject to change. By purchasing ti
+ ckets to this event you agree to abide by entry requirements in effect at
+  the time of the event. Check the venue website leading up to your event
+  for the latest protocols. Please visit https://thunderbirdmusichall.com/s
+ afety/ for more information on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead of Winter Night 2 &#8211\; Later Dead
+DTSTART:20260110T230000Z
+DTEND:20260111T000000Z
+DTSTAMP:20251208T160134Z
+UID:2b33264c-d44f-11f0-be47-0242ac11001e
+DESCRIPTION:https://thunderbirdmusichall.com/event/dead-of-winter-night-2-l
+ ater-dead/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nDead of 
+ Winter Night 2 – Later Dead\ntheCAUSE\nwith The Sun ChampsSaturday Janua
+ ry 10\, 2026Thunderbird Music Hall4053 Butler Street\, Pittsburgh\, PADoor
+ s @ 5pmShow @ 6pmAGE RESTRICTION: 21+\n \nTicket Tier Info:General Admiss
+ ion Tickets – Standing Room Only\nThere are no additional entry protoc
+ ols at this time. Entry requirements are subject to change. By purchasing 
+ tickets to this event you agree to abide by entry requirements in effect 
+ at the time of the event. Check the venue website leading up to your eve
+ nt for the latest protocols. Please visit https://thunderbirdmusichall.com
+ /safety/ for more information on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
