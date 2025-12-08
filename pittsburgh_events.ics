@@ -39706,4 +39706,14 @@ DESCRIPTION:https://pittsburghparks.org/event/hike-with-a-naturalist-winter
   Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock New Years Eve w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20251231T150000
+DTEND;TZID=America/New_York:20251231T160000
+DTSTAMP:20251208T010110Z
+UID:62dd70bc-d3d1-11f0-8d40-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-new-years-eve-w-
+ dj-todd-cheat/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
