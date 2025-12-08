@@ -39877,4 +39877,16 @@ DESCRIPTION:https://app.opendate.io/e/sam-jay-march-15-2026-638695\n  Stand
  y to accomodate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cryptid Yinzer After Dark
+DTSTART:20251220T020000Z
+DTEND:20251220T030000Z
+DTSTAMP:20251208T210135Z
+UID:149abede-d479-11f0-bc76-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/cryptid-yinzer-after-dark-2/\nCRYPT
+ ID YINZER AFTER DARK 🦇🦇🦇\nJoin us for a night of FREE goth\, new 
+ wave\, and shoe gaze tracks spunby DJ Cryptid Yinzer. \n\n🩸FREE\n🩸AL
+ L-AGES\n\nWarm coffee & spirits available for purchase
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
