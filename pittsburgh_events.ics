@@ -39716,4 +39716,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-new-years-eve-w-
  dj-todd-cheat/\n
 LOCATION:Poetry Lounge\, 313 North Ave.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Cryptid Yinzer
+DTSTART;TZID=America/New_York:20251226T210000
+DTEND;TZID=America/New_York:20251226T220000
+DTSTAMP:20251208T080102Z
+UID:0a4e4224-d40c-11f0-8b22-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/dj-cryptid-yinzer-2/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
