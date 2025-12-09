@@ -40005,4 +40005,34 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/5am-trio-x-g-space/thund
  inal. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FEBUARY
+DTSTART:20260126T010000Z
+DTEND:20260126T020000Z
+DTSTAMP:20251209T180128Z
+UID:15e7396a-d529-11f0-aa83-0242ac11001e
+DESCRIPTION:https://app.opendate.io/e/febuary-january-25-2026-645463\n  FEB
+ UARY with support from WIDAPARTE  $18 ADV / $22 DOS  7PM DOORS / 8PM MUSIC
+  ALL AGES  for fans of... your arms are my cocoon\, I Hate Sex\, Vs Self\,
+  awakebutstillinbed  BIO: Febuary is a female-fronted screamo band from La
+ s Vegas\, NV\, formed in April 2023. Known for their raw\, unfiltered inte
+ nsity\, they blend piercing emotion with chaotic energy\, delivering deepl
+ y personal performances. Their debut LP\, February\, released in April 202
+ 4\, captures the band’s uncompromising sound and cemented their place in
+  the screamo scene.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dogs In A Pile
+DTSTART:20260410T000000Z
+DTEND:20260410T010000Z
+DTSTAMP:20251209T180128Z
+UID:15ec27c2-d529-11f0-aa83-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/dogs-in-a-pile-3/\nThis Event Is Al
+ l Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission t
+ icket is REQUIRED to enter the venue in addition to your Balcony Reservati
+ on. Balcony Area is 21 + Only. For more information on Balcony Upgrades\, 
+ click here.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
