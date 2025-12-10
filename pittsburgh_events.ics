@@ -40274,4 +40274,30 @@ DESCRIPTION:https://app.opendate.io/e/geoffrey-asmus-saturday-late-march-28
  modate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRIS GETHARD'S BEAUTIFUL/ANONYMOUS
+DTSTART:20260202T010000Z
+DTEND:20260202T020000Z
+DTSTAMP:20251210T030124Z
+UID:8347d30c-d574-11f0-9691-0242ac11001e
+DESCRIPTION:https://app.opendate.io/e/chris-gethard-s-beautiful-anonymous-f
+ ebruary-01-2026-642138\n  Bottlerocket legend CHRIS GETHARD returns for a 
+ very special live taping of his wonderful podcast\, BEAUTIFUL/ANONYMOUS  R
+ ecently celebrating 500 Episodes and a place on Time Magazine's 100 Best P
+ odcasts of All Time list - B/A is a vulnerable\, tender show spotlighting 
+ average every day people\, and some unexpected comedy ensues. Basically\, 
+ it's a typical Chris Gethard project.  One Hour. One phone call. No names.
+  No holds barred. We open the line to one anonymous caller\, and we can’
+ t hang up\, no matter what.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLOSED
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20251210T030124Z
+UID:834ed940-d574-11f0-9691-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/closed-9/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
