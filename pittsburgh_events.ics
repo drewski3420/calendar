@@ -40398,4 +40398,34 @@ DESCRIPTION:https://pittsburghparks.org/event/discovery-time-investigating-
  nservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Story Club PGH Presents: Story Slam!
+DTSTART:20260107T000000Z
+DTEND:20260107T010000Z
+DTSTAMP:20251210T190057Z
+UID:8f4955b4-d5fa-11f0-8c0e-0242ac11001e
+DESCRIPTION:https://cityofasylum.org/program/story-club-pgh-presents-story-
+ slam-2/\nWhat better way to bring in the new year than with a collection o
+ f fresh stories from our friends at Story Club Pittsburgh? Since 2022\, i
+ t’s been our pleasure to partner with Story Club (created by the former 
+ producers of The Moth Pittsburgh) for their monthly nonfiction storytellin
+ g series\, Story Slam. Together\, we aim to showcase a diverse range of vo
+ ices and create a space for stories that resonate across backgrounds\, per
+ spectives\, and experiences. Each month\, we welcome open mic storytellers
+  to the stage to share six-minute tales that tackle a pre-selected theme.E
+ ach month\, the top storyteller\, as voted by viewers\, will win a free Ci
+ ty of Asylum t-shirt. Learn more here or sign up for an open mic slot at t
+ he slam. Not interested in storytelling but still want to participate? Try
+  joining a judging team and help decide the winners instead!About the Host
+ :Alan Olifson is an award-winning humor columnist and comedian and was the
+  regular host of Pittsburgh’s monthly Moth StorySlams. He created the ac
+ claimed storytelling series Wordplay at Bricolage Theater and now produces
+  the new storytelling/talk show Speakeasy at Arcade Comedy Theater. His bo
+ ok\, Manchild: My Life without Adult Supervision\, from Six Gallery Press\
+ , is available wherever you buy books—hopefully somewhere local.About Yo
+ ur Visit: The in-house restaurant\, Cucina Alfabeto\, is open from 5 to 1
+ 0 p.m. with a limited menu and full bar service. Seating in the restaurant
+  and bar is available on a first-come\, first-served basis.Share this:
+LOCATION:City of Asylum
+END:VEVENT
 END:VCALENDAR
