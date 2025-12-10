@@ -40349,4 +40349,36 @@ UID:08eb9980-d5d9-11f0-acc9-0242ac11001e
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nRise Against
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sebastian Bach
+DTSTART:20260321T000000Z
+DTEND:20260321T010000Z
+DTSTAMP:20251210T160058Z
+UID:6a8a2424-d5e1-11f0-adc0-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/sebastian-bach/\nThis Event Is All 
+ Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission tic
+ ket is REQUIRED to enter the venue in addition to your Balcony Reservation
+ . Balcony Area is 21 + Only. For more information on Balcony Upgrades\, cl
+ ick here.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASPA: Dubstep Since Dubstep Tour
+DTSTART:20260314T020000Z
+DTEND:20260314T030000Z
+DTSTAMP:20251210T160058Z
+UID:6a8c7e9a-d5e1-11f0-adc0-0242ac11001e
+DESCRIPTION:https://thunderbirdmusichall.com/event/caspa-dubstep-since-dubs
+ tep-tour/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nCASPA: Du
+ bstep Since Dubstep Tour\nFriday March 13\, 2026Thunderbird Music Hall4053
+  Butler Street\, Pittsburgh\, PADoors @ 9pmShow @ 9:30pmAGE RESTRICTION: 2
+ 1 +\nTicket Tier Info:General Admission Tickets – Standing Room Only\nTh
+ ere are no additional entry protocols at this time. Entry requirements a
+ re subject to change. By purchasing tickets to this event you agree to abi
+ de by entry requirements in effect at the time of the event. Check the 
+ venue website leading up to your event for the latest protocols. Please vi
+ sit https://thunderbirdmusichall.com/safety/ for more information on Covid
+ -19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
