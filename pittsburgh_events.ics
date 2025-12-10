@@ -40340,4 +40340,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/jenn-taiga/\nIZOLAT [ē-z
  drosy/ \nhttps://apupnamedrosy.bandcamp.com/ \n 
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rise Against
+DTSTART:20260314T000000Z
+DTEND:20260314T010000Z
+DTSTAMP:20251210T150058Z
+UID:08eb9980-d5d9-11f0-acc9-0242ac11001e
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nRise Against
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
