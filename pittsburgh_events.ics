@@ -40475,4 +40475,17 @@ DESCRIPTION:https://www.poetrymillvale.com/event/find-ethel-go-for-the-gold
  -ghost-year/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Nightmare After Christmas Party
+DTSTART:20251227T003000Z
+DTEND:20251227T013000Z
+DTSTAMP:20251211T040052Z
+UID:fc7ca80c-d645-11f0-98a6-0242ac11001e
+DESCRIPTION:7u1rd1f0mddnblk5f0u2chckid@google.com\nCreepy Cartoon Drag show
+ ! Raffles and Giveaways. <br><br>Doors at 7:30 - Drag show at 8<br>10$ co
+ ver<br><br><a href="https://sickening.events/e/the-nightmare-after-christm
+ as-party">Tickets Available Here</a><br><br><br>Coraline viewing following
+  the show.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
