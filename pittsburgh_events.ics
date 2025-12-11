@@ -40465,4 +40465,14 @@ DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-20/\nMONDAY
  k\, having been laundered by Shawn MacIntyre!
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Find Ethel // Go for the Gold // Ghost Year
+DTSTART;TZID=America/New_York:20260110T200000
+DTEND;TZID=America/New_York:20260110T210000
+DTSTAMP:20251211T030056Z
+UID:9d11758a-d63d-11f0-84e3-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/find-ethel-go-for-the-gold
+ -ghost-year/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
