@@ -40488,4 +40488,13 @@ DESCRIPTION:7u1rd1f0mddnblk5f0u2chckid@google.com\nCreepy Cartoon Drag show
   the show.
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lords of the Highway // Special When Lit
+DTSTART;TZID=America/New_York:20260117T200000
+DTEND;TZID=America/New_York:20260117T210000
+DTSTAMP:20251211T050054Z
+UID:5f67fe32-d64e-11f0-ada4-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/lord-of-the-highway/\n
+LOCATION:Poetry Lounge\, 313 North Ave.
+END:VEVENT
 END:VCALENDAR
