@@ -40777,4 +40777,20 @@ DESCRIPTION:https://mrsmalls.com/events/john-kolar/\nFrom the hills of Morg
  g wheels.\n\nThis Event Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee with Krampus
+DTSTART:20251220T230000Z
+DTEND:20251221T000000Z
+DTSTAMP:20251212T170055Z
+UID:1f99f38a-d77c-11f0-912b-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/coffee-with-krampus/\nGet ready for
+  a frightful night of holiday terror at the café with Krampus!\n\nTake a 
+ walk on the darker side of the holiday season at "Coffee with Krampus" -- 
+ where festive meets cozy and frightful. Join us at Mr. Smalls Café for wa
+ rm beverages and everyone's favorite horned holiday monster.\n\n🕰️ 6P
+ M - 9PM\n☕️ Spirits and warm beverages available for purchase\n👹 Ge
+ t a picture with your favorite horned holiday monster\n🎶 Holiday music 
+ spun by Cryptid Yinzer\n\nFREE. ALL-AGES.
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
