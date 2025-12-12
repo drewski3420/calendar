@@ -40793,4 +40793,41 @@ DESCRIPTION:https://mrsmalls.com/events/coffee-with-krampus/\nGet ready for
  spun by Cryptid Yinzer\n\nFREE. ALL-AGES.
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20251229T010000Z
+DTEND:20251229T020000Z
+DTSTAMP:20251212T180123Z
+UID:921f6b30-d784-11f0-a6cc-0242ac11001e
+DESCRIPTION:https://trustarts.org/production/104579/steel-city-horror-show\
+ nThe monthly Steel City Horror Show returns for another evening of scares 
+ and surprises! What could the film be? What does Dr. Gielgud have in store
+  to wrap up 2025? And why is Sean talking about his vacation photos?
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating David Lynch: Lost Highway (1997)
+DTSTART:20260116T010000Z
+DTEND:20260116T020000Z
+DTSTAMP:20251212T180123Z
+UID:9221a5c6-d784-11f0-a6cc-0242ac11001e
+DESCRIPTION:https://trustarts.org/production/104582/celebrating-david-lynch
+ -lost-highway-1997\nA quintessentially Lynchian film\, Lost Highway pulls 
+ viewers into a hallucinatory world where time and space blur\, and the nar
+ rative unfolds in mysterious and perplexing ways.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating David Lynch: The Straight Story (1999) on 35mm
+DTSTART:20260121T010000Z
+DTEND:20260121T020000Z
+DTSTAMP:20251212T180123Z
+UID:9223a6fa-d784-11f0-a6cc-0242ac11001e
+DESCRIPTION:https://trustarts.org/production/104585/celebrating-david-lynch
+ -the-straight-story-1999-on-35mm\nThe most straightforward of David Lynch
+ ’s oeuvre\, stamped with the filmmaker’s visual flair and quirky humor
+ \, this film features Alvin Straight (Richard Farnsworth) who takes off on
+  a 240-mile journey on his John Deere lawnmower to visit his brother.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
