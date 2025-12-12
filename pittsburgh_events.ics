@@ -40830,4 +40830,21 @@ DESCRIPTION:https://trustarts.org/production/104585/celebrating-david-lynch
   a 240-mile journey on his John Deere lawnmower to visit his brother.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOLLAR MONDAY
+DTSTART:20260106T010000Z
+DTEND:20260106T020000Z
+DTSTAMP:20251212T190105Z
+UID:e8e7e368-d78c-11f0-9b2c-0242ac11001e
+DESCRIPTION:https://app.opendate.io/e/dollar-monday-january-05-2026-645220\
+ n Do you like local music? Do you like cheap beer? Would you like both of 
+ those things together?  Yeah\, we thought so.  DOLLAR MONDAYS - every firs
+ t Monday of the Month we'll give you 2 handpicked local bands\, $1 beer*\,
+  and no cover. All night. All you've gotta do is show up. Pretty good deal
+  huh?  SPONSORED BY HELLBENDER VINYL!  January Edition with... MAIN STREET
+  DETOUR CRASH NEBULA  This month we'll be joined by the Pittsburgh Riverho
+ unds with their championship trophy and mascot\, AMO!   Doors open at 5pm 
+ Music starts at 8pm    *10oz Old German Drafts & other rotating specials 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
