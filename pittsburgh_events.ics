@@ -40863,4 +40863,17 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/my-america-in-portrait
  ared first on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Conspiracy Theory
+DTSTART:20260131T010000Z
+DTEND:20260131T020000Z
+DTSTAMP:20251212T220055Z
+UID:08829f88-d7a6-11f0-99ce-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/the-conspiracy-theory-2/\nThe Consp
+ iracy Theory Single De-classification Party!\nJoin us as we officially de-
+ classify and release to the general public the first single from the upcom
+ ing The Conspiracy Theory album!\n\nThis Event Is All Ages\nAll Sales Are 
+ Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
