@@ -40899,4 +40899,14 @@ DESCRIPTION:https://app.opendate.io/e/mister-strawberry-it-is-happening-aga
   7PM DOORS / 8PM MUSIC ALL AGES  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAR CLOSED EARLY DUE TO WEATHER
+DTSTART:20251214T000000Z
+DTEND:20251214T010000Z
+DTSTAMP:20251214T000104Z
+UID:fbdf44ae-d87f-11f0-aad9-0242ac11001e
+DESCRIPTION:4b2av8fngtqmkml0vtf0ug14vh@google.com\nDon't come here. Stay ho
+ me and snuggle something.
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
