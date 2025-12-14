@@ -40949,4 +40949,45 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-43/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl After Dark Presents: Poetry After Dark — Horror Cinema at th
+ e Lounge: DEEP RED
+DTSTART;TZID=America/New_York:20260104T190000
+DTEND;TZID=America/New_York:20260104T200000
+DTSTAMP:20251214T060103Z
+UID:457c785c-d8b2-11f0-89a3-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/girl-after-dark-presents-p
+ oetry-after-dark-horror-cinema-at-the-lounge-deep-red/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260106T220000
+DTEND;TZID=America/New_York:20260106T230000
+DTSTAMP:20251214T060103Z
+UID:457eed12-d8b2-11f0-89a3-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 18/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260107T210000
+DTEND;TZID=America/New_York:20260107T220000
+DTSTAMP:20251214T060103Z
+UID:4580fb7a-d8b2-11f0-89a3-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-3/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Stereo w/ DJs Cryptid Yinzer & Dodgeball Danny
+DTSTART;TZID=America/New_York:20260108T220000
+DTEND;TZID=America/New_York:20260108T230000
+DTSTAMP:20251214T060103Z
+UID:45831b6c-d8b2-11f0-89a3-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/midnight-stereo-w-djs-cryp
+ tid-yinzer-dodgeball-danny/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
