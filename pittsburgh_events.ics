@@ -40909,4 +40909,44 @@ DESCRIPTION:4b2av8fngtqmkml0vtf0ug14vh@google.com\nDon't come here. Stay ho
  me and snuggle something.
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260105T210000
+DTEND;TZID=America/New_York:20260105T220000
+DTSTAMP:20251214T050052Z
+UID:dd471330-d8a9-11f0-be2b-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-41/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260106T190000
+DTEND;TZID=America/New_York:20260106T200000
+DTSTAMP:20251214T050052Z
+UID:dd49ffb4-d8a9-11f0-be2b-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-5/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260112T210000
+DTEND;TZID=America/New_York:20260112T220000
+DTSTAMP:20251214T050052Z
+UID:dd4c04ee-d8a9-11f0-be2b-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-42/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260119T210000
+DTEND;TZID=America/New_York:20260119T220000
+DTSTAMP:20251214T050052Z
+UID:dd50f51c-d8a9-11f0-be2b-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-43/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
