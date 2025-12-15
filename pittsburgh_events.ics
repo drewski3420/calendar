@@ -41087,4 +41087,28 @@ DESCRIPTION:https://mrsmalls.com/events/red-elvises/\nIgor Yuzov was born i
  he party with them.\n\nThis Event Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue-Collar Ancestry: Tracing Your Coal Miner Roots
+DTSTART:20260301T190000Z
+DTEND:20260301T200000Z
+DTSTAMP:20251215T180054Z
+UID:ffed9ecc-d9df-11f0-9991-0242ac11001e
+DESCRIPTION:https://www.heinzhistorycenter.org/event/blue-collar-ancestry-t
+ racing-your-coal-miner-roots/\nIn the second session of the History Center
+ ’s new genealogy series\, explore the lives of Western Pennsylvania coal
+  miners and discover the often-overlooked records that reveal their fascin
+ ating stories. Perhaps…\nThe post Blue-Collar Ancestry: Tracing Your Coa
+ l Miner Roots appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don’t Panic! Go Back to the 90s
+DTSTART:20260118T010000Z
+DTEND:20260118T020000Z
+DTSTAMP:20251215T180054Z
+UID:fff01bca-d9df-11f0-9991-0242ac11001e
+DESCRIPTION:https://mrsmalls.com/events/90s-tribute/\nCome celebrate Dan Yo
+ st turning 42!\n\nThis Event Is All Ages\nAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
