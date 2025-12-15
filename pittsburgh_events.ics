@@ -41111,4 +41111,17 @@ DESCRIPTION:https://mrsmalls.com/events/90s-tribute/\nCome celebrate Dan Yo
  st turning 42!\n\nThis Event Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 201 CLASS SHOW
+DTSTART:20260118T180000Z
+DTEND:20260118T190000Z
+DTSTAMP:20251215T220053Z
+UID:86c76452-da01-11f0-a9fa-0242ac11001e
+DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-january-18-2026
+ -635837\n Our students have been learning the ins and outs of UCB improv i
+ n our 201 class\, and now it's time to show off all they've learned at our
+  class showcase!  This show is FREE\, and open to family\, friends or any 
+ supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
