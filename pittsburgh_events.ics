@@ -41346,4 +41346,18 @@ DESCRIPTION:https://app.opendate.io/e/lucas-zelnick-sunday-january-18-2026-
   accomodate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black History Month Lecture with Deborah Willis
+DTSTART:20260130T230000Z
+DTEND:20260131T000000Z
+DTSTAMP:20251217T170106Z
+UID:fa71c528-db69-11f0-9c33-0242ac110024
+DESCRIPTION:https://www.heinzhistorycenter.org/event/black-history-month-le
+ cture-with-deborah-willis/\nThis year’s program features Deborah Willis\
+ , Ph.D.\, one of the nation’s leading historians of photography and auth
+ or of the groundbreaking\, “Reflections in Black: A History of Black Pho
+ tographers 1840 to…\nThe post Black History Month Lecture with Deborah W
+ illis appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
