@@ -41273,4 +41273,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/steel-city-slam-open-mic-t
  uesday-w-pgh-poetry-collective/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260113T220000
+DTEND;TZID=America/New_York:20260113T230000
+DTSTAMP:20251217T050106Z
+UID:6515e1e4-db05-11f0-add0-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 19/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
