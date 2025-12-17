@@ -41263,4 +41263,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/wexford-school-of-rock-5
  n Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Slam & Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260113T190000
+DTEND;TZID=America/New_York:20260113T200000
+DTSTAMP:20251217T030131Z
+UID:b076c74a-daf4-11f0-953f-0242ac11001e
+DESCRIPTION:https://www.poetrymillvale.com/event/steel-city-slam-open-mic-t
+ uesday-w-pgh-poetry-collective/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
