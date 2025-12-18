@@ -41530,4 +41530,17 @@ DESCRIPTION:0np9vai78b91po0k58jm238lqj@google.com\nJoin an all skill levels
   can’t wait to sing along with you!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vintage Pittsburgh
+DTSTART:20260404T140000Z
+DTEND:20260404T150000Z
+DTSTAMP:20251218T160052Z
+UID:ba460e2a-dc2a-11f0-988e-0242ac110024
+DESCRIPTION:https://www.heinzhistorycenter.org/event/vintage-pittsburgh-202
+ 6/\nPresented in partnership with The Neighborhood Flea\, you’re invited
+  to step back in time and shop ‘til you drop for far-out finds and groov
+ y goods on Saturday\, April 4. Dozens…\nThe post Vintage Pittsburgh appe
+ ared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
