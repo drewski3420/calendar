@@ -41476,4 +41476,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-2/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260114T210000
+DTEND;TZID=America/New_York:20260114T220000
+DTSTAMP:20251218T040125Z
+UID:38f41bb4-dbc6-11f0-85d3-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-4/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
