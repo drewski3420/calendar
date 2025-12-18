@@ -41466,4 +41466,14 @@ DESCRIPTION:https://pittsburghparks.org/event/restorative-yoga-frick-enviro
  nservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Punk Rock N Roll X-Mas Wednesday w/ DJ Cryptid Yinzer
+DTSTART;TZID=America/New_York:20251217T230000
+DTEND;TZID=America/New_York:20251218T000000
+DTSTAMP:20251218T030109Z
+UID:cdb1a4d2-dbbd-11f0-a0c8-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-2/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
