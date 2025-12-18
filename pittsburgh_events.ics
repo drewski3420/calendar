@@ -41486,4 +41486,48 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-4/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hearth's Warming Eve Party
+DTSTART:20260131T000000Z
+DTEND:20260131T010000Z
+DTSTAMP:20251218T110053Z
+UID:d24c8e88-dc00-11f0-ba1b-0242ac110024
+DESCRIPTION:6srmcopl6sp30b9m65ij2b9k6gq66b9ockpjgb9k75h68pj169hj2e346o@goog
+ le.com\nA celebration of friendship that warms the hearth and heart. \n\nW
+ e've survived one year. Three to go. \n\nLet us overcome the cold and dark
+  by celebrating this community of support.
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Documentary Screening: Come See Me in the Good Light
+DTSTART:20260114T000000Z
+DTEND:20260114T010000Z
+DTSTAMP:20251218T110053Z
+UID:d24f1ee6-dc00-11f0-ba1b-0242ac110024
+DESCRIPTION:1lb6earc8m6o3ths42tcorfrkk@google.com\nLesbiFriends hosts: Come
+  See Me in the Good Light. A documentary that explores how poets and partn
+ ers Andrea Gibson and Megan Falley navigate Andrea's terminal ovarian canc
+ er diagnosis. The film explores themes of love\, mortality\, and resilienc
+ e\, using Gibson's spoken-word poetry throughout. Rather than focusing sol
+ ely on the sadness of impending death\, the documentary highlights the cou
+ ple's determination to live life to the fullest\, finding joy\, humor\, an
+ d purpose in everyday moments.\n\nDoor at 7\, Movie at 7:30\, this is a fr
+ ee event
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Balladeer - A Shanty Sing
+DTSTART;TZID=America/New_York:20260103T150000
+DTEND;TZID=America/New_York:20260103T160000
+DTSTAMP:20251218T110053Z
+UID:d2514130-dc00-11f0-ba1b-0242ac110024
+DESCRIPTION:0np9vai78b91po0k58jm238lqj@google.com\nJoin an all skill levels
+ \, all knowledge levels group singing event for anyone interested in shant
+ ies\, sailing songs\, and pub songs! Come prepared to learn and share trad
+ itional and modern songs! Songs themselves do not need to be explicitly qu
+ eer but we are open to adding or modifying lyrics to suit our tastes. Brin
+ g a tune\, bring an acoustic instrument\, or just bring your own self - we
+  can’t wait to sing along with you!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
