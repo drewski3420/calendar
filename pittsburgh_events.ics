@@ -41753,4 +41753,25 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-43/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Hills School of Rock
+DTSTART:20260118T173000Z
+DTEND:20260118T183000Z
+DTSTAMP:20251219T160133Z
+UID:fd6fe99a-dcf3-11f0-9b3e-0242ac110024
+DESCRIPTION:https://thunderbirdmusichall.com/event/south-hills-school-of-ro
+ ck-3/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nSouth Hills S
+ chool of RockSunday January 18\, 2025Thunderbird Music Hall4053 Butler Str
+ eet\, Pittsburgh\, PADoors @ 11:30am\nShow @ 12pmAGE RESTRICTION: All Ages
+ \n\n11:30 – Doors\n12:00-12:45 – Aretha Franklin\n1:00-2:00 – Woodst
+ ock\n2:15-3:45 – Classic Metal\n4:00-5:40 – Led Zeppelin\n\nTicket Tie
+ r Info:General Admission Tickets – Standing Room Only\nThere are no addi
+ tional entry protocols at this time. Entry requirements are subject to c
+ hange. By purchasing tickets to this event you agree to abide by entry req
+ uirements in effect at the time of the event. Check the venue website l
+ eading up to your event for the latest protocols. Please visit https://thu
+ nderbirdmusichall.com/safety/ for more information on Covid-19 Safety. Al
+ l sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
