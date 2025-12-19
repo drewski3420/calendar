@@ -41721,4 +41721,15 @@ DESCRIPTION:https://trustarts.org/production/104720/you-got-gold\nYOU GOT G
   legacy.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl After Dark Presents: Poetry After Dark — Horror Cinema at th
+ e Lounge: HOUSE ON HAUNTED HILL
+DTSTART;TZID=America/New_York:20260118T190000
+DTEND;TZID=America/New_York:20260118T200000
+DTSTAMP:20251219T030055Z
+UID:efceafc8-dc86-11f0-9b52-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/girl-after-dark-presents-p
+ oetry-after-dark-horror-cinema-at-the-lounge-house-on-haunted-hill/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
