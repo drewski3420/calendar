@@ -41804,4 +41804,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
  try-collective-6/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pamplona Worldwide Presents: Raps & Things
+DTSTART;TZID=America/New_York:20260116T190000
+DTEND;TZID=America/New_York:20260116T200000
+DTSTAMP:20251220T060054Z
+UID:3eb7ae04-dd69-11f0-8028-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/rap-things/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
