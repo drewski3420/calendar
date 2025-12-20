@@ -41794,4 +41794,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/foxy-shazam-dumpster-pho
  ation on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260120T190000
+DTEND;TZID=America/New_York:20260120T200000
+DTSTAMP:20251220T040057Z
+UID:7d34063e-dd58-11f0-8ee8-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-6/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
