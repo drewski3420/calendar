@@ -41831,4 +41831,14 @@ UID:29ccd9ee-de11-11f0-adfe-0242ac110024
 DESCRIPTION:/corey.pisarski/detail/144/1768694400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260120T220000
+DTEND;TZID=America/New_York:20260120T230000
+DTSTAMP:20251222T050052Z
+UID:3096d062-def3-11f0-bcc4-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 20/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
