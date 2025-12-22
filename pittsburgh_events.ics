@@ -41841,4 +41841,16 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  20/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A DANCE NIGHT TAKEOVER - it's EMO NIGHT NOW\, BITCHES!
+DTSTART;TZID=America/New_York:20251227T200000
+DTEND;TZID=America/New_York:20251227T210000
+DTSTAMP:20251222T160100Z
+UID:68f840ba-df4f-11f0-8ea7-0242ac110024
+DESCRIPTION:1410pb9346vpigk9qu1j9evkl0@google.com\nENBEATZ is stealing the 
+ show this month - Stop in for sad bops\, screamo classics\, and myspace <a
+ ></a>anthems! <br>Music starts at 8pm\, $10 cover after 9! <br>Cult Memb
+ ers get in Free!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
