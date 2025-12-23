@@ -41875,4 +41875,21 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-5/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:badluv
+DTSTART:20260215T010000Z
+DTEND:20260215T020000Z
+DTSTAMP:20251223T160056Z
+UID:90c51f2c-e018-11f0-9006-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/badluv/\nBadluv\, a pop artist from
+  Ambridge\, PA\, started writing raps as a teen to cope with life’s stru
+ ggles. After winning his high school’s talent show and receiving the ove
+ rwhelming amounts of applause\, badluv discovered his passion for songwrit
+ ing\, performing\, and sharing his story with others. Having gone through 
+ several personal hardships\, badluv’s goal is to continue sharing his st
+ ory through songs that provide those going through similar struggles with 
+ peace\, security and strength.\n\nThis Event Is All Ages\nAll Sales Are Fi
+ nal.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
