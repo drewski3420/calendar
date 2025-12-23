@@ -41865,4 +41865,14 @@ DESCRIPTION:6hp7tug9h0tb195q1f8c998q05@google.com\nTheocracy and Andi Whore
   CHAOS.\n\nTicket link coming soon\n\nDoors at 7\, show at 8
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260121T210000
+DTEND;TZID=America/New_York:20260121T220000
+DTSTAMP:20251223T050054Z
+UID:5c477972-dfbc-11f0-affb-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-5/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
