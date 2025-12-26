@@ -41940,4 +41940,14 @@ UID:4a69f430-e207-11f0-8435-0242ac110024
 DESCRIPTION:/corey.pisarski/detail/145/1769212800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260126T210000
+DTEND;TZID=America/New_York:20260126T220000
+DTSTAMP:20251226T050057Z
+UID:dd2bc978-e217-11f0-bee2-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-44/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
