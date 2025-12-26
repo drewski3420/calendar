@@ -41950,4 +41950,25 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-44/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Kid - Band
+DTSTART:20260414T000000Z
+DTEND:20260414T010000Z
+DTSTAMP:20251226T100051Z
+UID:c2f3644c-e241-11f0-a897-0242ac110024
+DESCRIPTION:https://www.stagepittsburgh.com/events/good-kid-band-13-april-2
+ 026/\nFresh from Ontario\, indie rock band GOOD KID is back for the highly
+ -anticipated release of their debut album “Can We Hang Out Sometime?” 
+ With the record finally taking shape\, this era followed several EPs that 
+ amassed a loyal following\, and gained dominance as their music was featur
+ ed in Fortnite. This time\, the band is kicking off a huge CAN WE HANGOUT?
+  Tour with special guest Inoha joining most North American dates. With 40 
+ dates on the list\, get ready for amazing adventures with these fellas who
+  rock. \nComing to Pittsburgh\, the band is all set to light up STAGE AE o
+ n Monday\, April 13th. With infectious beats\, rock-out hits\, and new mus
+ ic that marks Good Kid as one of the hottest names in a new era of standou
+ t rockers\, you’re in for a wild ride. It's bound to be a blast\, indeed
+ . Be part of the celebration by booking your tickets now!
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
