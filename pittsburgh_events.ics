@@ -42061,4 +42061,28 @@ DESCRIPTION:6fd7h5061ffrodec65mh6mss5g@google.com\nIn the battle of the “
   8!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trans Book Club
+DTSTART;TZID=America/New_York:20260111T160000
+DTEND;TZID=America/New_York:20260111T170000
+DTSTAMP:20251226T210111Z
+UID:01d41bc8-e29e-11f0-a0aa-0242ac110024
+DESCRIPTION:1cb78140gmgdd3dfhquc9oajic@google.com\nThe Cemetery Boys is the
+  book for January
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anime Club!
+DTSTART:20260118T220000Z
+DTEND:20260118T230000Z
+DTSTAMP:20251226T210111Z
+UID:01d6a47e-e29e-11f0-a0aa-0242ac110024
+DESCRIPTION:cop38dpi6kqj4b9ocdim4b9k65ijebb16sqj0bb56dgm8dpi6ssjiopl6o@goog
+ le.com\nJoin Jill & Ryann for Anime Club at the Haunt! We'll watch subs of
+  old classics\, new favorites\, and anything in between. Featuring a selec
+ tion of anime themed cocktails/mocktails and Japanese snacks. Cosplay is e
+ ncouraged not required\, but being the best dressed could earn you a speci
+ al prize!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
