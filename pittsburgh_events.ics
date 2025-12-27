@@ -42085,4 +42085,14 @@ DESCRIPTION:cop38dpi6kqj4b9ocdim4b9k65ijebb16sqj0bb56dgm8dpi6ssjiopl6o@goog
  al prize!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260127T190000
+DTEND;TZID=America/New_York:20260127T200000
+DTSTAMP:20251227T050101Z
+UID:0a2bbdba-e2e1-11f0-9eed-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-7/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
