@@ -42126,4 +42126,17 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  21/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20260419T143000Z
+DTEND:20260419T153000Z
+DTSTAMP:20251228T170058Z
+UID:c7dd8dec-e40e-11f0-9554-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-april-19-2026-6
+ 52173\n Our students have been learning the ins and outs of UCB improv in 
+ our 101 class\, and now it's time to show off all they've learned at our c
+ lass showcase!  This show is FREE\, and open to family\, friends or any su
+ pportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
