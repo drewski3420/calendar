@@ -42116,4 +42116,14 @@ DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-batman-and-robin-janu
  eving his goal.  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260127T220000
+DTEND;TZID=America/New_York:20260127T230000
+DTSTAMP:20251228T040051Z
+UID:ccc4a650-e3a1-11f0-aefd-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 21/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
