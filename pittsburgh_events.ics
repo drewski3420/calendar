@@ -42149,4 +42149,33 @@ DESCRIPTION:dvd43lb32jmkpjprttovfrjoom@google.com\n2nd & 4th Sunday\n5pm to
   8pm\nKaraoke hosted by Andi Whorehol
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thee Boogray Brothers: Soul & Slow Jams
+DTSTART;TZID=America/New_York:20260109T200000
+DTEND;TZID=America/New_York:20260109T210000
+DTSTAMP:20251229T050053Z
+UID:5a3fe018-e473-11f0-98fc-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/thee-boogray-brothers-soul
+ -slow-jams/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kylie Koch Birthday Celebration
+DTSTART;TZID=America/New_York:20260115T190000
+DTEND;TZID=America/New_York:20260115T200000
+DTSTAMP:20251229T050053Z
+UID:5a42d5b6-e473-11f0-98fc-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/kylie-koch/\n
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special "Thursday Thrill w/ DJ Stony Stone" DEBUT
+DTSTART;TZID=America/New_York:20260122T220000
+DTEND;TZID=America/New_York:20260122T230000
+DTSTAMP:20251229T050053Z
+UID:5a4845aa-e473-11f0-98fc-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/special-thursday-thrill-w-
+ dj-stony-stone-debut/\nMulti-Genre Dance Night
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
