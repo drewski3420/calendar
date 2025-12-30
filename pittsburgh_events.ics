@@ -42194,4 +42194,14 @@ DESCRIPTION:https://app.opendate.io/e/as-you-were-90-s-cover-show-january-0
  art? It's totally FREE!  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brexlyn Presents: CineSunday
+DTSTART;TZID=America/New_York:20260125T080000
+DTEND;TZID=America/New_York:20260125T090000
+DTSTAMP:20251230T050053Z
+UID:849e1112-e53c-11f0-91b1-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/brexlyn-presents-cinesunda
+ y/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
