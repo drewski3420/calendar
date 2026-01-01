@@ -42417,4 +42417,36 @@ UID:e118bec2-e6ce-11f0-9e7d-0242ac110024
 DESCRIPTION:/corey.pisarski/detail/165/1766610000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Y2K NEW YEARS - DO-OVER!
+DTSTART:20260104T010000Z
+DTEND:20260104T020000Z
+DTSTAMP:20260101T200052Z
+UID:9386386e-e74c-11f0-829e-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/y2k-new-years-do-over-january-03-2026
+ -645122\n  Did the weather ruin your New Years Eve party plans? Or maybe y
+ ou just got the year off on the wrong foot already - either way we're brin
+ ging our legendary New Years party BACK for FREE the first Saturday of the
+  year! We'll have everything\; a countdown\, a ball drop\, free champagne 
+ - consider it a do-over or the clean restart you needed! Don't let those g
+ reat NYE outfits go to waste!!  From 9 to 11:59 it's going to be a Bottler
+ ocket party straight out of 1999 - with 90's music\, a 1999 ball drop\, an
+ d more! Then the lights go off and we party like the world is ending with 
+ 2000's music and black lights to close out the night!  Plus free champagne
+  at midnight!!  Feat. DJ Rojo & DJ Rodeostarr      
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QRC Open House
+DTSTART;TZID=America/New_York:20260115T170000
+DTEND;TZID=America/New_York:20260115T180000
+DTSTAMP:20260101T200052Z
+UID:938c46a0-e74c-11f0-829e-0242ac110024
+DESCRIPTION:s5iq2vdg51sb8kdgcdkna29p7o@google.com\nJoin with Google Meet: h
+ ttps://meet.google.com/jfv-tcxo-owm\nOr dial: (US) +1 405-352-0661 PIN: 76
+ 0944289#\nMore phone numbers: https://tel.meet/jfv-tcxo-owm?pin=2940285527
+ 024&hs=7\n\nLearn more about Meet at: https://support.google.com/a/users/a
+ nswer/9282720
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
