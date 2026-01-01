@@ -42383,4 +42383,38 @@ UID:6ddf6d42-e5fd-11f0-8e4c-0242ac110024
 DESCRIPTION:/corey.pisarski/detail/168/1768518000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Godfather
+DTSTART:20260104T104500Z
+DTEND:20260104T114500Z
+DTSTAMP:20260101T050106Z
+UID:e111f59c-e6ce-11f0-9e7d-0242ac110024
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/the-godfather/
+ \nThe Godfather at Row House? How is that for an offer you can’t refuse.
+  See Francis Ford Coppola’s recently restored masterpiece in memory of D
+ iane Keaton.
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cult-O-Rama: Crazy Casts
+DTSTART:20260109T050000Z
+DTEND:20260109T060000Z
+DTSTAMP:20260101T050106Z
+UID:e1167db0-e6ce-11f0-9e7d-0242ac110024
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/cult-o-rama-cr
+ azy-casts/\nDid you know that 99% of big\, fancy actors get their start in
+  low-budget horror films\, probably? Don’t feel ashamed if you didn’t 
+ know\, we made that statistic up. Come see the performances of household n
+ ames in some schlock that they probably wish you couldn’t experience!
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Hours
+DTSTART:20261224T210000Z
+DTEND:20261224T220000Z
+DTSTAMP:20260101T050106Z
+UID:e118bec2-e6ce-11f0-9e7d-0242ac110024
+DESCRIPTION:/corey.pisarski/detail/165/1766610000000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
