@@ -42686,4 +42686,70 @@ DESCRIPTION:2rdk03fgr36og8cmg0kir5ehsa@google.com\nMari Lwyd visits Harold'
   and pictures are welcome.
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladlands - Dimension 20 Premiere
+DTSTART;TZID=America/New_York:20260107T193000
+DTEND;TZID=America/New_York:20260107T203000
+DTSTAMP:20260102T210101Z
+UID:24b7c060-e81e-11f0-bfbe-0242ac110024
+DESCRIPTION:23mbrqvqhrqdfkuj272jgs0acj@google.com\nForget end times - get r
+ eady for friend times!\n\nJoin us for a weekly watch party of Dimension 20
+ 's Gladlands!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladlands - Dimension 20 Premiere
+DTSTART;TZID=America/New_York:20260211T193000
+DTEND;TZID=America/New_York:20260211T203000
+DTSTAMP:20260102T210101Z
+UID:24ba1504-e81e-11f0-bfbe-0242ac110024
+DESCRIPTION:2qtrblb814k5bqlo9uidmdqrn3@google.com\nForget end times - get r
+ eady for friend times!\n\nJoin us for a weekly watch party of Dimension 20
+ 's Gladlands!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladlands - Dimension 20
+DTSTART;TZID=America/New_York:20260303T193000
+DTEND;TZID=America/New_York:20260303T203000
+DTSTAMP:20260102T210101Z
+UID:24bf3b92-e81e-11f0-bfbe-0242ac110024
+DESCRIPTION:57br38g06p65m8tq5fkq87lkst@google.com\n\nForget end times - get
+  ready for friend times!\n\nJoin us for a weekly watch party of Dimension 
+ 20's Gladlands!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20260106T000000Z
+DTEND:20260106T010000Z
+DTSTAMP:20260102T210101Z
+UID:24c665a2-e81e-11f0-bfbe-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-22/\nMONDAY 
+ JANUARY 5\, 2026 - WYEP 91.3 Presents: AcoustiCafe Open Stage with host De
+ rek January featuring Zack Keim\, Chet Vincent!!\n\nTheme. CHARACTERS!\n\n
+ Kicking off 2026 with host Derek January - whose band Boy Wonders will cel
+ ebrate the release of their new album "Character Study" on Sat Jan 10 at C
+ lub Cafe with special guests The Garment District and Valleyview!!  \n\nFe
+ ature ZACK KEIM was just announced as WYEP's Pittsburgh Artist of the Year
+ ! He continues to tour the universe (which includes at least Spain and the
+  USA) in support of his latest release Battery Lane!!
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funhouse Film Club: Derek January month
+DTSTART:20260121T000000Z
+DTEND:20260121T010000Z
+DTSTAMP:20260102T210101Z
+UID:24cbe1d0-e81e-11f0-bfbe-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/funhouse-film-club-derek-january-mo
+ nth/\nCelebrate birthday boy and co-host Derek January's month with a scre
+ ening of the 1979 Who-inspired mod classic\, Quadrophenia\, along with a m
+ ystery feature. As always\, shown on VHS!\n\nAlso in the mix: shorts and v
+ intage trailers\, themed drinks\, snacks and fun movie facts!\n\nEach mont
+ h we have suggested donations for different charities\, orgs or local busi
+ nesses\, with this edition being clothing items to Light of Life to help t
+ he homeless and those in need.\n\n18+
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
