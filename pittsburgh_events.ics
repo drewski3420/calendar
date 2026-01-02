@@ -42553,4 +42553,37 @@ DESCRIPTION:https://app.opendate.io/e/trivia-night-january-07-2026-652510\n
  some prizes in between!  Free to play! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAINT NIGHT
+DTSTART:20260114T003000Z
+DTEND:20260114T013000Z
+DTSTAMP:20260102T150105Z
+UID:dca4eb68-e7eb-11f0-a774-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/paint-night-january-13-2026-651577\n 
+ Join us at Bottlerocket on January 13 at 7:30pm for a Bob Ross themed pain
+ t and sip night!   Paint something new for your apartment\, sip a beer\, a
+ nd enjoy a live DJ set accompanied by Bob Ross visuals!  Either paint at y
+ our leisure/creativity\, or follow one of the Bob Ross guides included wit
+ h purchase of paint package*! Feel free to bring your own supplies.  *Pain
+ t package- $10  -Paint brushes  -Canvas  -Paint  -Print outs of Bob Ross i
+ nstructions    Free admission\, Paint Package $10   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRITNEY BINGO
+DTSTART:20260122T003000Z
+DTEND:20260122T013000Z
+DTSTAMP:20260102T150105Z
+UID:dcaba746-e7eb-11f0-a774-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/britney-bingo-january-21-2026-651501\
+ n Oops! We did it again...   Our famous Bottlerocket Bingo is BACK with an
+ other totally real celebrity guest host- and this time\, it's Britney\, B*
+ tch. We're celebrating the 1990's this January\, and there's no one better
+  to start the new year with than the PRINCESS OF POP herself!    The one a
+ nd only BRITNEY SPEARS (or at least a Drag Queen version of her) is your B
+ ingo host for several stunning rounds of themed Bingo.   Compete for free 
+ drinks from the bar\, swag from our beer reps\, and even a CASH PRIZE spon
+ sored by our wonderful friends at ABIDING MISSIONS!   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
