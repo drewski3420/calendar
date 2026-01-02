@@ -42466,4 +42466,17 @@ DESCRIPTION:https://app.opendate.io/e/rock-band-night-90-s-edition-january-
  age with us and let's rock!!! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV JAM
+DTSTART:20260112T000000Z
+DTEND:20260112T010000Z
+DTSTAMP:20260102T020051Z
+UID:dda593ae-e77e-11f0-9c38-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/improv-jam-january-11-2026-652509\nJo
+ in us at Bottlerocket for a UCBurgh Improv Jam - folks of all levels are w
+ elcome to join and watch or perform\, hosted by our UCBurgh instructors! W
+ hether you want to exercise the things you're learning in class\, or see i
+ f you'd be interested in learning more yourself\, all are welcome!
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
