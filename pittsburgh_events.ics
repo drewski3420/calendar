@@ -42528,4 +42528,14 @@ DESCRIPTION:https://app.opendate.io/e/brandon-wardell-january-30-2026-65251
  te you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260128T210000
+DTEND;TZID=America/New_York:20260128T220000
+DTSTAMP:20260102T050055Z
+UID:051ccb28-e798-11f0-84ab-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-6/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
