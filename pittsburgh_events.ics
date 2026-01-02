@@ -42660,4 +42660,30 @@ UID:05157f7c-e805-11f0-8020-0242ac110024
 DESCRIPTION:1tmk4f38mrtcs4m7cnrbh33an7@google.com\nTBD
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panic! At the Drag Show
+DTSTART:20260124T230000Z
+DTEND:20260125T000000Z
+DTSTAMP:20260102T200113Z
+UID:ca6f4734-e815-11f0-b151-0242ac110024
+DESCRIPTION:3kv665tupv0uklk9dpgfsrai3v@google.com\nEff n Odd Productions Pr
+ esents : A drag tribute to Panic at the Discos:  A Fever You Can't Sweat 
+ Out \n\nFlash Tattoos by Kindred Spirit Tattoo\n\nVibes and Tattoos start
+  at 6pm \nDoors at 9:00 pm\, \nShow at 9:30\n\n 10$ at the door for the
+  show
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mari Lwyd 
+DTSTART:20260111T010000Z
+DTEND:20260111T020000Z
+DTSTAMP:20260102T200113Z
+UID:ca71cc7a-e815-11f0-b151-0242ac110024
+DESCRIPTION:2rdk03fgr36og8cmg0kir5ehsa@google.com\nMari Lwyd visits Harold'
+ s! The group with the Mari Lwyd will sing  Y Fari Lwyd\, asking for permi
+ ssion for the Mari to come in and accepting challenges from patrons. After
+  the fun\, traditional Welsh ritual\, merriment with Mari Lwyd will be had
+  and pictures are welcome.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
