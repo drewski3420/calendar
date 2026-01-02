@@ -42651,4 +42651,13 @@ DESCRIPTION:3dfq69s6dm0c94k3dd2uhhrnr1@google.com\nA community closet and s
  arn more about Meet at: https://support.google.com/a/users/answer/9282720
 LOCATION:Quiet Retreat Therapy\, 216 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millvale Spring Market
+DTSTART:20260425T140000Z
+DTEND:20260425T150000Z
+DTSTAMP:20260102T180110Z
+UID:05157f7c-e805-11f0-8020-0242ac110024
+DESCRIPTION:1tmk4f38mrtcs4m7cnrbh33an7@google.com\nTBD
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
