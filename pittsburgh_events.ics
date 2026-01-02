@@ -42538,4 +42538,19 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-6/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRIVIA NIGHT
+DTSTART:20260108T003000Z
+DTEND:20260108T013000Z
+DTSTAMP:20260102T140053Z
+UID:73db67cc-e7e3-11f0-9d41-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/trivia-night-january-07-2026-652510\n
+  Calling all Trivia Fans! BOTTLEROCKET TRIVIA NIGHT IS BACK!   Our very ow
+ n world famous Hot Dog Man becomes our Trivia Man for a brand new Trivia n
+ ight! You never know what questions he will come up with… history\, arts
+ \, wildcard? It’s all in play! Bring a group or find one here\, impress 
+ your friends or look like a fool!  Prizes for winners\, losers\, and even 
+ some prizes in between!  Free to play! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
