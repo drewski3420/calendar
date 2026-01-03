@@ -42752,4 +42752,67 @@ DESCRIPTION:https://mrsmalls.com/events/funhouse-film-club-derek-january-mo
  he homeless and those in need.\n\n18+
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Union Film Festival: Meet the Barbarians
+DTSTART:20260131T010000Z
+DTEND:20260131T020000Z
+DTSTAMP:20260103T010133Z
+UID:bf57644c-e83f-11f0-be8c-0242ac110024
+DESCRIPTION:https://trustarts.org/production/104801/european-union-film-fes
+ tival-meet-the-barbarians\nA small town in France preparing to welcome a U
+ krainian refugee family is surprised when a Syrian family shows up instead
+ \, in Julie Delpy’s touching comedy of integration.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Union Film Festival: Maria's Silence
+DTSTART:20260201T010000Z
+DTEND:20260201T020000Z
+DTSTAMP:20260103T010133Z
+UID:bf5bb146-e83f-11f0-be8c-0242ac110024
+DESCRIPTION:https://trustarts.org/production/104804/european-union-film-fes
+ tival-marias-silence\nA powerful historical drama based on the true story 
+ of Maria Leiko\, famous actress who late in her career has to decide betwe
+ en fame and love for her grandchild\, between her ideals or the lies of St
+ alin’s totalitarian regime.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Union Film Festival: Territory/Terytorium
+DTSTART:20260201T010000Z
+DTEND:20260201T020000Z
+DTSTAMP:20260103T010133Z
+UID:bf5dc1f2-e83f-11f0-be8c-0242ac110024
+DESCRIPTION:https://trustarts.org/production/104807/european-union-film-fes
+ tival-territory-slash-terytorium\nTERRITORY is a tense psychological drama
+  with thriller elements\, about the mechanisms of power\, moral dilemmas\,
+  and the thin line between what’s private and what’s public.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Union Film Festival: Petra Kelly - Act Now!
+DTSTART:20260202T010000Z
+DTEND:20260202T020000Z
+DTSTAMP:20260103T010133Z
+UID:bf600d9a-e83f-11f0-be8c-0242ac110024
+DESCRIPTION:https://trustarts.org/production/104810/european-union-film-fes
+ tival-petra-kelly-act-now\nPetra Kelly became famous not only as co-founde
+ r of the German Green Party\, but also as a woman who established a new wo
+ rld-changing policy. This film rediscovers the political activist and shed
+ s light on her role model status for today's movements.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Union Film Festival: Without Air
+DTSTART:20260202T010000Z
+DTEND:20260202T020000Z
+DTSTAMP:20260103T010133Z
+UID:bf62ae2e-e83f-11f0-be8c-0242ac110024
+DESCRIPTION:https://trustarts.org/production/104813/european-union-film-fes
+ tival-without-air\nIn her absurdist debut feature\, Hungarian filmmaker Ka
+ talin Moldovai takes on the administration of conservative Hungary in her 
+ depiction of a high school teacher accused of promoting homosexual values 
+ to her students.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
