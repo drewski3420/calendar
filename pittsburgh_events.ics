@@ -43169,4 +43169,20 @@ DESCRIPTION:https://mattress.org/events/friday-night-special-5/\nAnother Se
  ies of lively\, community-centered […]
 LOCATION:Mattress Factory
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening W/ Casper Kelly: Pretty Faces\, Cooks and Cartoons!
+DTSTART:20260225T003000Z
+DTEND:20260225T013000Z
+DTSTAMP:20260105T030107Z
+UID:c7aa9ca0-e9e2-11f0-b2e1-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/an-evening-w-casper-kelly-pretty-face
+ s-cooks-and-cartoons-february-24-2026-648454\n Join Casper Kelly (Writer/D
+ irector of Too Many Cooks\, Your Pretty Face Is Going To Hell\, [Adult Swi
+ m] Yule Log 1&2\, V/H/S: Halloween) discussing his body of work in a retro
+ spective evening\, featuring screenings of selections from his animation\,
+  shorts and live action filmography.  Each city will feature never before 
+ seen stuff\, trivia\, Q&A\, prizes and exclusive merch plus special guests
+ !  This event is produced by ThisMyShow Presents   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
