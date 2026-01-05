@@ -43185,4 +43185,44 @@ DESCRIPTION:https://app.opendate.io/e/an-evening-w-casper-kelly-pretty-face
  !  This event is produced by ThisMyShow Presents   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STEELERS PLAYOFF PARTY!
+DTSTART:20260113T010000Z
+DTEND:20260113T020000Z
+DTSTAMP:20260105T050108Z
+UID:8bd27ab6-e9f3-11f0-90e1-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/steelers-playoff-party-january-12-202
+ 6-652699\n  STILLERS PLAYOFF PARTY at Bottlerocket This season\, there's n
+ o better place to watch our beloved Steelers than your neighborhood Bottle
+ rocket! With non-annoying music during the commercial breaks\, $3 Draft Be
+ ers\, Steelers Bingo\, and food from our brand new BottleDogs cart - every
+  Sunday it's the best dive bar in town\, and that means the best place to 
+ watch a ballgame. The bar is open to ALL AGES & totally free! Come hang!  
+ STEELERS BINGO We give you a sheet of things that will probably happen at 
+ some point during a Steelers game (DK Metcalf Touchdowns\, TJ Watt Sacks\,
+  someone in the bar disagreeing with a coaching decision\, etc.) - you mar
+ k them off as they happen\, and win! Even if the Steelers lose you can sti
+ ll go home a winner from the prize pile - and we don't interrupt a second 
+ of the game to play\, so if you're locked in to the actual game\, have no 
+ fear.    
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat Tedder
+DTSTART:20260124T213000Z
+DTEND:20260124T223000Z
+DTSTAMP:20260105T050108Z
+UID:8bd5f8da-e9f3-11f0-90e1-0242ac110024
+DESCRIPTION:/corey.pisarski/detail/146/1769290200000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andy Reamer\, Eric Susoeff & Chris McGraw
+DTSTART:20260125T000000Z
+DTEND:20260125T010000Z
+DTSTAMP:20260105T050108Z
+UID:8bde5b24-e9f3-11f0-90e1-0242ac110024
+DESCRIPTION:/corey.pisarski/detail/161/1769299200000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
