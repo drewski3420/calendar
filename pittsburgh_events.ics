@@ -43264,4 +43264,14 @@ DESCRIPTION:https://app.opendate.io/e/lucas-zelnick-sunday-late-january-18-
  comodate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhyme Of Silence // All The Good Ones Are Gone // BombChele & the B
+ angs
+DTSTART;TZID=America/New_York:20260131T190000
+DTEND;TZID=America/New_York:20260131T200000
+DTSTAMP:20260106T050105Z
+UID:b4baf1be-eabc-11f0-9e2f-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/rhyme-of-silence-2/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
