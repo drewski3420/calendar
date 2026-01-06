@@ -43274,4 +43274,14 @@ UID:b4baf1be-eabc-11f0-9e2f-0242ac110024
 DESCRIPTION:https://www.poetrymillvale.com/event/rhyme-of-silence-2/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEG-A-FEST (A reunion of a scene that never died)
+DTSTART:20260301T010000Z
+DTEND:20260301T020000Z
+DTSTAMP:20260106T150129Z
+UID:94aaa942-eb10-11f0-af88-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/meg-a-fest/\nMEG-A-FEST\n\n(A reuni
+ on of a scene that never died)\n\nThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
