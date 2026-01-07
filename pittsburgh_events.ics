@@ -43516,4 +43516,16 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/solya/thunderbird-cafe-m
   All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20260126T010000Z
+DTEND:20260126T020000Z
+DTSTAMP:20260107T190109Z
+UID:3a70c3f8-ebfb-11f0-986d-0242ac110024
+DESCRIPTION:https://trustarts.org/production/105155/steel-city-horror-show\
+ nHost Sean Collier will tell you all about our surprise flick\, while the 
+ mysterious Dr. Gielgud returns with in-theater scares and pre-show surpris
+ es — but which Dr. Gielgud will we meet this time?
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
