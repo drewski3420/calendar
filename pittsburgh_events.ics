@@ -43593,4 +43593,19 @@ DESCRIPTION:https://mrsmalls.com/events/november-blue-3/\nNovember Blue ble
  Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunburst School of Music Band Program Showcase
+DTSTART:20260125T200000Z
+DTEND:20260125T210000Z
+DTSTAMP:20260107T220106Z
+UID:5dcc7608-ec14-11f0-b7be-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/sunburst-showcase/\nStudents from S
+ unburst School of Music’s Band Program take the stage at Mr. Smalls Funh
+ ouse for their end-of-term showcase. These bands have been working on thei
+ r own curated sets of covers and originals and prepping for this moment! F
+ eaturing Korok Radio\, Nemo\, Thundershark\, Ampersand\, Sunburst House Ba
+ nd\, Mega Sea Cows\, and more.\n\nThis Event Is All Ages\nAll Sales Are Fi
+ nal.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
