@@ -43528,4 +43528,17 @@ DESCRIPTION:https://trustarts.org/production/105155/steel-city-horror-show\
  es — but which Dr. Gielgud will we meet this time?
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STICKS: A Heated Rivalry Dance Night
+DTSTART:20260131T030000Z
+DTEND:20260131T040000Z
+DTSTAMP:20260107T200052Z
+UID:91dd4712-ec03-11f0-a6b9-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/sticks-a-heated-rivalry-dance-night-j
+ anuary-30-2026-653643\n As a last minute addition to THIS MONTH'S programm
+ ing\, we present a dance party in honor of our favorite yearning lovers - 
+ STICKS: A Heated Rivalry Dance Party!  Just like the boys\, we are gunna h
+ it this one hard and fast with music from the stellar DJ Rojo! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
