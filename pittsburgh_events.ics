@@ -43686,4 +43686,17 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/the-travelin-mccourys-2/
   
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAINBOW RODEO: A Tie Dyeing Party
+DTSTART:20260127T003000Z
+DTEND:20260127T013000Z
+DTSTAMP:20260108T180055Z
+UID:fa65e326-ecbb-11f0-a8fb-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/rainbow-rodeo-a-tie-dyeing-party-janu
+ ary-26-2026-653318\n Join local line dancing cowpokes of 412 Step for a Ti
+ e-Dye party\, set to the sounds of 90's country (and beyond!)  Bring your 
+ own white T-Shirt\, they'll bring the tie dye set-up. Hang out\, line danc
+ e\, tie dye - it's FREE! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
