@@ -43906,4 +43906,14 @@ DESCRIPTION:https://mattress.org/events/member-preview-could-it-be-love/\nG
  vey of Greer Lankton (1958–1996)\, the […]
 LOCATION:Mattress Factory
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260203T190000
+DTEND;TZID=America/New_York:20260203T200000
+DTSTAMP:20260109T050121Z
+UID:3d6abb9a-ed18-11f0-9c98-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-8/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
