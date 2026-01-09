@@ -43846,4 +43846,64 @@ DESCRIPTION:https://cityofasylum.org/program/world-of-music-laurab-spanish-
   call 412-435-1111 to make a reservation.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Member Preview: Lolo y Lauti
+DTSTART:20260306T230000Z
+DTEND:20260307T000000Z
+DTSTAMP:20260109T010107Z
+UID:ae24c96a-ecf6-11f0-9f2e-0242ac110024
+DESCRIPTION:https://mattress.org/events/lolo-y-lauti-mattress-factory-new-e
+ xhibition-opening-2026/\nJoin Mattress Factory artists-in-residence Lolo y
+  Lauti for a special Mattress Factory Member Preview in celebration of the
+ ir latest solo exhibition! Ascend to the fourth floor of 500 […]
+LOCATION:Mattress Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$14.99 Friday Night Special
+DTSTART:20260724T210000Z
+DTEND:20260724T220000Z
+DTSTAMP:20260109T010107Z
+UID:ae274712-ecf6-11f0-9f2e-0242ac110024
+DESCRIPTION:https://mattress.org/events/friday-night-special-3/\nFree for M
+ attress Factory members\, $14.99 general admission. Musical guests announc
+ ed soon! Another Season of Music\, Art + Community at Mattress Factory.  
+ $14.99 Friday Night Specials return for […]
+LOCATION:Mattress Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Member Preview: Amanda Ross-Ho
+DTSTART:20260807T220000Z
+DTEND:20260807T230000Z
+DTSTAMP:20260109T010107Z
+UID:ae296178-ecf6-11f0-9f2e-0242ac110024
+DESCRIPTION:https://mattress.org/events/exhibition-opening-amanda-ross-ho-c
+ ontemporary-art/\nJoin Mattress Factory artist-in-residence Amanda Ross-Ho
+  for a special Mattress Factory member preview in celebration of her lates
+ t solo exhibition! Ascend to the fourth floor of 500 Sampsonia […]
+LOCATION:Mattress Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Member Preview: Akea Brionne
+DTSTART:20261016T220000Z
+DTEND:20261016T230000Z
+DTSTAMP:20260109T010107Z
+UID:ae2b8e8a-ecf6-11f0-9f2e-0242ac110024
+DESCRIPTION:https://mattress.org/events/member-preview-akea-brionne/\nMattr
+ ess Factory presents Akea Brionne in partnership with Pedantic Arts Reside
+ ncy. Join Mattress Factory artist-in-residence Akea Brionne for a special 
+ Mattress Factory member preview in celebration of her […]
+LOCATION:Mattress Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Member Preview: Greer Lankton "Could it be Love"
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+DTSTAMP:20260109T010107Z
+UID:ae2e0a48-ecf6-11f0-9f2e-0242ac110024
+DESCRIPTION:https://mattress.org/events/member-preview-could-it-be-love/\nG
+ reer Lankton: Could It Be Love Curated by Francis Schichtel and Jordan Wei
+ tzman Could It Be Love presents an intimate and powerful photographic sur
+ vey of Greer Lankton (1958–1996)\, the […]
+LOCATION:Mattress Factory
+END:VEVENT
 END:VCALENDAR
