@@ -43941,4 +43941,44 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/pride-preju
  mid so you don’t miss a stitch
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STICKS: A Heated Rivalry Dance Night (Friday)
+DTSTART:20260131T030000Z
+DTEND:20260131T040000Z
+DTSTAMP:20260109T180123Z
+UID:3583ea6a-ed85-11f0-8647-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/sticks-a-heated-rivalry-dance-night-f
+ riday-january-30-2026-653643\n As a last minute addition to THIS MONTH'S p
+ rogramming\, we present a dance party in honor of our favorite yearning lo
+ vers - STICKS: A Heated Rivalry Dance Party!  Just like the boys\, we are 
+ gunna hit this one hard and fast with music from the stellar DJ Rojo!  Fri
+ day's event is SOLD OUT... so we added a second event on Saturday\, Jan 31
+ ! Get your tickets fast before they sell out!  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pentagram String Band
+DTSTART:20260312T230000Z
+DTEND:20260313T000000Z
+DTSTAMP:20260109T180123Z
+UID:3588dbce-ed85-11f0-8647-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/pentagram-string-band/\nThe Pentagr
+ am String Band are a satanic bluegrass band from KCMO. They are suspicious
+  of traditional bluegrass and play a style of gothic folk\, punk\, and thr
+ ash metal. Often involving cannibalism and murder\, their lyrics focus on 
+ themes of satan\, misery\, and the joys of death.\n\nThis Event Is All Age
+ s\nAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enjoy Wrestling presents: The Enjoy Odyssey
+DTSTART:20260314T230000Z
+DTEND:20260315T000000Z
+DTSTAMP:20260109T180123Z
+UID:358cd08a-ed85-11f0-8647-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/the-enjoy-odyssey/\nFeaturing a 30-
+ person over-the-top rope battle royale with an Enjoy Title shot on the lin
+ e.\n\nThis Event Is All Ages
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
