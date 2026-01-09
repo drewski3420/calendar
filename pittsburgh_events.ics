@@ -43916,4 +43916,29 @@ DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
  try-collective-8/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Khamari – To Dry a Tear: Part II
+DTSTART:20260303T010000Z
+DTEND:20260303T020000Z
+DTSTAMP:20260109T160120Z
+UID:702ce1b4-ed74-11f0-ad93-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/khamari/\nThis Event Is All Ages\n*
+ BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticket is 
+ REQUIRED to enter the venue in addition to your Balcony Reservation. Balco
+ ny Area is 21 + Only. For more information on Balcony Upgrades\, click her
+ e.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knit at Night w. Pride and Prejudice
+DTSTART:20260123T113000Z
+DTEND:20260123T123000Z
+DTSTAMP:20260109T160120Z
+UID:70319ba0-ed74-11f0-ad93-0242ac110024
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/pride-preju
+ dice-1-23-26-630-pm/\nBring your yarn\, knitting needles\, and crochet hoo
+ ks to watch an Austen classic while crafting! We’ll leave the lights at 
+ mid so you don’t miss a stitch
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
