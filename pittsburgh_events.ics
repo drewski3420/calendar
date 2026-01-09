@@ -43981,4 +43981,22 @@ DESCRIPTION:https://mrsmalls.com/events/the-enjoy-odyssey/\nFeaturing a 30-
  e.\n\nThis Event Is All Ages
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STICKS: A Heated Rivalry Dance Night (Saturday)
+DTSTART:20260201T030000Z
+DTEND:20260201T040000Z
+DTSTAMP:20260109T190109Z
+UID:8ed4019c-ed8d-11f0-9037-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/sticks-a-heated-rivalry-dance-night-s
+ aturday-january-31-2026-654176\n EDIT: DUE TO POPULAR DEMAND ANOTHER HEATE
+ D RIVALRY PARTY HAS BEEN ADDED JANUARY 31ST!!!  It’s getting hot on Janu
+ ary 31 at STICKS: A Heated Rivalry dance party! We added a last minute dan
+ ce night to this month’s programming to celebrate the hockey show that a
+ bsolutely everyone is talking about. Break the ice and dance the night awa
+ y with your rival turned emotionally unavailable situationship (or maybe m
+ eet a new one here?)   It’s a night full of yearning\, clubby energy\, a
+ nd jock jams spun by Pittsburgh’s best @rojowashere   $7 admission! Part
+ y starts at 10pm. 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
