@@ -44340,4 +44340,19 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-7/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birding Pittsburgh’s Parks: Highland Park
+DTSTART:20260216T130000Z
+DTEND:20260216T140000Z
+DTSTAMP:20260111T200101Z
+UID:40db1768-ef28-11f0-a6d7-0242ac11001a
+DESCRIPTION:https://pittsburghparks.org/event/birding-pittsburghs-parks-hig
+ hland-park-2/?utm_source=rss&utm_medium=rss&utm_campaign=birding-pittsburg
+ hs-parks-highland-park-2\nNew to bird watching? Looking for a group to go 
+ birding with? Join Naturalist Educator Stephen Bucklin in Birding Pittsbur
+ gh’s Parks. Beginners are welcome\, and binoculars will be available for
+ …\nThe post Birding Pittsburgh’s Parks: Highland Park first appeared o
+ n Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
