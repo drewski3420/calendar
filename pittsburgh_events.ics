@@ -44503,4 +44503,37 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/randy-baumanns-ramble/th
  l. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grateful for Bob Weir
+DTSTART:20260117T000000Z
+DTEND:20260117T010000Z
+DTSTAMP:20260112T200110Z
+UID:70f76fb8-eff1-11f0-b7bc-0242ac11001a
+DESCRIPTION:https://mrsmalls.com/events/grateful-for-bob-weir/\nJoin us on 
+ Friday January 16 to celebrate this life and music of the one and only\, B
+ ob Weir. \n\nFeaturing live acoustic performances\, videos\, recordings\, 
+ and a sing-a-long or two.\n\nPlay a song\, tell a story\, show off some me
+ morabilia -- anything you want to share in memory of a true rock and roll 
+ legend!
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powfu Presents: The Lofi Library Tour
+DTSTART:20260421T000000Z
+DTEND:20260421T010000Z
+DTSTAMP:20260112T200111Z
+UID:70fb7982-eff1-11f0-b7bc-0242ac11001a
+DESCRIPTION:https://thunderbirdmusichall.com/event/powfu-presents-the-lofi-
+ library-tour/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nPowfu
+  Presents: The Lofi Library Tour\n \nMonday\, April 20\, 2026Thunderbird 
+ Music Hall4053 Butler Street\, Pittsburgh\, PADoors @ 7pmShow @ 8pmAGE RES
+ TRICTION: 18+ or with Legal Guardian\n \nTicket Tier Info:General Admissi
+ on Tickets – Standing Room Only\nThere are no additional entry protoco
+ ls at this time. Entry requirements are subject to change. By purchasing t
+ ickets to this event you agree to abide by entry requirements in effect a
+ t the time of the event. Check the venue website leading up to your even
+ t for the latest protocols. Please visit https://thunderbirdmusichall.com/
+ safety/ for more information on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
