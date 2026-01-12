@@ -44405,4 +44405,61 @@ DESCRIPTION:70pj0e1j6cqj8b9gc8o68b9kccp3eb9oc4om4b9n6go32db664o3ccpj6c@goog
  ning. \nNO GREEN BEER. >:(
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Airplane! Live with Julie Hagerty and Robert Hays!
+DTSTART:20260529T000000Z
+DTEND:20260529T010000Z
+DTSTAMP:20260112T150059Z
+UID:8188a6aa-efc7-11f0-9e20-0242ac11001a
+DESCRIPTION:https://librarymusichall.com/event/airplane-screening-live-with
+ -director-david-zucker-and-star-robert-hays\nMills Entertainment & Drusky 
+ Entertainment presents:\nAirplane! Live with Julie Hagerty and Robert Hays
+ !\nThursday\, May 28th\, 2026\nDoors: 7:00PM / Show: 8:00PM\nCarnegie of H
+ omestead Music Hall (Munhall\, PA)\n*All tickets subject to day of show pr
+ ice increase. Prices at the ticket link reflect the all-in ticket price (f
+ ace value + fees) - minus any taxes / credit card processing fees.\nThis e
+ vent is recommended for all ages.\nYou ever seen a... screening of the gre
+ atest comedy to ever hit the skies?\nWell surely you’ve seen Airplane! 
+ — but not like this!\nWe have clearance\, Clarence\, to show the beloved
+  comedy classic\, Airplane! on the BIG screen joined live\nby two stars of
+  the film!\nAssuming they don’t have the fish for dinner... Robert Hays 
+ (reluctant pilot “Ted Striker”) and Julie Hagerty\n(flight attendant 
+ “Elaine Dickinson”) will take the stage for a live discussion and Q&A 
+ after the film to share\nbehind-the-scenes stories\, insights\, and person
+ al memories from working on this genre-defining comedy\nmasterpiece.\nSo p
+ ut down that glue\, because SURELY this is the wrong week to miss Robert H
+ ays & Julie Hagerty with a\nscreening of Airplane! (And don't call them Sh
+ irley!)\nAct quick: A limited number of passengers can upgrade to a “Fir
+ st Class” VIP meet & greet experience!\nVIPs will meet Julie Hagerty and
+  Robert Hays\, pose with them for a professionally shot photograph\, and\n
+ receive an autographed tour poster!\nThis post-show VIP opportunity is ava
+ ilable to add on to any ticket purchase while supplies last. The VIP\nadd-
+ on is not valid without an accompanying show ticket and each attendee must
+  have both for entry to the\nVIP.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blob w. Jello Shots
+DTSTART:20260118T122000Z
+DTEND:20260118T132000Z
+DTSTAMP:20260112T150059Z
+UID:818c4864-efc7-11f0-9e20-0242ac11001a
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/the-blob-1-
+ 18-26-720-pm/\nIn case there’s not enough sinister gelatinous goo in thi
+ s 1988 sci fi classic\, come grab a Jello shot at the concession stand bef
+ ore the show. One night only! 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs
+DTSTART:20260122T050000Z
+DTEND:20260122T060000Z
+DTSTAMP:20260112T150059Z
+UID:818ea7a8-efc7-11f0-9e20-0242ac11001a
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/signs/\nA fami
+ ly living on a farm finds mysterious crop circles in their fields which su
+ ggests something more frightening to come. Admission includes a small bott
+ le of water! IYKYK
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
