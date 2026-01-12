@@ -44462,4 +44462,45 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/signs/\nA fami
  le of water! IYKYK
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waylon Wyatt – Everywhere Under The Sun
+DTSTART:20260507T000000Z
+DTEND:20260507T010000Z
+DTSTAMP:20260112T160122Z
+UID:f0f4f3c4-efcf-11f0-b48e-0242ac11001a
+DESCRIPTION:https://mrsmalls.com/events/waylon-wyatt-everywhere-under-the-s
+ un/\nThis Event Is All Ages\n*BALCONY UPGRADE PATRONS* \nPlease note that 
+ a General Admission ticket is REQUIRED to enter the venue in addition to y
+ our Balcony Reservation. Balcony Area is 21 + Only. 25% Gratuity added to 
+ unclosed balcony tabs. For more information on Balcony Upgrades\, click he
+ re.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Randy Baumann’s Ramble
+DTSTART:20260125T010000Z
+DTEND:20260125T020000Z
+DTSTAMP:20260112T160122Z
+UID:f0f82bca-efcf-11f0-b48e-0242ac11001a
+DESCRIPTION:https://thunderbirdmusichall.com/event/randy-baumanns-ramble/th
+ underbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nRandy Baumann and No
+ rsideSaturday January 24\, 2026Thunderbird Music Hall4053 Butler Street\, 
+ Pittsburgh\, PADoors @ 7pmShow @ 8pmAGE RESTRICTION: 21+\nExperience the s
+ pirit of Levon Helm’s legendary Midnight Rambles at “Randall Baumann
+ ’s Ramble\,” a high-energy tribute led by WDVE’s Randy Baumann. Th
+ e Ramble Band—anchored by a fiery horn section—backs a rotating cast o
+ f Pittsburgh’s finest musicians\, delivering powerful\, crowd-raising pe
+ rformances of classics from The Band\, Bob Dylan\, Neil Young\, and beyond
+ .\n \nLineup:\n \nClinton CleggJosh VerbannetsAndre CostelloAddi twiggNa
+ than ZoobGuy RussoJeff TaylorGibson MusiskoVince WylieNick GuckertSarah Si
+ plakMike MindaMax SommervilleJohn Pergal\n\n \nTicket Tier Info:General A
+ dmission Tickets – Standing Room Only\nThere are no additional entry p
+ rotocols at this time. Entry requirements are subject to change. By purcha
+ sing tickets to this event you agree to abide by entry requirements in eff
+ ect at the time of the event. Check the venue website leading up to you
+ r event for the latest protocols. Please visit https://thunderbirdmusichal
+ l.com/safety/ for more information on Covid-19 Safety. All sales are fina
+ l. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
