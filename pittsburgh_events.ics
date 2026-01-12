@@ -44384,4 +44384,25 @@ DESCRIPTION:https://www.poetrymillvale.com/event/dj-stony-montana/\nA multi
  sy on ‘em!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millvale Music Fest
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260515
+DTSTAMP:20260112T060056Z
+UID:0f972a6c-ef7c-11f0-9b6d-0242ac11001a
+DESCRIPTION:chj62eb46or62bb3ccq68b9kcdi68bb268omabb16kq6adpiccr62opnck@goog
+ le.com\nNone
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oops All Snakes St Paddy's Day
+DTSTART:20260317T230000Z
+DTEND:20260318T000000Z
+DTSTAMP:20260112T060056Z
+UID:0f9b0f74-ef7c-11f0-9b6d-0242ac11001a
+DESCRIPTION:70pj0e1j6cqj8b9gc8o68b9kccp3eb9oc4om4b9n6go32db664o3ccpj6c@goog
+ le.com\nTBD\, but probably Harold's is going to be an Irish Pub for an eve
+ ning. \nNO GREEN BEER. >:(
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
