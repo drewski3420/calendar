@@ -44568,4 +44568,17 @@ DESCRIPTION:https://pittsburghparks.org/event/restorative-yoga-frick-enviro
  on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strange Brew (1983) with Trace Brewing
+DTSTART:20260208T010000Z
+DTEND:20260208T020000Z
+DTSTAMP:20260112T220113Z
+UID:364bb822-f002-11f0-b89f-0242ac11001a
+DESCRIPTION:https://trustarts.org/production/105290/strange-brew-1983-with-
+ trace-brewing\nCanada's most famous hosers\, Bob and Doug McKenzie\, get j
+ obs at the Elsinore Brewery\, only to learn that something is rotten with 
+ the state of it.  Trace Brewing will be on hand for this screening\, offer
+ ing free beer with admission!
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
