@@ -44581,4 +44581,42 @@ DESCRIPTION:https://trustarts.org/production/105290/strange-brew-1983-with-
  ing free beer with admission!
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEET CUTE: A Dating Game Show
+DTSTART:20260212T010000Z
+DTEND:20260212T020000Z
+DTSTAMP:20260112T230050Z
+UID:8a4e2dda-f00a-11f0-b527-0242ac11001a
+DESCRIPTION:https://app.opendate.io/e/meet-cute-a-dating-game-show-february
+ -11-2026-654353\n Bottlerocket's famous first date game show MEET CUTE ret
+ urns for anyone feeling lonely this Valentines Day - with special guest KI
+ MMI RHOADES helping us match up single yinzers and sending them on the ult
+ imate first date - LIVE ON STAGE!  Want to find your match or help a frien
+ d find theirs? Fill out the survey to nominate yourself or your single fri
+ end here - All participants get a FREE ticket to attend! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE WEDDING PARTY!
+DTSTART:20260221T010000Z
+DTEND:20260221T020000Z
+DTSTAMP:20260112T230050Z
+UID:8a512076-f00a-11f0-b527-0242ac11001a
+DESCRIPTION:https://app.opendate.io/e/the-wedding-party-february-20-2026-65
+ 3451\n IT'S BACK! THE FAMOUS BOTTLEROCKET WEDDING PARTY RETURNS!  It's eve
+ rything you love about a wedding (a fun band\, a lot of drinking\, lots of
+  dancing\, and family drama) and none of the stuff you don't (drunk uncles
+ \, bad food\, the never-ending cermony\, and lots of speeches) - its the p
+ erfect Pittsburgh wedding\, all you need to do is show up!  We've hired bo
+ th a real life wedding band AND a cast of improvisors who will be IN CHARA
+ CTER as wedding guests ALL NIGHT LONG and interacting with the party! Why 
+ is Aunt Delores so mad at Uncle Bill? They DIDN'T GET AN OPEN BAR??? Why a
+ re all of the guys acting weird about the Bachelor party? Why is SHE weari
+ ng white?!  Find out the answers to all of these questions and more at the
+  only fully interactive improvised dance party this city has ever seen! Or
+  talk to none of those people and just dance! Does this make sense?  And y
+ es\, of course we'll have a Cookie Table!  Join us for the Cocktail Hour a
+ t 8pm. Band starts at 9pm. 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
