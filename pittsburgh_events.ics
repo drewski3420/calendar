@@ -44370,4 +44370,18 @@ DESCRIPTION:https://pittsburghparks.org/event/stewardship-days-hays-woods-p
   appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Thrill w/ DJ Stony Stone
+DTSTART;TZID=America/New_York:20260205T220000
+DTEND;TZID=America/New_York:20260205T230000
+DTSTAMP:20260112T030059Z
+UID:ec4d94ba-ef62-11f0-a438-0242ac11001a
+DESCRIPTION:https://www.poetrymillvale.com/event/dj-stony-montana/\nA multi
+ -genre dance night! Every 1st Thursday of the month. \nIs everything f*cke
+ d? Does everybody suck? Do you not know why you wanna justify ripping some
+ one’s head off? Well DJ Stony Stone has exactly what you need! Every 1st
+  Thursday of the month you can get down with the sickness and pop that p*s
+ sy on ‘em!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
