@@ -44536,4 +44536,36 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/powfu-presents-the-lofi-
  safety/ for more information on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled – Restorative Yoga – Frick Environmental Center
+DTSTART:20260118T190000Z
+DTEND:20260118T200000Z
+DTSTAMP:20260112T210054Z
+UID:c8c6d5a0-eff9-11f0-b441-0242ac11001a
+DESCRIPTION:https://pittsburghparks.org/event/restorative-yoga-frick-enviro
+ nmental-center-4/?utm_source=rss&utm_medium=rss&utm_campaign=restorative-y
+ oga-frick-environmental-center-4\nThis one-hour Restorative Yoga class pro
+ motes physical\, mental and emotional relaxation through deep breathing\, 
+ intentional stillness and classic yoga postures. Appropriate for all level
+ s\, restorative yoga is practiced at a…\nThe post Canceled – Restorati
+ ve Yoga – Frick Environmental Center first appeared on Pittsburgh Parks 
+ Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Restorative Yoga – Frick Environmental Center
+DTSTART:20260222T190000Z
+DTEND:20260222T200000Z
+DTSTAMP:20260112T210054Z
+UID:c8c99b50-eff9-11f0-b441-0242ac11001a
+DESCRIPTION:https://pittsburghparks.org/event/restorative-yoga-frick-enviro
+ nmental-center-4-2026-02-22/2026-02-22/?utm_source=rss&utm_medium=rss&utm_
+ campaign=restorative-yoga-frick-environmental-center-4-2026-02-22\nThis on
+ e-hour Restorative Yoga class promotes physical\, mental and emotional rel
+ axation through deep breathing\, intentional stillness and classic yoga po
+ stures. Appropriate for all levels\, restorative yoga is practiced at a…
+ \nThe post Restorative Yoga – Frick Environmental Center first appeared 
+ on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
