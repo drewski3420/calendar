@@ -44619,4 +44619,17 @@ DESCRIPTION:https://app.opendate.io/e/the-wedding-party-february-20-2026-65
  t 8pm. Band starts at 9pm. 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Open Decks presents: Spin the Wheel\, Spin the Decks
+DTSTART;TZID=America/New_York:20260206T190000
+DTEND;TZID=America/New_York:20260206T200000
+DTSTAMP:20260113T050055Z
+UID:d75be0ae-f03c-11f0-89e8-0242ac11001a
+DESCRIPTION:https://www.poetrymillvale.com/event/pittsburgh-open-decks-pres
+ ents-spin-the-wheel-spin-the-decks/\nA night full of first-time surprise B
+ 2B DJ sets! \nJoin us for an adventurous evening where DJs will spin a whe
+ el of potential suitors for their first ever back-to-back session together
+ .
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
