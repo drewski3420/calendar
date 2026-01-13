@@ -44817,4 +44817,21 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/marc-broussard-2/thunder
  les are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELVIS BINGO: Valentines Day Edition
+DTSTART:20260213T003000Z
+DTEND:20260213T013000Z
+DTSTAMP:20260113T200100Z
+UID:95609680-f0ba-11f0-9435-0242ac11000f
+DESCRIPTION:https://app.opendate.io/e/elvis-bingo-valentines-day-edition-fe
+ bruary-12-2026-653313\n  The King Lives! Elvis is BACK for another round o
+ f the unforgettable\, indescribable\, uncategorizable magic that is ELVIS 
+ BINGO - returning with a special VALENTINES DAY TWIST!  Win Cash\, Win Pri
+ zes\, sing romantic Favorites with Elvis\, and above all - PLAY BINGO. It'
+ s one of our most popular events on the calendar for a reason - we can't r
+ eally describe it\, so just come and see it!  It’s some of the most fun 
+ you can have with Elvis without receiving a marriage license at the end!  
+  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
