@@ -44888,4 +44888,18 @@ DESCRIPTION:https://mrsmalls.com/events/the-back-alley/\nConnor Parente is
  Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stonewall Alliance Hosts Cozy Movie Night
+DTSTART:20260205T230000Z
+DTEND:20260206T000000Z
+DTSTAMP:20260114T200056Z
+UID:bd60fcd2-f183-11f0-a8b2-0242ac11000f
+DESCRIPTION:5t39is30bpjbbe4mmj4lri5ba9@google.com\nJoin us for a cozy movie
+  night with the Stonewall Alliance Social Scene! We will have a social hou
+ r starting at 6:00pm and the movie starting at 7:00pm. Come and make new f
+ riends with our Stonewall social scene community\, and support our friends
+  at Harold's!<br><br>No tickets but please <a href="https://forms.gle/dFe
+ rfVNuKzua1NY88">RSVP HERE</a>
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
