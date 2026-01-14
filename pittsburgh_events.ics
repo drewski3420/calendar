@@ -44849,4 +44849,26 @@ DESCRIPTION:https://www.poetrymillvale.com/event/the-admiral-presents-cines
  unday-movie-night-at-the-lounge/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heath Ledger Appreciation Night with 10 Things I Hate About You
+DTSTART:20260206T122500Z
+DTEND:20260206T132500Z
+DTSTAMP:20260114T160124Z
+UID:46e13282-f162-11f0-8089-0242ac11000f
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/10-things-i
+ -hate-about-you-2-6-26-725-pm/\nRemember and celebrate the late great acto
+ r with trivia\, giveaways and more with this screening of the 90s classic 
+ 10 Things I Hate About You!
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raspberry Night w. Marcel the Shell with Shoes On
+DTSTART:20260211T050000Z
+DTEND:20260211T060000Z
+DTSTAMP:20260114T160124Z
+UID:46e7ff72-f162-11f0-8089-0242ac11000f
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/marcel-the-
+ shell-with-shoes-on-2-11-26-700-pm/\n
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
