@@ -44871,4 +44871,21 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/marcel-the-
  shell-with-shoes-on-2-11-26-700-pm/\n
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Back Alley
+DTSTART:20260329T000000Z
+DTEND:20260329T010000Z
+DTSTAMP:20260114T180101Z
+UID:fc61ff0a-f172-11f0-830c-0242ac11000f
+DESCRIPTION:https://mrsmalls.com/events/the-back-alley/\nConnor Parente is 
+ a young Pittsburgh-based artist with an old sound and poetic lyrics remini
+ scent of artists such as Bob Dylan\, Neil Young\, and Bruce Springsteen. W
+ orking with local musicians such as Rick Witkowski\, Bill Toms\, Danny Goc
+ hnour\, and Dwayne Dolphin (just to name a few)\, he is releasing his debu
+ t album and is excited to bring it to the stage for you with a main band f
+ eaturing Derrick Beattie\, Steve Binsberger\, Jack Breiding\, Jesse Prenti
+ ss\, and Marc Reisman\, as well as a few guest appearances.\n\nThis Event 
+ Is All Ages\nAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
