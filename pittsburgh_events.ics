@@ -44830,4 +44830,13 @@ DESCRIPTION:https://app.opendate.io/e/elvis-bingo-valentines-day-edition-fe
   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planet Euphoria Presents: WHOISJAYE w/ Pretti Panda // Aria Radae
+DTSTART;TZID=America/New_York:20260207T190000
+DTEND;TZID=America/New_York:20260207T200000
+DTSTAMP:20260114T030049Z
+UID:3b39405e-f0f5-11f0-8dda-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/planet-euphoria/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
