@@ -44839,4 +44839,14 @@ UID:3b39405e-f0f5-11f0-8dda-0242ac11000f
 DESCRIPTION:https://www.poetrymillvale.com/event/planet-euphoria/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Admiral Presents: CineSunday - Movie Night at the Lounge
+DTSTART;TZID=America/New_York:20260208T190000
+DTEND;TZID=America/New_York:20260208T200000
+DTSTAMP:20260114T050156Z
+UID:26774b32-f106-11f0-8141-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/the-admiral-presents-cines
+ unday-movie-night-at-the-lounge/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
