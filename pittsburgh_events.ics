@@ -44931,4 +44931,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/secret-sinema-pop-up-the
  y/ for more information on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260209T210000
+DTEND;TZID=America/New_York:20260209T220000
+DTSTAMP:20260115T050124Z
+UID:3d942870-f1cf-11f0-8244-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-46/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
