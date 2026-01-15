@@ -44974,4 +44974,41 @@ DESCRIPTION:https://app.opendate.io/e/trivia-night-february-09-2026-654859\
  ome prizes in between!  Free to play! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andy Hull
+DTSTART:20260401T000000Z
+DTEND:20260401T010000Z
+DTSTAMP:20260115T160111Z
+UID:6930b708-f22b-11f0-bcd6-0242ac11000f
+DESCRIPTION:https://mrsmalls.com/events/andy-hull/\nThis Event Is All Ages\
+ n*BALCONY UPGRADE PATRONS* \nPlease note that a General Admission ticket i
+ s REQUIRED to enter the venue in addition to your Balcony Reservation. Bal
+ cony Area is 21 + Only. For more information on Balcony Upgrades\, click h
+ ere.\nAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fotocrime – SECURITY TOUR
+DTSTART:20260411T000000Z
+DTEND:20260411T010000Z
+DTSTAMP:20260115T160111Z
+UID:69358562-f22b-11f0-bcd6-0242ac11000f
+DESCRIPTION:https://mrsmalls.com/events/fotocrime/\nExploding with melodic 
+ and pummeling industrial-tinged post-punk\, Louisville dark punk stalwarts
+  FOTOCRIME erupt in an unexpectedly aggressive tone on their new album\, S
+ ecurity. This more guitar-driven direction may seem like a pivot\, but to 
+ those in the know it’s inherent in Fotocrime leader Ryan Patterson’s m
+ usical history and DNA. Patterson is a musician\, producer\, visual artist
+ \, and creative force behind Coliseum\, Cat Magic Punks\, Black Cross\, an
+ d Shirt Killer\, amongst many other bands and endeavors.\n\nFormed in 2017
+ \, Fotocrime have released five EPs and four albums\, and on their fifth L
+ P\, 2026’s Security\, Patterson is joined by new members Benjamin Clark 
+ (formerly of Elliott) on guitar and David Cundiff on bass. Filled with tal
+ es of overblown machismo at the nuclear chess board and honest living in a
+  corrupt world\, Security is rife with sentiments of paranoia and impendin
+ g doom. Despite the darkness\, Fotocrime always strikes a chord of elation
+  with their man-vs-machine electronic-meets-organic industrial punk.\n\nTh
+ is Event Is All Ages\nAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
