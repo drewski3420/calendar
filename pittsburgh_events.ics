@@ -45011,4 +45011,14 @@ DESCRIPTION:https://mrsmalls.com/events/fotocrime/\nExploding with melodic
  is Event Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Slam & Open Mic w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260210T190000
+DTEND;TZID=America/New_York:20260210T200000
+DTSTAMP:20260116T030122Z
+UID:a37ba2fe-f287-11f0-88dc-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/steel-city-slam-open-mic-w
+ -pgh-poetry-collective-3/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
