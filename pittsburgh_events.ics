@@ -45291,4 +45291,14 @@ DESCRIPTION:https://mrsmalls.com/events/wild-party/\nPlaying what they call
   Event Is All Ages\nAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260210T220000
+DTEND;TZID=America/New_York:20260210T230000
+DTSTAMP:20260117T040052Z
+UID:1d769cb8-f359-11f0-8392-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 23/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
