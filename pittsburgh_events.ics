@@ -45335,4 +45335,14 @@ DESCRIPTION:https://app.opendate.io/e/bottle-talks-a-lecture-series-march-1
  ! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260211T210000
+DTEND;TZID=America/New_York:20260211T220000
+DTSTAMP:20260118T040046Z
+UID:44859308-f422-11f0-8f2f-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-8/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
