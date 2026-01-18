@@ -45415,4 +45415,21 @@ DESCRIPTION:https://app.opendate.io/e/ex-pilots-gaadge-tour-kickoff-march-0
  Voices\, Pavement\, Built to Spill    
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QRC Open House
+DTSTART;TZID=America/New_York:20260115T180000
+DTEND;TZID=America/New_York:20260115T190000
+DTSTAMP:20260118T220054Z
+UID:28e85ea4-f4b9-11f0-ac44-0242ac11000f
+DESCRIPTION:02a47v20r7adhnrlv1poel6pha@google.com\nJoin the QRC Board for o
+ ur monthly Open House! Want to help with planning or ask questions? Once 
+ a month you can find the board members all in one room!!! It's the perfect
+  time to jump in. Our monthly meetings are held at Harold's Haunt AND vir
+ tually in our discord.  \n\nWant to learn more about QRC? Visit QRCMill
+ vale.org\n\nJoin with Google Meet: https://meet.google.com/pbz-zojx-gzo\nO
+ r dial: (US) +1 803-470-5242 PIN: 902236592#\nMore phone numbers: https://
+ tel.meet/pbz-zojx-gzo?pin=8634611773281&hs=7\n\nLearn more about Meet at: 
+ https://support.google.com/a/users/answer/9282720
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
