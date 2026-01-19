@@ -45465,4 +45465,24 @@ DESCRIPTION:https://app.opendate.io/e/dollar-monday-february-02-2026-653282
  s & other rotating specials    
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Village Dance Party
+DTSTART:20260207T020000Z
+DTEND:20260207T030000Z
+DTSTAMP:20260119T210100Z
+UID:f54832ba-f579-11f0-945d-0242ac11000f
+DESCRIPTION:https://thunderbirdmusichall.com/event/village-dance-party/thun
+ derbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nVillage Dance PartyFri
+ day February 6\, 2026Thunderbird Music Hall4053 Butler Street\, Pittsburgh
+ \, PADoors @ 9pmShow @ 9pmAGE RESTRICTION: 21+\nhttps://www.instagram.com/
+ thevillagepgh/ https://www.instagram.com/ftk.pgh/ \nhttps://www.instagra
+ m.com/dj_kalz/ \n\nTicket Tier Info:General Admission Tickets – Standin
+ g Room Only\nThere are no additional entry protocols at this time. Entry
+  requirements are subject to change. By purchasing tickets to this event y
+ ou agree to abide by entry requirements in effect at the time of the ev
+ ent. Check the venue website leading up to your event for the latest proto
+ cols. Please visit https://thunderbirdmusichall.com/safety/ for more infor
+ mation on Covid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
