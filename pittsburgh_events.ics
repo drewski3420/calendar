@@ -45449,4 +45449,20 @@ DESCRIPTION:https://www.poetrymillvale.com/event/maw-paw/\nOnline tickets l
   share our latest sound!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOLLAR MONDAY
+DTSTART:20260203T010000Z
+DTEND:20260203T020000Z
+DTSTAMP:20260119T200053Z
+UID:8f72c728-f571-11f0-9f1f-0242ac11000f
+DESCRIPTION:https://app.opendate.io/e/dollar-monday-february-02-2026-653282
+ \n  Do you like local music? Do you like cheap beer? Would you like both o
+ f those things together?  Yeah\, we thought so.  DOLLAR MONDAYS - every fi
+ rst Monday of the Month we'll give you 2 handpicked local bands\, $1 beer*
+ \, and no cover. All night. All you've gotta do is show up. Pretty good de
+ al huh?  SPONSORED BY HELLBENDER VINYL!  February Edition with... SAME TYL
+ ER HEAVEN  Doors open at 5pm Music starts at 8pm    *10oz Old German Draft
+ s & other rotating specials    
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
