@@ -45485,4 +45485,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/village-dance-party/thun
  mation on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brexlyn Presents: CineSunday
+DTSTART;TZID=America/New_York:20260125T200000
+DTEND;TZID=America/New_York:20260125T210000
+DTSTAMP:20260119T220057Z
+UID:552699da-f582-11f0-9499-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/brexlyn-presents-cinesunda
+ y/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
