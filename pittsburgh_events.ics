@@ -45432,4 +45432,21 @@ DESCRIPTION:02a47v20r7adhnrlv1poel6pha@google.com\nJoin the QRC Board for o
  https://support.google.com/a/users/answer/9282720
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maw Paw // Rats of Reason
+DTSTART;TZID=America/New_York:20260212T190000
+DTEND;TZID=America/New_York:20260212T200000
+DTSTAMP:20260119T030056Z
+UID:13449534-f4e3-11f0-a880-0242ac11000f
+DESCRIPTION:https://www.poetrymillvale.com/event/maw-paw/\nOnline tickets l
+ ink: https://mawpaw.bandcamp.com/merch/ticket-maw-paw-with-rats-of-reason
+ -february-12-2026. This will result in a will-call list for the door. \nMa
+ w Paw is a band founded by Justin Endler (voice\, guitar) in Pittsburgh 
+ with the making of the 2017 album Secret Music: a collection of songs play
+ ed in solo shows the year prior\, arranged for a rock band. With a second 
+ album in progress and with the very exciting lineup of the Nathans Douds a
+ nd Zoob – on drums and guitar respectively – Maw Paw are excited to
+  share our latest sound!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
