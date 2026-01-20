@@ -45495,4 +45495,17 @@ DESCRIPTION:https://www.poetrymillvale.com/event/brexlyn-presents-cinesunda
  y/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Show & Tell
+DTSTART:20260124T000000Z
+DTEND:20260124T010000Z
+DTSTAMP:20260120T000220Z
+UID:4a417088-f593-11f0-ba30-0242ac11000e
+DESCRIPTION:https://mrsmalls.com/events/show-tell-2/\nYou get 5 minutes to 
+ Show & Tell!Get to know people through their stories!Come to show & tell o
+ r listen\, but even if you don't think you'll sign up\, you might want to 
+ bring something in case the spirit moves you!ENJOY DRINK SPECIALS & SNACKS
+ !FREE! ALL AGES!
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
