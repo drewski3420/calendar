@@ -45577,4 +45577,34 @@ UID:779d00d8-f5c5-11f0-b458-0242ac11000e
 DESCRIPTION:/corey.pisarski/detail/164/1771106400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled – Stewardship Days – Hays Woods Park
+DTSTART:20260120T140000Z
+DTEND:20260120T150000Z
+DTSTAMP:20260120T140111Z
+UID:79fc0ff2-f608-11f0-a75a-0242ac11000e
+DESCRIPTION:https://pittsburghparks.org/event/stewardship-days-hays-woods-p
+ ark-4/?utm_source=rss&utm_medium=rss&utm_campaign=stewardship-days-hays-wo
+ ods-park-4\nHays Woods Park Stewardship Days Ecological Restoration | Inva
+ sive Species Management | Trail Work | Park Clean-up | Entry-garden Care C
+ ontribute to environmental stewardship in Pittsburgh’s brand new 626-acr
+ e urban…\nThe post Canceled – Stewardship Days – Hays Woods Park fir
+ st appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stewardship Days – Hays Woods Park
+DTSTART:20260217T140000Z
+DTEND:20260217T150000Z
+DTSTAMP:20260120T140111Z
+UID:79ffc732-f608-11f0-a75a-0242ac11000e
+DESCRIPTION:https://pittsburghparks.org/event/stewardship-days-hays-woods-p
+ ark-4-2026-02-17/2026-02-17/?utm_source=rss&utm_medium=rss&utm_campaign=st
+ ewardship-days-hays-woods-park-4-2026-02-17\nHays Woods Park Stewardship D
+ ays Ecological Restoration | Invasive Species Management | Trail Work | Pa
+ rk Clean-up | Entry-garden Care Contribute to environmental stewardship in
+  Pittsburgh’s brand new 626-acre urban…\nThe post Stewardship Days –
+  Hays Woods Park first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
