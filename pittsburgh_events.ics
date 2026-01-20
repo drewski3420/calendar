@@ -45531,4 +45531,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/afro-caribbean-party/thu
  r more information on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Stereo w/ DJs Cryptid Yinzer & Dodgeball Danny
+DTSTART;TZID=America/New_York:20260212T220000
+DTEND;TZID=America/New_York:20260212T230000
+DTSTAMP:20260120T050057Z
+UID:01fbed9c-f5bd-11f0-b54a-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/midnight-stereo-w-djs-cryp
+ tid-yinzer-dodgeball-danny-2/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
