@@ -45854,4 +45854,14 @@ DESCRIPTION:https://app.opendate.io/e/dan-docimo-april-03-2026-652706\n  Da
  y to accomodate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keroscenery // Conspiracy Theory
+DTSTART;TZID=America/New_York:20260213T200000
+DTEND;TZID=America/New_York:20260213T210000
+DTSTAMP:20260121T030104Z
+UID:6c9e2f44-f675-11f0-9522-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/keroscenery-conspiracy-the
+ ory/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
