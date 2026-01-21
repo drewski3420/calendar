@@ -46171,4 +46171,27 @@ DESCRIPTION:https://app.opendate.io/e/jessica-michelle-singleton-march-21-2
  s can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELED: Gladlands (But the bar is still open!)
+DTSTART;TZID=America/New_York:20260121T193000
+DTEND;TZID=America/New_York:20260121T203000
+DTSTAMP:20260121T200103Z
+UID:ea824f9c-f703-11f0-83ac-0242ac11000e
+DESCRIPTION:23mbrqvqhrqdfkuj272jgs0acj@google.com\nShannon is out sick toda
+ y\, so we won't be showing Gladlands\, but DON'T WORRY\, the bar will be o
+ pen! Stop in to order bevy's from EFFY! It's Effy's first guest shift\, so
+  be nice! <3
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladlands - Dimension 20
+DTSTART;TZID=America/New_York:20260128T193000
+DTEND;TZID=America/New_York:20260128T203000
+DTSTAMP:20260121T200104Z
+UID:ea883132-f703-11f0-83ac-0242ac11000e
+DESCRIPTION:23mbrqvqhrqdfkuj272jgs0acj@google.com\nForget end times - get r
+ eady for friend times!\n\nJoin us for a weekly watch party of Dimension 20
+ 's Gladlands!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
