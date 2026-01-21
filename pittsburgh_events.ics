@@ -45873,4 +45873,14 @@ UID:3226b44c-f686-11f0-b40b-0242ac11000e
 DESCRIPTION:https://www.poetrymillvale.com/event/samjamwich/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260210T190000
+DTEND;TZID=America/New_York:20260210T200000
+DTSTAMP:20260121T080058Z
+UID:51fc9ab6-f69f-11f0-acc9-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-9/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
