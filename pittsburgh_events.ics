@@ -46194,4 +46194,41 @@ DESCRIPTION:23mbrqvqhrqdfkuj272jgs0acj@google.com\nForget end times - get r
  's Gladlands!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violet's Anti-Valentine's Birthday
+DTSTART:20260214T000000Z
+DTEND:20260214T010000Z
+DTSTAMP:20260121T220107Z
+UID:afe70a6a-f714-11f0-9017-0242ac11000e
+DESCRIPTION:c9j64ohp61h3ab9pckq66b9k6dim2b9o6tj6ab9l6gp30e9o60r3gd1g6s@goog
+ le.com\nViolet (and Maura and Renee in theory) invite you to join us becau
+ se - It's Violet's birthday again! It's also the day before Valentine's Da
+ y. Violet considers herself the anti-cupid\, so her birthday party is all 
+ about how much she hates romance. Join her! It'll be fun! \n\nDoors are a
+ t 7 - meaning that is when the vibe shifts since there are no tickets or c
+ over. Violet will know what you owe her.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lime's Show N' Tell
+DTSTART;TZID=America/New_York:20260218T183000
+DTEND;TZID=America/New_York:20260218T193000
+DTSTAMP:20260121T220107Z
+UID:afea71f0-f714-11f0-9017-0242ac11000e
+DESCRIPTION:isretaeank7r6ar2suctljqm58@google.com\nLime's Show n’ Tell is
+  getting freaky this month! We’re breaking the rules and we will not dis
+ appoint!! \n\nSign-ups at 6:30 \nShow starts at 7
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday the 13th – Occult Café
+DTSTART:20260214T030000Z
+DTEND:20260214T040000Z
+DTSTAMP:20260121T220107Z
+UID:afece7be-f714-11f0-9017-0242ac11000e
+DESCRIPTION:https://mrsmalls.com/events/friday-the-13th-occult-cafe/\nFortu
+ ne Telling\, Tarot Readings\, Ouija & Dark MarketFlash tattoos by Izzy Zap
+ piaCaffeine\, Alcohol\, & Food AvailableThis Event Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
