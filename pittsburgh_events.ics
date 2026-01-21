@@ -45864,4 +45864,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/keroscenery-conspiracy-the
  ory/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SamJAMwich
+DTSTART;TZID=America/New_York:20260214T200000
+DTEND;TZID=America/New_York:20260214T210000
+DTSTAMP:20260121T050107Z
+UID:3226b44c-f686-11f0-b40b-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/samjamwich/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
