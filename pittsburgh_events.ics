@@ -46347,4 +46347,42 @@ DESCRIPTION:https://mrsmalls.com/events/acousticafe-songwriter-series-11/\n
  try‑pop artists.This Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Print It! - The Front Page (1931)
+DTSTART:20260212T010000Z
+DTEND:20260212T020000Z
+DTSTAMP:20260122T220126Z
+UID:e5fc4d4e-f7dd-11f0-a083-0242ac11000e
+DESCRIPTION:https://trustarts.org/production/105416/print-it-the-front-page
+ -1931\nSet in the competitive and cynical world of newspaper reporters\, T
+ HE FRONT PAGE is an historically important and trendsetting film\, with sh
+ arp gags\, crackerjack timing\, and an innovative use of extended takes by
+  director Lewis Milestone.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roxanne (1987) with Valentine's Day chocolate!
+DTSTART:20260215T010000Z
+DTEND:20260215T020000Z
+DTSTAMP:20260122T220126Z
+UID:e5ff6010-f7dd-11f0-a083-0242ac11000e
+DESCRIPTION:https://trustarts.org/production/105443/roxanne-1987-with-valen
+ tines-day-chocolate\nJoin us for a romantic night out with this sweetly de
+ lightful comedy starring Steve Martin. Admission includes a Valentine's Da
+ y chocolate bar!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basement Dwellers Shanty Sing
+DTSTART:20260202T000000Z
+DTEND:20260202T010000Z
+DTSTAMP:20260122T220126Z
+UID:e6016658-f7dd-11f0-a083-0242ac11000e
+DESCRIPTION:https://mrsmalls.com/events/basement-dwellers-shanty-sing-2/\nT
+ his is an open Shanty Sing\, the Shanty person will lead each song\, expla
+ ining how it is sung\, most shanties are call and answer.You don't have to
+  sing along\, but it is strongly encouraged.The Shanty Sing will run from 
+ 7-9pm.Free!This Event Is All Ages.
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
