@@ -46231,4 +46231,18 @@ DESCRIPTION:https://mrsmalls.com/events/friday-the-13th-occult-cafe/\nFortu
  piaCaffeine\, Alcohol\, & Food AvailableThis Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hearth's Warming Eve Party
+DTSTART:20260130T220000Z
+DTEND:20260130T230000Z
+DTSTAMP:20260122T000055Z
+UID:6c85c96c-f725-11f0-b197-0242ac11000e
+DESCRIPTION:6srmcopl6sp30b9m65ij2b9k6gq66b9ockpjgb9k75h68pj169hj2e346o@goog
+ le.com\nA celebration of friendship that warms the hearth and heart. \n\nW
+ e've survived one year. Three to go. \n\nLet us overcome the cold and dark
+  by celebrating this community of support.\n\n5pm - 11pm: Tattoos by Chey\
+ n5pm - 7pm: Cozy Coloring & Cartoons\n7pm - 8pm: Hearth Warming Episodes\n
+ 8pm - 9pm: Friendship Celebration\n9pm - 12am: MLP Dance Party
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
