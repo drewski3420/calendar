@@ -46275,4 +46275,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/girl-after-dark-presents-p
  oetry-after-dark-horror-cinema-at-the-lounge-3/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sugar - Band
+DTSTART:20261011T000000Z
+DTEND:20261011T010000Z
+DTSTAMP:20260122T060057Z
+UID:b80af268-f757-11f0-a769-0242ac11000e
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nSugar - Band
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
