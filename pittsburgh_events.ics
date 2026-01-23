@@ -46398,4 +46398,53 @@ DESCRIPTION:https://mattress.org/events/conversation-with-artistic-director
  …]
 LOCATION:Mattress Factory
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Coven
+DTSTART;TZID=America/New_York:20260212T190000
+DTEND;TZID=America/New_York:20260212T200000
+DTSTAMP:20260123T030103Z
+UID:c11b79a8-f807-11f0-b9c5-0242ac11000e
+DESCRIPTION:t8b5qidlbjqs4ma91iq943ojac_R20251212T000000@google.com\nJoin th
+ e Queer Witches for their monthly meet-up! The coven will be chatting abou
+ t resilience magick and covering the next section of the Tarot Almanac! Yo
+ u'll find them at Quiet Retreat Therapy\, a block or so away from the bar.
+  All are welcome\, 21+. \nJoin the Queer Coven for community building\, k
+ nowledge sharing\, and a fun\, cozy time! \n\n\nThis is a program by the 
+ Queer Resource Center\, Millvale\n\nJoin with Google Meet: https://meet.go
+ ogle.com/kzn-mzrk-fdd\n\nLearn more about Meet at: https://support.google.
+ com/a/users/answer/9282720
+LOCATION:Quiet Retreat Therapy\, 216 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Arrested Development Drag Show
+DTSTART:20260207T010000Z
+DTEND:20260207T020000Z
+DTSTAMP:20260123T030103Z
+UID:c11f6a9a-f807-11f0-b9c5-0242ac11000e
+DESCRIPTION:3utnbqu0plphtrfoea5ftf779l@google.com\n Now the story of a bun
+ ch of broke drag performers who love a stupid tv show\, and the one bar wi
+ th no choice but to let them put on a show for it. It’s Arrested Develop
+ ment: The Drag Show! Join the Bluths for a night of insanity\, tricks illu
+ sions\, laughter\, and\, of course\, bananas. Pop in at Harold’s Haunt o
+ n February 6th\, doors at 8 and show at 9!\n\nWe encourage you to dress up
+  as your favorite characters and references\, the nicher the better! So br
+ ing out your stair car\, hang up your banner\, and get ready to party!  
+ \nAn Eff n Odd Production\n\n$10 cover \n\nDoors at 8\nShow starts at 9
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spoken Word Porn-a-thon Vol VI -  A QRC Fundraiser
+DTSTART:20260207T190000Z
+DTEND:20260207T200000Z
+DTSTAMP:20260123T030103Z
+UID:c121abd4-f807-11f0-b9c5-0242ac11000e
+DESCRIPTION:74q38c1gc8pm4b9n68smcb9k6kqm6b9p70r36bb664om8p1pchhj2e9n6c@goog
+ le.com\nWhat's a better way to raise money for a queer nonprofit than maki
+ ng someone read smutty stories?\n\n$30 irl / $10 virtual - Tickets availab
+ le at porn-a-thon.org\n\n2pm - 8pm: tattoos happening in the shop!\n4pm - 
+ 8pm: SWP Fourplay Happy Hour & Smut Shopping\n7PM - DOORS: Ticket holders 
+ only after this time!\n8pm - 11pm: Show!\n11pm - 1am: AFTER PARTY! Buy. Ri
+ nga. Drinks!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
