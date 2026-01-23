@@ -46510,4 +46510,14 @@ DESCRIPTION:6ti6adpl6spj8bb4cdhm6b9k75i30b9p75i34b9o75ij6db6cko36d1mco@goog
  ate with Chance!  JUST KIDDING (or are we?) See yinz there!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260216T210000
+DTEND;TZID=America/New_York:20260216T220000
+DTSTAMP:20260123T050102Z
+UID:84316d5c-f818-11f0-8a0c-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-47/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
