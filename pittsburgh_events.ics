@@ -46531,4 +46531,43 @@ DESCRIPTION:https://mrsmalls.com/events/the-yeggs-surf-nite/\nSurf Nite wit
  iki Drinks\, Beach Vibes\, Snacks\, and more!FREE!This Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cookies & Comedy Film Festival Block 1: That's Absurd
+DTSTART:20260315T000000Z
+DTEND:20260315T010000Z
+DTSTAMP:20260123T150139Z
+UID:6bc7b7f4-f86c-11f0-9c76-0242ac11000e
+DESCRIPTION:https://trustarts.org/production/105446/cookies-and-comedy-film
+ -festival-block-1-thats-absurd\nBlock 1 of the Cookies & Comedy Film Festi
+ val. 16 films of satire\, parody\, and pure absurdity that refuse to make 
+ sense. Standup comedy by Matty Malloy. Complimentary homemade cookies incl
+ uded.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cookies & Comedy Film Festival Block 2: The Struggle is Real
+DTSTART:20260315T000000Z
+DTEND:20260315T010000Z
+DTSTAMP:20260123T150139Z
+UID:6bcda9c0-f86c-11f0-9c76-0242ac11000e
+DESCRIPTION:https://trustarts.org/production/105450/cookies-and-comedy-film
+ -festival-block-2-the-struggle-is-real\nBlock 2 of the Cookies & Comedy Fi
+ lm Festival. 11 films about characters facing impossible odds\, the hustle
+ \, the grind\, and the chaos. Standup comedy by Mary Warwick. Complimentar
+ y homemade cookies included.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cookies & Comedy Film Festival Block 3: Nothing More Than Feelings
+DTSTART:20260315T000000Z
+DTEND:20260315T010000Z
+DTSTAMP:20260123T150139Z
+UID:6bd004f4-f86c-11f0-9c76-0242ac11000e
+DESCRIPTION:https://trustarts.org/production/105454/cookies-and-comedy-film
+ -festival-block-3-nothing-more-than-feelings\nBlock 3 of the Cookies & Com
+ edy Film Festival. 13 films about love\, longing\, and human connection in
+  all its messy forms. Standup comedy by Mike Zydel. Complimentary homemade
+  cookies included.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
