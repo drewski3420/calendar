@@ -46520,4 +46520,15 @@ DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
  not-france-47/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Yeggs Monthly Surf Night
+DTSTART:20260131T000000Z
+DTEND:20260131T010000Z
+DTSTAMP:20260123T140056Z
+UID:f06690f6-f863-11f0-b23e-0242ac11000e
+DESCRIPTION:https://mrsmalls.com/events/the-yeggs-surf-nite/\nSurf Nite wit
+ h The YeggsEvery Last Friday in the Cafe at Mr. SmallsMusic from 7pm-10pmT
+ iki Drinks\, Beach Vibes\, Snacks\, and more!FREE!This Event Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
