@@ -47073,4 +47073,19 @@ DESCRIPTION:https://trustarts.org/production/105155/steel-city-horror-show\
  es — but which Dr. Gielgud will we meet this time?
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Rescheduled from 1/25 due to snow!) Sunburst School of Music Band 
+ Program Showcase
+DTSTART:20260201T200000Z
+DTEND:20260201T210000Z
+DTSTAMP:20260124T230109Z
+UID:925891ec-f978-11f0-a5f8-0242ac11000e
+DESCRIPTION:https://mrsmalls.com/events/sunburst-showcase/\nStudents from S
+ unburst School of Music’s Band Program take the stage at Mr. Smalls Funh
+ ouse for their end-of-term showcase. These bands have been working on thei
+ r own curated sets of covers and originals and prepping for this moment! F
+ eaturing Korok Radio\, Nemo\, Thundershark\, Ampersand\, Sunburst House Ba
+ nd\, Mega Sea Cows\, and more.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
