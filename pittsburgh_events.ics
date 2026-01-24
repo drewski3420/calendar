@@ -47048,4 +47048,17 @@ DESCRIPTION:https://www.poetrymillvale.com/event/steel-city-slam-open-mic-w
  -pgh-poetry-collective-3/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Importance of Being Earnest
+DTSTART:20260208T180000Z
+DTEND:20260208T190000Z
+DTSTAMP:20260124T050108Z
+UID:b2221e72-f8e1-11f0-a0a2-0242ac11000e
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsscreenings/Being-ea
+ rnest.html\nFebruary 8\, 2026 1:00 PM\n        				        				    A Trivi
+ al Comedy for Serious People!\n        				        				        	          
+               				                                               \n    \nB
+ uy Tickets
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
 END:VCALENDAR
