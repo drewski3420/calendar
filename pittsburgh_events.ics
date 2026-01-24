@@ -47038,4 +47038,14 @@ DESCRIPTION:https://app.opendate.io/e/dog-party-march-25-2026-657247\n  DOG
   is their music hero.    
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Slam & Open Mic w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260217T180000
+DTEND;TZID=America/New_York:20260217T190000
+DTSTAMP:20260124T040108Z
+UID:50441168-f8d9-11f0-bc19-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/steel-city-slam-open-mic-w
+ -pgh-poetry-collective-3/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
