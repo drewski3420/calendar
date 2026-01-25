@@ -47167,4 +47167,14 @@ DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-vampire-s-kiss-februa
  en.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CineSunday
+DTSTART;TZID=America/New_York:20260125T190000
+DTEND;TZID=America/New_York:20260125T200000
+DTSTAMP:20260125T230059Z
+UID:b6f0bace-fa41-11f0-8c8f-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/brexlyn-presents-cinesunda
+ y/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
