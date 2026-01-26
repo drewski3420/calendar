@@ -47177,4 +47177,15 @@ DESCRIPTION:https://www.poetrymillvale.com/event/brexlyn-presents-cinesunda
  y/\n
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Froggy Nights // Radium Girl // Urban Doctors
+DTSTART;TZID=America/New_York:20260218T180000
+DTEND;TZID=America/New_York:20260218T190000
+DTSTAMP:20260126T050055Z
+UID:ff180b68-fa73-11f0-b064-0242ac11000e
+DESCRIPTION:https://www.poetrymillvale.com/event/froggy-nights/\nTix: https
+ ://tickets.venuepilot.com/e/froggy-nights-urban-doctors-2026-02-18-poetry-
+ lounge-millvale-fb92c3
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
