@@ -47188,4 +47188,15 @@ DESCRIPTION:https://www.poetrymillvale.com/event/froggy-nights/\nTix: https
  lounge-millvale-fb92c3
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLOODSPORTS
+DTSTART:20260307T010000Z
+DTEND:20260307T020000Z
+DTSTAMP:20260126T160056Z
+UID:334ceffa-fad0-11f0-8373-0242ac11000e
+DESCRIPTION:https://mrsmalls.com/events/bloodsports/\nbloodsports is a dyna
+ mic rock band from New York City.This Event Is All AgesAll Sales Are Final
+ .
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
