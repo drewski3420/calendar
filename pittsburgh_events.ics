@@ -47655,4 +47655,14 @@ UID:f3773f50-fbfd-11f0-958d-0242ac110024
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nHot Mulligan
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebel Revolver // I Am The Lizard Queen // Foamer
+DTSTART;TZID=America/New_York:20260220T200000
+DTEND;TZID=America/New_York:20260220T210000
+DTSTAMP:20260128T050143Z
+UID:70450410-fc06-11f0-b240-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/rebel-revolver-i-am-the-li
+ zard-queen-foamer/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
