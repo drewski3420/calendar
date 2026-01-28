@@ -47627,4 +47627,14 @@ UID:d54b8fe0-fbe4-11f0-b704-0242ac110024
 DESCRIPTION:1doq1t8cmv5lhvje9cbgnv5dep@google.com\nMore Info Coming Soon!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midwest Emo Night w/ DJ Cryptid Yinzer
+DTSTART;TZID=America/New_York:20260219T220000
+DTEND;TZID=America/New_York:20260219T230000
+DTSTAMP:20260128T030053Z
+UID:8f43a2d8-fbf5-11f0-b460-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/midwest-emo-night-w-dj-cry
+ ptid-yinzer/\n
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
