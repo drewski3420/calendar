@@ -47998,4 +47998,17 @@ DESCRIPTION:https://librarymusichall.com/event/classic-seger-rock-and-roll-
  — a night of music\, memories\, and rock & roll you won’t soon forget.
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV JAM
+DTSTART:20260225T003000Z
+DTEND:20260225T013000Z
+DTSTAMP:20260129T170303Z
+UID:6005829e-fd34-11f0-b7e8-0242ac110024
+DESCRIPTION:https://app.opendate.io/e/improv-jam-february-24-2026-657584\nJ
+ oin us at Bottlerocket for a UCBurgh Improv Jam - folks of all levels are 
+ welcome to join and watch or perform\, hosted by our UCBurgh instructors! 
+ Whether you want to exercise the things you're learning in class\, or see 
+ if you'd be interested in learning more yourself\, all are welcome!
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
