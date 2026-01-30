@@ -48071,4 +48071,52 @@ DESCRIPTION:https://mrsmalls.com/events/the-conspiracy-theory-2/\nThe Consp
  g The Conspiracy Theory album!This Event Is All AgesAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Rescheduled from 1/25 due to snow!) Sunburst School of Music Band 
+ Program Showcase
+DTSTART:20260201T210000Z
+DTEND:20260201T220000Z
+DTSTAMP:20260130T000343Z
+UID:23bc37a2-fd6f-11f0-92b5-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/sunburst-showcase/\nALL PREVIOUS TI
+ CKET BUYERS WILL BE HONORED FOR THIS RESCHEDULED DATE.Students from Sunbur
+ st School of Music’s Band Program take the stage at Mr. Smalls Funhouse 
+ for their end-of-term showcase. These bands have been working on their own
+  curated sets of covers and originals and prepping for this moment! Featur
+ ing Korok Radio\, Nemo\, Thundershark\, Ampersand\, Sunburst House Band\, 
+ Mega Sea Cows\, and more.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sebastian Bach
+DTSTART:20260320T233000Z
+DTEND:20260321T003000Z
+DTSTAMP:20260130T000343Z
+UID:23c095ae-fd6f-11f0-92b5-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/sebastian-bach/\nThis Event Is All 
+ Ages*BALCONY UPGRADE PATRONS*Please note that a General Admission ticket i
+ s REQUIRED to enter the venue in addition to your Balcony Reservation. Bal
+ cony Area is 21 + Only. 25% gratuity added to unclosed tabs. For more info
+ rmation on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Regal Sweet
+DTSTART:20260726T000000Z
+DTEND:20260726T010000Z
+DTSTAMP:20260130T000343Z
+UID:23c2b258-fd6f-11f0-92b5-0242ac110024
+DESCRIPTION:https://thunderbirdmusichall.com/event/the-regal-sweet/thunderb
+ ird-cafe-music-hall/pittsburgh-pennsylvania/\n\nThe Regal Sweet\nwith Guit
+ ar Zack and The Ragged Co.Saturday January 31\, 2026Thunderbird Music Hall
+ 4053 Butler Street\, Pittsburgh\, PADoors @ 7pmShow @ 8pmAGE RESTRICTION: 
+ 21+\n \nTicket Tier Info:General Admission Tickets – Standing Room Only
+ \nThere are no additional entry protocols at this time. Entry requiremen
+ ts are subject to change. By purchasing tickets to this event you agree to
+  abide by entry requirements in effect at the time of the event. Check 
+ the venue website leading up to your event for the latest protocols. Pleas
+ e visit https://thunderbirdmusichall.com/safety/ for more information on C
+ ovid-19 Safety. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
