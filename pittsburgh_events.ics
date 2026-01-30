@@ -48130,4 +48130,39 @@ DESCRIPTION:https://www.poetrymillvale.com/event/donbistarkey-a-celebration
  ville. \n  \nJoin us there!
 LOCATION:None
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pigeons Playing Ping Pong – 2026 Tour (Night 1)
+DTSTART:20260207T003000Z
+DTEND:20260207T013000Z
+DTSTAMP:20260130T070205Z
+UID:960225d0-fda9-11f0-84ad-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/pppp-night-1/\nThis Event Is All Ag
+ es*BALCONY UPGRADE PATRONS*Please note that a General Admission ticket is 
+ REQUIRED to enter the venue in addition to your Balcony Reservation. Balco
+ ny Area is 21 + Only. 25% gratuity added to unclosed tabs. For more inform
+ ation on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pigeons Playing Ping Pong – 2026 Tour (Night 2)
+DTSTART:20260208T003000Z
+DTEND:20260208T013000Z
+DTSTAMP:20260130T070205Z
+UID:9610f952-fda9-11f0-84ad-0242ac110024
+DESCRIPTION:https://mrsmalls.com/events/pppp-night-2/\nThis Event Is All Ag
+ es*BALCONY UPGRADE PATRONS*Please note that a General Admission ticket is 
+ REQUIRED to enter the venue in addition to your Balcony Reservation. Balco
+ ny Area is 21 + Only. 25% gratuity added to unclosed tabs. For more inform
+ ation on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ronnie Weiss
+DTSTART:20260221T213000Z
+DTEND:20260221T223000Z
+DTSTAMP:20260130T070205Z
+UID:9614eca6-fda9-11f0-84ad-0242ac110024
+DESCRIPTION:/corey.pisarski/detail/181/1771709400000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
