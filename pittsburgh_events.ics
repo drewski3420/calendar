@@ -48119,4 +48119,15 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/the-regal-sweet/thunderb
  ovid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLOSED
+DTSTART;TZID=America/New_York:20260222T180000
+DTEND;TZID=America/New_York:20260222T190000
+DTSTAMP:20260130T050157Z
+UID:cd52b57e-fd98-11f0-b93c-0242ac110024
+DESCRIPTION:https://www.poetrymillvale.com/event/donbistarkey-a-celebration
+ -of-life/\nClosed for BENEFIT FOR DON BISTARKEY at Spirit Hall in Lawrence
+ ville. \n  \nJoin us there!
+LOCATION:None
+END:VEVENT
 END:VCALENDAR
