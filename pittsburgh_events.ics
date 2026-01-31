@@ -48324,4 +48324,20 @@ DESCRIPTION:https://app.opendate.io/e/steel-city-super-jam-february-15-2026
  needed.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppets March Madness
+DTSTART:20260328T000000Z
+DTEND:20260328T010000Z
+DTSTAMP:20260131T180134Z
+UID:e158e016-fece-11f0-ad28-0242ac11000a
+DESCRIPTION:https://mrsmalls.com/events/muppets-march-madness/\nIt's time t
+ o play the music\, it's time to light the lights\, IT'S TIME TO ROAST THE 
+ MUPPETS.Muppets March Madness is a parody roast tournament featuring local
+  comedians as your favorite Muppets.Featuring "celebrity judges"\, hijinks
+ \, and opening acts by Envy Sinn\, Evie Sanguine\, and MORE.Audience is we
+ lcomed to join the cast at the official afterparty at the Poetry Lounge at
+  313 North Ave.Buy a ticket today! They won't last forever...This Event Is
+  18+All Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
