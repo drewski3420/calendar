@@ -48467,4 +48467,52 @@ DESCRIPTION:https://app.opendate.io/e/casa-baile-latin-pop-night-february-2
   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Story Pirates Live!
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+DTSTAMP:20260202T150118Z
+UID:072acc58-0048-11f1-a6fa-0242ac11000a
+DESCRIPTION:https://librarymusichall.com/event/story-pirates\nDrusky Entert
+ ainment presents:\nStory Pirates\nSaturday\, May 2nd\, 2026\nDoors: 11:00A
+ M / Show: 12:00PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\n*All t
+ ickets subject to day of show price increase. Prices at the ticket link re
+ flect the all-in ticket price (face value + fees) - minus any taxes / cred
+ it card processing fees.\nThis event is recommended for all ages.\nGet rea
+ dy for Story Pirates Live\, featuring fan-favorite songs from the multi-aw
+ ard winning The Story Pirates Podcast and improvised sketch comedy based o
+ n ideas from kids in the audience. The Story Pirates believe that all kids
+  are creative geniuses\, and they’re ready to prove it with their fast-p
+ aced\, hilarious and inspiring show for the whole family. Featuring Eric f
+ rom The Story Pirates Podcast\, plus a cast of the funniest Story Pirate a
+ ctors\, singers\, and comedians around.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matt Fraser
+DTSTART:20261003T000000Z
+DTEND:20261003T010000Z
+DTSTAMP:20260202T150118Z
+UID:072e896a-0048-11f1-a6fa-0242ac11000a
+DESCRIPTION:https://librarymusichall.com/event/matt-fraser\nDrusky Entertai
+ nment presents:\nMatt Fraser\nFriday\, October 2th\, 2026\nDoors: 7:00PM /
+  Show: 8:00PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\n*All ticke
+ ts subject to day of show price increase. Prices at the ticket link reflec
+ t the all-in ticket price (face value + fees) - minus any taxes / credit c
+ ard processing fees.\nThis event is 18 & up.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shayfer James – The Counterfeit Summoning Tour
+DTSTART:20260515T000000Z
+DTEND:20260515T010000Z
+DTSTAMP:20260202T150118Z
+UID:0730f182-0048-11f1-a6fa-0242ac11000a
+DESCRIPTION:https://mrsmalls.com/events/shayfer-james-2/\nThis Event Is All
+  Ages*BALCONY UPGRADE PATRONS*Please note that a General Admission ticket 
+ is REQUIRED to enter the venue in addition to your Balcony Reservation. Ba
+ lcony Area is 21 + Only. 25% gratuity added to unclosed tabs. For more inf
+ ormation on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
