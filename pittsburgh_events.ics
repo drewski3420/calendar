@@ -48408,4 +48408,19 @@ DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
  25/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mashup: A writing workshop for moms and queers\, self defined\, no 
+ questions!
+DTSTART;TZID=America/New_York:20260225T180000
+DTEND;TZID=America/New_York:20260225T190000
+DTSTAMP:20260202T030155Z
+UID:8840e756-ffe3-11f0-8815-0242ac11000a
+DESCRIPTION:https://www.poetrymillvale.com/event/mashup-a-writing-workshop-
+ for-moms-and-queers-self-defined-no-questions/\nNo experience necessary. \
+ n  \nFacilitated by \nBecca Cooper \nCo-Founder of Bent Queer Writing Sch
+ ool\, Co-Founder of Steel Queer NAt\, Former producer of KVetch. Member of
+  the Steel City Slam Poetry Slam Team (2006) she is an activist and mother
+ .
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
