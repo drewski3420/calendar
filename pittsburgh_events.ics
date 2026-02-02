@@ -48532,4 +48532,20 @@ DESCRIPTION:https://pittsburghparks.org/event/discovery-time-animal-adaptat
  d on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FEC 10 Community Celebration – Frick Environmental Center
+DTSTART:20260418T170000Z
+DTEND:20260418T180000Z
+DTSTAMP:20260202T190912Z
+UID:a8bc5560-006a-11f1-8285-0242ac11000a
+DESCRIPTION:https://pittsburghparks.org/event/fec-10-community-celebration-
+ frick-environmental-center/?utm_source=rss&utm_medium=rss&utm_campaign=fec
+ -10-community-celebration-frick-environmental-center\nCelebrate a decade o
+ f the Frick Environmental Center! Join Parks Conservancy staff and communi
+ ty partners for an afternoon of nature-based activities the whole family c
+ an enjoy\, live music\, local eats\,…\nThe post FEC 10 Community Celebra
+ tion – Frick Environmental Center first appeared on Pittsburgh Parks Con
+ servancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
