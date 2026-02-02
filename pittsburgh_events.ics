@@ -48515,4 +48515,21 @@ DESCRIPTION:https://mrsmalls.com/events/shayfer-james-2/\nThis Event Is All
  ormation on Balcony Upgrades\,click here.All Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discovery Time – Animal Adaptations – Frick Environmental Cente
+ r
+DTSTART:20260315T170000Z
+DTEND:20260315T180000Z
+DTSTAMP:20260202T170250Z
+UID:01bec290-0059-11f1-a5c2-0242ac11000a
+DESCRIPTION:https://pittsburghparks.org/event/discovery-time-animal-adaptat
+ ions-frick-environmental-center/?utm_source=rss&utm_medium=rss&utm_campaig
+ n=discovery-time-animal-adaptations-frick-environmental-center\nStop by th
+ e environmental center classroom between 1:00-3:00 PM for kids activities 
+ related to animal adaptations. Our friends from the National Aviary will b
+ e visiting! Learn about penguin adaptations\, design…\nThe post Discover
+ y Time – Animal Adaptations – Frick Environmental Center first appeare
+ d on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
