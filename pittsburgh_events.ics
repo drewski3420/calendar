@@ -48714,4 +48714,18 @@ DESCRIPTION:https://app.opendate.io/e/aaron-chen-late-march-07-2026-658947\
  s can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ben Harper & The Innocent Criminals
+DTSTART:20260927T000000Z
+DTEND:20260927T010000Z
+DTSTAMP:20260203T160825Z
+UID:9241faf0-011a-11f1-868f-0242ac11000a
+DESCRIPTION:https://mrsmalls.com/events/ben-harper-the-innocent-criminals/\
+ nThis Event Is All Ages*BALCONY UPGRADE PATRONS*Please note that a General
+  Admission ticket is REQUIRED to enter the venue in addition to your Balco
+ ny Reservation. Balcony Area is 21 + Only. 25% gratuity added to unclosed 
+ tabs. For more information on Balcony Upgrades\,click here.All Sales Are F
+ inal.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
