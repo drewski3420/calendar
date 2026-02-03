@@ -48602,4 +48602,14 @@ UID:52834992-009c-11f1-adcc-0242ac11000a
 DESCRIPTION:/corey.pisarski/detail/167/1770328800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260225T210000
+DTEND;TZID=America/New_York:20260225T220000
+DTSTAMP:20260203T050143Z
+UID:6ee59ae2-00bd-11f1-b1e8-0242ac11000a
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-10/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
