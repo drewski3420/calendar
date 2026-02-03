@@ -48593,4 +48593,13 @@ DESCRIPTION:https://pittsburghparks.org/event/galentines-day-love-letters-w
  r first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UPCOMING SHOWS
+DTSTART:20260205T220000Z
+DTEND:20260205T230000Z
+DTSTAMP:20260203T010442Z
+UID:52834992-009c-11f1-adcc-0242ac11000a
+DESCRIPTION:/corey.pisarski/detail/167/1770328800000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
