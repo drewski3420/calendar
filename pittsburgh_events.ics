@@ -49653,73 +49653,6 @@ DESCRIPTION:https://www.poetrymillvale.com/event/the-admiral-presents-saoir
 LOCATION:Poetry Lounge
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Rivalry Night
-DTSTART:20260228T010000Z
-DTEND:20260228T020000Z
-DTSTAMP:20260209T185952Z
-UID:84433c60-05e9-11f1-bf12-0242ac110022
-DESCRIPTION:https://www.stagepittsburgh.com/events/heated-rivalry-night-27-
- february-2026/\nDare to be bold and bring some exemplary life to your Febr
- uary? Here’s something worth checking out when you make your way to Pitt
- sburgh! Club 90s presents an intoxicating evening of amazing parties with 
- Heated Rivalry Night! It’s a terrific way to enjoy dynamic tunes\, meet 
- new people\, spend time with friends\, and kindred spirits! On Friday 27th
-  February 2026\, a wild\, wild evening is in store as Heated Rivalry Night
-  turns up the volume with superb DJ sets\, a plethora of delicious drinks\
- , and company of like minded and cool individuals! It all goes down at the
-  Stage AE and it’s sure to be an epic evening that lasts you great memor
- ies! It’s also promised to be a safe celebratory space! Now that alone i
- s definitely worth the ultra bang for your precious buck! So hurry and joi
- n this wild ride and enjoy a Heated Rivalry Night by scoring your tickets 
- now! Access is available for as low as $72!
-LOCATION:Stage AE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Veil Brides
-DTSTART:20260516T000000Z
-DTEND:20260516T010000Z
-DTSTAMP:20260209T185953Z
-UID:844ba936-05e9-11f1-bf12-0242ac110022
-DESCRIPTION:https://www.stagepittsburgh.com/events/black-veil-brides-15-may
- -2026/\nHow are you going to spend your spring evenings? Working\, lazing 
- off at home\, or doom scrolling? What if an evening filled with the excite
- ment and thrill of madness\, moshing\, mayhem\, and metal music was on off
- er? Would you take the opportunity and turn this spring into the best one 
- of your life? \nWhat if we told you that a genuine glam metal ‘tour de f
- orce’ is about to turn Pittsburgh into a boiling hotpot of theatrical ar
- ena-metal? They are uniqueness\, passion\, and pure brilliance on show - a
- nd they are coming to your neck of the woods this spring! \nSo pull out th
- ose black leathers\, chains\, and black lipstick\, because Black Veil Brid
- es is coming to Stage AE on 15 May 2026 with their North American tour\, a
- longside special guests From Ashes To New\, TX2\, and As December Falls! \
- nTickets are going from as low as $62 and the venue will be at capacity so
- on\, so hit that ‘Get Tickets’ button now to secure your spot for a hi
- gh-octane\, explosive experience!
-LOCATION:Stage AE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hot Mulligan
-DTSTART:20260618T000000Z
-DTEND:20260618T010000Z
-DTSTAMP:20260209T185953Z
-UID:84516e3e-05e9-11f1-bf12-0242ac110022
-DESCRIPTION:https://www.stagepittsburgh.com/events/hot-mulligan-17-june-202
- 6/\nThis summer\, Michigan born emo rock purveyors Hot Mulligan are jumpin
- g on their headlining trek and it happens to include a 15-date treka cross
-  the US! These dynamos are promoting their hot new effort\, The Sound A Bo
- dy Makes When It’s Still! The showdown arrives in Pittsburgh\, Pennsylva
- nia! On Wednesday 17th June 2026\, get set for a thrilling emo rock extrav
- aganza as Hot Mulligan bring the Stage AE to life with fresh new tunes lik
- e “And a Big Load\,” “Monica Lewinskibidi\,” and tons more! Fans c
- an also expect iconic smashers from earlier releases like “Equip Sunglas
- ses\,” “BCKYRD\,” and “How Do You Know\,\,\,” among others!  Thi
- s is a thrilling moment as Hot Mulligan skyrockets into becoming mega head
- liners! It's sure to be a thrilling\, soul filling moment  for all emo and
-  even non emo rockers! Secure tickets by hitting the Get Tickets link! Acc
- ess is available for as low as $65!
-LOCATION:Stage AE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yacht Rock Revue
 DTSTART:20260809T000000Z
 DTEND:20260809T010000Z
@@ -49951,5 +49884,44 @@ DTSTAMP:20260209T185953Z
 UID:84992ba2-05e9-11f1-bf12-0242ac110022
 DESCRIPTION:/corey.pisarski/detail/171/1772928000000\n
 LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED Queer Balladeer - A Shanty Sing
+DTSTART;TZID=America/New_York:20260207T150000
+DTEND;TZID=America/New_York:20260207T160000
+DTSTAMP:20260209T190125Z
+UID:bb20619a-05e9-11f1-8796-0242ac110022
+DESCRIPTION:0np9vai78b91po0k58jm238lqj@google.com\nJoin an all skill levels
+ \, all knowledge levels group singing event for anyone interested in shant
+ ies\, sailing songs\, and pub songs! Come prepared to learn and share trad
+ itional and modern songs! Songs themselves do not need to be explicitly qu
+ eer but we are open to adding or modifying lyrics to suit our tastes. Brin
+ g a tune\, bring an acoustic instrument\, or just bring your own self - we
+  can’t wait to sing along with you!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Millvale Meeting
+DTSTART;TZID=America/New_York:20260203T183000
+DTEND;TZID=America/New_York:20260203T193000
+DTSTAMP:20260209T190125Z
+UID:bb238924-05e9-11f1-8796-0242ac110022
+DESCRIPTION:4c4qc78s5pt0vpkk1sltnobd97@google.com\nJoin with Google Meet: h
+ ttps://meet.google.com/odm-mbjv-qre\n\nLearn more about Meet at: https://s
+ upport.google.com/a/users/answer/9282720
+LOCATION:Millvale Food + Energy Hub\, 112 E Sherman St\, Millvale\, PA 1520
+ 9\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Millvale Meeting
+DTSTART;TZID=America/New_York:20260203T183000
+DTEND;TZID=America/New_York:20260203T193000
+DTSTAMP:20260209T190125Z
+UID:bb294418-05e9-11f1-8796-0242ac110022
+DESCRIPTION:4c4qc78s5pt0vpkk1sltnobd97@google.com\nJoin with Google Meet: h
+ ttps://meet.google.com/odm-mbjv-qre\n\nLearn more about Meet at: https://s
+ upport.google.com/a/users/answer/9282720
+LOCATION:Millvale Food + Energy Hub\, 112 E Sherman St\, Millvale\, PA 1520
+ 9\, USA
 END:VEVENT
 END:VCALENDAR
