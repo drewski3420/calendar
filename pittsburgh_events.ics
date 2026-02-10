@@ -50008,4 +50008,17 @@ UID:89e4cdce-063d-11f1-9a9b-0242ac110022
 DESCRIPTION:https://www.poetrymillvale.com/event/blood-noise/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cookies & Comedy Film Festival Block 1: That's Absurd
+DTSTART:20260314T160000Z
+DTEND:20260314T170000Z
+DTSTAMP:20260210T102912Z
+UID:57873172-066b-11f1-be14-0242ac110022
+DESCRIPTION:https://trustarts.org/production/105446/cookies-and-comedy-film
+ -festival-block-1-thats-absurd\nBlock 1 of the Cookies & Comedy Film Festi
+ val. 16 films of satire\, parody\, and pure absurdity that refuse to make 
+ sense. Standup comedy by Matty Malloy. Complimentary homemade cookies incl
+ uded.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
