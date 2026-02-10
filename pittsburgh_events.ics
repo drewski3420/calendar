@@ -49999,13 +49999,4 @@ DESCRIPTION:https://mrsmalls.com/events/womens-day-concert/\nPhat Man Dee a
  use at Mr Smalls!This Event Is 18+All Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Kid - Band
-DTSTART:20260414T000000Z
-DTEND:20260414T010000Z
-DTSTAMP:20260210T032154Z
-UID:a626d314-062f-11f1-a6b1-0242ac110022
-DESCRIPTION:https://www.stagepittsburgh.com/events/\nGood Kid - Band
-LOCATION:Stage AE
-END:VEVENT
 END:VCALENDAR
