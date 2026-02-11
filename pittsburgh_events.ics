@@ -50094,4 +50094,13 @@ UID:d869dd7c-06f6-11f1-8c9f-0242ac110022
 DESCRIPTION:https://www.poetrymillvale.com/event/the-tells-2/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sickbed // Symington Reed // DJ Poptone
+DTSTART;TZID=America/New_York:20260314T200000
+DTEND;TZID=America/New_York:20260314T210000
+DTSTAMP:20260211T050101Z
+UID:a934cd40-0706-11f1-85d6-0242ac110022
+DESCRIPTION:https://www.poetrymillvale.com/event/sickbed/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
