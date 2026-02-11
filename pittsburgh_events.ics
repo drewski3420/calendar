@@ -50350,4 +50350,41 @@ UID:2f73ed7e-078d-11f1-b2ea-0242ac110022
 DESCRIPTION:/corey.pisarski/detail/195/1770935400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heated Rivalry watch party
+DTSTART:20260215T210000Z
+DTEND:20260215T220000Z
+DTSTAMP:20260211T220109Z
+UID:2c2d984c-0795-11f1-8cd2-0242ac110022
+DESCRIPTION:cli3icr56cpj0b9ocdhjgb9k60p6ab9p68q64bb26ss3co9ncooj4o9i6c@goog
+ le.com\nCome to the cottage with us on 2/15 at Harold’s 5-11. We’ll ha
+ ve themed drinks\, games\, and will playing all episodes of Heated Rivalry
+ ! There may be cookies designed to look like America's Butt
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sharneen & 2ts LOVE FEST 1 YEAR ANNIVERSARY PARTY
+DTSTART:20260214T230000Z
+DTEND:20260215T000000Z
+DTSTAMP:20260211T220109Z
+UID:2c3011da-0795-11f1-8cd2-0242ac110022
+DESCRIPTION:4467rfm3vme7i6kg0fmplfoett@google.com\n Is there a better way 
+ to celebrate Anna Howard Shaw Day than with inside jokes with your favorit
+ e bartenders? Join us for the one year anniversary of Twin Terrors Sharnee
+ n and 2ts officially joining the Harold's Haunt #squad. Pin-the-glasses-on
+ -the-bartender\, candy heart poetry contest\, unhinged dance moves and mor
+ e await in this employ-iversary party. COVER: One (1) cigarette (collectin
+  loosies)\; One (1) shot with a bartender of your choice (yr buying\, than
+ ks)\; or one (1) kiss on the mouth
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freddie Dredd
+DTSTART:20260329T000000Z
+DTEND:20260329T010000Z
+DTSTAMP:20260211T220109Z
+UID:2c328082-0795-11f1-8cd2-0242ac110022
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nFreddie Dredd
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
