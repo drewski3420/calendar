@@ -50066,4 +50066,23 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/all-your-friends-the-ind
  es are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking Back Sunday & Bayside
+DTSTART:20260602T000000Z
+DTEND:20260602T010000Z
+DTSTAMP:20260211T020103Z
+UID:84d4b154-06ed-11f1-9d55-0242ac110022
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nTaking Back Sunday & B
+ ayside
+LOCATION:Stage AE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Black Keys
+DTSTART:20260803T000000Z
+DTEND:20260803T010000Z
+DTSTAMP:20260211T020103Z
+UID:84d8a552-06ed-11f1-9d55-0242ac110022
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nThe Black Keys
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
