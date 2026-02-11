@@ -50103,4 +50103,44 @@ UID:a934cd40-0706-11f1-85d6-0242ac110022
 DESCRIPTION:https://www.poetrymillvale.com/event/sickbed/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vindys
+DTSTART:20260328T000000Z
+DTEND:20260328T010000Z
+DTSTAMP:20260211T150134Z
+UID:8e5b2e7a-075a-11f1-8ce1-0242ac110022
+DESCRIPTION:https://thunderbirdmusichall.com/event/the-vindys-3/thunderbird
+ -cafe-music-hall/pittsburgh-pennsylvania/\n\nTHE VINDYSMcConnell\, Vitullo
+  & ChoeFriday\, March 27\, 2026Thunderbird Music Hall4053 Butler Street\, 
+ Pittsburgh\, PADoors @ 7:00PMShow @ 8:00PMAGE RESTRICTION: 21+https://www.
+ thevindys.com\nAs Ohio Rockers The Vindys prepare to release new music thi
+ s coming year\, they continue to evolve while staying true to their pop\, 
+ rock\, and soul roots. With fresh sounds on the horizon and a national tou
+ r ahead planned for 2026\, their next chapter promises to be their most th
+ rilling yet.\nPat Benatar praises lead singer Jackie Popovec\, saying\, 
+ “She’s amazing. That girl can sing her ass off.” (2023)  Meanwhile\
+ , The Washington Post’s Marc Thiessen included them in his list of The 1
+ 0 Best Concerts I Saw in 2024.  They were also named Cleveland Magazine
+ ’s 2023 Editor’s Pick for “Best Indie Rock Band.”\n\nTicket Tier I
+ nfo:General Admission Tickets – Standing Room Only\nThere are no additio
+ nal entry protocols at this time. Entry requirements are subject to chan
+ ge. By purchasing tickets to this event you agree to abide by entry requir
+ ements in effect at the time of the event. Check the venue website lead
+ ing up to your event for the latest protocols. Please visit https://thunde
+ rbirdmusichall.com/safety/ for more information on Covid-19 Safety. All s
+ ales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T150814Z
+UID:ea7fd5bf-4073-4062-b8eb-a872756b57c8
+SUMMARY:Zwanse Day
+LOCATION:Golden Age Beer Company\, 337 E 8th Ave\, Homestead\, PA 15120\, U
+ SA
+DESCRIPTION:Beer
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
