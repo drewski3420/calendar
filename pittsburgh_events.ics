@@ -50420,4 +50420,17 @@ DESCRIPTION:https://mrsmalls.com/events/cole-chaney-local-honeys/\nThis Eve
  nt Is All AgesAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Arthouse Classics: Sholay (1975) New Restoration
+DTSTART:20260319T000000Z
+DTEND:20260319T010000Z
+DTSTAMP:20260212T190132Z
+UID:3edd2984-0845-11f1-87b5-fa3f588ed5fe
+DESCRIPTION:https://trustarts.org/production/105887/international-arthouse-
+ classics-sholay-1975-new-restoration\nCelebrating 50 years of India's most
+  iconic film\, Sippy Films presents Sholay's original uncut restoration in
+  4k and Dolby 5.1 by Film Heritage Foundation. A landmark of Indian cinema
+  blending an action-thriller\, revenge drama\, comedy and tragedy!
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
