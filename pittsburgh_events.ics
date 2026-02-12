@@ -50397,4 +50397,17 @@ DESCRIPTION:https://www.poetrymillvale.com/event/blax/\nMilwaukee-based hip
  -hop artist’s “Money\, Prayers & Abundance Tour”
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hidden History Trivia Night
+DTSTART:20260312T223000Z
+DTEND:20260312T233000Z
+DTSTAMP:20260212T151144Z
+UID:2463036e-0825-11f1-97aa-fa3f588ed5fe
+DESCRIPTION:https://www.heinzhistorycenter.org/event/hidden-history-trivia-
+ night-03122026/\nStep right up and test your knowledge of weird\, wild\, a
+ nd wonderful stories inspired by Pittsburgh’s past. Join us for a trivia
+  showdown that blends the best of the Pittsburgh’s Hidden…\nThe post 
+ Hidden History Trivia Night appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
