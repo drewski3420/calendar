@@ -50542,4 +50542,18 @@ DESCRIPTION:https://mrsmalls.com/events/suspension-3/\n10-minute plays writ
  cal Arts: Jordan SperanzoThis Event Is All AgesAll Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Act 48 Workshop: Washington and the West Session 1
+DTSTART:20260402T210000Z
+DTEND:20260402T220000Z
+DTSTAMP:20260212T210109Z
+UID:f4e12086-0855-11f1-9d3f-fa3f588ed5fe
+DESCRIPTION:https://www.heinzhistorycenter.org/event/act-48-workshop-washin
+ gton-and-the-west-session-1/\nTeachers are invited to join the Heinz Histo
+ ry Center and George Washington’s Mount Vernon for a hands-on\, two-day 
+ professional development workshop. Hosted at the History Center and Meadow
+ croft Rockshelter and…\nThe post Act 48 Workshop: Washington and the Wes
+ t Session 1 appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
