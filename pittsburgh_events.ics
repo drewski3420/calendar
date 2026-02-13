@@ -50565,4 +50565,14 @@ UID:3c4d3324-0888-11f1-8470-fa3f588ed5fe
 DESCRIPTION:https://www.poetrymillvale.com/event/dereos-roads/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Beer Gut // The Pooks // Ryder
+DTSTART;TZID=America/New_York:20260320T200000
+DTEND;TZID=America/New_York:20260320T210000
+DTSTAMP:20260213T050821Z
+UID:046080e4-089a-11f1-aa4d-fa3f588ed5fe
+DESCRIPTION:https://www.poetrymillvale.com/event/cincinnati-beer-gut-the-po
+ oks/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
