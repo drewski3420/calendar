@@ -50565,4 +50565,19 @@ DESCRIPTION:https://www.poetrymillvale.com/event/cincinnati-beer-gut-the-po
  oks/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animal Encounters at the Schenley Park Visitor Center
+DTSTART:20260403T180000Z
+DTEND:20260403T190000Z
+DTSTAMP:20260214T010215Z
+UID:cdbc82ca-0940-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://pittsburghparks.org/event/animal-encounters-at-the-sche
+ nley-park-visitor-center/2026-04-03/?utm_source=rss&utm_medium=rss&utm_cam
+ paign=animal-encounters-at-the-schenley-park-visitor-center\nStop by the S
+ chenley Park Vistor Center for a live animal meet and greet presented by l
+ ocal wildlife rescues and other local partners. This program is free and o
+ pen to…\nThe post Animal Encounters at the Schenley Park Visitor Center 
+ first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
