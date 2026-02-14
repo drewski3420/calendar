@@ -50580,4 +50580,34 @@ DESCRIPTION:https://pittsburghparks.org/event/animal-encounters-at-the-sche
  first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akeylah Simone & Company
+DTSTART;TZID=America/New_York:20260321T200000
+DTEND;TZID=America/New_York:20260321T210000
+DTSTAMP:20260214T040236Z
+UID:ff51bba2-0959-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://www.poetrymillvale.com/event/akeylah-simone-company/\nA
+ keylah Simone delivers a stunning performance by fusing genres from Rock\,
+  R&B\, Pop & Jazz in an eclectic set of original music.  Her sultry\, sou
+ lful vocals are effective in keeping her audience engaged. Akeylah Simone
+ ’s team puts together a band of professional musicians specific to the n
+ eeds of each booking and market. Each performance is choreographed specifi
+ c to the venue and audience. Akeylah’s ability to produce such a dynamic
+  show has landed her a variety of bookings nationwide since she started pe
+ rforming as a solo artist just two short years ago. Although\, she has bee
+ n singing and performing since her first time on stage at an elementary sc
+ hool talent contest\, and frequenting many stages with her dad\, Bobby Bla
+ ckhat\, over the past 10 years. This past year has been spent focusing on 
+ performing her own original music all over including festivals\, award sho
+ ws\, showcases and private events. \n  \nAkeylah Simone\, from Hampton Ro
+ ads\, VA is just getting her feet wet as a singer\, songwriter\, and now r
+ ecording artist. In just her first year of releasing original music\, she
+ ’s landed 4 songs on the 2021/22 Grammy Ballot and voted Encore’s 2021
+  Best Solo Artist. She was most recently voted ISSA’s 2022 Female Rising
+  Star and Veer Magazine 2022 Best R&B/ Soul Artist. She’s also had numer
+ ous nominations across various publications including Best New Artist (Sou
+ l Tracks Reader’s Choice Awards\,) and Song of the Year & EP of the Year
+  (Veer Awards.)
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
