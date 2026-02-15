@@ -50894,4 +50894,35 @@ DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-march-01-2026-6
  pportive audience! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VAZELINE: a 90s Riot Grrrl\, Punk\, & Alt Dance Party
+DTSTART:20260313T220000Z
+DTEND:20260313T230000Z
+DTSTAMP:20260215T200550Z
+UID:b97f5f8e-0aa9-11f1-9115-9e2cf089a198
+DESCRIPTION:https://app.opendate.io/e/vazeline-a-90s-riot-grrrl-punk-alt-da
+ nce-party-march-13-2026-657135\n IBBT presents Vazeline: A dance party wit
+ h pure 1990s riot grrrl\, punk\, and other alternative\, femme—fronted a
+ cts.   Hosted by Mary Mack & DJ MB with danceable music from Bikini Kill\,
+  Hole\, Elastica\, Bratmobile\, Luscious Jackson\, The Breeders\, Team Dre
+ sch\, Tori Amos\, Hole\, Imani Coppola\, Heavenly\, and many more!  $5 fro
+ m each ticket sold will be donated to the Auto(nomous) Body Shop\, a mobil
+ e mutual aid resource for bodily autonomy & community care.  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Coven
+DTSTART;TZID=America/New_York:20260312T190000
+DTEND;TZID=America/New_York:20260312T200000
+DTSTAMP:20260215T200550Z
+UID:b989e562-0aa9-11f1-9115-9e2cf089a198
+DESCRIPTION:t8b5qidlbjqs4ma91iq943ojac_R20251212T000000@google.com\nEvery 2
+ nd Thursday\, 7pm - 9pm\nJoin the Queer Coven for community building\, kno
+ wledge sharing\, and a fun\, cozy time! \nThis month's topic is Abundance
+ ! \n\nEvery 2nd Thursday we gather\, share our ups and downs from the pre
+ vious month and what we're looking forward to\, and learn a new skill toge
+ ther! \nThis event is 21+\n\nThis is a program by the Queer Resource Cent
+ er\, Millvale
+LOCATION:Quiet Retreat Therapy\, 216 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
