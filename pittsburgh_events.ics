@@ -50925,4 +50925,30 @@ DESCRIPTION:t8b5qidlbjqs4ma91iq943ojac_R20251212T000000@google.com\nEvery 2
  er\, Millvale
 LOCATION:Quiet Retreat Therapy\, 216 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oops All Snakes St Paddy's Day
+DTSTART:20260315T220000Z
+DTEND:20260315T230000Z
+DTSTAMP:20260215T210109Z
+UID:73bdbec0-0ab1-11f1-9115-9e2cf089a198
+DESCRIPTION:70pj0e1j6cqj8b9gc8o68b9kccp3eb9oc4om4b9n6go32db664o3ccpj6c@goog
+ le.com\nTBD\, but probably Harold's is going to be an Irish Pub for an eve
+ ning. \nNO GREEN BEER. >:(
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earth Month Forest Bathing – Frick Park
+DTSTART:20260407T220000Z
+DTEND:20260407T230000Z
+DTSTAMP:20260215T210109Z
+UID:73c05f40-0ab1-11f1-9115-9e2cf089a198
+DESCRIPTION:https://pittsburghparks.org/event/earth-month-forest-bathing-fr
+ ick-park/2026-04-07/?utm_source=rss&utm_medium=rss&utm_campaign=earth-mont
+ h-forest-bathing-frick-park\nIt’s easy to understand how a lovely walk i
+ n the woods can lift your spirits. Forest bathing takes that experience a 
+ step further by encouraging a slow\, mindful connection with…\nThe post 
+ Earth Month Forest Bathing – Frick Park first appeared on Pittsburgh Par
+ ks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
