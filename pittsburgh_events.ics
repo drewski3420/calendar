@@ -50763,4 +50763,20 @@ UID:d1d82456-0984-11f1-a2b8-e693d1edaa33
 DESCRIPTION:/corey.pisarski/detail/198/1772749800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funhouse Film Club: Teenage Wasteland
+DTSTART:20260310T230000Z
+DTEND:20260311T000000Z
+DTSTAMP:20260215T020136Z
+UID:427ff37c-0a12-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://mrsmalls.com/events/funhouse-film-club-teenage-wastelan
+ d/\nRelive your sad sack "woe is me" teen angst years with a screening of 
+ the 1979 Who-inspired mod classic\, Quadrophenia\, along with a mystery fe
+ ature. As always\, shown on VHS!Also in the mix: shorts and vintage traile
+ rs\, snacks and fun movie facts!Each month we have suggested donations for
+  different charities\, orgs or local businesses\, with this edition being 
+ clothing items to Light of Life to help the homeless and those in need.Thi
+ s Event Is 18+
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
