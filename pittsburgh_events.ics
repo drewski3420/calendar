@@ -50842,4 +50842,56 @@ DESCRIPTION:https://trustarts.org/production/105454/cookies-and-comedy-film
   cookies included.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv 201 Class Show
+DTSTART:20260228T180000Z
+DTEND:20260228T190000Z
+DTSTAMP:20260215T180120Z
+UID:5528d3d2-0a98-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-february-28-202
+ 6-635640\n Our students have been learning the ins and outs of UCB improv 
+ in our 201 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv 101 Class Show
+DTSTART:20260228T200000Z
+DTEND:20260228T210000Z
+DTSTAMP:20260215T180120Z
+UID:552b6aac-0a98-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-february-28-202
+ 6-635639\n Our students have been learning the ins and outs of UCB improv 
+ in our 101 class\, and now it's time to show off all they've learned at ou
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 201 CLASS SHOW
+DTSTART:20260301T160000Z
+DTEND:20260301T170000Z
+DTSTAMP:20260215T180120Z
+UID:552da8a8-0a98-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-march-01-2026-6
+ 39353\n Our students have been learning the ins and outs of UCB improv in 
+ our 201 class\, and now it's time to show off all they've learned at our c
+ lass showcase!  This show is FREE\, and open to family\, friends or any su
+ pportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20260301T180000Z
+DTEND:20260301T190000Z
+DTSTAMP:20260215T180120Z
+UID:552feff0-0a98-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-march-01-2026-6
+ 39354\n Our students have been learning the ins and outs of UCB improv in 
+ our 101 class\, and now it's time to show off all they've learned at our c
+ lass showcase!  This show is FREE\, and open to family\, friends or any su
+ pportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
