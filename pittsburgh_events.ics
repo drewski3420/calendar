@@ -50779,4 +50779,41 @@ DESCRIPTION:https://mrsmalls.com/events/funhouse-film-club-teenage-wastelan
  s Event Is 18+
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XGN #66
+DTSTART;TZID=America/New_York:20260325T190000
+DTEND;TZID=America/New_York:20260325T200000
+DTSTAMP:20260215T040553Z
+UID:9f0359ac-0a23-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://www.poetrymillvale.com/event/xgn-66/\nExperimental Guit
+ ar Night
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Your Friends &#8211\; The Indie Dance Party
+DTSTART:20260329T010000Z
+DTEND:20260329T020000Z
+DTSTAMP:20260215T040553Z
+UID:9f0805a6-0a23-11f1-a2b8-e693d1edaa33
+DESCRIPTION:https://thunderbirdmusichall.com/event/all-your-friends-the-ind
+ ie-dance-party/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nAll
+  Your Friends – The Indie Dance Party\n \nSaturday\, March 28\, 2026Thu
+ nderbird Music Hall4053 Butler Street\, Pittsburgh\, PADoors @ 8:00PMShow 
+ @ 8:30PMAGE RESTRICTION: 18+\n \nhttps://www.allyourfriendsindie.com/\nAn
+  indie dance party for the ones who still romanticize a scratched iPod\, A
+ merican Spirits\, and a blurry night scored by Bloc Party and Crystal Cast
+ les. All Your Friends is your basement-floor flashback to the bloghouse\,
+  post-punk revival\, and early Tumblr era — when the jeans were tight\, 
+ the eyeliner was smudged\, and every night felt like a house show turned a
+ fterparty. Expect to move to LCD Soundsystem\, The Rapture\, Foals\, Yeah 
+ Yeah Yeahs\, TV on the Radio\, and that remix you forgot you loved.\nTicke
+ t Tier Info:General Admission Tickets – Standing Room Only\nThere are no
+  additional entry protocols at this time. Entry requirements are subject
+  to change. By purchasing tickets to this event you agree to abide by entr
+ y requirements in effect at the time of the event. Check the venue webs
+ ite leading up to your event for the latest protocols. Please visit https:
+ //thunderbirdmusichall.com/safety/ for more information on Covid-19 Safety
+ . All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
