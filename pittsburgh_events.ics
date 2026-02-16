@@ -51006,4 +51006,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/nate-hadley/\nNate Hadley
  —one whose music isn’t just heard\, but felt.
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desolence Album Release Show
+DTSTART:20260418T230000Z
+DTEND:20260419T000000Z
+DTSTAMP:20260216T160120Z
+UID:bbe58c38-0b50-11f1-be3b-aa4e6ea5cfaa
+DESCRIPTION:https://mrsmalls.com/events/desolence-album-release/\nThis Even
+ t Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
