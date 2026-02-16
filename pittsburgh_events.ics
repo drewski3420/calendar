@@ -51049,4 +51049,26 @@ DESCRIPTION:https://mrsmalls.com/events/acousticafe-songwriter-series-12/\n
  nally WYEP.This Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking Back Sunday
+DTSTART:20260602T000000Z
+DTEND:20260602T010000Z
+DTSTAMP:20260216T210816Z
+UID:9c90131e-0b7b-11f1-be3b-aa4e6ea5cfaa
+DESCRIPTION:https://www.stagepittsburgh.com/events/taking-back-sunday-01-ju
+ ne-2026/\nPittsburgh\, summer is rolling in fast\, and this one promises t
+ o be the hottest one yet! Not because of extreme temperatures\, but becaus
+ e pure grungey\, emo greatness is blowing in with the summer breeze - and 
+ they’re going to crank up the heat! \nThese guys have all your favorite 
+ things: off-the-charts intensity\, raw emotion\, supercharged choruses\, l
+ yrics that hit differently\, heaps of mic-swinging\, slick charisma\, and 
+ some of the best music of the last two-and-something decades! And it’s a
+ ll coming to your neck of the woods! \nThat’s right\, Pittsburgh\, emo j
+ uggernauts Taking Back Sunday is coming to Stage AE on 1 June 2026 with th
+ eir ‘Summer Tour 2026’ and is bringing longtime friends Bayside along 
+ for the ride!\nTickets are priced to go from only $67 - a total steal for 
+ an off-the-charts evening like this\, so hit that ‘Get Tickets’ button
+  now to secure your spot to catch emo royalty live in action!
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
