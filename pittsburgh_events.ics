@@ -51139,4 +51139,19 @@ DESCRIPTION:61rvrbib0uau62ln8l4cr81qq1@google.com\nidk\, folx. You asked fo
  \nCosplay encouraged. \n21+
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Found Family / Sober Sunday - All Ages\, All Sober\, All Day!
+DTSTART;TZID=America/New_York:20260301T170000
+DTEND;TZID=America/New_York:20260301T180000
+DTSTAMP:20260217T200352Z
+UID:c7d979a0-0c3b-11f1-be3b-aa4e6ea5cfaa
+DESCRIPTION:p61c5etfvb7idvppko3vedr14c@google.com\n<b>What if it was spring
+ ?</b><br><br>Every first Sunday\, join us at the Haunt for a sober all-age
+ s day! We'd love you to join our found family! Bring the whole crew! <br>A
+ ll ages! <br><br>In March\, we'll be doing some cozy crafting and dreaming
+  of spring! Come make paper flowers and write notes to loved ones. All age
+ s are welcome!<br>Are you under 18? Bring a guardian or ask us for one whe
+ n you arrive!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
