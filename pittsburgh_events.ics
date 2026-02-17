@@ -51097,4 +51097,32 @@ DESCRIPTION:https://librarymusichall.com/event/gino-vannelli-2\nVIP Soundch
   be released in early 2024.\nSome quick highlights:
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh’s Hidden History: Behind the Curtain
+DTSTART:20260308T180000Z
+DTEND:20260308T190000Z
+DTSTAMP:20260217T170241Z
+UID:784ae75c-0c22-11f1-be3b-aa4e6ea5cfaa
+DESCRIPTION:https://www.heinzhistorycenter.org/event/pittsburghs-hidden-his
+ tory-behind-the-curtain/\nJoin the museum professionals who worked on Pi
+ ttsburgh’s Hidden History for a lively panel exploring the wacky\, weir
+ d\, and wonderful stories that shaped the exhibition. From spooky artifact
+ s and tiny treasures to extraordinary…\nThe post Pittsburgh’s Hidden H
+ istory: Behind the Curtain appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PNC Carousel Opening Day – Schenley Plaza
+DTSTART:20260419T150000Z
+DTEND:20260419T160000Z
+DTSTAMP:20260217T170241Z
+UID:7852b7a2-0c22-11f1-be3b-aa4e6ea5cfaa
+DESCRIPTION:https://pittsburghparks.org/event/pnc-carousel-opening-day-sche
+ nley-plaza/?utm_source=rss&utm_medium=rss&utm_campaign=pnc-carousel-openin
+ g-day-schenley-plaza\nThe PNC Carousel in Schenley Plaza whirls to life fo
+ r another season of family fun! Bring the family and head down to Schenley
+  Plaza for a day filled with FREE…\nThe post PNC Carousel Opening Day 
+ – Schenley Plaza first appeared on Pittsburgh Parks Conservancy.
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
