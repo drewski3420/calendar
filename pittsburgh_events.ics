@@ -51260,4 +51260,71 @@ DESCRIPTION:https://app.opendate.io/e/spring-fling-market-march-22-2026-670
  're vending you get your stuff back though obviously) 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Survivor Watch Party
+DTSTART;TZID=America/New_York:20260304T200000
+DTEND;TZID=America/New_York:20260304T210000
+DTSTAMP:20260218T190610Z
+UID:e338a2e0-0cfc-11f1-9d5d-52b0da6adf07
+DESCRIPTION:cdh66eb56opj2b9o6gpm6b9k71im4bb16kqjgb9j6hij0eb3cdh6adb264@goog
+ le.com\nCALLING ALL SURVIVOR QUEERS! SURVIVOR 50 IS HERE! Come watch with
+  us each week starting on February 25th at 8PM for 13 weeks of the biggest
+  season ever! We have themed drinks\, competitions during commercial break
+ s\, bingo\, hidden immunity idols (WITH A TWIST THIS TIME)\, and more! Win
+  drink tickets and connect with other queer Survivors in our cozy home bar
+ . No Survivor experience needed to have fun!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Survivor Watch Party - Finale
+DTSTART;TZID=America/New_York:20260520T200000
+DTEND;TZID=America/New_York:20260520T210000
+DTSTAMP:20260218T190610Z
+UID:e34216ae-0cfc-11f1-9d5d-52b0da6adf07
+DESCRIPTION:cdh66eb56opj2b9o6gpm6b9k71im4bb16kqjgb9j6hij0eb3cdh6adb264@goog
+ le.com\nCALLING ALL SURVIVOR QUEERS! SURVIVOR 50 IS HERE! Come watch with
+  us each week starting on February 25th at 8PM for 13 weeks of the biggest
+  season ever! We have themed drinks\, competitions during commercial break
+ s\, bingo\, hidden immunity idols (WITH A TWIST THIS TIME)\, and more! Win
+  drink tickets and connect with other queer Survivors in our cozy home bar
+ . No Survivor experience needed to have fun!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National History Day Pittsburgh: Junior Division
+DTSTART:20260321T113000Z
+DTEND:20260321T123000Z
+DTSTAMP:20260218T190610Z
+UID:e349bcf6-0cfc-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.heinzhistorycenter.org/event/national-history-day-p
+ ittsburgh-junior-division/\nThousands of students participate in National 
+ History Day each year. The Heinz History Center is proud to be the regiona
+ l home for this competition\, serving students from Allegheny\, Washington
+ \, Greene\,…\nThe post National History Day Pittsburgh: Junior Division 
+ appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National History Day Pittsburgh: Senior Division
+DTSTART:20260322T113000Z
+DTEND:20260322T123000Z
+DTSTAMP:20260218T190610Z
+UID:e34d846c-0cfc-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.heinzhistorycenter.org/event/national-history-day-p
+ ittsburgh-senior-division/\nThousands of students participate in National 
+ History Day each year. The Heinz History Center is proud to be the regiona
+ l home for this competition\, serving students from Allegheny\, Washington
+ \, Greene\,…\nThe post National History Day Pittsburgh: Senior Division 
+ appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UPCOMING SHOWS
+DTSTART:20260219T220000Z
+DTEND:20260219T230000Z
+DTSTAMP:20260218T190611Z
+UID:e351a3d0-0cfc-11f1-9d5d-52b0da6adf07
+DESCRIPTION:/corey.pisarski/detail/167/1771538400000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
