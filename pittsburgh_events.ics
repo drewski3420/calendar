@@ -51205,4 +51205,20 @@ DESCRIPTION:https://www.stagepittsburgh.com/events/\nYoung The Giant\, Cold
   War Kids & Almost Monday
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOLLAR MONDAY
+DTSTART:20260303T010000Z
+DTEND:20260303T020000Z
+DTSTAMP:20260218T170113Z
+UID:6ea73862-0ceb-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://app.opendate.io/e/dollar-monday-march-02-2026-671045\n 
+  Do you like local music? Do you like cheap beer? Would you like both of t
+ hose things together?  Yeah\, we thought so.  DOLLAR MONDAYS - every first
+  Monday of the Month we'll give you 2 handpicked local bands\, $1 beer*\, 
+ and no cover. All night. All you've gotta do is show up. Pretty good deal 
+ huh?   SPONSORED BY HELLBENDER VINYL!   March Edition with... VIREO FLOWER
+  RANGER   Doors open at 5pm Music starts at 8pm    *10oz Old German Drafts
+  & other rotating specials   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
