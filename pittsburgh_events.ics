@@ -51185,4 +51185,14 @@ UID:0b699e8e-0c87-11f1-9d5d-52b0da6adf07
 DESCRIPTION:https://www.poetrymillvale.com/event/leopold-zimmerman/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryan Bingham & The Texas Gentlemen
+DTSTART:20260523T000000Z
+DTEND:20260523T010000Z
+DTSTAMP:20260218T100659Z
+UID:905097a4-0cb1-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nRyan Bingham & The Tex
+ as Gentlemen
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
