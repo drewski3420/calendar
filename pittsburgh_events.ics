@@ -51154,4 +51154,17 @@ DESCRIPTION:p61c5etfvb7idvppko3vedr14c@google.com\n<b>What if it was spring
  n you arrive!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20260426T170000Z
+DTEND:20260426T180000Z
+DTSTAMP:20260218T020509Z
+UID:40a39bf4-0c6e-11f1-be3b-aa4e6ea5cfaa
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-april-26-2026-6
+ 52173\n Our students have been learning the ins and outs of UCB improv in 
+ our 101 class\, and now it's time to show off all they've learned at our c
+ lass showcase!  This show is FREE\, and open to family\, friends or any su
+ pportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
