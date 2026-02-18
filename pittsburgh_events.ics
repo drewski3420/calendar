@@ -51195,4 +51195,14 @@ DESCRIPTION:https://www.stagepittsburgh.com/events/\nRyan Bingham & The Tex
  as Gentlemen
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young The Giant\, Cold War Kids & Almost Monday
+DTSTART:20260624T000000Z
+DTEND:20260624T010000Z
+DTSTAMP:20260218T112522Z
+UID:83678a4c-0cbc-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nYoung The Giant\, Cold
+  War Kids & Almost Monday
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
