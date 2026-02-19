@@ -51430,4 +51430,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/slappers-n-bangers-9/thu
  ly.Hip Hop. RnB. Party\nFlyer Designed By Mars Motions\n 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Consequence // One Eye Daddies
+DTSTART;TZID=America/New_York:20260404T200000
+DTEND;TZID=America/New_York:20260404T210000
+DTSTAMP:20260219T050101Z
+UID:fc6a4e96-0d4f-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.poetrymillvale.com/event/no-consequence-one-eye-dad
+ dies/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
