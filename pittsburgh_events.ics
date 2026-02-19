@@ -51399,4 +51399,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/weedeater-w-conan-teleki
   more information on Covid-19 Safety. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theresa Musatto and the Veils // Rusty B // Oregon Trails
+DTSTART;TZID=America/New_York:20260403T200000
+DTEND;TZID=America/New_York:20260403T210000
+DTSTAMP:20260219T030142Z
+UID:5196eb56-0d3f-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.poetrymillvale.com/event/theresa-musatto-and-the-ve
+ ils-rusty-b-oregon-trails/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
