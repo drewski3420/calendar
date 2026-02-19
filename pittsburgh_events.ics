@@ -51440,4 +51440,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/no-consequence-one-eye-dad
  dies/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Gavin Dance
+DTSTART:20260615T000000Z
+DTEND:20260615T010000Z
+DTSTAMP:20260219T060505Z
+UID:ef6e8492-0d58-11f1-9d5d-52b0da6adf07
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nDance Gavin Dance
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
