@@ -52207,4 +52207,16 @@ DESCRIPTION:https://www.poetrymillvale.com/event/basic-printer-spirit-of-th
  e-bear/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20260223T003000Z
+DTEND:20260223T013000Z
+DTSTAMP:20260220T103142Z
+UID:590d0858-0e47-11f1-a26a-f28cc4ebd2ac
+DESCRIPTION:https://trustarts.org/production/105702/steel-city-horror-show\
+ nHost Sean Collier will tell you all about our surprise flick\, while the 
+ mysterious Dr. Gielgud returns with in-theater scares and pre-show surpris
+ es — but which Dr. Gielgud will we meet this time?
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
