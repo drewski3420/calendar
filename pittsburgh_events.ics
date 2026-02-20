@@ -52219,4 +52219,19 @@ DESCRIPTION:https://trustarts.org/production/105702/steel-city-horror-show\
  es — but which Dr. Gielgud will we meet this time?
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Wax
+DTSTART:20260514T000000Z
+DTEND:20260514T010000Z
+DTSTAMP:20260220T160659Z
+UID:2fdafc5e-0e76-11f1-a26a-f28cc4ebd2ac
+DESCRIPTION:https://mrsmalls.com/events/dallas-wax/\nDallas Wax is a five-p
+ iece band based in New York City. The band borrows from the spaces of punk
+  rock\, psychedelia\, and the blues while maintaining a unique delivery an
+ d raucous live performance. Dipped in acid and powered by driving guitar r
+ iffs and soulful vocals\, Dallas Wax never fails to conjure an unforgettab
+ le experience for their audience.This Event Is All AgesAll Sales Are Final
+ .
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
