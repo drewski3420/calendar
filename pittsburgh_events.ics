@@ -51469,4 +51469,26 @@ DESCRIPTION:/events-2-1/exploring-maple-flavors-sensory-class-pc2ns\n/event
  s-2-1/exploring-maple-flavors-sensory-class-pc2ns
 LOCATION:Co-nectar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragrant Beeswax Maker Class
+DTSTART:20260221T203000Z
+DTEND:20260221T213000Z
+DTSTAMP:20260220T033037Z
+UID:85cc6252-0e0c-11f1-b986-aed3f7b51801
+DESCRIPTION:https://www.co-nectar.org/events-2-1/exploring-maple-flavors-se
+ nsory-class-pc2ns-pth4d-r2kcs\nhttps://www.co-nectar.org/events-2-1/explor
+ ing-maple-flavors-sensory-class-pc2ns-pth4d-r2kcs
+LOCATION:Co-nectar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maple Tasting Class
+DTSTART:20260301T170000Z
+DTEND:20260301T180000Z
+DTSTAMP:20260220T033037Z
+UID:85cf14ca-0e0c-11f1-b986-aed3f7b51801
+DESCRIPTION:https://www.co-nectar.org/events-2-1/exploring-maple-flavors-se
+ nsory-class-pc2ns\nhttps://www.co-nectar.org/events-2-1/exploring-maple-fl
+ avors-sensory-class-pc2ns
+LOCATION:Co-nectar
+END:VEVENT
 END:VCALENDAR
