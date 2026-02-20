@@ -52197,4 +52197,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/lespecial-tentacle-diffi
  are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Printer // Spirit of the Bear
+DTSTART;TZID=America/New_York:20260405T190000
+DTEND;TZID=America/New_York:20260405T200000
+DTSTAMP:20260220T050609Z
+UID:debec21c-0e19-11f1-a26a-f28cc4ebd2ac
+DESCRIPTION:https://www.poetrymillvale.com/event/basic-printer-spirit-of-th
+ e-bear/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
