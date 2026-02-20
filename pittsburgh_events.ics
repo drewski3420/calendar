@@ -51449,4 +51449,24 @@ UID:ef6e8492-0d58-11f1-9d5d-52b0da6adf07
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nDance Gavin Dance
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260221T220000Z
+DTEND:20260221T230000Z
+DTSTAMP:20260220T031501Z
+UID:58531638-0e0a-11f1-999d-42a03499acbb
+DESCRIPTION:/events-2-1/exploring-maple-flavors-sensory-class-pc2ns-pth4d-r
+ 2kcs\n/events-2-1/exploring-maple-flavors-sensory-class-pc2ns-pth4d-r2kcs
+LOCATION:Co-nectar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260301T183000Z
+DTEND:20260301T193000Z
+DTSTAMP:20260220T031501Z
+UID:5856a58c-0e0a-11f1-999d-42a03499acbb
+DESCRIPTION:/events-2-1/exploring-maple-flavors-sensory-class-pc2ns\n/event
+ s-2-1/exploring-maple-flavors-sensory-class-pc2ns
+LOCATION:Co-nectar
+END:VEVENT
 END:VCALENDAR
