@@ -52461,4 +52461,13 @@ DESCRIPTION:https://app.opendate.io/e/a-wilhelm-scream-at-little-giant-may-
  rent variants\, with CDs\, Tapes\, and Merch available as well.     
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Aliquo & Eric Susoeff
+DTSTART:20260312T213000Z
+DTEND:20260312T223000Z
+DTSTAMP:20260221T060453Z
+UID:3d2a72ca-0eeb-11f1-a26a-f28cc4ebd2ac
+DESCRIPTION:/corey.pisarski/detail/201/1773351000000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
