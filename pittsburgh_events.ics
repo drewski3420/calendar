@@ -52381,4 +52381,13 @@ DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-march-01-2026-6
  pportive audience! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Net Force
+DTSTART;TZID=America/New_York:20260409T190000
+DTEND;TZID=America/New_York:20260409T200000
+DTSTAMP:20260221T040109Z
+UID:f451e7c4-0ed9-11f1-a26a-f28cc4ebd2ac
+DESCRIPTION:https://www.poetrymillvale.com/event/net-force/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
