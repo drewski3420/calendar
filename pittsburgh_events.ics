@@ -52526,4 +52526,13 @@ DESCRIPTION:https://cityofasylum.org/program/world-literature-poet-bertony-
  tion.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Relevant
+DTSTART;TZID=America/New_York:20260410T200000
+DTEND;TZID=America/New_York:20260410T210000
+DTSTAMP:20260222T040222Z
+UID:4a721ec0-0fa3-11f1-a26a-f28cc4ebd2ac
+DESCRIPTION:https://www.poetrymillvale.com/event/still-relevant-2/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
