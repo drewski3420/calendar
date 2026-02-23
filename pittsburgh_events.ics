@@ -52561,4 +52561,13 @@ DESCRIPTION:https://pittsburghparks.org/event/frick-park-bioblitz-city-natu
  enter first appeared on Pittsburgh Parks Conservancy.
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lulu Lamontagne
+DTSTART;TZID=America/New_York:20260411T200000
+DTEND;TZID=America/New_York:20260411T210000
+DTSTAMP:20260223T040440Z
+UID:c6b28aaa-106c-11f1-97eb-aa1c143d3fbf
+DESCRIPTION:https://www.poetrymillvale.com/event/lulu-lamontagne/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
