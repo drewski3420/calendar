@@ -52546,4 +52546,18 @@ UID:c6b28aaa-106c-11f1-97eb-aa1c143d3fbf
 DESCRIPTION:https://www.poetrymillvale.com/event/lulu-lamontagne/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christopher Cross
+DTSTART:20260627T233000Z
+DTEND:20260628T003000Z
+DTSTAMP:20260223T150132Z
+UID:8a035132-10c8-11f1-97eb-aa1c143d3fbf
+DESCRIPTION:https://librarymusichall.com/event/christopher-cross\nDrusky En
+ tertainment presents:\nChristopher Cross\nSaturday June 27th\, 2026\nDoors
+ : 6:30PM / Show: 7:30PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\n
+ *All tickets subject to day of show price increase. Prices at the ticket l
+ ink reflect the all-in ticket price (face value + fees) - minus any taxes 
+ / credit card processing fees.\nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
