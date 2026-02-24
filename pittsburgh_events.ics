@@ -52697,4 +52697,14 @@ DESCRIPTION:https://cityofasylum.org/program/pghwrites-andrew-swensen-yan-p
   wine bar will be available.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trombone Shorty And Orleans Avenue
+DTSTART:20260625T000000Z
+DTEND:20260625T010000Z
+DTSTAMP:20260224T040117Z
+UID:78703fee-1135-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nTrombone Shorty And Or
+ leans Avenue
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
