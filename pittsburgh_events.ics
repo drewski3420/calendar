@@ -52716,4 +52716,15 @@ UID:6f866936-113e-11f1-b00e-967ab75f1bda
 DESCRIPTION:https://www.poetrymillvale.com/event/lokye-2/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elliot Pullen & the Pearl Snaps // Ziggy D of C-Level // Nat Sacco 
+ // ianianian
+DTSTART;TZID=America/New_York:20260401T190000
+DTEND;TZID=America/New_York:20260401T200000
+DTSTAMP:20260224T101359Z
+UID:8951cd94-1169-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://www.poetrymillvale.com/event/elliot-pullen-the-pearl-sn
+ aps-ziggy-d-of-c-level-nat-sacco-ianianian/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
