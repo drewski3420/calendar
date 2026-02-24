@@ -52727,4 +52727,54 @@ DESCRIPTION:https://www.poetrymillvale.com/event/elliot-pullen-the-pearl-sn
  aps-ziggy-d-of-c-level-nat-sacco-ianianian/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patton Oswalt: Effervescent
+DTSTART:20260620T000000Z
+DTEND:20260620T010000Z
+DTSTAMP:20260224T152017Z
+UID:530bc5c0-1194-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://librarymusichall.com/event/patton-oswalt\nDrusky Entert
+ ainment presents:\nPatton Oswalt: Effervescent\nFriday\, June 19th\, 2026\
+ nDoors: 7:00PM / Show: 8:00PM\nCarnegie of Homestead Music Hall (Munhall\,
+  PA)\n*All tickets subject to day of show price increase. Prices at the ti
+ cket link reflect the all-in ticket price (face value + fees) - minus any 
+ taxes / credit card processing fees.\nThis event is recommended for all ag
+ es.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat Power – The Greatest Tour
+DTSTART:20260731T000000Z
+DTEND:20260731T010000Z
+DTSTAMP:20260224T152017Z
+UID:53118f28-1194-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://mrsmalls.com/events/cat-power/\nThis Event Is All Ages*
+ BALCONY UPGRADE PATRONS*Please note that a General Admission ticket is REQ
+ UIRED to enter the venue in addition to your Balcony Reservation. Balcony 
+ Area is 21 + Only. 25% gratuity added to unclosed tabs. For more informati
+ on on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between the Buried and Me: The Blue Nowhere U.S. Tour - Spring 2026
+DTSTART:20260522T000000Z
+DTEND:20260522T010000Z
+DTSTAMP:20260224T152017Z
+UID:53142594-1194-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://www.ticketmaster.com/between-the-buried-and-me-the-mcke
+ es-rocks-pennsylvania-05-21-2026/event/16006452CD7EBCF9\nBetween the Burie
+ d and Me: The Blue Nowhere U.S. Tour - Spring 2026
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Like a Star: Celebrating 20 Years of Corinne Bailey Rae
+DTSTART:20260604T000000Z
+DTEND:20260604T010000Z
+DTSTAMP:20260224T152017Z
+UID:531701e2-1194-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://www.ticketmaster.com/like-a-star-celebrating-20-years-m
+ ckees-rocks-pennsylvania-06-03-2026/event/16006454A6BBA4A8\nLike a Star: C
+ elebrating 20 Years of Corinne Bailey Rae
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
