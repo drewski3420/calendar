@@ -52777,4 +52777,29 @@ DESCRIPTION:https://www.ticketmaster.com/like-a-star-celebrating-20-years-m
  elebrating 20 Years of Corinne Bailey Rae
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cheerleader Roadkill
+DTSTART:20260426T000000Z
+DTEND:20260426T010000Z
+DTSTAMP:20260224T170123Z
+UID:729785f6-11a2-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://mrsmalls.com/events/cheerleader-roadkill/\nCheerleader 
+ Roadkill is a pop punk band located in the western suburbs of Chicago. Fou
+ nded in 2022\, they began writing songs in lead vocalist and guitarist Noe
+ l Kovac's garage. Along with bassist Jack Metz\, they attempted to find a 
+ drummer\, soon settling on one of their peers\, Jesse Ortega.This Event Is
+  All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:party iconic presents: HEATED RIVALRY NIGHT (18+)
+DTSTART:20260328T000000Z
+DTEND:20260328T010000Z
+DTSTAMP:20260224T170123Z
+UID:729addbe-11a2-11f1-b00e-967ab75f1bda
+DESCRIPTION:https://www.ticketmaster.com/party-iconic-presents-heated-rival
+ ry-night-mckees-rocks-pennsylvania-03-27-2026/event/160064510218D160\npart
+ y iconic presents: HEATED RIVALRY NIGHT (18+)
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
