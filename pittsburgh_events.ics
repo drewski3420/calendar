@@ -116495,4 +116495,24 @@ DESCRIPTION:https://trustarts.org/production/109191/gregg-allman-the-music-
   addiction and hard-won redemption.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art House Theater Day: Car Wash (1976) 50th Anniversary
+DTSTART:20260730T040000Z
+DTEND:20260730T050000Z
+DTSTAMP:20260704T150815Z
+UID:2e75bc8e-77ba-11f1-a896-ba7a2e570787
+DESCRIPTION:https://citytheatre.culturaldistrict.org/production/109172/art-
+ house-theater-day-car-wash-1976-50th-anniversary\n
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art House Theater Day: 40 Watts From Nowhere
+DTSTART:20260730T040000Z
+DTEND:20260730T050000Z
+DTSTAMP:20260704T150815Z
+UID:2e7d9bd4-77ba-11f1-a896-ba7a2e570787
+DESCRIPTION:https://citytheatre.culturaldistrict.org/production/109175/art-
+ house-theater-day-40-watts-from-nowhere\n
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
