@@ -116444,4 +116444,55 @@ DESCRIPTION:https://app.opendate.io/e/sarah-squirm-sunday-august-16-2026-71
    More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art House Theater Day: Car Wash (1976) 50th Anniversary
+DTSTART:20260731T000000Z
+DTEND:20260731T010000Z
+DTSTAMP:20260704T000231Z
+UID:a7442436-773b-11f1-9658-9e9e635c43f9
+DESCRIPTION:https://trustarts.org/production/109172/art-house-theater-day-c
+ ar-wash-1976-50th-anniversary\nCome celebrate Art House Theater day with a
+  special 50th anniversary screening of this classic cult comedy in a new 4
+ K restoration!  Poster raffles\, sneak peaks of upcoming programming\, fre
+ e popcorn and more!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art House Theater Day: 40 Watts From Nowhere
+DTSTART:20260731T000000Z
+DTEND:20260731T010000Z
+DTSTAMP:20260704T000231Z
+UID:a7490172-773b-11f1-9658-9e9e635c43f9
+DESCRIPTION:https://trustarts.org/production/109175/art-house-theater-day-4
+ 0-watts-from-nowhere\nCelebrate Art House Theater Day with us! Based aroun
+ d vintage footage of pirate radio station KBLT is the story of a young wom
+ an who loved music but hated commercial radio. Poster raffles\, sneak peak
+ s of upcoming programming\, free popcorn and more!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20260803T000000Z
+DTEND:20260803T010000Z
+DTSTAMP:20260704T000231Z
+UID:a74c5930-773b-11f1-9658-9e9e635c43f9
+DESCRIPTION:https://trustarts.org/production/109193/steel-city-horror-show\
+ nHost Sean Collier will tell you all about our surprise flick\, while the 
+ mysterious Dr. Gielgud returns with in-theater scares and pre-show surpris
+ es — but which Dr. Gielgud will we meet this time?
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gregg Allman: The Music of my Soul
+DTSTART:20260819T000000Z
+DTEND:20260819T010000Z
+DTSTAMP:20260704T000231Z
+UID:a74fac5c-773b-11f1-9658-9e9e635c43f9
+DESCRIPTION:https://trustarts.org/production/109191/gregg-allman-the-music-
+ of-my-soul\nFrom award-winning filmmaker James Keach\, this documentary ex
+ plores the groundbreaking life and work of Allman Brothers Band co-founder
+  Gregg Allman through the loss of his brother\, Duane\, his struggles with
+  addiction and hard-won redemption.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
