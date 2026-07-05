@@ -116550,4 +116550,17 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/painting-with-paul
  -x6l7j\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlie's Charms
+DTSTART;TZID=America/New_York:20260806T180000
+DTEND;TZID=America/New_York:20260806T190000
+DTSTAMP:20260705T190712Z
+UID:ba4eef10-78a4-11f1-a896-ba7a2e570787
+DESCRIPTION:4oo65c7d688855rrlelf9it4cs_R20260806T220000@google.com\nA commu
+ nity closet and skill share focused on femme stylings for anybody interest
+ ed in trying new styles and learning new skills!\n\nFirst Thursday of ever
+ y month!\n\n18+\nFree entry\, donations of clothing and accessories welco
+ me!
+LOCATION:Harold's Haunt
+END:VEVENT
 END:VCALENDAR
