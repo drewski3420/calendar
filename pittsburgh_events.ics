@@ -116540,4 +116540,14 @@ DESCRIPTION:https://app.opendate.io/e/90-s-class-reunion-party-july-25-2026
   of those things! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Painting with Paul
+DTSTART:20260712T200000Z
+DTEND:20260712T210000Z
+DTSTAMP:20260705T150217Z
+UID:837622a0-7882-11f1-a896-ba7a2e570787
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/painting-with-paul
+ -x6l7j\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
