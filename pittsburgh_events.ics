@@ -116682,4 +116682,15 @@ DESCRIPTION:https://mrsmalls.com/events/greggy_oke-special-edition/\nGreggy
  FUNFREE! ALL AGES!
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celestial Bodies: LEO SZN
+DTSTART:20260725T020000Z
+DTEND:20260725T030000Z
+DTSTAMP:20260706T190205Z
+UID:2df767ee-796d-11f1-a896-ba7a2e570787
+DESCRIPTION:https://www.spiritpgh.com//calendar/2025/1/25/celestial-bodies-
+ aquarius-szn-wca5j-sl5sy-8d2z9-ef7ky-axrg5-jj45a-w9nbz-p49px-bbtf7-d8pl7-h
+ 7b64-jfyp8-d5mn5-537ah\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
