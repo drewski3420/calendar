@@ -116563,4 +116563,18 @@ DESCRIPTION:4oo65c7d688855rrlelf9it4cs_R20260806T220000@google.com\nA commu
  me!
 LOCATION:Harold's Haunt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indie Rock Musicians Needed!
+DTSTART:20260710T230000Z
+DTEND:20260711T000000Z
+DTSTAMP:20260706T140619Z
+UID:dcb66e62-7943-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://mrsmalls.com/events/indie-rock-musicians-needed/\nINDIE
+  ROCK & POP MUSICIANS NEEDED!---------------------------------------------
+ ------~ Come meet other Indie Rock & Pop musicians and make new friends & 
+ connections!~ Find your next drummer/guitarist/bassist/vocalist!~ Start a 
+ band!AND STAY FOR CITY PAPER BEST KARAOKE WINNER GREGGY_OKE KARAOKE 9-12PM
+ DRINK SPECIALS / PRIZES / FUN
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
