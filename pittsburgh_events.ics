@@ -116703,4 +116703,30 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/11/spirit-old-school
  \n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 401 CLASS SHOW #1
+DTSTART:20260711T150000Z
+DTEND:20260711T160000Z
+DTSTAMP:20260706T210137Z
+UID:e11bb770-797d-11f1-a896-ba7a2e570787
+DESCRIPTION:https://app.opendate.io/e/improv-401-class-show-1-july-11-2026-
+ 682088\n Our students have been learning the ins and outs of UCB improv in
+  our 401 class\, and now it's time to show off all they've learned at our 
+ class showcase!  This show is FREE\, and open to family\, friends or any s
+ upportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 301 CLASS SHOW
+DTSTART:20260711T170000Z
+DTEND:20260711T180000Z
+DTSTAMP:20260706T210138Z
+UID:e120850c-797d-11f1-a896-ba7a2e570787
+DESCRIPTION:https://app.opendate.io/e/improv-301-class-show-july-11-2026-67
+ 1058\n Our students have been learning the ins and outs of UCB improv in o
+ ur 301 class\, and now it's time to show off all they've learned at our cl
+ ass showcase!  This show is FREE\, and open to family\, friends or any sup
+ portive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
