@@ -116738,4 +116738,20 @@ UID:ecc00046-799f-11f1-a896-ba7a2e570787
 DESCRIPTION:https://www.poetrymillvale.com/event/private-party-closed/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BEST OF THE WORST (at Little Giant)
+DTSTART:20260816T230000Z
+DTEND:20260817T000000Z
+DTSTAMP:20260707T020219Z
+UID:e2f1904a-79a7-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://app.opendate.io/e/the-best-of-the-worst-at-little-giant
+ -august-16-2026-718648\n  THIS SHOW IS AT LITTLE GIANT LOCATED BEHIND BOTT
+ LEROCKET AT 100 ASTEROID WAY  THE BEST OF THE WORST with support from FUCK
+  YEAH\, DINOSAURS! THE BOOK CLUB  $12 ADV / $15 DOS 7PM DOORS / 8PM MUSIC 
+ ALL AGES  for fans of... Operation Ivy\, The Suicide Machines\, Kill Linco
+ ln  BIO: The Best of the Worst are a ska-core band from New Jersey current
+ ly signed to Bad Time Records. They previously played at Bottlerocket on t
+ he sold out Big D and the Kids Tables / Kill Lincoln show last year.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
