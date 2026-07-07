@@ -116729,4 +116729,13 @@ DESCRIPTION:https://app.opendate.io/e/improv-301-class-show-july-11-2026-67
  portive audience! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Private Party - Closed
+DTSTART;TZID=America/New_York:20260822T180000
+DTEND;TZID=America/New_York:20260822T190000
+DTSTAMP:20260707T010520Z
+UID:ecc00046-799f-11f1-a896-ba7a2e570787
+DESCRIPTION:https://www.poetrymillvale.com/event/private-party-closed/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
