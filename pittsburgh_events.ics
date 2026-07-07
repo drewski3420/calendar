@@ -116754,4 +116754,24 @@ DESCRIPTION:https://app.opendate.io/e/the-best-of-the-worst-at-little-giant
  he sold out Big D and the Kids Tables / Kill Lincoln show last year.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suicidal Tendencies
+DTSTART:20260902T000000Z
+DTEND:20260902T010000Z
+DTSTAMP:20260707T140212Z
+UID:73fae348-7a0c-11f1-a896-ba7a2e570787
+DESCRIPTION:https://www.ticketmaster.com/suicidal-tendencies-mckees-rocks-p
+ ennsylvania-09-01-2026/event/160064E2BC6DB951\nSuicidal Tendencies
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35 YEARS OF GRUNGE
+DTSTART:20261122T010000Z
+DTEND:20261122T020000Z
+DTSTAMP:20260707T140212Z
+UID:73fffbee-7a0c-11f1-a896-ba7a2e570787
+DESCRIPTION:https://www.ticketmaster.com/35-years-of-grunge-mckees-rocks-pe
+ nnsylvania-11-21-2026/event/160064E1DB3C21CA\n35 YEARS OF GRUNGE
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
