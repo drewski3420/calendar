@@ -116936,4 +116936,29 @@ UID:adcb27cc-7a3e-11f1-a896-ba7a2e570787
 DESCRIPTION:5j2joi8rt8bilp08g42bf2a8uq@google.com\nNone
 LOCATION:Harold's Haunt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENBEATZ: Cosplay Edition
+DTSTART:20260726T000000Z
+DTEND:20260726T010000Z
+DTSTAMP:20260707T230143Z
+UID:d27b5a2e-7a57-11f1-83f5-ba7a2e570787
+DESCRIPTION:6t9j5btp1kfn5s27bmdnps05ff@google.com\nENBEATZ: Pittsburgh's No
+ n-Binary Dancy Party: Cosplay Edition\n\nMusic by Faerie Fey & Bathhouse A
+ ngel
+LOCATION:Harold's Haunt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multi-Media Mania!
+DTSTART:20260725T013000Z
+DTEND:20260725T023000Z
+DTSTAMP:20260707T230143Z
+UID:d28064a6-7a57-11f1-83f5-ba7a2e570787
+DESCRIPTION:17t35ebsuqgto04m0j4c71m5l3@google.com\nA drag show that goes be
+ yond the stage. 💥✨ This one-of-a-kind projector drag experience blend
+ s performance\, visuals\, and pure creativity into something sexy\, strang
+ e\, and unforgettable.\n\nInspired by boundary-pushing artists like Sasha 
+ Velour\, this show is about risk\, reinvention\, and drag as art that can 
+ take any shape.\n\nCall time 8:30\nDoors 8:30\nShowtime 9:30\nEnd 10:30
+LOCATION:Harold's Haunt
+END:VEVENT
 END:VCALENDAR
