@@ -117035,4 +117035,20 @@ DESCRIPTION:https://tickets.citywinery.com/event/abby-lee-miller-spills-the
  n a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Coven
+DTSTART;TZID=America/New_York:20260709T190000
+DTEND;TZID=America/New_York:20260709T200000
+DTSTAMP:20260708T050614Z
+UID:beaea4fa-7a8a-11f1-83f5-ba7a2e570787
+DESCRIPTION:t8b5qidlbjqs4ma91iq943ojac_R20260709T230000@google.com\nEvery 2
+ nd Thursday\, 7pm - 9pm\nJoin the Queer Coven for community building\, kno
+ wledge sharing\, and a fun\, cozy time! \n\nEvery 2nd Thursday we gather\
+ , share our ups and downs from the previous month and what we're looking f
+ orward to\, and learn a new skill together! \nThis event is 21+\n\nThis i
+ s a program by the Queer Resource Center\, Millvale\n\nJoin with Google Me
+ et: https://meet.google.com/kzn-mzrk-fdd\n\nLearn more about Meet at: http
+ s://support.google.com/a/users/answer/9282720
+LOCATION:Quiet Retreat Therapy\, 216 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
