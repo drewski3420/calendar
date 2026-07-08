@@ -117199,4 +117199,15 @@ DESCRIPTION:https://cityofasylum.org/program/world-of-music-las-anez/\nPhot
  nTable or call 412-435-1111 to make a reservation.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earl Sweatshirt & MIKE - Home on the Range Tour
+DTSTART:20261019T000000Z
+DTEND:20261019T010000Z
+DTSTAMP:20260708T180220Z
+UID:29b4f864-7af7-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-m
+ ckees-rocks-pennsylvania-10-18-2026/event/16006466D2DFD9FC\nEarl Sweatshir
+ t & MIKE - Home on the Range Tour
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
