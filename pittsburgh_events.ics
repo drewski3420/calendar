@@ -117331,4 +117331,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/poetry-reading-tommy-wyatt
  -blake-otto-rayne-alarcio/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch on the Rooftop
+DTSTART:20260712T160000Z
+DTEND:20260712T170000Z
+DTSTAMP:20260709T040530Z
+UID:6cf2f122-7b4b-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
