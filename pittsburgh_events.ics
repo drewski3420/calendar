@@ -117496,4 +117496,75 @@ DESCRIPTION:https://mrsmalls.com/events/corey-corey-movie-night/\nA surpris
  VAMPIRES.Screening on café patioThis Event Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:70s Night with The Nice Guys 
+DTSTART:20260723T083500Z
+DTEND:20260723T093500Z
+DTSTAMP:20260709T220211Z
+UID:d5cfd8fe-7be1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/the-nice-gu
+ ys-7-23-26-435-pm/\nEnjoy a groovy playlist and some other fun retro-throw
+ backs before this sharp and wildly entertaining films set in 1970s LA. Bel
+ lbottoms encouraged. 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maximum Overdrive
+DTSTART:20260727T040000Z
+DTEND:20260727T050000Z
+DTSTAMP:20260709T220211Z
+UID:d5d4adde-7be1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/maximum-overdr
+ ive/\nOne night only! When a comet passes close to the earth\, machines al
+ l over the world come alive and go on homicidal rampages. 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prom Night with Carrie 
+DTSTART:20260730T110500Z
+DTEND:20260730T120500Z
+DTSTAMP:20260709T220211Z
+UID:d5d7e274-7be1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/carrie-7-30
+ -26-705-pm/\nIt’s a prom throwback! We’ll have red punch\, and cheesy 
+ photo opps. Prom attire welcome! Pig blood is not… 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fritz the Cat 
+DTSTART:20260807T040000Z
+DTEND:20260807T050000Z
+DTSTAMP:20260709T220211Z
+UID:d5db31ae-7be1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/fritz-the-cat/
+ \nOne night only! In late 1960s New York City\, fed up with monotonous col
+ lege life and police repression\, free-spirited Fritz\, an impenitent sedu
+ cer and unrestrained party-animal\, decides to explore the world. 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Josie and the Pussycats
+DTSTART:20260808T120500Z
+DTEND:20260808T130500Z
+DTSTAMP:20260709T220211Z
+UID:d5deb806-7be1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/josie-and-the-
+ pussycats/\nOne night only! Josie\, Melody and Val are three small-town gi
+ rl musicians determined to take their rock band out of their garage and st
+ raight to the top. 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cult-O-Rama: Scream Queen Spotlight Jill Schoelen
+DTSTART:20260814T040000Z
+DTEND:20260814T050000Z
+DTSTAMP:20260709T220211Z
+UID:d5e21f28-7be1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/scream-queen-s
+ potlight-jill-schoelen/\nWe really love scream queens\, so we’ve decided
+  to start a sub-series honoring them individually. To kick things off\, we
+  humbly present two films featuring a big crush for innumerable genre nerd
+ s: Jill Schoelen! 
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
