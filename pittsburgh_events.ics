@@ -117484,4 +117484,16 @@ DESCRIPTION:https://cityofasylum.org/program/on-topic-america-at-250-mother
  osed on Mondays and Tuesdays.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corey & Corey Movie Night
+DTSTART:20260718T220000Z
+DTEND:20260718T230000Z
+DTSTAMP:20260709T200151Z
+UID:06d63b2a-7bd1-11f1-a896-ba7a2e570787
+DESCRIPTION:https://mrsmalls.com/events/corey-corey-movie-night/\nA surpris
+ e double-feature screening of two classic 80's films featuring famous on-s
+ creen duo -- Corey Feldman & Corey Haim. Yes\, one of the movies contains 
+ VAMPIRES.Screening on café patioThis Event Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
