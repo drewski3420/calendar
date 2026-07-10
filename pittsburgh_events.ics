@@ -117610,4 +117610,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/experimental-guitar-night/
  \n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric DeFade\, Eric Susoeff\, and Kelley Krepin DeFade
+DTSTART:20260731T230000Z
+DTEND:20260801T000000Z
+DTSTAMP:20260710T050604Z
+UID:0d9e9d16-7c1d-11f1-83f5-ba7a2e570787
+DESCRIPTION:/corey.pisarski/detail/300/1785538800000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
