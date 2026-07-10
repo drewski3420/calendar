@@ -117567,4 +117567,15 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/scream-queen-s
  s: Jill Schoelen! 
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35 YEARS OF GRUNGE - The Ten Band & Disciple of The Garden
+DTSTART:20261122T010000Z
+DTEND:20261122T020000Z
+DTSTAMP:20260710T010146Z
+UID:ec461ad0-7bfa-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://www.ticketmaster.com/35-years-of-grunge-the-ten-mckees-
+ rocks-pennsylvania-11-21-2026/event/160064E1DB3C21CA\n35 YEARS OF GRUNGE -
+  The Ten Band & Disciple of The Garden
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
