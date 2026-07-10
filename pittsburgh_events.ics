@@ -117638,4 +117638,24 @@ UID:a66d4ca8-7c78-11f1-83f5-ba7a2e570787
 DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/5/blank-hellscape\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afro-Caribbean Third Saturdays: Summer Carnival
+DTSTART:20260719T020000Z
+DTEND:20260719T030000Z
+DTSTAMP:20260710T180148Z
+UID:6bc44618-7c89-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://www.spiritpgh.com//calendar/bpnl6zxjcens3gw-2ccn7-gzwtz
+ -gpz5t-hnjf7-jaayj-smc7n-sd8fw-3xm55-jl8c4-pbx39-2ebd4-sfwsp-dftc5-jdf6g-f
+ f8d7-lsp6h-56mxg-n3xgf-62bjz\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deerhoof
+DTSTART:20261116T000000Z
+DTEND:20261116T010000Z
+DTSTAMP:20260710T180148Z
+UID:6bc91a80-7c89-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/11/15/deerhoof\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
