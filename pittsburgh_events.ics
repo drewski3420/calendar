@@ -117629,4 +117629,13 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/2/28/cherry-bomb-3zha5
  -elmtn-8xmr2-ggmhp-ep8n5\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blank Hellscape
+DTSTART:20260805T230000Z
+DTEND:20260806T000000Z
+DTSTAMP:20260710T160145Z
+UID:a66d4ca8-7c78-11f1-83f5-ba7a2e570787
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/5/blank-hellscape\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
