@@ -118625,4 +118625,19 @@ UID:2be3d6fa-7ce6-11f1-a896-ba7a2e570787
 DESCRIPTION:/corey.pisarski/detail/263/1785627000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faerie Fire’s Tavern Bash
+DTSTART:20260719T220000Z
+DTEND:20260719T230000Z
+DTSTAMP:20260711T210913Z
+UID:c4cb4d36-7d6c-11f1-8a0d-6aee3c075612
+DESCRIPTION:0r8cdua99s67ltadg1tnpsjb1c@google.com\nGrab your swords\, fill 
+ your spell slots\, and get ready for Faerie Fire’s Tavern Bash! Enjoy a 
+ fantasy filled drag show followed by Faerie Fire’s live dreampop music. 
+ Tickets will be suggested $15 at the door\, but no one will be turned away
+  for lack of funds. Make sure to bring singles to tip our wonderful drag p
+ erformers!\n\nDoors: 5:30\nShow: 6:00\nWhere: Harold’s Haunt\n124 Grant 
+ Ave\, Millvale PA\nDoor: $15 NOTALOF
+LOCATION:Harold's Haunt
+END:VEVENT
 END:VCALENDAR
