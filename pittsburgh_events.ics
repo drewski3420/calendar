@@ -118667,4 +118667,30 @@ UID:744974a2-7da6-11f1-8a0d-6aee3c075612
 DESCRIPTION:/corey.pisarski/detail/283/1786222800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Freak with Director Robby Rackleff
+DTSTART:20260814T000000Z
+DTEND:20260814T010000Z
+DTSTAMP:20260712T120816Z
+UID:5d538bd6-7dea-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://trustarts.org/production/109297/dance-freak-with-direct
+ or-robby-rackleff\nDirectors Robby Rackleff and Alan Resnick present a wei
+ rd micro budget horror movie about a completely separate physical entity. 
+ With its finger on the pulse of our absurdist end-times\, DANCE FREAK spea
+ ks to the power of freaks pulling the strings.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating Elvis!: EPiC - Elvis Presley in Concert
+DTSTART:20260817T000000Z
+DTEND:20260817T010000Z
+DTSTAMP:20260712T120816Z
+UID:5d5934b4-7dea-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://trustarts.org/production/109301/celebrating-elvis-epic-
+ elvis-presley-in-concert\nElvis sings and tells his story like never befor
+ e in this cinematic experience from visionary filmmaker Baz Luhrmann (Moul
+ in Rouge\, Elvis). Join us for a celebration of Elvis\, with an Elvis impe
+ rsonator\, fun snacks\, and more!
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
