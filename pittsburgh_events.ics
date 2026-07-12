@@ -118640,4 +118640,13 @@ DESCRIPTION:0r8cdua99s67ltadg1tnpsjb1c@google.com\nGrab your swords\, fill
  Ave\, Millvale PA\nDoor: $15 NOTALOF
 LOCATION:Harold's Haunt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Right On Warriors // Saturn Rise // New Kink
+DTSTART;TZID=America/New_York:20260829T200000
+DTEND;TZID=America/New_York:20260829T210000
+DTSTAMP:20260712T030803Z
+UID:e59831be-7d9e-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://www.poetrymillvale.com/event/right-on-warriors-3/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
