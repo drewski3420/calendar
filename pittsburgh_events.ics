@@ -118693,4 +118693,30 @@ DESCRIPTION:https://trustarts.org/production/109301/celebrating-elvis-epic-
  rsonator\, fun snacks\, and more!
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannon Firing
+DTSTART:20260801T160000Z
+DTEND:20260801T170000Z
+DTSTAMP:20260713T140152Z
+UID:6654298c-7ec3-11f1-ac8e-6aee3c075612
+DESCRIPTION:https://www.heinzhistorycenter.org/event/cannon-firing-08012026
+ /\nJoin us on the Fort Pitt lawn for firings of the museum’s replica Bri
+ tish 6-pounder cannon at noon and 2 p.m. all summer long! Experience the s
+ ights and sounds of…\nThe post Cannon Firing appeared first on Heinz His
+ tory Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weeding Party
+DTSTART:20260807T133000Z
+DTEND:20260807T143000Z
+DTSTAMP:20260713T140152Z
+UID:66590678-7ec3-11f1-ac8e-6aee3c075612
+DESCRIPTION:https://www.heinzhistorycenter.org/event/weeding-party-08072026
+ /\nFrom June through August\, join Meadowcroft every Friday morning at 9:3
+ 0 a.m. to help care for the site’s historic garden plots. Spend an hour 
+ tending the gardens alongside Meadowcroft staff…\nThe post Weeding Party
+  appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
