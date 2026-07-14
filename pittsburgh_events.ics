@@ -118801,4 +118801,13 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
  fm8\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thomas Dollbaum
+DTSTART:20260924T230000Z
+DTEND:20260925T000000Z
+DTSTAMP:20260714T100157Z
+UID:0c681e3a-7f6b-11f1-ac8e-6aee3c075612
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/24/thomas-dollbaum\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
