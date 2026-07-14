@@ -119011,4 +119011,30 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2025/12/12/ryan-caraveo-phm
  re-5dwcr-4sew8\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Heavy Metal Band Members Needed
+DTSTART:20260724T230000Z
+DTEND:20260725T000000Z
+DTSTAMP:20260714T200757Z
+UID:b500935c-7fbf-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://mrsmalls.com/events/heavy-metal-band-members-needed-3/\
+ nAttn Metalheads:Are you looking for new people to play music with? Then c
+ ome to Smalls Cafe on Friday\, July 24th 7 - 9PM we're hosting a meetup fo
+ r all & any metal musicians looking for new people to ROCK with.BRING YOUR
+  INSTRUMENTS AND STAY FOR THE OPEN JAM AFTER THE MEETUP!Please share every
+ where headbangers will see this \\m/
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Smalls Open Electric Jam
+DTSTART:20260725T010000Z
+DTEND:20260725T020000Z
+DTSTAMP:20260714T200757Z
+UID:b505cb1a-7fbf-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://mrsmalls.com/events/smalls-open-electric-jam-3/\nSmalls
+  Cafe is hosting an Open Jam night on 7/24.We'll have a drum kit\, guitar 
+ & bass amps\, and a DI box.Bring your instrument\, plug in\, and jam with 
+ new people. It's going to be amazing!This Event Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
