@@ -118954,4 +118954,51 @@ DESCRIPTION:https://mrsmalls.com/events/surf-rock-social-ft-the-yeggs/\nDRI
  vent Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls+ Rock! Pittsburgh Showcase
+DTSTART:20260808T170000Z
+DTEND:20260808T180000Z
+DTSTAMP:20260714T180216Z
+UID:25c73e54-7fae-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://thunderbirdmusichall.com/event/girls-rock-pittsburgh-sh
+ owcase/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nGirls+ Rock
+ ! Pittsburgh ShowcaseSaturday\, August 8\, 2026Thunderbird Music Hall4053 
+ Butler Street\, Pittsburgh\, PADoors @ 12:00 PMShow @ 1:00 PMAGE RESTRICTI
+ ON: ALL AGES\n http://girlsrockpittsburgh.org\nGirls + Rock! Pittsburgh i
+ s an entirely volunteer-run\, federally-recognized 501(c)(3) non-profit 
+ organization dedicated to utilizing the process of making music to instill
+  tools for the amplification of self-confidence\, creative expression\, in
+ dependent thinking\, mutual respect\, and cooperation amongst its particip
+ ants. Our programs are open to self-identified girls of all definitions\
+ , abilities\, and backgrounds between the ages of 8 and 18. \n\n \nTicke
+ t Tier Info:General Admission Tickets – Standing Room Only\nFor accessib
+ le seating accommodations\, please send an email in advance to contact@thu
+ nderbirdmusichall.com after ticket purchase. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thundersmack
+DTSTART:20260925T000000Z
+DTEND:20260925T010000Z
+DTSTAMP:20260714T180216Z
+UID:25cc6b0e-7fae-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://thunderbirdmusichall.com/event/thundersmack/thunderbird
+ -cafe-music-hall/pittsburgh-pennsylvania/\n\nThundersmackThursday\, Septem
+ ber 24\, 2026Thunderbird Music Hall4053 Butler Street\, Pittsburgh\, PADoo
+ rs @ 7:00 pmShow @ 8:00 pmAGE RESTRICTION: 18+ or with legal guardianhttps
+ ://wearethundersmack.comUnleashing a sonic whirlwind straight from the hea
+ rt of New York City’s vibrant musical landscape\, Thundersmack is the br
+ ainchild of two extraordinary musicians\, Michael Wilbur and Leo P. Fusing
+  the gritty energy of NYC subways with inimitable style\, Thundersmack pro
+ mises a musical experience that is as infectious as it is unforgettable.T
+ hundersmack delivers a sound that’s gritty yet fun\, both energetic and 
+ motivating. With arepertoire designed to make you dance until you drop\, t
+ he band injects each performance with a dose of high-octane musical adren
+ aline. Their synergy on stage is palpable\, creating a live experience th
+ at’s nothing short of magnetic.\nTicket Tier Info:General Admission Tick
+ ets – Standing Room Only\nFor accessible seating accommodations\, please
+  send an email in advance to contact@thunderbirdmusichall.com after ticket
+  purchase. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
