@@ -119001,4 +119001,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/thundersmack/thunderbird
   purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improvement Movement
+DTSTART:20261004T230000Z
+DTEND:20261005T000000Z
+DTSTAMP:20260714T190157Z
+UID:7cbe3afc-7fb6-11f1-ac8e-6aee3c075612
+DESCRIPTION:https://www.spiritpgh.com//calendar/2025/12/12/ryan-caraveo-phm
+ re-5dwcr-4sew8\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
