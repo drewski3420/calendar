@@ -118942,4 +118942,16 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/ballyhoo-fall-tour/thund
  es are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf Rock Social ft. The Yeggs
+DTSTART:20260731T230000Z
+DTEND:20260801T000000Z
+DTSTAMP:20260714T170744Z
+UID:87fdbe16-7fa6-11f1-ac8e-6aee3c075612
+DESCRIPTION:https://mrsmalls.com/events/surf-rock-social-ft-the-yeggs/\nDRI
+ NKS • MOVIES • FOODJoin us for a night of live surf rock performed by 
+ The Yeggs\, Games\, B-Movies\, and Tiki Cocktails on the patio.FREE!This E
+ vent Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
