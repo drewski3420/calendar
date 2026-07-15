@@ -119051,4 +119051,21 @@ DESCRIPTION:https://mrsmalls.com/events/tunes-from-the-crypt/\n!! THE CRYPT
   down to Mr. Smalls Café!JULY 25THALL AGESNO COVER8PM-11PM
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School of Drag Showcase
+DTSTART:20260814T220000Z
+DTEND:20260814T230000Z
+DTSTAMP:20260715T000213Z
+UID:6ebffaa6-7fe0-11f1-8a0d-6aee3c075612
+DESCRIPTION:10002190-1786730400-1786735800@www.warhol.org\nSupport our Scho
+ ol of Drag students as they express themselves through performance and emb
+ ody the characters they created during the program. Includes guest perform
+ ances by the School of Drag’s instructors from Pittsburgh’s local drag
+  community. \n\nDoors open at 5:30 p.m.\nPlease note that seating is first
+  come\, first served.\nWe are committed to offering inclusive\, engaging e
+ xperiences for people of all abilities. To request accommodations to enhan
+ ce your visit\, please contact access@warhol.org or call 412.237.8354.
+LOCATION:The Warhol theater\, 117 Sandusky Street\, Pittsburgh\, PA\, 15212
+ \, United States
+END:VEVENT
 END:VCALENDAR
