@@ -119068,4 +119068,23 @@ DESCRIPTION:10002190-1786730400-1786735800@www.warhol.org\nSupport our Scho
 LOCATION:The Warhol theater\, 117 Sandusky Street\, Pittsburgh\, PA\, 15212
  \, United States
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pocket Cookies // Famous Kind Streak // Moonshine Jasmine
+DTSTART;TZID=America/New_York:20260904T200000
+DTEND;TZID=America/New_York:20260904T210000
+DTSTAMP:20260715T020810Z
+UID:06f05e54-7ff2-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://www.poetrymillvale.com/event/pocket-cookies-famous-kind
+ -streak-moonshine-jasmine/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Aliquo with Special Guests
+DTSTART:20260716T220000Z
+DTEND:20260716T230000Z
+DTSTAMP:20260715T020810Z
+UID:06f5ba5c-7ff2-11f1-8a0d-6aee3c075612
+DESCRIPTION:/corey.pisarski/detail/308/1784239200000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
