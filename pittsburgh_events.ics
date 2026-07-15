@@ -119096,4 +119096,24 @@ UID:ee212d44-8001-11f1-8a0d-6aee3c075612
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nDaily Bread
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poet Anna Barnes performing "bloom // wilt"
+DTSTART;TZID=America/New_York:20260805T170000
+DTEND;TZID=America/New_York:20260805T180000
+DTSTAMP:20260715T060213Z
+UID:b975eac4-8012-11f1-8a0d-6aee3c075612
+DESCRIPTION:https://www.poetrymillvale.com/event/poet-anna-barnes-performin
+ g-bloom-wilt/\nAnna Barnes\, a Cincinnati\, Ohio poet\, announces the rele
+ ase of her second book\, “bloom // wilt”\, for adult poetry readers wi
+ th interest in topics of gender\, sexuality\, feminism\, matriarchy\, and 
+ the war between nature and the manmade world. This 20-poem chapbook follow
+ s a character named Chrysanthemum on her journey as she is born in nature\
+ , begins to look longingly toward and then ventures into the shimmering ci
+ ty in the horizon\, soon finds out that the city is not as beautiful as it
+  seems from the outside\, and is only able to return to her natural homela
+ nd by dying and being buried in the dirt. Chrysanthemum originated from a 
+ poem of the same name in Anna’s first poetry book\, “Out of Ink and Id
+ eas” (2025).
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
