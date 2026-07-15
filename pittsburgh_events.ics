@@ -119116,4 +119116,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/poet-anna-barnes-performin
  eas” (2025).
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cup Final
+DTSTART:20260719T190000Z
+DTEND:20260719T200000Z
+DTSTAMP:20260715T140821Z
+UID:a3137816-8056-11f1-ac8e-6aee3c075612
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/19/world-cup-final\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
