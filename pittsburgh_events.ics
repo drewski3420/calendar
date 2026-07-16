@@ -119396,4 +119396,13 @@ DESCRIPTION:https://mrsmalls.com/events/mariachi-el-bronx/\nThis Event Is A
  nformation on Balcony Upgrades\,click here.All Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BONUS
+DTSTART:20260801T010000Z
+DTEND:20260801T020000Z
+DTSTAMP:20260716T190603Z
+UID:63afdf18-8149-11f1-a0f3-4e55ecfe6986
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/31/bonus\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
