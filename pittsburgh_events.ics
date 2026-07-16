@@ -119383,4 +119383,17 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/willi-carlisle-the-unive
   purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mariachi El Bronx
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+DTSTAMP:20260716T150219Z
+UID:5752e30e-8127-11f1-95a5-9686fe607919
+DESCRIPTION:https://mrsmalls.com/events/mariachi-el-bronx/\nThis Event Is A
+ ll Ages*BALCONY UPGRADE PATRONS*Please note that a General Admission ticke
+ t is REQUIRED to enter the venue in addition to your Balcony Reservation. 
+ Balcony Area is 21 + Only. 25% gratuity added to unclosed tabs. For more i
+ nformation on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
