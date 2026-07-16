@@ -119304,4 +119304,13 @@ DESCRIPTION:https://pittsburghwinery.com/event/reubens-painted-mandolin-a-t
  | LISTEN\n\n
 LOCATION:Pittsburgh Winery
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sarah Halter // Trash Hag // Neglekted Channel
+DTSTART;TZID=America/New_York:20260905T200000
+DTEND;TZID=America/New_York:20260905T210000
+DTSTAMP:20260716T020834Z
+UID:3fba149a-80bb-11f1-95a5-9686fe607919
+DESCRIPTION:https://www.poetrymillvale.com/event/sarah-halter-trash-hag/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
