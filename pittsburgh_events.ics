@@ -119274,4 +119274,14 @@ DESCRIPTION:https://app.opendate.io/e/story-club-august-18-2026-726427\n St
  ... Sudden Shift!  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gym Class Heroes & Lupe Fiasco
+DTSTART:20260912T000000Z
+DTEND:20260912T010000Z
+DTSTAMP:20260716T000834Z
+UID:7cab4132-80aa-11f1-95a5-9686fe607919
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nGym Class Heroes & Lup
+ e Fiasco
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
