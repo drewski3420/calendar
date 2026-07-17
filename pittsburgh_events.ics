@@ -119471,4 +119471,31 @@ UID:08967382-81a6-11f1-a0f3-4e55ecfe6986
 DESCRIPTION:/corey.pisarski/detail/310/1785618000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannon Firing
+DTSTART:20260808T160000Z
+DTEND:20260808T170000Z
+DTSTAMP:20260717T160217Z
+UID:e245abfa-81f8-11f1-a0f3-4e55ecfe6986
+DESCRIPTION:https://www.heinzhistorycenter.org/event/cannon-firing-08082026
+ /\nJoin us on the Fort Pitt lawn for firings of the museum’s replica Bri
+ tish 6-pounder cannon at noon and 2 p.m. all summer long! Experience the s
+ ights and sounds of…\nThe post Cannon Firing appeared first on Heinz His
+ tory Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speaker Saturday: Women at War
+DTSTART:20260808T170000Z
+DTEND:20260808T180000Z
+DTSTAMP:20260717T160217Z
+UID:e24e46ac-81f8-11f1-a0f3-4e55ecfe6986
+DESCRIPTION:https://www.heinzhistorycenter.org/event/speaker-saturday-women
+ -at-war/\nIn this presentation\, Dr. Holly A. Mayer examines the often ove
+ rlooked roles women played during the American Revolution. Focusing on Mar
+ garet Corbin\, a Pennsylvania native who fought at Fort Washington\,…\nT
+ he post Speaker Saturday: Women at War appeared first on Heinz History Cen
+ ter.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
