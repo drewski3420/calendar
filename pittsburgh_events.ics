@@ -119628,4 +119628,13 @@ DESCRIPTION:https://app.opendate.io/e/alistair-ogden-august-28-2026-728141\
  concerns\, we're happy to accomodate you.  More FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLOSED
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260719T030811Z
+UID:1312377c-831f-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.poetrymillvale.com/event/closed-15/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
