@@ -119902,4 +119902,15 @@ DESCRIPTION:https://pittsburghwinery.com/event/songwriters-sunday-gibson-mu
  ut it is first come\, first serve and is therefore not guaranteed. \n\n
 LOCATION:Pittsburgh Winery
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaguar
+DTSTART:20260808T010000Z
+DTEND:20260808T020000Z
+DTSTAMP:20260720T230151Z
+UID:fe5b1ae4-848e-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.spiritpgh.com//calendar/2024/11/29/jaguar-eh78n-ynh
+ 4h-5wjkr-8mhgj-rh64f-dczpc-hbb7t-p856t-ecjpe-j5bjt-gfdpt-3ald8-5shf7-sgbll
+ -9933h-psacj-4wzkt\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
