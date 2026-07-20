@@ -119683,4 +119683,74 @@ DESCRIPTION:https://www.poetrymillvale.com/event/thursday-thrill-w-dj-stony
  -stone-3/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DENNY LOVE (Friday\, Late)
+DTSTART:20260926T013000Z
+DTEND:20260926T023000Z
+DTSTAMP:20260720T040205Z
+UID:c571b228-83ef-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://app.opendate.io/e/denny-love-friday-late-september-25-2
+ 026-713893\n  Introducing Denny Love\, a Los Angeles–based actor and com
+ edian whose career seamlessly bridges prestige television\, live comedy\, 
+ and viral digital culture.    A celebrated alumnus of DePaul University’
+ s renowned Theatre School\, Denny first broke through with a standout perf
+ ormance in Hulu’s Looking for Alaska\, a critically acclaimed series boa
+ sting a 92% Rotten Tomatoes rating. He went on to appear in two seasons of
+  Taylor Sheridan’s hit Paramount+ drama Mayor of Kingstown\, further sol
+ idifying his dramatic range.    Why'd We Book It? Denny Love has been an e
+ xciting new voice in comedy and we have been fans since seeing him on Mayo
+ r of Kingstown. His crowd work is always a pleasure to see pop up on the f
+ eed.    For Fans Of... Kevin Langue\, Trevor Wallace\, Shapel Lacey   Exte
+ nded Bio: Beyond the screen\, Denny is a commanding live performer who has
+  shared stages with comedy heavyweights and delivered memorable sets openi
+ ng for Theo Von. As a key cast member of @KevinLangue’s viral YouTube an
+ d TikTok content\, he has helped build a digital powerhouse of over 4.47 m
+ illion subscribers and more than 2 billion views worldwide.   In 2026\, he
+  takes the stage at Netflix Is a Joke\, solidifying his place among the mo
+ st sought-after rising voices in entertainment. This summer\, he joins the
+  Kevin Langue Show as a key performer on an ambitious 18- city national th
+ eatre tour\, bringing his sharp timing and undeniable charisma to audience
+ s across the country. Building on that momentum\, Denny will launch his fi
+ rst headlining tour in Fall 2026\, marking a major milestone as he steps f
+ ully into his own spotlight.   Bottlerocket FAQ:   All shows starting befo
+ re 10pm are all ages unless otherwise noted.  Free parking is available at
+  824 Industry Street and 205 Allen Street\, as well as other public lots i
+ n the area.  Live Music shows have limited seating options\, please arrive
+  early or reach out to the venue directly if you know that you require a s
+ eat.  Doors open at 5pm for all shows unless noted otherwise. The time lis
+ ted on the ticket is the event's true start time.  Most shows have a presh
+ ow experience starting 1 hour before the show.  All tickets are non-refund
+ able - our full refund policy can be viewed here  Please contact us ahead 
+ of time with any accesibilty requests or concerns\, we're happy to accomod
+ ate you.  More FAQ's can be found here    Seating/Show Information: Limit 
+ 6 tickets per transaction. You can not purchase tickets to multiple shows.
+    This show will have theater seating. Seats will be assigned upon arriva
+ l\, or can be chosen ahead of time for an additional fee.   QR Code Orderi
+ ng will be available for this performance.  Doors open at 9pm.  Don't miss
+  our famous Bottlerocket Pre-Show Clip Collection\, beginning one hour bef
+ ore the start of the performance.  This show is ALL AGES  *all information
+  subject to change as needed.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil Music w/ DJ Brian Sikes Howe
+DTSTART;TZID=America/New_York:20260723T220000
+DTEND;TZID=America/New_York:20260723T230000
+DTSTAMP:20260720T040205Z
+UID:c576f2ce-83ef-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.poetrymillvale.com/event/devil-music-w-dj-brian-sik
+ es-howe/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Stereo Goes to the Beach w/ DJs Cryptid Yinzer and Krass A
+ dvert
+DTSTART;TZID=America/New_York:20260813T220000
+DTEND;TZID=America/New_York:20260813T230000
+DTSTAMP:20260720T040205Z
+UID:c57a23cc-83ef-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.poetrymillvale.com/event/midnight-stereo-goes-to-th
+ e-beach-w-djs-cryptid-yinzer-and-krass-advert/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
