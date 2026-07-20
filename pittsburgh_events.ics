@@ -119887,4 +119887,19 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/drivin-n-cryin/thunderbi
  chase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Songwriters Sunday: Gibson Musisko | Jeff Taylor | Ursula Hansberry
+DTSTART:20260726T183000Z
+DTEND:20260726T193000Z
+DTSTAMP:20260720T190211Z
+UID:8368b632-846d-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://pittsburghwinery.com/event/songwriters-sunday-gibson-mu
+ sisko-jeff-taylor-ursula-hansberry/\n\n\nThe Original Pittsburgh Winery Pr
+ esents: Songwriters Sunday feat. Gibson Musisko\, Jeff Taylor\, & Ursula H
+ ansberry\n\nDOORS AT 12:30PM | SHOW AT 1:30PM | 21 AND OVER (Unless accomp
+ anied by a guardian)\n$15.00 Advance / $20.00 Day-of-Show [+Tax/Fees]\n\n*
+ This is a general admission event. There is plenty of seating available. B
+ ut it is first come\, first serve and is therefore not guaranteed. \n\n
+LOCATION:Pittsburgh Winery
+END:VEVENT
 END:VCALENDAR
