@@ -119753,4 +119753,52 @@ DESCRIPTION:https://www.poetrymillvale.com/event/midnight-stereo-goes-to-th
  e-beach-w-djs-cryptid-yinzer-and-krass-advert/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMEMBER SPORTS
+DTSTART:20260923T000000Z
+DTEND:20260923T010000Z
+DTSTAMP:20260720T140831Z
+UID:7d3600e0-8444-11f1-9ac9-3eb7fd44662d
+DESCRIPTION:https://app.opendate.io/e/remember-sports-september-22-2026-709
+ 873\n  REMEMBER SPORTS with support tba  $20 ADV / $25 DOS 7PM DOORS / 8PM
+  MUSIC ALL AGES  for fans of... Radiator Hospital\, The Beths\, Ratboys\, 
+ Frankie Cosmos  BIO: Remember Sports is a Philadelphia-based band\, origin
+ ally conceived in the tiny Midwestern college town of Gambier\, Ohio\, com
+ prised of members Carmen Perry (vocals\, guitar)\, Jack Washburn (guitar)\
+ , Catherine Dwyer (bass)\, and Julian Fader (drums). Their peppy indie pow
+ er-pop encapsulates the melancholy and excitement of growing up while Carm
+ en’s writing is diaristic and intimate\; a strange amalgam of both melan
+ choly and joy.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Micah Tyler + Colton Dixon
+DTSTART:20261011T230000Z
+DTEND:20261012T000000Z
+DTSTAMP:20260720T140831Z
+UID:7d3ae6b4-8444-11f1-9ac9-3eb7fd44662d
+DESCRIPTION:https://librarymusichall.com/event/micah-tyler-colton-dixon\nDr
+ usky Entertainment presents:\nMicah Tyler + Colton Dixon\nSunday\, October
+  11th\, 2026\nDoors: 6:00PM / Show: 7:00PM\nCarnegie of Homestead Music Ha
+ ll (Munhall\, PA)\n*All tickets subject to day of show price increase. Pri
+ ces at the ticket link reflect the all-in ticket price (face value + fees)
+  - minus any taxes / credit card processing fees.\nThis event is recommend
+ ed for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greg Warren: Live Special Taping
+DTSTART:20261122T003000Z
+DTEND:20261122T013000Z
+DTSTAMP:20260720T140831Z
+UID:7d3e018c-8444-11f1-9ac9-3eb7fd44662d
+DESCRIPTION:https://librarymusichall.com/event/greg-warren-live-special-tap
+ ing\nDrusky Entertainment & Outback Present\nGreg Warren: Live Special Tap
+ ing\nSaturday\, November 21st\, 2026\nDoors: 6:30PM / Show: 7:30PM\nCarneg
+ ie of Homestead Music Hall (Munhall\, PA)\n*All tickets subject to day of 
+ show price increase. Prices at the ticket link reflect the all-in ticket p
+ rice (face value + fees) - minus any taxes / credit card processing fees.\
+ nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
