@@ -119962,4 +119962,14 @@ DESCRIPTION:https://mrsmalls.com/events/andre-costello-2/\nAndré Costello
  nger-songwriter Addi Twigg.This Event Is All AgesAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260726T160000Z
+DTEND:20260726T170000Z
+DTSTAMP:20260721T171207Z
+UID:4d5b108e-8527-11f1-9ac9-3eb7fd44662d
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
