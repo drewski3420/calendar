@@ -119972,4 +119972,24 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
  top-jtgcd-d9fs3-ksd8r\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Franti Trio - Heartstrings & Dynamite
+DTSTART:20261003T000000Z
+DTEND:20261003T010000Z
+DTSTAMP:20260721T180159Z
+UID:44c71100-852e-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.ticketmaster.com/michael-franti-trio-heartstrings-d
+ ynamite-mckees-rocks-pennsylvania-10-02-2026/event/160064EFDB1EAE3F\nMicha
+ el Franti Trio - Heartstrings & Dynamite
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Shrimp
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+DTSTAMP:20260721T180159Z
+UID:44cbf224-852e-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/8/big-shrimp\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
