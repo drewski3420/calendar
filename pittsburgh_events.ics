@@ -120051,4 +120051,107 @@ DESCRIPTION:https://tickets.citywinery.com/event/the-suns-of-beaches-the-ul
  n StreetPittsburgh 15222United States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art House Theater Day: Car Wash (1976) 50th Anniversary
+DTSTART:20260730T213000Z
+DTEND:20260730T223000Z
+DTSTAMP:20260721T220924Z
+UID:d533da80-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109172/art-house-theater-day-c
+ ar-wash-1976-50th-anniversary\nCome celebrate Art House Theater day with a
+  special 50th anniversary screening of this classic cult comedy in a new 4
+ K restoration!  Poster raffles\, sneak peaks of upcoming programming\, fre
+ e popcorn and more!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20260802T233000Z
+DTEND:20260803T003000Z
+DTSTAMP:20260721T220924Z
+UID:d538b85c-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109193/steel-city-horror-show\
+ nHost Sean Collier will tell you all about our surprise flick\, while the 
+ mysterious Dr. Gielgud returns with in-theater scares and pre-show surpris
+ es — but which Dr. Gielgud will we meet this time?
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Sound + Image Presents: Thirteen (1997)
+DTSTART:20260805T233000Z
+DTEND:20260806T003000Z
+DTSTAMP:20260721T220924Z
+UID:d53bec84-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109084/pittsburgh-sound-plus-i
+ mage-presents-thirteen-1997\nWhat begins as the fraught tale of a runaway
+ ’s disappearance evolves into an unexpectedly compassionate story about 
+ Nina\, a 13-year-old girl who\, while exploring independence\, discovers t
+ he supportive network of her community. Presented on 16mm.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Art House Classics: Threads (1984)
+DTSTART:20260806T233000Z
+DTEND:20260807T003000Z
+DTSTAMP:20260721T220924Z
+UID:d53f27e6-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109087/international-art-house
+ -classics-threads-1984\nCombining documentary-style realism and kitchen-si
+ nk drama\, THREADS observes the looming threat of nuclear war from the per
+ spective of an average working-class family in Sheffield. Hosted by Rememb
+ ering Hiroshima\, Imagining Peace.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Art House Classics: The Sacrifice (1986)
+DTSTART:20260809T200000Z
+DTEND:20260809T210000Z
+DTSTAMP:20260721T220924Z
+UID:d5425272-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109090/international-art-house
+ -classics-the-sacrifice-1986\nAndrei Tarkovsky’s final film! On the eve 
+ of a nuclear war\, retired actor and disillusioned scholar Anthony (Erland
+  Josephson) bargains with God to sever all worldly ties to spare future ge
+ nerations.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Freak with Director Robby Rackleff
+DTSTART:20260813T233000Z
+DTEND:20260814T003000Z
+DTSTAMP:20260721T220924Z
+UID:d54588d4-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109297/dance-freak-with-direct
+ or-robby-rackleff\nDirectors Robby Rackleff and Alan Resnick present a wei
+ rd micro budget horror movie about a completely separate physical entity. 
+ With its finger on the pulse of our absurdist end-times\, DANCE FREAK spea
+ ks to the power of freaks pulling the strings.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating Elvis!: EPiC - Elvis Presley in Concert
+DTSTART:20260816T230000Z
+DTEND:20260817T000000Z
+DTSTAMP:20260721T220924Z
+UID:d549269c-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109301/celebrating-elvis-epic-
+ elvis-presley-in-concert\nElvis sings and tells his story like never befor
+ e in this cinematic experience from visionary filmmaker Baz Luhrmann (Moul
+ in Rouge\, Elvis). Join us for a celebration of Elvis\, with an Elvis impe
+ rsonator\, fun snacks\, and more!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gregg Allman: The Music of my Soul
+DTSTART:20260818T233000Z
+DTEND:20260819T003000Z
+DTSTAMP:20260721T220924Z
+UID:d5517ab8-8550-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://trustarts.org/production/109191/gregg-allman-the-music-
+ of-my-soul\nFrom award-winning filmmaker James Keach\, this documentary ex
+ plores the groundbreaking life and work of Allman Brothers Band co-founder
+  Gregg Allman through the loss of his brother\, Duane\, his struggles with
+  addiction and hard-won redemption.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
