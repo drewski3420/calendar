@@ -119945,4 +119945,21 @@ DESCRIPTION:https://www.ticketmaster.com/crystal-methyd-the-enchanted-fores
  METHYD The Enchanted Forest (18+)
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:André Costello
+DTSTART:20260815T000000Z
+DTEND:20260815T010000Z
+DTSTAMP:20260721T150157Z
+UID:1e8d2d1c-8515-11f1-9ac9-3eb7fd44662d
+DESCRIPTION:https://mrsmalls.com/events/andre-costello-2/\nAndré Costello 
+ is a Pittsburgh-based musician known for his introspective songwriting and
+  distinct blend of indie rock\, folk\, and Americana.Brooke Surgener is a 
+ Pennsylvania-based indie folk-pop musician known for her bright\, soothing
+  vocals and catchy\, story-driven melodies.Cisco Kid is a roots-rock and p
+ sych-soul collective based in Pittsburgh\, Pennsylvania\, known for their 
+ classic 70s-style sound. Formed in 2015 by drummer Marc Martinka\, the ban
+ d orbits around a rotating lineup of core players fronted by powerhouse si
+ nger-songwriter Addi Twigg.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
