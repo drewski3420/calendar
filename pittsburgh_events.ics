@@ -119913,4 +119913,36 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2024/11/29/jaguar-eh78n-ynh
  -9933h-psacj-4wzkt\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In This Moment
+DTSTART:20260916T000000Z
+DTEND:20260916T010000Z
+DTSTAMP:20260721T140826Z
+UID:a447133a-850d-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.ticketmaster.com/in-this-moment-mckees-rocks-pennsy
+ lvania-09-15-2026/event/160064F0F37ED733\nIn This Moment
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goldfinger w/ Mustard Plug\, The Planet Smashers\, Sullvn
+DTSTART:20261120T010000Z
+DTEND:20261120T020000Z
+DTSTAMP:20260721T140826Z
+UID:a44c8630-850d-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.ticketmaster.com/goldfinger-w-mustard-plug-the-plan
+ et-mckees-rocks-pennsylvania-11-19-2026/event/160064F0D0F5ACD0\nGoldfinger
+  w/ Mustard Plug\, The Planet Smashers\, Sullvn
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRYSTAL METHYD The Enchanted Forest (18+)
+DTSTART:20270306T010000Z
+DTEND:20270306T020000Z
+DTSTAMP:20260721T140826Z
+UID:a44ff770-850d-11f1-ada4-3eb7fd44662d
+DESCRIPTION:https://www.ticketmaster.com/crystal-methyd-the-enchanted-fores
+ t-18-mckees-rocks-pennsylvania-03-05-2027/event/160064EFF1F8C6FB\nCRYSTAL 
+ METHYD The Enchanted Forest (18+)
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
