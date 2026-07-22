@@ -120361,4 +120361,20 @@ DESCRIPTION:3bd8n84kfjuo1kn34vg384lc98@google.com\nThis Tuesday\, a very sp
  ct\, because Tuesdays are all about hanging out and crafting together.
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOLLAR MONDAY
+DTSTART:20260804T000000Z
+DTEND:20260804T010000Z
+DTSTAMP:20260722T230805Z
+UID:326599b0-8622-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/dollar-monday-august-03-2026-731453\n
+  Do you like local music? Do you like cheap beer? Would you like both of t
+ hose things together?  Yeah\, we thought so.  DOLLAR MONDAYS - every first
+  Monday of the Month we'll give you 2 handpicked local bands\, $1 beer*\, 
+ and no cover. All night. All you've gotta do is show up. Pretty good deal 
+ huh?  SPONSORED BY HELLBENDER VINYL!  August Edition with... GUILLERMO GUI
+ LLOTINE INJECTION SITE   Doors open at 5pm Music starts at 8pm   *10oz Old
+  German Drafts 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
