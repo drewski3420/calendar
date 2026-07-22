@@ -120332,4 +120332,33 @@ DESCRIPTION:7jo7vd24odthcuq40jeufo9muv@google.com\nt may be summer\, but sc
  tickets available for each show\, so get them while you can! Stay batty!!
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Coven's Lughnasadh Gathering
+DTSTART:20260802T220000Z
+DTEND:20260802T230000Z
+DTSTAMP:20260722T190209Z
+UID:d6b7a7e2-85ff-11f1-aad6-767a4eaec1f4
+DESCRIPTION:56vhqik66k965un6utaalc53vk@google.com\nJoin the Queer Coven for
+  their annual Lughnasadh Gathering! The mood is - sunflowers\, honey\, sun
+ shine\, friendship\, celebration!
+LOCATION:Harold's Haunt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stitch & Witch Happy Hour + CRAFT SWAP
+DTSTART;TZID=America/New_York:20260811T170000
+DTEND;TZID=America/New_York:20260811T180000
+DTSTAMP:20260722T190209Z
+UID:d6bcad50-85ff-11f1-aad6-767a4eaec1f4
+DESCRIPTION:3bd8n84kfjuo1kn34vg384lc98@google.com\nThis Tuesday\, a very sp
+ ecial Stitch & Witch Harpy Hour - CRAFT SWAP edition! We will be crafting 
+ at the bar and also bringing in any craft supplies we just don't need anym
+ ore! Is your craft box exploding all over your living room? Bring in some 
+ stuff and exchange it for other stuff!\n\ndo you have:\nLeftover embroider
+ y floss from cross-stitch projects?\nBeads in a color you just won't use?
+  \nFull embroidery kits that you no longer fancy? \nYarn you're sick of 
+ looking at? \nPaints you don't like any more? \nAnything else I didn't l
+ ist? \n\nBring em in\, swap em out. And bring your current crafting proje
+ ct\, because Tuesdays are all about hanging out and crafting together.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
