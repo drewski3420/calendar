@@ -120491,4 +120491,58 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/rockshelter-tour-with-
   Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River City Brass Band
+DTSTART:20260918T230000Z
+DTEND:20260919T000000Z
+DTSTAMP:20260723T140215Z
+UID:1c35e316-869f-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventscommunity-events/Ri
+ ver-City-Brass-Band.html\nSeptember 18\, 2026 7:00 PM\n        				       
+  				    One of Americaâs premier professional brass bands\, River Ci
+ ty Brass delights audiences with dynamic performances featuring classical\
+ , jazz\, broadway\, patriotic favorites\, and popular music.
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koresh Dance Company
+DTSTART:20261016T230000Z
+DTEND:20261017T000000Z
+DTSTAMP:20260723T140215Z
+UID:1c3b2074-869f-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventscommunity-events/Ko
+ resh-Dance-Company.html\nOctober 16\, 2026 7:00 PM\n        				        		
+ 		    Koresh Dance Company brings internationally acclaimed contemporary d
+ ance to the Pittsburgh Playhouse with powerful choreography\, extraordinar
+ y athleticism\, and performances that are both explosive and deeply expres
+ sive.
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTfully UPlifting
+DTSTART:20270321T180000Z
+DTEND:20270321T190000Z
+DTSTAMP:20260723T140215Z
+UID:1c3e2e22-869f-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventscommunity-events/AR
+ Tfully-UPlifting.html\nMarch 21\, 2027 2:00 PM\n        				        				  
+   ARTfully UPlifting is the Pittsburgh Playhouseâs sensory-friendly p
+ erformance celebrating music\, dance\, and poetry in a welcoming\, inclusi
+ ve environment designed for audiences of all abilities.
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:P4 Film and Animation Showcase
+DTSTART:20270506T210000Z
+DTEND:20270506T220000Z
+DTSTAMP:20260723T140215Z
+UID:1c416f06-869f-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://playhouse.pointpark.edu/shows-eventscommunity-events/P4
+ -Film-and-Animation-Showcase.html\nMay 6\, 2027 5:00 PM\n        				     
+    				    Experience the future of filmmaking as Point Park Universityâ
+ s senior Film and Animation students premiere their capstone projects\
+ , showcasing bold storytelling\, innovative animation\, and cinematic crea
+ tivity.
+LOCATION:Pittsburgh Playhouse
+END:VEVENT
 END:VCALENDAR
