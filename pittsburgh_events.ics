@@ -120468,4 +120468,13 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/sqwerv-late-show-afterpa
  chase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidi Beatty
+DTSTART:20260814T230000Z
+DTEND:20260815T000000Z
+DTSTAMP:20260723T040726Z
+UID:039fb1f4-864c-11f1-aad6-767a4eaec1f4
+DESCRIPTION:/corey.pisarski/detail/264/1786748400000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
