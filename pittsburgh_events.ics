@@ -120899,4 +120899,33 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/beats-antique/thunderbir
  . All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PITTER PATTER: STEADY AND SLOW / ODE TO JONATHAN RELEASE SHOW
+DTSTART:20260814T000000Z
+DTEND:20260814T010000Z
+DTSTAMP:20260724T180213Z
+UID:cc9fa01c-8789-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/pitter-patter-steady-and-slow-ode-to-
+ jonathan-release-show-august-13-2026-688616\n  It's another PITTER PARTY! 
+  Come celebrate the release of Steady and Slow / Ode to Jonathan by PITTER
+  PATTER with support from SHEL THE PHILOSOPHER URBAN DOCTORS  $10 7PM DOOR
+ S / 8PM MUSIC ALL AGES   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Slavery to Freedom Film Series: “Who Speaks for the Negro?
+ ”
+DTSTART:20260812T220000Z
+DTEND:20260812T230000Z
+DTSTAMP:20260724T180213Z
+UID:cca46aac-8789-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.heinzhistorycenter.org/event/from-slavery-to-freedo
+ m-film-series-who-speaks-for-the-negro/\nPresented as part of the From Sl
+ avery to Freedom Film Series\, “Who Speaks for the Negro?” is a WQED 
+ original documentary that explores the lives\, struggles\, and contributio
+ ns of African Americans in…\nThe post From Slavery to Freedom Film Serie
+ s: “Who Speaks for the Negro?” appeared first on Heinz History Center.
+ \n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
