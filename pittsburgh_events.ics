@@ -120691,4 +120691,13 @@ DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-think-big-july-27-202
  y get caught up with a teen genius who stows away on their truck. 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaddyo
+DTSTART:20260815T210000Z
+DTEND:20260815T220000Z
+DTSTAMP:20260724T050907Z
+UID:cc21355e-871d-11f1-aad6-767a4eaec1f4
+DESCRIPTION:/corey.pisarski/detail/282/1786827600000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
