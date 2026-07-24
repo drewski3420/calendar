@@ -120998,4 +120998,21 @@ DESCRIPTION:https://cityofasylum.org/program/world-literature-jamaica-kinca
  are this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPELLING BEE
+DTSTART:20260811T233000Z
+DTEND:20260812T003000Z
+DTSTAMP:20260724T200839Z
+UID:75d367f2-879b-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/spelling-bee-august-11-2026-729167\n 
+ Do you use big words? Did you always ace your spelling tests in school?   
+ Here is your chance to prove to all your friends that you could be the nex
+ t National Spelling Bee champion - unlikely. Join us for Bottlerockets fir
+ st Spelling Bee hosted by Chad Medved of the Ill Call You Right Back podca
+ st!   Three rounds starting with intermediate all the way to collegiate le
+ vel words. Open sign ups on the night of the event\, the more words you kn
+ ow the more likely you are to win a prize. The ultimate spelling champion 
+ will receive a Grand prize and of course ultimate bragging rights.  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
