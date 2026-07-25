@@ -121063,4 +121063,13 @@ DESCRIPTION:https://tickets.citywinery.com/event/maui-the-writer-ui783t\nCi
  es(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle // The Simsons
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T200000
+DTSTAMP:20260725T030208Z
+UID:394a16d4-87d5-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.poetrymillvale.com/event/castle2/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
