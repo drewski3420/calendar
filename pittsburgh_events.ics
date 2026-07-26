@@ -121146,4 +121146,15 @@ UID:85f3fd9a-88b8-11f1-aad6-767a4eaec1f4
 DESCRIPTION:/corey.pisarski/detail/297/1787432400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afro-Caribbean Third Saturdays: HEATWAVE
+DTSTART:20260816T020000Z
+DTEND:20260816T030000Z
+DTSTAMP:20260726T150752Z
+UID:c60008ac-8903-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.spiritpgh.com//calendar/bpnl6zxjcens3gw-2ccn7-gzwtz
+ -gpz5t-hnjf7-jaayj-smc7n-sd8fw-3xm55-jl8c4-pbx39-2ebd4-sfwsp-dftc5-jdf6g-f
+ f8d7-lsp6h-56mxg-n3xgf-62bjz-zhjsr\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
