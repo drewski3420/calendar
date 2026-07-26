@@ -121104,4 +121104,28 @@ DESCRIPTION:2lvodmiqhckpvjs3c0oto2j2sc@google.com\nOak Hollow Park Under th
   walk ins are welcome.
 LOCATION:2130 Timothy Dr\, Irwin\, PA 15642\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chandler
+DTSTART;TZID=America/New_York:20260911T200000
+DTEND;TZID=America/New_York:20260911T210000
+DTSTAMP:20260726T030822Z
+UID:42e5ec7a-889f-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.poetrymillvale.com/event/chandler-tuffluckkid/\nwit
+ h support TuffLuckKid \nChandler\, a rapper originally from Newport News\,
+  VA\, and currently based out of New York\, gained prominence with the vir
+ al hit ‘FIGURE IT OUT\,’ a collaboration with producer Stafford Beats 
+ and rapper YNG Martyr. Since starting his rap journey in 2005\, Chandler h
+ as showcased his talent on various stages across the US\, playing drums in
+  a band and sharing bills with notable acts like DRAM and Dirty Heads. Aft
+ er a hiatus from music to pursue acting\, Chandler returned to the music s
+ cene in 2021 with a bang. \nWith a significant digital presence and over 2
+ 5 million streams in the past year\, Chandler’s music\, characterized by
+  tracks like ‘NOTHIN’ TO IT’ and ‘Hot Pocket – Remix’ has reso
+ nated widely. His unique wordplay and outlandish persona have garnered acc
+ laim\, earning spots on Spotify playlists like ‘Internet People’ and 
+ ‘New Music Friday AU & NZ.’ Chandler’s recent appearances on platfor
+ ms like ‘On The Radar’ and successful tours attest to his rising influ
+ ence in the rap scene.
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
