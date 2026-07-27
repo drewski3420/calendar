@@ -121440,4 +121440,24 @@ DESCRIPTION:https://cityofasylum.org/program/thursday-night-jazz-james-john
  it OpenTable or call 412-435-1111 to make a reservation.Share this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music Trivia with Brian Siewiorek
+DTSTART:20260803T230000Z
+DTEND:20260804T000000Z
+DTSTAMP:20260727T170208Z
+UID:e6a1b0c2-89dc-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.spiritpgh.com//calendar/3n5jzza6h5333aj-76mcx-zmaam
+ -34b5n-77g9f\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Comes Lifting Yoga on the Rooftop
+DTSTART:20260808T170000Z
+DTEND:20260808T180000Z
+DTSTAMP:20260727T170208Z
+UID:e6a6fc9e-89dc-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/8/death-comes-liftin
+ g-yoga-on-the-rooftop\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
