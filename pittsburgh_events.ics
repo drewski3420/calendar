@@ -121227,4 +121227,18 @@ DESCRIPTION:https://tickets.citywinery.com/event/madonna-vs-kylie-drag-brun
   new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hidden History Trivia Night
+DTSTART:20260813T223000Z
+DTEND:20260813T233000Z
+DTSTAMP:20260727T130156Z
+UID:58746964-89bb-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://www.heinzhistorycenter.org/event/hidden-history-trivia-
+ night-08132026/\nTest your knowledge of Pittsburgh’s past and pop cultur
+ e’s most memorable moments. History Center Trivia Nights bring together 
+ fascinating local lore and unforgettable pop culture moments for a fun\, f
+ ast-paced…\nThe post Hidden History Trivia Night appeared first on Heinz
+  History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
