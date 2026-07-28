@@ -121709,4 +121709,39 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/kidd-g-the-forever-bende
  l sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Movie Bingo: ACTION USA
+DTSTART:20260824T233000Z
+DTEND:20260825T003000Z
+DTSTAMP:20260728T150201Z
+UID:49dfe8da-8a95-11f1-9c83-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-action-usa-august-24-
+ 2026-720422\n It's dumb\, it's fun\, and it's $5- it's BAD MOVIE BINGO! It
+ 's sort of like a derranged game show for cinephiles- we really can't expl
+ ain it\, so just come and experience it for yourself! Hosted by our friend
+ s at NEO TRASH VIDEO\, Bad Movie Bingo showcases the worst movies we can c
+ ome up with.  You get a bingo card full of terrible movie troupes - we pla
+ y the movie and call them out as they happen. Get a bingo and you win!  AC
+ TION USA (1989)  "After her boyfriend is murdered by the gangsters whose d
+ iamonds he stole\, a girl is protected by two FBI agents who plan to keep 
+ her from sharing the same fate." - IMDB 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooke Annibale Album Release
+DTSTART:20260927T000000Z
+DTEND:20260927T010000Z
+DTSTAMP:20260728T150201Z
+UID:49e53268-8a95-11f1-9c83-767a4eaec1f4
+DESCRIPTION:https://mrsmalls.com/events/brooke-annibale/\nPittsburgh-born\,
+  Rhode Island-rooted\, singer-songwriter & guitarist Brooke Annibale craft
+ s music that drifts between dreamy and dark — lush\, genre-defying sound
+ scapes built on expressive melodies and lyrics that linger long after the 
+ song ends. Now stepping fully into her own creative process as producer an
+ d mixer\, Brooke has released several new songs in 2026.Join her and her b
+ and in celebrating the release of her new record\, Bolder Font — out Sep
+ tember 17 — her most hands-on\, personal work yet.This Event Is All Ages
+ All Sales Are Final.
+LOCATION:The Sanctuary at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
