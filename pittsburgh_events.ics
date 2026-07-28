@@ -121810,4 +121810,20 @@ DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-august-23-2026-
  upportive audience! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hispanic Heritage Celebration
+DTSTART:20260926T150000Z
+DTEND:20260926T160000Z
+DTSTAMP:20260728T200836Z
+UID:1da35b3c-8ac0-11f1-aad6-767a4eaec1f4
+DESCRIPTION:10002192-1790420400-1790434800@www.warhol.org\nThe Warhol and C
+ arnegie Museums are thrilled to celebrate Hispanic Heritage Month with a d
+ ance performance\, Spanish interpreted tours\, drag performance and silksc
+ reen printing. \n\n11:15 a.m. and 3 p.m.: Spanish interpreted tours \n12
+ –12:45 p.m.: Flamenco Pittsburgh in The Warhol theater\n2–3 p.m.: A dr
+ ag performance featuring Calypso and Chi Chi de Vivre \n12–3 p.m.: Creat
+ e your own screenprint at The Factory
+LOCATION:The Andy Warhol Museum\, 117 Sandusky Street\, Pittsburgh\, PA\, 1
+ 5212\, United States
+END:VEVENT
 END:VCALENDAR
