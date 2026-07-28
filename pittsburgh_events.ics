@@ -121744,4 +121744,44 @@ DESCRIPTION:https://mrsmalls.com/events/brooke-annibale/\nPittsburgh-born\,
  All Sales Are Final.
 LOCATION:The Sanctuary at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 401 CLASS SHOW #2
+DTSTART:20260808T150000Z
+DTEND:20260808T160000Z
+DTSTAMP:20260728T160200Z
+UID:aae58452-8a9d-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/improv-401-class-show-2-august-08-202
+ 6-682090\n Our students have been learning the ins and outs of UCB improv 
+ from 101 to 401 they have completed the full UCB curriculum\, and now it's
+  time to show off all they've learned at their last class showcase! Come c
+ ongratulate UCBurgh's first 401 graduates!!   This show is FREE\, and open
+  to family\, friends or any supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20260808T170000Z
+DTEND:20260808T180000Z
+DTSTAMP:20260728T160200Z
+UID:aaea8c18-8a9d-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-august-08-2026-
+ 700082\n Our students have been learning the ins and outs of UCB improv in
+  our 101 class\, and now it's time to show off all they've learned at thei
+ r class showcase!  This show is FREE\, and open to family\, friends or any
+  supportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 301 CLASS SHOW
+DTSTART:20260809T170000Z
+DTEND:20260809T180000Z
+DTSTAMP:20260728T160200Z
+UID:aaed9e76-8a9d-11f1-aad6-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/improv-301-class-show-august-09-2026-
+ 700084\n Our students have been learning the ins and outs of UCB improv in
+  our 301 class\, and now it's time to show off all they've learned at our 
+ class showcase!  This show is FREE\, and open to family\, friends or any s
+ upportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
