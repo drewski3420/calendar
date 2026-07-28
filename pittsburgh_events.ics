@@ -121784,4 +121784,30 @@ DESCRIPTION:https://app.opendate.io/e/improv-301-class-show-august-09-2026-
  upportive audience! 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 101 CLASS SHOW
+DTSTART:20260823T150000Z
+DTEND:20260823T160000Z
+DTSTAMP:20260728T170834Z
+UID:f787152e-8aa6-11f1-9c83-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/improv-101-class-show-august-23-2026-
+ 700086\n Our students have been learning the ins and outs of UCB improv in
+  our 101 class\, and now it's time to show off all they've learned at our 
+ class showcase!  This show is FREE\, and open to family\, friends or any s
+ upportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV 201 CLASS SHOW
+DTSTART:20260823T170000Z
+DTEND:20260823T180000Z
+DTSTAMP:20260728T170834Z
+UID:f791e1b6-8aa6-11f1-9c83-767a4eaec1f4
+DESCRIPTION:https://app.opendate.io/e/improv-201-class-show-august-23-2026-
+ 700088\n Our students have been learning the ins and outs of UCB improv in
+  our 201 class\, and now it's time to show off all they've learned at our 
+ class showcase!  This show is FREE\, and open to family\, friends or any s
+ upportive audience! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
