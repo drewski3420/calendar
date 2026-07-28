@@ -121826,4 +121826,14 @@ DESCRIPTION:10002192-1790420400-1790434800@www.warhol.org\nThe Warhol and C
 LOCATION:The Andy Warhol Museum\, 117 Sandusky Street\, Pittsburgh\, PA\, 1
  5212\, United States
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstein & Story Of The Year
+DTSTART:20261212T010000Z
+DTEND:20261212T020000Z
+DTSTAMP:20260728T230824Z
+UID:3bfcc758-8ad9-11f1-9c83-767a4eaec1f4
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nSilverstein & Story Of
+  The Year
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
