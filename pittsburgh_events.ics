@@ -121908,4 +121908,24 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/chalk-dinosaur-3/thunder
  irdmusichall.com after ticket purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturdaze
+DTSTART:20260801T180000Z
+DTEND:20260801T190000Z
+DTSTAMP:20260729T150158Z
+UID:71f36e7c-8b5e-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260802T160000Z
+DTEND:20260802T170000Z
+DTSTAMP:20260729T150158Z
+UID:71f87b88-8b5e-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r-5788a\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
