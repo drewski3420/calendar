@@ -121954,4 +121954,60 @@ DESCRIPTION:https://mrsmalls.com/events/keim-gardener/\nZACK KEIM - His sec
  ced by Taylor Meier of CAAMP.This Event Is All AgesAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Witch Ball Workshop with the Yarrow Witch
+DTSTART:20260816T150000Z
+DTEND:20260816T160000Z
+DTSTAMP:20260729T210249Z
+UID:db02bc9c-8b90-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:c9h3gd1h64o62b9m70ojgb9k6thm4bb26crj6b9n6ko3ccj160omac1o74@goog
+ le.com\nTickets and information available <br><br><a href="https://www.qu
+ eerwitches.com/products/witch-ball-workshop-with-the-yarrow-witch-august">
+ Here</a>
+LOCATION:303 Grant Ave\, Pittsburgh\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enbeatz
+DTSTART:20260808T000000Z
+DTEND:20260808T010000Z
+DTSTAMP:20260729T210249Z
+UID:db07c7d2-8b90-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:0c4dkse3bcn9pa6ug36qidq2dd@google.com\nENBEATZ: Pittsburgh's No
+ n-Binary Dancy Party\n\n\nMusic by: Faerie Fay and Cryptid Yinzer\n\nNo Co
+ ver!!
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open SLAYge
+DTSTART;TZID=America/New_York:20260806T210000
+DTEND;TZID=America/New_York:20260806T220000
+DTSTAMP:20260729T210249Z
+UID:db0ae3f4-8b90-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:4imgmnrebost3uf3buqb2de7rd@google.com\nCalling all performers! 
+ Harold's Haunt is starting their very first Harold's hosted open stage! ev
+ ery 1st and 3rd Thursday\, with a special guest drag host every week! We w
+ anna see you be silly\, be serious\, be spooky\, be sexy\, and most of all
+  having fun! So mark your calendar and come sign up Thursday and show us w
+ hat you got!\n\nHosted by Ryann and Gay Fieri\n\nSignups start at 9PM\nSho
+ w starts at 10
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open SLAYge
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20260729T210249Z
+UID:db102f76-8b90-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:4imgmnrebost3uf3buqb2de7rd_R20260820@google.com\nNone
+LOCATION:Harold's Haunt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HH Open Stage
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+DTSTAMP:20260729T210249Z
+UID:db13d766-8b90-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:4imgmnrebost3uf3buqb2de7rd@google.com\nNone
+LOCATION:Harold's Haunt
+END:VEVENT
 END:VCALENDAR
