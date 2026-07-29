@@ -121885,4 +121885,27 @@ UID:ae66a25e-8b4d-11f1-ba8a-6e1a3d750ff3
 DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/27/nerd-nite\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chalk Dinosaur
+DTSTART:20261206T010000Z
+DTEND:20261206T020000Z
+DTSTAMP:20260729T140855Z
+UID:08e4bcbc-8b57-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:https://thunderbirdmusichall.com/event/chalk-dinosaur-3/thunder
+ bird-cafe-music-hall/pittsburgh-pennsylvania/\n\nChalk Dinosaurwith specia
+ l guests to be announcedSaturday\, December 5\, 2026Thunderbird Music Hall
+ 4053 Butler Street\, Pittsburgh\, PADoors @ 7:00PMShow @ 8:00PMAGE RESTRIC
+ TION: 21+\n \nhttps://chalkdinosaur.com\nThe Chalk Dinosaur Ensemble from
+  Pittsburgh is the creative collaboration between John & Nick O’Hallaron
+ \, Michael Berger\, and Jon Henderson. The music draws from jam\, funk\, d
+ isco\, psychedelic and indie rock. Fresh off the release of their newest f
+ ull length album\, Potential Energy (rel. 7.22.2026)\, this show will be 
+ the Chalk Dinosaur Ensemble’s sole performance of 2026. \n \nOther alb
+ ums featuring the Chalk Dinosaur Ensemble include Stuck In Between (2023)\
+ , Spectrum (2020)\, With You (2020)\, and Sprout (2019).\n\n \nTicket Tie
+ r Info:General Admission Tickets – Standing Room Only\nFor accessible se
+ ating accommodations\, please send an email in advance to contact@thunderb
+ irdmusichall.com after ticket purchase. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
