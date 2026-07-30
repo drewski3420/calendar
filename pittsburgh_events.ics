@@ -122069,4 +122069,31 @@ UID:8ce63496-8bbb-11f1-ba8a-6e1a3d750ff3
 DESCRIPTION:https://www.poetrymillvale.com/event/two-wolf-moon/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daily Bread
+DTSTART:20261203T010000Z
+DTEND:20261203T020000Z
+DTSTAMP:20260730T120214Z
+UID:8115d18c-8c0e-11f1-a21c-f29b0b607cfe
+DESCRIPTION:https://www.stagepittsburgh.com/events/daily-bread-02-december-
+ 2026/\nElectronic dance music is a staple at festivals for lots of people.
+  Rather than having vibing with your headphones at home\, you have the cha
+ nce to see Daily Bread LIVE in Pittsburgh\, Pennsylvania. The concert is h
+ appening on Wednesday 2nd December 2026 at Stage AE and there's tickets up
+  for grabs!\nIf you are a fan of the genre diversity of techno dance cultu
+ re\, Daily Bread can deliver the DJ performances and pounding beats that m
+ ake this a can't-miss experience. Atlanta-based producer Rhett Whatley bri
+ ngs his Vanishing Point Tour to the friendly indoor setting of Stage AE\, 
+ supported by ProbCause and Denver-based bass artist Noetika. Daily Bread i
+ s a well-respected artist who knows how to appeal to people from a wide ra
+ nge of cultures and backgrounds\, mixing vintage soul\, gritty hip-hop and
+  bass-forward production with tracks like "creamy"\, "Til The Sun Burns Ou
+ t"\, and sounds from his most recent album Across The Burning Sky. Let loo
+ se and just be free\, as Daily Bread's sounds take you to new places! \nGe
+ t the full edm experience and a fantastic crowd connection at this all-age
+ s show (doors at 7:00 PM\, music at 8:00 PM)! If you must see this epic Pi
+ ttsburgh event\, it's smart to seek passes to the event as soon as possibl
+ e\, starting at $47.
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
