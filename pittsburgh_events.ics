@@ -122084,4 +122084,14 @@ DESCRIPTION:https://librarymusichall.com/event/greg-warren-live-special-tap
  nThis event is recommended for all ages.
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off-Site Butler VA Star Party
+DTSTART:20260821T000000Z
+DTEND:20260821T010000Z
+DTSTAMP:20260730T140832Z
+UID:25d31534-8c20-11f1-8799-c6975e0fd464
+DESCRIPTION:7g8jg91336s6d2kevpq41788ls@google.com\nStar party for the resid
+ ents and patients of the Butler VAMC
+LOCATION:325 New Castle Rd bldg 21\, Butler\, PA 16001\, USA
+END:VEVENT
 END:VCALENDAR
