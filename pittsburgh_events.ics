@@ -122060,4 +122060,13 @@ DESCRIPTION:https://tickets.citywinery.com/event/sejoe-x8l9kw\nCity Winery
  tsburgh 15222United States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two Wolf Moon // Nowhere Wolves // Phelocipastor
+DTSTART;TZID=America/New_York:20260912T200000
+DTEND;TZID=America/New_York:20260912T210000
+DTSTAMP:20260730T020826Z
+UID:8ce63496-8bbb-11f1-ba8a-6e1a3d750ff3
+DESCRIPTION:https://www.poetrymillvale.com/event/two-wolf-moon/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
