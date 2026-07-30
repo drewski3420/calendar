@@ -122285,4 +122285,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/come-back-to-earth-mac-m
   
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lawrenceville Art Crawl
+DTSTART:20260801T190000Z
+DTEND:20260801T200000Z
+DTSTAMP:20260730T220840Z
+UID:38dd94d6-8c63-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/1/lawrenceville-art-
+ crawl\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
