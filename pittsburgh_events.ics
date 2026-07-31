@@ -122359,4 +122359,41 @@ DESCRIPTION:https://app.opendate.io/e/harrison-gordon-september-06-2026-718
  o punk from Normal\, IL   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millen and Arjun’s Rock Academy Showcase
+DTSTART:20260823T170000Z
+DTEND:20260823T180000Z
+DTSTAMP:20260731T170210Z
+UID:91c85bf0-8d01-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://mrsmalls.com/events/rock-academy-showcase/\nJoin us for
+  Millen & Arjun's Rock Academy Showcase featuring The Steel Jammers! Our s
+ tudents will be performing a mix of rock favorites after months of hard wo
+ rk\, and we're proud to support Band Together PGH. Come enjoy a great afte
+ rnoon of live music while supporting a great cause.This Event Is All AgesA
+ ll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enjoy Wrestling Presents: Five Years
+DTSTART:20260905T230000Z
+DTEND:20260906T000000Z
+DTSTAMP:20260731T170210Z
+UID:91cd5fa6-8d01-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://mrsmalls.com/events/enjoy-wrestling-five-years/\nFeatur
+ ing:- AEW Star LEE MORIARTY- Indie Legend THE AMAZING RED- BUTCHER AND THE
+  BLADE\, featuring Every Time I Die’s Andy Williams- DARK SHEIK& MORE!Th
+ is Event Is All AgesAll Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brainiac – Ohio Invasion!
+DTSTART:20261205T010000Z
+DTEND:20261205T020000Z
+DTSTAMP:20260731T170210Z
+UID:91d2877e-8d01-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://mrsmalls.com/events/brainiac/\nOhio's Brainiac\, the ni
+ neties group who perfected a combination of punk's buzzsaw attack and New 
+ Wave's angularities.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
