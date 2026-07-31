@@ -122313,4 +122313,15 @@ UID:7c146f4a-8c95-11f1-9d20-160beea9ca8a
 DESCRIPTION:/corey.pisarski/detail/236/1787441400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:White Trash Bash Pre-Party
+DTSTART:20260815T220000Z
+DTEND:20260815T230000Z
+DTSTAMP:20260731T150758Z
+UID:9dbb5d00-8cf1-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://mrsmalls.com/events/white-trash-bash-pre-party/\nKick o
+ ff the night with music provided by DJ Cryptid Yinzer in the cafe\, before
+  heading to the Theatre for a ghoulishly good time!No cover!
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
