@@ -122396,4 +122396,16 @@ DESCRIPTION:https://mrsmalls.com/events/brainiac/\nOhio's Brainiac\, the ni
  Wave's angularities.This Event Is All AgesAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEVILLE + MOURNING STAR
+DTSTART:20260906T000000Z
+DTEND:20260906T010000Z
+DTSTAMP:20260731T180824Z
+UID:d27b16d4-8d0a-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://app.opendate.io/e/seville-mourning-star-september-05-20
+ 26-728389\n SEVILLE MOURNING STAR with support from SORRY FACE YOU SHOULD 
+ HAVE BROUGHT ME FLOWERS  $10 6:30PM DOORS / 7:30PM MUSIC ALL AGES  for fan
+ s of... Slowdive\, Hotline TNT\, Ovlov\, Cloakroom 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
