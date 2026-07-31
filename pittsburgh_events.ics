@@ -122324,4 +122324,39 @@ DESCRIPTION:https://mrsmalls.com/events/white-trash-bash-pre-party/\nKick o
   heading to the Theatre for a ghoulishly good time!No cover!
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEET CUTE: Queer Edition!
+DTSTART:20260826T233000Z
+DTEND:20260827T003000Z
+DTSTAMP:20260731T160203Z
+UID:2bdaf238-8cf9-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://app.opendate.io/e/meet-cute-queer-edition-august-26-202
+ 6-728812\n Bottlerocket's famous first date game show MEET CUTE returns fo
+ r it's SEVENTH RUN to the stage to help lonely LGBTQ+ singles FIND LOVE in
+  a DIVE BAR...hosted by the fabulous DJ EXTRAORDINAIRE\, ANCHORPERSON AND 
+ EVERYONE'S BESTIE... ROJO!   For this edition of Meet Cute\, we open appli
+ cations to our QUEER and LGBTQ+ singles. APPLY HERE AS A CONTESTANT by fil
+ ling out the questi onnaire to nominate yourself (or a friend) to go on th
+ e show...in front of a LIVE AUDIENCE! Our programming team takes Meet Cute
+  very seriously\, meticulously sorting through applications to best match 
+ singles with similar interests\, values\, and preferences. Last year we ha
+ d over 150 applicants to the show... so why not shoot your shot? Your pers
+ on could be out there\, and you can speed run the dating process with ROJO
+  as your guide.   APPLICATIONS FOR CONTESTANTS ARE LIVE! We will notify ch
+ osen contestants of their status by AUGUST 13!   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HARRISON GORDON
+DTSTART:20260906T230000Z
+DTEND:20260907T000000Z
+DTSTAMP:20260731T160203Z
+UID:2bdff530-8cf9-11f1-9d20-160beea9ca8a
+DESCRIPTION:https://app.opendate.io/e/harrison-gordon-september-06-2026-718
+ 807\n  HARRISON GORDON with support tba  $20 ADV / $25 DOS 7PM DOORS / 8PM
+  MUSIC ALL AGES  for fans of... Free Throw\, Prince Daddy & The Hyena\, Jo
+ yce Manor  BIO:  Harrison Gordon really\, really needs this to go well. Em
+ o punk from Normal\, IL   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
