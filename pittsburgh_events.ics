@@ -122446,4 +122446,29 @@ DESCRIPTION:https://librarymusichall.com/event/greg-warren-live-special-tap
  sing fees.\nThis event is recommended for all ages.
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Release: “In Praise of Greed: A Satire in Rhyme” Written b
+ y Jeremias de Decker c. 1666 / Translated by Nicholas Siefert c. 2026
+DTSTART;TZID=America/New_York:20260804T180000
+DTEND;TZID=America/New_York:20260804T190000
+DTSTAMP:20260801T210745Z
+UID:0af7196c-8ded-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.poetrymillvale.com/event/book-release-in-praise-of-
+ greed-a-satire-in-rhyme-written-by-jeremias-de-decker-c-1666-translated-by
+ -nicholas-siefert-c-2026/\nNicholas Siefert is a research engineer by day 
+ and part-time writer\, translator\, and science blogger. He found this poe
+ m after researching his New Amsterdam ancestor\, Johannes de Decker\, Jere
+ mias’s cousin. \nIn Praise of Greed is a modern English translation of L
+ of de Geldsucht by Jeremias de Decker (1609- \n1666)\, who was a prominent
+  poet of the Dutch Golden Age\, known for his deep moral convictions and s
+ harp social insight. A close friend of Rembrandt\, de Decker frequently ce
+ lebrated the artist in his poetry\; in return\, Rembrandt painted a celebr
+ ated portrait of the poet (1655)\, which serves as the inspiration behind 
+ the cover. \nLof de Geldsucht is a sustained\, ingenious voice-portrait of
+  Greed personified: it dredges up both classical and Christian authorities
+ \, scientific breakthroughs\, Dutch seafaring\, and forces the reader to t
+ hink about wealth\, ambition\, and mora agency from Lady Greed’s perspec
+ tive.
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
