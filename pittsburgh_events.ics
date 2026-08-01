@@ -122431,4 +122431,19 @@ UID:085bb766-8d67-11f1-9d20-160beea9ca8a
 DESCRIPTION:/corey.pisarski/detail/301/1787779800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greg Warren: Live Special Taping (Early Show)
+DTSTART:20261121T213000Z
+DTEND:20261121T223000Z
+DTSTAMP:20260801T200159Z
+UID:db2a4870-8de3-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://librarymusichall.com/event/greg-warren-live-special-tap
+ ing-early-show\nDrusky Entertainment & Outback Present\nGreg Warren: Live 
+ Special Taping\nSaturday\, November 21st\, 2026\nDoors: 3:30PM / Show: 4:3
+ 0PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\n*All tickets subject
+  to day of show price increase. Prices at the ticket link reflect the all-
+ in ticket price (face value + fees) - minus any taxes / credit card proces
+ sing fees.\nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
