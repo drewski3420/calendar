@@ -122763,4 +122763,34 @@ DESCRIPTION:https://www.ticketmaster.com/rb-only-mckees-rocks-pennsylvania-
  10-30-2026/event/16006503C2A19117\nR&B ONLY
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Story Club PGH Presents: Story Slam! (Ties That Bind)
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+DTSTAMP:20260803T210208Z
+UID:96bb88ba-8f7e-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:https://cityofasylum.org/program/story-slam-ties-that-bind/\nSi
+ nce 2022\, it’s been our pleasure to partner with Story Club (created by
+  the former producers of The Moth Pittsburgh) for their monthly nonfiction
+  storytelling series\, Story Slam. Together\, we aim to showcase a diverse
+  range of voices and create a space for stories that resonate across backg
+ rounds\, perspectives\, and experiences. Each month\, we welcome open-mic 
+ storytellers to the stage to share six-minute tales that tackle a preselec
+ ted theme. This November\, Story Club PGH talks connections you just can
+ ’t shake with the Story Slam theme Ties That Bind. Each month\, the top
+  storyteller\, as voted by viewers\, will win a free City of Asylum t-shir
+ t. Learn more here or sign up for an open mic slot at the slam. Not intere
+ sted in storytelling but still want to participate? Try joining a judging 
+ team and help decide the winners instead!About the Host:Alan Olifson is an
+  award-winning humor columnist and comedian and was the regular host of Pi
+ ttsburgh’s monthly Moth StorySlams. He created the acclaimed storytellin
+ g series Wordplay at Bricolage Theater and now produces the new storytelli
+ ng/talk show Speakeasy at Arcade Comedy Theater. His book\, Manchild: My L
+ ife without Adult Supervision\, from Six Gallery Press\, is available wher
+ ever you buy books—hopefully somewhere local.About Your Visit: The in-h
+ ouse bar at Cucina Alfabeto will be open for drinks only. Seating in the r
+ estaurant and bar is available on a first-come\, first-served basis.Share 
+ this:
+LOCATION:City of Asylum
+END:VEVENT
 END:VCALENDAR
