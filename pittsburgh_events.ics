@@ -122753,4 +122753,14 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
  top-jtgcd-d9fs3-ksd8r-5788a-psyrb\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R&B ONLY
+DTSTART:20261031T000000Z
+DTEND:20261031T010000Z
+DTSTAMP:20260803T190612Z
+UID:64b88d64-8f6e-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:https://www.ticketmaster.com/rb-only-mckees-rocks-pennsylvania-
+ 10-30-2026/event/16006503C2A19117\nR&B ONLY
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
