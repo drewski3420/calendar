@@ -122733,4 +122733,24 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/third-thursdays-082020
  History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturdaze
+DTSTART:20260808T180000Z
+DTEND:20260808T190000Z
+DTSTAMP:20260803T180309Z
+UID:95e0e1ce-8f65-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla-n53j6\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260809T160000Z
+DTEND:20260809T170000Z
+DTSTAMP:20260803T180309Z
+UID:95e981c6-8f65-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r-5788a-psyrb\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
