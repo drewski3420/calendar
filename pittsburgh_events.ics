@@ -122793,4 +122793,15 @@ DESCRIPTION:https://cityofasylum.org/program/story-slam-ties-that-bind/\nSi
  this:
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celestial Bodies: VIRGO SZN
+DTSTART:20260829T020000Z
+DTEND:20260829T030000Z
+DTSTAMP:20260804T030156Z
+UID:da8e65f8-8fb0-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:https://www.spiritpgh.com//calendar/2025/1/25/celestial-bodies-
+ aquarius-szn-wca5j-sl5sy-8d2z9-ef7ky-axrg5-jj45a-w9nbz-p49px-bbtf7-d8pl7-h
+ 7b64-jfyp8-d5mn5-537ah-g2ys5\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
