@@ -122888,4 +122888,15 @@ DESCRIPTION:https://app.opendate.io/e/seville-mourning-star-september-05-20
  s of... Slowdive\, Hotline TNT\, Ovlov\, Cloakroom 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imminence - Axis Mundi Tour: North America 2026
+DTSTART:20261119T010000Z
+DTEND:20261119T020000Z
+DTSTAMP:20260804T170158Z
+UID:348c8dbc-9026-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.ticketmaster.com/imminence-axis-mundi-tour-north-am
+ erica-mckees-rocks-pennsylvania-11-18-2026/event/160064CCBDFBA0DE\nImminen
+ ce - Axis Mundi Tour: North America 2026
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
