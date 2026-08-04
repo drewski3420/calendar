@@ -122899,4 +122899,13 @@ DESCRIPTION:https://www.ticketmaster.com/imminence-axis-mundi-tour-north-am
  ce - Axis Mundi Tour: North America 2026
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Aliquo\, Joe DeFazio & Bruce Wallace
+DTSTART:20260806T220000Z
+DTEND:20260806T230000Z
+DTSTAMP:20260804T190747Z
+UID:c7f44ac0-9037-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:/corey.pisarski/detail/313/1786053600000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
