@@ -122876,4 +122876,16 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/meeting-of-important-peo
  hunderbirdmusichall.com after ticket purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEVILLE + MOURNING STAR
+DTSTART:20260905T233000Z
+DTEND:20260906T003000Z
+DTSTAMP:20260804T160759Z
+UID:a9f464d8-901e-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:https://app.opendate.io/e/seville-mourning-star-september-05-20
+ 26-728389\n SEVILLE MOURNING STAR with support from SORRY FACE YOU SHOULD 
+ HAVE BROUGHT ME FLOWERS  $10 6:30PM DOORS / 7:30PM MUSIC ALL AGES  for fan
+ s of... Slowdive\, Hotline TNT\, Ovlov\, Cloakroom 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
