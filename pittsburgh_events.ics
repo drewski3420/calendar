@@ -123010,4 +123010,19 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2025/12/12/ryan-caraveo-phm
  re-5dwcr-yctwg\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greg Warren: Warm-Up Show
+DTSTART:20261120T000000Z
+DTEND:20261120T010000Z
+DTSTAMP:20260805T140204Z
+UID:3cc3dd68-90d6-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://librarymusichall.com/event/greg-warren-warm-up-show\nDr
+ usky Entertainment & Outback Present\nGreg Warren: Warm-Up Show\nThursday\
+ , November 19th\, 2026\nDoors: 6:00PM / Show: 7:00PM\nCarnegie of Homestea
+ d Music Hall (Munhall\, PA)\n*All tickets subject to day of show price inc
+ rease. Prices at the ticket link reflect the all-in ticket price (face val
+ ue + fees) - minus any taxes / credit card processing fees.\nThis event is
+  recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
