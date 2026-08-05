@@ -123234,4 +123234,13 @@ DESCRIPTION:0vhlf6tto2ghl5f7le5kgfmonu@google.com\nJamie Lee Coitus hosts a
  !
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grievous Angels
+DTSTART;TZID=America/New_York:20260918T200000
+DTEND;TZID=America/New_York:20260918T210000
+DTSTAMP:20260805T220153Z
+UID:4488818c-9119-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.poetrymillvale.com/event/grievous-angels/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
