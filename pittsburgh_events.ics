@@ -123367,4 +123367,38 @@ UID:f133ba1a-9154-11f1-b6b2-c20cc4a41bd4
 DESCRIPTION:/corey.pisarski/detail/314/1786658400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Blank (1967)
+DTSTART:20260904T000000Z
+DTEND:20260904T010000Z
+DTSTAMP:20260806T130208Z
+UID:08272094-9197-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://trustarts.org/production/109720/point-blank-1967\nLeft 
+ for dead after a heist gone wrong\, Lee Marvin’s aptly named Walker cros
+ ses Los Angeles with an eerie resolve to find the money and men who betray
+ ed him.  Directed by John Boorman\, it's the definitive 60's crime film.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exorcist II: The Heretic (1977)
+DTSTART:20260911T000000Z
+DTEND:20260911T010000Z
+DTSTAMP:20260806T130208Z
+UID:083053bc-9197-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://trustarts.org/production/109728/exorcist-ii-the-heretic
+ -1977\nSee it after watching Boorman and the Devil at the Harris!  As a mu
+ ch maligned\, and possibly underrated\, follow-up to one of the scariest m
+ ovies of all time\, Exorcist II: The Heretic deserves a second look!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Painting with Paul
+DTSTART:20260906T200000Z
+DTEND:20260906T210000Z
+DTSTAMP:20260806T130208Z
+UID:083385d2-9197-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/painting-with-paul
+ -raepr-47tk3\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
