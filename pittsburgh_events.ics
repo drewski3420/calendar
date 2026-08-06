@@ -123287,4 +123287,46 @@ DESCRIPTION:https://tickets.citywinery.com/event/broadway-trivia-night-host
   Smallman StreetPittsburgh 15222United States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Jazz: Two of Anything’s New Compositions (with Aud
+ ience Participation!)
+DTSTART:20261113T000000Z
+DTEND:20261113T010000Z
+DTSTAMP:20260806T010154Z
+UID:6a38f9de-9132-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:https://cityofasylum.org/program/thursday-night-jazz-two-of-any
+ thing/\n\nPhoto Credit: Joseph Wyman.\nThis November\, City of Asylum welc
+ omes Patrick Breiner’s trio of exciting Pittsburgh musicians—who welco
+ me audience participation—for a performance full of brand new music! Two
+  of Anything’s compositions are inspired by the work of artists such as 
+ Henry Threadgill\, Anthony Braxton\, John Zorn\, and the Association for t
+ he Advancement of Creative Musicians. Reserve two (or three or four!) of t
+ ickets and come support new music in Pittsburgh!\nFeatured Musicians:\nPat
+ rick Breiner: compositions\, saxophone\, clarinet\, bass clarinet\nAntonio
+  Croes: keybird piano\, harmonium\, melodica\nMark Micchelli: grand piano\
+ , preparations\nAbout the Band:\nTwo of Anything’s current status is two
+  of piano. Also sometimes two of melodica. But! Two of Anything could be t
+ wo of something else. Or\, perhaps\, one each of many different things. Th
+ ree of musicians. Four of ears. Six of hands. \nAbout the Artist:\nPatric
+ k Breiner is a saxophonist\, clarinetist\, and composer in Pittsburgh\, PA
+ . He helped found the Tough Pill concert series\, held on third Thursdays 
+ at the Government Center\, which is rapidly approaching its three-year ann
+ iversary! Sonic collaborations include: Battle Trance (New Amsterdam / NNA
+  Tapes) and VAX (pronounced “fasjsh”). In addition to his musical unde
+ rtakings\, Patrick is sometimes a theater/dance/puppetry performer and col
+ laborator. Patrick is a Vandoren Artist.\nAbout Your Visit: \nThe in-hous
+ e restaurant\, Cucina Alfabeto\, is open for dinner from 5 to 10 p.m. Plea
+ se visit OpenTable or call 412-435-1111 to make a reservation.\nShare this
+ : 
+LOCATION:City of Asylum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blasting Company
+DTSTART:20261106T010000Z
+DTEND:20261106T020000Z
+DTSTAMP:20260806T010154Z
+UID:6a44d11e-9132-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nThe Blasting Company
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
