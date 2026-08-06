@@ -123589,4 +123589,25 @@ UID:79d6bdae-91d2-11f1-b6b2-c20cc4a41bd4
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nBrand New
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off-Site Penguin Court Preserve
+DTSTART:20260823T000000Z
+DTEND:20260823T010000Z
+DTSTAMP:20260806T210231Z
+UID:23a01338-91da-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:2cqp3fvliqsjju76mmam64ri4p@google.com\nCome enjoy the night sky
+  with members of the Amateur Astronomers Association of Pittsburgh.  We&#
+ 39\;ll start the evening with a short\, astronomy themed presentation\, an
+ d then attendees will be invited to look through member&#39\;s telescopes 
+ and observe star clusters\, nebulae and even galaxies.\n\nThe topic of the
+  presentation will be binocular astronomy.  We&#39\;ll discuss binocular 
+ basics\, their use and what you can see.  Once it gets dark\, we&#39\;ll 
+ have a station set up with astronomers using a laser pointer to pinpoint s
+ pecific targets for you to observe through you&#39\;re own binoculars.\n\n
+ Do you have a telescope\, but aren&#39\;t sure how to use it?  Bring it a
+ long and one of our members will answer questions and help you get it set 
+ up.\n\nSpace is limited\, contact Penquin Court Preserve for details.
+LOCATION:Penguin Court Preserve\, 314 Penguin Ct\, Ligonier Township\, PA 1
+ 5655\, USA
+END:VEVENT
 END:VCALENDAR
