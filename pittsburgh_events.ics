@@ -123358,4 +123358,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/missing-from-new-orleans/\
  n the Labyrinth. https://doorsinthelabyrinth.bandcamp.com/
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Aliquo with Special Guests
+DTSTART:20260813T220000Z
+DTEND:20260813T230000Z
+DTSTAMP:20260806T050903Z
+UID:f133ba1a-9154-11f1-b6b2-c20cc4a41bd4
+DESCRIPTION:/corey.pisarski/detail/314/1786658400000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
