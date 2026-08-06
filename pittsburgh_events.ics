@@ -123339,4 +123339,23 @@ DESCRIPTION:https://www.poetrymillvale.com/event/closed-for-private-party/\
  n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missing (from New Orleans) // Death Instinct // Doors in the Labyri
+ nth
+DTSTART;TZID=America/New_York:20260923T190000
+DTEND;TZID=America/New_York:20260923T200000
+DTSTAMP:20260806T040155Z
+UID:9064a608-914b-11f1-b7cc-c20cc4a41bd4
+DESCRIPTION:https://www.poetrymillvale.com/event/missing-from-new-orleans/\
+ nWed Sep 23. 7 pm. 21+ show. $10 advance\, $15 door.\ntickets at Humanitix
+ \nhttps://events.humanitix.com/missing-death-instinct-doors-in-the-labyrin
+ th-at-poetry-lounge\nPhysical tickets (no fee): Jerry’s Records\, Caliba
+ n Books\, Pleasant Dreams\, and Government Center.\nPostpunk and darkwave 
+ from New Orleans\nhttps://missingofficial.bandcamp.com/\nMissing has toure
+ d with bands like The Chameleons\, Vision Video and Rosegarden Funeral Par
+ ty in the past and will be touring a new record this time around!\nwith sp
+ ecial guests\nDeath Instinct https://deathinstinct.bandcamp.com/\nDoors i
+ n the Labyrinth. https://doorsinthelabyrinth.bandcamp.com/
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
