@@ -123719,4 +123719,20 @@ DESCRIPTION:https://tickets.citywinery.com/event/night-of-nicks-the-stories
  llman StreetPittsburgh 15222United States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOB ROSS PAINT NIGHT
+DTSTART:20260901T230000Z
+DTEND:20260902T000000Z
+DTSTAMP:20260807T180754Z
+UID:e9a4a5d4-928a-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://app.opendate.io/e/bob-ross-paint-night-september-01-202
+ 6-736848\n IT'S BACK!  Make a happy accident at our BOB ROSS PAINT NIGHT! 
+  Paint something new for your apartment\, sip a beer\, and enjoy a live DJ
+  set accompanied by Bob Ross visuals!  Either paint at your leisure/creati
+ vity\, or follow one of the Bob Ross guides included with purchase of pain
+ t package*! Feel free to bring your own supplies.  *Paint package- $10  -P
+ aint brushes  -Canvas  -Paint  -Print outs of Bob Ross instructions   Free
+  admission\, Paint Package $10 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
