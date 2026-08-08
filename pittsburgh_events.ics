@@ -123735,4 +123735,13 @@ DESCRIPTION:https://app.opendate.io/e/bob-ross-paint-night-september-01-202
   admission\, Paint Package $10 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Half Ivory // Geese Teeth // Femaliens
+DTSTART;TZID=America/New_York:20260925T200000
+DTEND;TZID=America/New_York:20260925T210000
+DTSTAMP:20260808T030155Z
+UID:831ef666-92d5-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://www.poetrymillvale.com/event/half-ivory-geese-teeth/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
