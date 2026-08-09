@@ -123771,4 +123771,16 @@ UID:215f1272-93b0-11f1-bdde-0e27d45fcf84
 DESCRIPTION:/corey.pisarski/detail/303/1788562800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20260831T000000Z
+DTEND:20260831T010000Z
+DTSTAMP:20260809T160157Z
+UID:a609ebb8-940b-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://trustarts.org/production/109795/steel-city-horror-show\
+ nHost Sean Collier will tell you all about our surprise flick\, while the 
+ mysterious Dr. Gielgud returns with in-theater scares and pre-show surpris
+ es — but which Dr. Gielgud will we meet this time?
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
