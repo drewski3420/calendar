@@ -123744,4 +123744,13 @@ UID:831ef666-92d5-11f1-bdde-0e27d45fcf84
 DESCRIPTION:https://www.poetrymillvale.com/event/half-ivory-geese-teeth/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A.T.S. Album Release
+DTSTART;TZID=America/New_York:20260926T200000
+DTEND;TZID=America/New_York:20260926T210000
+DTSTAMP:20260809T030318Z
+UID:df48c498-939e-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://www.poetrymillvale.com/event/ats-album-rel/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
