@@ -124042,4 +124042,27 @@ DESCRIPTION:https://mrsmalls.com/events/mr-smalls-horror-film-festival/\n*C
  o the event for tickets!
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottomless Soda&Popcorn -Vitamin String Quartet- Not a Concert Tick
+ et
+DTSTART:20261009T000000Z
+DTEND:20261009T010000Z
+DTSTAMP:20260810T160208Z
+UID:d7212008-94d4-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://www.ticketmaster.com/bottomless-sodapopcorn-vitamin-str
+ ing-quartet-not-mckees-rocks-pennsylvania-10-08-2026/event/16006507C4E4C62
+ 8\nBottomless Soda&Popcorn -Vitamin String Quartet- Not a Concert Ticket
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vitamin String Quartet + Girl Named Tom (Fully Seated)
+DTSTART:20261009T000000Z
+DTEND:20261009T010000Z
+DTSTAMP:20260810T160208Z
+UID:d72a2446-94d4-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://www.ticketmaster.com/vitamin-string-quartet-girl-named-
+ tom-mckees-rocks-pennsylvania-10-08-2026/event/16006507D4DEE414\nVitamin S
+ tring Quartet + Girl Named Tom (Fully Seated)
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
