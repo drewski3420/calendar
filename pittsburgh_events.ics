@@ -124065,4 +124065,57 @@ DESCRIPTION:https://www.ticketmaster.com/vitamin-string-quartet-girl-named-
  tring Quartet + Girl Named Tom (Fully Seated)
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vintage Base Ball Day
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+DTSTAMP:20260810T170212Z
+UID:3aeb6a14-94dd-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.heinzhistorycenter.org/event/vintage-base-ball-day-
+ 2026/\nStep back in time for a vintage game of “base ball” at Meadowcr
+ oft — when America’s pastime looked a little different and was spelled
+  with two words! Watch as the…\nThe post Vintage Base Ball Day appeared 
+ first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of World War II: Italian American Stories
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+DTSTAMP:20260810T170212Z
+UID:3af40bba-94dd-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.heinzhistorycenter.org/event/remembering-world-war-
+ ii-italian-american-stories/\nMemo-AmIt explores how the legacy of World W
+ ar II has shaped the memories\, identities\, and family stories of Italian
+  Americans across generations. Through recorded interviews with Italian Am
+ ericans\, including Western…\nThe post Memories of World War II: Italian
+  American Stories appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannon Firing
+DTSTART:20260822T160000Z
+DTEND:20260822T170000Z
+DTSTAMP:20260810T170212Z
+UID:3af72e9e-94dd-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.heinzhistorycenter.org/event/cannon-firing-08222026
+ /\nJoin us on the Fort Pitt lawn for firings of the museum’s replica Bri
+ tish 6-pounder cannon at noon and 2 p.m. all summer long! Experience the s
+ ights and sounds of…\nThe post Cannon Firing appeared first on Heinz His
+ tory Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weeding Party
+DTSTART:20260828T133000Z
+DTEND:20260828T143000Z
+DTSTAMP:20260810T170212Z
+UID:3afa4034-94dd-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.heinzhistorycenter.org/event/weeding-party-08282026
+ /\nFrom June through August\, join Meadowcroft every Friday morning at 9:3
+ 0 a.m. to help care for the site’s historic garden plots. Spend an hour 
+ tending the gardens alongside Meadowcroft staff…\nThe post Weeding Party
+  appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
