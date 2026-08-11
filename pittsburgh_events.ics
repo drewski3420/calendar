@@ -124158,4 +124158,15 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/8/death-comes-liftin
  g-yoga-on-the-rooftop-95kg5\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Jay Buchanan
+DTSTART:20260927T233000Z
+DTEND:20260928T003000Z
+DTSTAMP:20260811T180811Z
+UID:9d15c2a2-95af-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://mrsmalls.com/events/jay-buchanan/\nJay Buchanan is an A
+ merican singer\, songwriter\, and musician best known as the lead vocalist
+  of the rock band Rival Sons.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
