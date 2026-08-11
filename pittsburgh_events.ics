@@ -124188,4 +124188,15 @@ DESCRIPTION:https://app.opendate.io/e/love-island-reunion-watch-party-augus
  you watch! Admission is FREE and ALL ARE WELCOME!  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrea Gibson's Love Letter from the Afterlife (Fully Seated)
+DTSTART:20261121T010000Z
+DTEND:20261121T020000Z
+DTSTAMP:20260811T200202Z
+UID:84cca5ac-95bf-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.ticketmaster.com/andrea-gibsons-love-letter-from-th
+ e-mckees-rocks-pennsylvania-11-20-2026/event/16006507C669C988\nAndrea Gibs
+ on's Love Letter from the Afterlife (Fully Seated)
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
