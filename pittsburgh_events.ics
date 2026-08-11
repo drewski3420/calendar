@@ -124128,4 +124128,34 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2025/12/12/jay-som-zm36m-h5
  gmt-ydyrh\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturdaze
+DTSTART:20260815T180000Z
+DTEND:20260815T190000Z
+DTSTAMP:20260811T160159Z
+UID:fbf2f022-959d-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla-n53j6-d2b7s\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260816T160000Z
+DTEND:20260816T170000Z
+DTSTAMP:20260811T160159Z
+UID:fbfb40c4-959d-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r-5788a-psyrb-ywxf7\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Comes Lifting Yoga on the Rooftop
+DTSTART:20260822T170000Z
+DTEND:20260822T180000Z
+DTSTAMP:20260811T160159Z
+UID:fbfe62c2-959d-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/8/death-comes-liftin
+ g-yoga-on-the-rooftop-95kg5\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
