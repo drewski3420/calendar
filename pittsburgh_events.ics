@@ -124229,4 +124229,22 @@ DESCRIPTION:https://cityofasylum.org/program/story-club-pgh-slipped-through
  me\, first-served basis.\nShare this: 
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Teacher Open House
+DTSTART:20261008T203000Z
+DTEND:20261008T213000Z
+DTSTAMP:20260812T010151Z
+UID:675d6126-95e9-11f1-bdde-0e27d45fcf84
+DESCRIPTION:10002193-1791477000-1791491400@www.warhol.org\nMingle with othe
+ r educators while enjoying food\, drinks\, gallery talks\, silkscreen prin
+ ting and a guided tour of our exhibition Sharif Bey: Homecoming. In celebr
+ ation of the ceramic sculptor and educator’s return to Pittsburgh\, this
+  exhibition traces Bey’s artistic journey and enduring ties to the city.
+  As you gear up for the new school year\, join us for an evening of profes
+ sional development and inspiration to bring back to your classroom. Teache
+ rs in attendance receive scholarship information for field trips and Artis
+ ts in School partnerships and can receive four Act 48 credit hours.
+LOCATION:The Andy Warhol Museum\, 117 Sandusky Street\, Pittsburgh\, PA\, 1
+ 5212\, United States
+END:VEVENT
 END:VCALENDAR
