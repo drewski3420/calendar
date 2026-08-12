@@ -124247,4 +124247,16 @@ DESCRIPTION:10002193-1791477000-1791491400@www.warhol.org\nMingle with othe
 LOCATION:The Andy Warhol Museum\, 117 Sandusky Street\, Pittsburgh\, PA\, 1
  5212\, United States
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead of Summer 4-Pack
+DTSTART:20270802T000000Z
+DTEND:20270802T010000Z
+DTSTAMP:20260812T040148Z
+UID:8a8bd48e-9602-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://thunderbirdmusichall.com/event/dead-of-summer-4-pack/th
+ underbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nDead of Summer 4-Pac
+ k\n \n8/1 Ramble on Rose\n8/7 JGBG and Terpene Station\n8/14 Terrapin Fly
+ er\n8/22 Beatles vs. Dead 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
