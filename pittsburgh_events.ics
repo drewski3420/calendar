@@ -124199,4 +124199,34 @@ DESCRIPTION:https://www.ticketmaster.com/andrea-gibsons-love-letter-from-th
  on's Love Letter from the Afterlife (Fully Seated)
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Story Club PGH Presents: Story Slam! (Slipped Through My Fingers)
+DTSTART:20261202T000000Z
+DTEND:20261202T010000Z
+DTSTAMP:20260812T000743Z
+UID:d6eea6b0-95e1-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://cityofasylum.org/program/story-club-pgh-slipped-through
+ -my-fingers/\n\nSince 2022\, it’s been our pleasure to partner with Stor
+ y Club (created by the former producers of The Moth Pittsburgh) for their 
+ monthly nonfiction storytelling series\, Story Slam. Together\, we aim to 
+ showcase a diverse range of voices and create a space for stories that res
+ onate across backgrounds\, perspectives\, and experiences. Each month\, we
+  welcome open-mic storytellers to the stage to share six-minute tales that
+  tackle a preselected theme. This December\, Story Club PGH takes on those
+  moments when you lose it all with the theme Slipped Through My Fingers. 
+ \nEach month\, the top storyteller\, as voted by viewers\, will win a free
+  City of Asylum t-shirt. Learn more here or sign up for an open mic slot a
+ t the slam. Not interested in storytelling but still want to participate? 
+ Try joining a judging team and help decide the winners instead!\nAbout the
+  Host:\nAlan Olifson is an award-winning humor columnist and comedian and 
+ was the regular host of Pittsburgh’s monthly Moth StorySlams. He created
+  the acclaimed storytelling series Wordplay at Bricolage Theater and now p
+ roduces the new storytelling/talk show Speakeasy at Arcade Comedy Theater.
+  His book\, Manchild: My Life without Adult Supervision\, from Six Gallery
+  Press\, is available wherever you buy books—hopefully somewhere local.\
+ nAbout Your Visit: \nThe in-house bar at Cucina Alfabeto will be open for
+  drinks only. Seating in the restaurant and bar is available on a first-co
+ me\, first-served basis.\nShare this: 
+LOCATION:City of Asylum
+END:VEVENT
 END:VCALENDAR
