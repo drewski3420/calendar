@@ -126490,4 +126490,48 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/5/pittsburgh-crew-c
  onnect\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STEELERS GAME (vs Falcons)
+DTSTART:20260913T170000Z
+DTEND:20260913T180000Z
+DTSTAMP:20260813T180826Z
+UID:fab6d8fe-9741-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://app.opendate.io/e/steelers-game-vs-falcons-september-13
+ -2026-712936\n  STILLERS SUNDAY at Bottlerocket This season\, there's no b
+ etter place to watch our beloved Steelers than your neighborhood Bottleroc
+ ket! With non-annoying music during the commercial breaks\, $3 Draft Beers
+ \, Steelers Bingo\, and food from our brand new BottleDogs cart - every Su
+ nday it's the best dive bar in town\, and that means the best place to wat
+ ch a ballgame. The bar is open to ALL AGES & totally free! Come hang!   ST
+ EELERS BINGO We give you a sheet of things that will probably happen at so
+ me point during a Steelers game (Najee Harris Touchdowns\, TJ Watt Sacks\,
+  someone in the bar disagreeing with a coaching decision\, etc.) - you mar
+ k them off as they happen\, and win! Even if the Steelers lose you can sti
+ ll go home a winner from the prize pile - and we don't interrupt a second 
+ of the game to play\, so if you're locked in to the actual game\, have no 
+ fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STEELERS GAME (vs Patriots)
+DTSTART:20260920T170000Z
+DTEND:20260920T180000Z
+DTSTAMP:20260813T180826Z
+UID:fac03ac0-9741-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://app.opendate.io/e/steelers-game-vs-patriots-september-2
+ 0-2026-712937\n  STILLERS SUNDAY at Bottlerocket This season\, there's no 
+ better place to watch our beloved Steelers than your neighborhood Bottlero
+ cket! With non-annoying music during the commercial breaks\, $3 Draft Beer
+ s\, Steelers Bingo\, and food from our brand new BottleDogs cart - every S
+ unday it's the best dive bar in town\, and that means the best place to wa
+ tch a ballgame. The bar is open to ALL AGES & totally free! Come hang!   S
+ TEELERS BINGO We give you a sheet of things that will probably happen at s
+ ome point during a Steelers game (Najee Harris Touchdowns\, TJ Watt Sacks\
+ , someone in the bar disagreeing with a coaching decision\, etc.) - you ma
+ rk them off as they happen\, and win! Even if the Steelers lose you can st
+ ill go home a winner from the prize pile - and we don't interrupt a second
+  of the game to play\, so if you're locked in to the actual game\, have no
+  fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
