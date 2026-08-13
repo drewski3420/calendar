@@ -124370,4 +124370,13 @@ DESCRIPTION:https://tickets.citywinery.com/event/boozy-trivia-bingo-with-ka
   15222United States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carrellee // Bragolin
+DTSTART;TZID=America/New_York:20260927T190000
+DTEND;TZID=America/New_York:20260927T200000
+DTSTAMP:20260813T010808Z
+UID:72442a5a-96b3-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://www.poetrymillvale.com/event/carrellee-bragolin/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
