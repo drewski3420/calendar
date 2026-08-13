@@ -126551,4 +126551,17 @@ DESCRIPTION:https://app.opendate.io/e/brandon-s-birthday-september-02-2026-
  e! It's FREE !   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Assassination of Jesse James by the Coward Robert Ford (2007)
+DTSTART:20260914T000000Z
+DTEND:20260914T010000Z
+DTSTAMP:20260813T210821Z
+UID:1d81efb8-975b-11f1-9649-8afe4e064258
+DESCRIPTION:https://trustarts.org/production/109840/the-assassination-of-je
+ sse-james-by-the-coward-robert-ford-2007\nNotorious outlaw Jesse James\, a
+  wanted man with a bounty on his head\, is a hero to many including the yo
+ ung and zealous Robert Ford in Andrew Dominick’s understated yet larger-
+ than-life film with a hypnotic score by Nick Cave.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
