@@ -124379,4 +124379,40 @@ UID:72442a5a-96b3-11f1-add0-0e27d45fcf84
 DESCRIPTION:https://www.poetrymillvale.com/event/carrellee-bragolin/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sound of Music Brew & View 
+DTSTART:20260902T040000Z
+DTEND:20260902T050000Z
+DTSTAMP:20260813T030208Z
+UID:5f6a4012-96c3-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/the-sound-o
+ f-music-9-2-26-800-pm/\nWe are pairing Von Trapp Brewing beers with an ama
+ zing movie about the Von Trapp family singers!
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cult-O-Rama: Y2K Killer Bugs
+DTSTART:20260911T040000Z
+DTEND:20260911T050000Z
+DTSTAMP:20260813T030208Z
+UID:5f72d72c-96c3-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/y2killer-bugs/
+ \nSeptember is always millennial cult month for Cult-O-Rama\, and this yea
+ r we’re bringing you two movies that feature a different kind of Y2K bug
+ : the mutant and aggressive insect/arachnid kind! Featuring Eight Legged F
+ reaks and a mystery movie!
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cult-O-Rama: 13 Hours of Terror 
+DTSTART:20261009T040000Z
+DTEND:20261009T050000Z
+DTSTAMP:20260813T030208Z
+UID:5f761234-96c3-11f1-add0-0e27d45fcf84
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/cult-o-rama-13
+ -hours-of-terror-marathon/\nThe immensely popular all-day marathon is back
+  for the fourth year\, and this time\, we’re really not pulling any punc
+ hes. 
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
