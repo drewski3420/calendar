@@ -126480,4 +126480,14 @@ DESCRIPTION:10002194-1794592800-1794600000@www.warhol.org\nJoin us for a se
 LOCATION:The Factory\, 117 Sandusky Street\, Pittsburgh\, PA\, 15212\, Unit
  ed States
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Crew Connect
+DTSTART:20261005T220000Z
+DTEND:20261005T230000Z
+DTSTAMP:20260813T170201Z
+UID:b384749a-9738-11f1-bdde-0e27d45fcf84
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/5/pittsburgh-crew-c
+ onnect\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
