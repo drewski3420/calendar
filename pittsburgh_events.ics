@@ -126460,4 +126460,24 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/little-historians-stor
  t on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sensory Friendly Open Studio Night (18+)
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+DTSTAMP:20260813T160154Z
+UID:4dba39a4-9730-11f1-add0-0e27d45fcf84
+DESCRIPTION:10002194-1794592800-1794600000@www.warhol.org\nJoin us for a se
+ nsory-friendly open studio night designed to support the creativity of adu
+ lts with autism spectrum disorders and those with sensory sensitivities. T
+ his program for ages 18+ offers an adapted museum experience including des
+ ignated quiet areas\, lower lighting levels in the studio\, and access to 
+ fidgets & noise-cancelling headphones. \nRegistrants will be able to submi
+ t their own drawings\, photographs\, or other images to our staff to be tr
+ anslated into silkscreen prints. These designs can be used to make t-shirt
+ s\, posters\, and other custom art pieces during the event. Registration i
+ s limited to 20 participants and caregivers. Reach out to access@warhol.or
+ g with any accessibility needs or questions.
+LOCATION:The Factory\, 117 Sandusky Street\, Pittsburgh\, PA\, 15212\, Unit
+ ed States
+END:VEVENT
 END:VCALENDAR
