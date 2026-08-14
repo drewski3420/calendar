@@ -126627,4 +126627,22 @@ DESCRIPTION:https://www.poetrymillvale.com/event/poetry-reading-with-adam-v
  R.I.Y.L. will be available mid-August\, and will also cost $0.00.
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daryl Fleming
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T200000
+DTSTAMP:20260814T040831Z
+UID:cff280d8-9795-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.poetrymillvale.com/event/daryl-fleming/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Romeo
+DTSTART:20260905T210000Z
+DTEND:20260905T220000Z
+DTSTAMP:20260814T040832Z
+UID:cffb7b20-9795-11f1-9649-8afe4e064258
+DESCRIPTION:/corey.pisarski/detail/268/1788642000000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
