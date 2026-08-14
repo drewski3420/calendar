@@ -126741,4 +126741,46 @@ DESCRIPTION:https://mrsmalls.com/events/maneka/\nIn addition to past work i
  sAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IN BED BY TEN
+DTSTART:20260912T210000Z
+DTEND:20260912T220000Z
+DTSTAMP:20260814T180156Z
+UID:3d0085fc-980a-11f1-9649-8afe4e064258
+DESCRIPTION:https://app.opendate.io/e/in-bed-by-ten-september-12-2026-72564
+ 1\n In Bed by Ten: DJ MB 50  DJ MB is turning 50\, throwing a dance party 
+ with some of his favorite DJs\, and you’re invited! Join us at Bottleroc
+ ket from 7-11pm for an early dance party celebrating 50 years of dance mus
+ ic. J Malls takes us through the 70s at 7pm\, EZ Lou takes on the 1980s at
+  8pm\, and Rojo brings us home with the 90s and 2000s from 9pm til 11pm. O
+ h and it’s followed by free Late Night Karaoke at 11pm!  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannon Firing
+DTSTART:20260829T160000Z
+DTEND:20260829T170000Z
+DTSTAMP:20260814T180156Z
+UID:3d092d06-980a-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.heinzhistorycenter.org/event/cannon-firing-08292026
+ /\nJoin us on the Fort Pitt lawn for firings of the museum’s replica Bri
+ tish 6-pounder cannon at noon and 2 p.m. all summer long! Experience the s
+ ights and sounds of…\nThe post Cannon Firing appeared first on Heinz His
+ tory Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smithsonian Lecture Series: Freedom Seekers
+DTSTART:20260902T220000Z
+DTEND:20260902T230000Z
+DTSTAMP:20260814T180156Z
+UID:3d0c95fe-980a-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.heinzhistorycenter.org/event/smithsonian-lecture-se
+ ries-freedom-seekers/\nJoin the Heinz History Center on Wednesday\, Sept. 
+ 2\, for a thought-provoking conversation exploring the enduring history of
+  freedom\, resistance\, and the pursuit of justice by African Americans. T
+ he program\,…\nThe post Smithsonian Lecture Series: Freedom Seekers appe
+ ared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
