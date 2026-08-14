@@ -126783,4 +126783,13 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/smithsonian-lecture-se
  ared first on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modele
+DTSTART:20261025T230000Z
+DTEND:20261026T000000Z
+DTSTAMP:20260814T190814Z
+UID:801e6f08-9813-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/25/modele\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
