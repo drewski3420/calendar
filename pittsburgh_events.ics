@@ -126862,4 +126862,15 @@ DESCRIPTION:https://www.co-nectar.org/events-2-1/oakzy60zpjidjkxswtaym8phpc
  vbug-8gg74\n
 LOCATION:Co-nectar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plea
+DTSTART;TZID=America/New_York:20261002T200000
+DTEND;TZID=America/New_York:20261002T210000
+DTSTAMP:20260815T030215Z
+UID:b87bb026-9855-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.poetrymillvale.com/event/plea/\nPittsburgh-based ar
+ t-pop band (synth + harp) \nHere’s a quick listen:\nhttps://plea.bandcam
+ p.com/ \nLive/updates:\nhttps://www.instagram.com/pleabandpgh
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
