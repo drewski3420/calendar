@@ -126852,4 +126852,14 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/maggie-rose-3/thunderbir
  sales are final.\n  
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Immense World: Discussion Evening
+DTSTART:20260917T230000Z
+DTEND:20260918T000000Z
+DTSTAMP:20260815T020222Z
+UID:5ab68ffe-984d-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.co-nectar.org/events-2-1/oakzy60zpjidjkxswtaym8phpc
+ vbug-8gg74\n
+LOCATION:Co-nectar
+END:VEVENT
 END:VCALENDAR
