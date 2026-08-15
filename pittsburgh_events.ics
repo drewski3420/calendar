@@ -126873,4 +126873,35 @@ DESCRIPTION:https://www.poetrymillvale.com/event/plea/\nPittsburgh-based ar
  p.com/ \nLive/updates:\nhttps://www.instagram.com/pleabandpgh
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STEELERS GAME (vs Bengals)
+DTSTART:20260927T170000Z
+DTEND:20260927T180000Z
+DTSTAMP:20260815T040843Z
+UID:01250fbc-985f-11f1-9649-8afe4e064258
+DESCRIPTION:https://app.opendate.io/e/steelers-game-vs-bengals-september-27
+ -2026-712938\n  STILLERS SUNDAY at Bottlerocket This season\, there's no b
+ etter place to watch our beloved Steelers than your neighborhood Bottleroc
+ ket! With non-annoying music during the commercial breaks\, $3 Draft Beers
+ \, Steelers Bingo\, and food from our brand new BottleDogs cart - every Su
+ nday it's the best dive bar in town\, and that means the best place to wat
+ ch a ballgame. The bar is open to ALL AGES & totally free! Come hang!   ST
+ EELERS BINGO We give you a sheet of things that will probably happen at so
+ me point during a Steelers game (Aaron Rogers first down point\, Mike Mcca
+ rthy hometown mention\, TJ Watt Sacks\, someone in the bar disagreeing wit
+ h a coaching decision\, etc.) - you mark them off as they happen\, and win
+ ! Even if the Steelers lose you can still go home a winner from the prize 
+ pile - and we don't interrupt a second of the game to play\, so if you're 
+ locked in to the actual game\, have no fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jeff Leonhardt and Mike Clancy Duo
+DTSTART:20260905T233000Z
+DTEND:20260906T003000Z
+DTSTAMP:20260815T040843Z
+UID:013046e8-985f-11f1-9649-8afe4e064258
+DESCRIPTION:/corey.pisarski/detail/316/1788651000000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
