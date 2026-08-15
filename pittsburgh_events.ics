@@ -126904,4 +126904,24 @@ UID:013046e8-985f-11f1-9649-8afe4e064258
 DESCRIPTION:/corey.pisarski/detail/316/1788651000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pollinator Pie! Fiery Flavors of Nightshade
+DTSTART:20260829T230000Z
+DTEND:20260830T000000Z
+DTSTAMP:20260815T060302Z
+UID:f9aa05de-986e-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.co-nectar.org/events-2-1/pollinator-pie-fiery-flavo
+ rs-of-nightshade\n
+LOCATION:Co-nectar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Resilient Queens: Lecture by PSU Grozinger Lab's Kate Anton
+DTSTART:20260913T143000Z
+DTEND:20260913T153000Z
+DTSTAMP:20260815T060302Z
+UID:f9ba14a6-986e-11f1-9649-8afe4e064258
+DESCRIPTION:https://www.co-nectar.org/events-2-1/q02tkubpfhrg3xyzv6iqrtf9nc
+ 7kaz\n
+LOCATION:Co-nectar
+END:VEVENT
 END:VCALENDAR
