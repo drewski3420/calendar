@@ -126966,4 +126966,13 @@ DESCRIPTION:https://app.opendate.io/e/in-bed-by-ten-dj-mb-50-september-12-2
  l 11pm. Oh and it’s followed by free Late Night Karaoke at 11pm!  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brian K & The Parkway // Connor Parente
+DTSTART;TZID=America/New_York:20261003T200000
+DTEND;TZID=America/New_York:20261003T210000
+DTSTAMP:20260816T030156Z
+UID:d7471026-991e-11f1-95e5-f2e0cc84f3eb
+DESCRIPTION:https://www.poetrymillvale.com/event/brian-k-the-parkway-3/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
