@@ -127259,4 +127259,45 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/it-takes-a-lifetime-bo
  by Cataldi appeared first on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturdaze
+DTSTART:20260822T180000Z
+DTEND:20260822T190000Z
+DTSTAMP:20260817T230657Z
+UID:58757882-9a90-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla-n53j6-mjdxh\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TITLE TOWN Soul & Funk Party
+DTSTART:20260906T010000Z
+DTEND:20260906T020000Z
+DTSTAMP:20260817T230657Z
+UID:5880b45e-9a90-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.spiritpgh.com//calendar/2025/11/1/title-town-soul-a
+ mp-funk-partys-halloween-hangover-zt8cm-d2z4x-r74r9-yr69w-3e7pn-b4r2b-8hf2
+ p-wbmh7\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devilish Merry and Slim Forsythe
+DTSTART:20260910T210000Z
+DTEND:20260910T220000Z
+DTSTAMP:20260817T230657Z
+UID:5886feea-9a90-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/10/devilish-merry-an
+ d-slim-forsythe\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV's Norm "Dread" Album Release Show
+DTSTART:20260913T000000Z
+DTEND:20260913T010000Z
+DTSTAMP:20260817T230657Z
+UID:588b2e66-9a90-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/12/tvs-norm-dread-al
+ bum-release-show\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
