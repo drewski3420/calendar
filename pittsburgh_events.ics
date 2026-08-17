@@ -127245,4 +127245,18 @@ DESCRIPTION:https://mrsmalls.com/events/voodooglowskulls-x-koffinkats/\nThi
  .
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Takes a Lifetime: Book Talk with Libby Cataldi
+DTSTART:20260909T223000Z
+DTEND:20260909T233000Z
+DTSTAMP:20260817T170208Z
+UID:61cab3bc-9a5d-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.heinzhistorycenter.org/event/it-takes-a-lifetime-bo
+ ok-talk-with-libby-cataldi/\nRooted in the legacies of immigration\, famil
+ y\, and identity\, Cataldi’s intimate memoir traces her family’s journ
+ ey from the southern Italian village of Rotondella to Pittsburgh. Raised i
+ n an Italian American…\nThe post It Takes a Lifetime: Book Talk with Lib
+ by Cataldi appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
