@@ -127011,4 +127011,107 @@ UID:f1d742f0-99df-11f1-84a1-d6eba215a312
 DESCRIPTION:/corey.pisarski/detail/322/1788472800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BETH STELLING: Let Me Get Loose (Friday)
+DTSTART:20261002T230000Z
+DTEND:20261003T000000Z
+DTSTAMP:20260817T040819Z
+UID:47c8aa3a-99f1-11f1-bad8-d6eba215a312
+DESCRIPTION:https://app.opendate.io/e/beth-stelling-let-me-get-loose-friday
+ -october-02-2026-674480\n  Beth Stelling is a comedian\, writer and actres
+ s based in Los Angeles. Her latest release “The Landlord Special” on Y
+ ouTube comes highly recommended by Vulture\, The New York Times and Billbo
+ ard. Beth’s most recent hourlong special “If You Didn’t Want Me Then
+ ” topped every Best of 2023 list when it premiered on Netflix along with
+  her beloved 2017 half-hour special in the first season of “The Standups
+ .” Her critically-acclaimed 2015 Comedy Central Half Hour “Boner Appé
+ tit to You” now lives on YouTube. Conan O'Brien produced Beth’s very f
+ irst hour special for HBO Max called “Girl Daddy” which The New York T
+ imes named “The Best Debut Special of the year\,” adding\, “It's a v
+ irtuosic performance\, conversational while dense with jokes."   Why'd We 
+ Book It? Beth's personal comedy makes her a stand up that you dont want to
+  stop watching. Her commentary on her single life makes it feel less lonel
+ y out here. She has a a way of making you feel like you are friends just c
+ atching up at the dinner table (really funny friends that would go fake sk
+ ydiving at the mall together). Because of her we all should be having a li
+ ttle bit of sugar before bed\, so we have the energy to dream.    For Fans
+  Of... Rosebud Baker\, Taylor Tomlinson\, Ali Wong   Extended Bio: Beth ha
+ s been a writer for the following television series: Rick and Morty\, Stra
+ nge Planet\, The Last O.G.\, I Love You America with Sarah Silverman\, Ano
+ ther Period and Crashing on HBO. She’s a sought-after punch-up writer fo
+ r feature films following her success as an on-set writer for the Universa
+ l hit\, Good Boys. As an actress Beth has guest starred on Amazon’s Red 
+ Oaks\, Corporate on Comedy Central\, and she played Ms. Fish on Peacock’
+ s comedy Rutherford Falls. She has a podcast called “Sweethearts” that
+  she inconsistently records with her best pal Mo Welch. You can still list
+ en to her first podcast that she hosted with her mom\, Diane\, “We Calle
+ d Your Mom.”    Seating/Show Information: This show will have theater se
+ ating. Seats will be assigned upon arrival\, or can be chosen ahead of tim
+ e for an additional fee.   QR Code Ordering will be available for this per
+ formance.  Doors open at 5pm.  Don't miss our famous Bottlerocket Pre-Show
+  Clip Collection\, beginning one hour before the start of the performance.
+   This show is ALL AGES  *all information subject to change as needed.    
+ Bottlerocket FAQ:   All shows starting before 10pm are all ages unless oth
+ erwise noted.  Free parking is available at 824 Industry Street and 205 Al
+ len Street\, as well as other public lots in the area.  Live Music shows h
+ ave limited seating options\, please arrive early or reach out to the venu
+ e directly if you know that you require a seat.  Doors open at 5pm for all
+  shows unless noted otherwise. The time listed on the ticket is the event'
+ s true start time.  Most shows have a preshow experience starting 1 hour b
+ efore the show.  All tickets are non-refundable - our full refund policy c
+ an be viewed here  Please contact us ahead of time with any accesibilty re
+ quests or concerns\, we're happy to accomodate you.  More FAQ's can be fou
+ nd here   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260817T220000
+DTEND;TZID=America/New_York:20260817T230000
+DTSTAMP:20260817T040819Z
+UID:47d24518-99f1-11f1-bad8-d6eba215a312
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-59/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260818T190000
+DTEND;TZID=America/New_York:20260818T200000
+DTSTAMP:20260817T040819Z
+UID:47d5d85e-99f1-11f1-bad8-d6eba215a312
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-20/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260818T220000
+DTEND;TZID=America/New_York:20260818T230000
+DTSTAMP:20260817T040819Z
+UID:47d94d4a-99f1-11f1-bad8-d6eba215a312
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 36/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil Music w/ DJ Brian Sikes Howe
+DTSTART;TZID=America/New_York:20260820T220000
+DTEND;TZID=America/New_York:20260820T230000
+DTSTAMP:20260817T040819Z
+UID:47dcf6c0-99f1-11f1-bad8-d6eba215a312
+DESCRIPTION:https://www.poetrymillvale.com/event/devil-music-w-dj-brian-sik
+ es-howe/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260826T220000
+DTEND;TZID=America/New_York:20260826T230000
+DTSTAMP:20260817T040819Z
+UID:47e05b12-99f1-11f1-bad8-d6eba215a312
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-22/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
