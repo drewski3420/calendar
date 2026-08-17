@@ -127114,4 +127114,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
  -w-dj-todd-cheat-22/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BENEATH THE SURFACE
+DTSTART;TZID=America/New_York:20260821T230000
+DTEND;TZID=America/New_York:20260822T000000
+DTSTAMP:20260817T050200Z
+UID:c7c5c0b8-99f8-11f1-84a1-d6eba215a312
+DESCRIPTION:https://www.poetrymillvale.com/event/beneath-the-surface/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
