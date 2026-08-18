@@ -127449,36 +127449,6 @@ DESCRIPTION:https://tickets.citywinery.com/event/jesse-garrons-tribute-to-e
 LOCATION:City Winery Pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:River City Brass Band
-DTSTART:20260918T230000Z
-DTEND:20260919T000000Z
-DTSTAMP:20260818T190211Z
-UID:518b1d5e-9b37-11f1-9b79-e22aa3dde8f5
-DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsplayhouse-presents/
- River-City-Brass-Band.html\nSeptember 18\, 2026 7:00 PM\n        				     
-    				    One of Americaâs premier professional brass bands\, River 
- City Brass delights audiences with dynamic performances featuring classica
- l\, jazz\, Broadway\, patriotic favorites\, and popular music.\n        		
- 		        				        	                        				                       
-                         \n    \nBuy Tickets
-LOCATION:Pittsburgh Playhouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koresh Dance Company
-DTSTART:20261016T230000Z
-DTEND:20261017T000000Z
-DTSTAMP:20260818T190211Z
-UID:519179ec-9b37-11f1-9b79-e22aa3dde8f5
-DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsplayhouse-presents/
- Koresh-Dance-Company.html\nOctober 16\, 2026 7:00 PM\n        				        
- 				    Koresh Dance Company brings internationally acclaimed contemporary
-  dance to the Pittsburgh Playhouse with powerful choreography\, extraordin
- ary athleticism\, and performances that are both explosive and deeply expr
- essive.\n        				        				        	                        				    
-                                            \n    \nBuy Tickets
-LOCATION:Pittsburgh Playhouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pittsburgh Jazz Orchestra Holiday Concert
 DTSTART:20261223T000000Z
 DTEND:20261223T010000Z
@@ -127493,20 +127463,6 @@ DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsplayhouse-presents/
  unforgettable evening of music\, joy\, and holiday cheer. \n        				  
        				        	                        				                           
                      \n    \nBuy Tickets
-LOCATION:Pittsburgh Playhouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:P4 Film and Animation Showcase
-DTSTART:20270506T210000Z
-DTEND:20270506T220000Z
-DTSTAMP:20260818T190212Z
-UID:51a253d4-9b37-11f1-9b79-e22aa3dde8f5
-DESCRIPTION:https://playhouse.pointpark.edu/shows-eventsconservatory-film-a
- nd-animation/P4-Film-and-Animation-Showcase.html\nMay 6\, 2027 5:00 PM\n  
-       				        				    Experience the future of filmmaking as Point Par
- k Universityâs senior Film and Animation students premiere their caps
- tone projects\, showcasing bold storytelling\, innovative animation\, and 
- cinematic creativity.
 LOCATION:Pittsburgh Playhouse
 END:VEVENT
 END:VCALENDAR
