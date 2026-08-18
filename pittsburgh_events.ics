@@ -127300,4 +127300,13 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/12/tvs-norm-dread-al
  bum-release-show\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cryptid Summer
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+DTSTAMP:20260818T000159Z
+UID:0872118a-9a98-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/1/cryptid-summer\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
