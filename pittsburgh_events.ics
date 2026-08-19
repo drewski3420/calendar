@@ -127509,4 +127509,14 @@ DESCRIPTION:https://cityofasylum.org/program/thursday-night-jazz-mila-shade
   a reservation.\nShare this: 
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cherry Bomb
+DTSTART:20260829T010000Z
+DTEND:20260829T020000Z
+DTSTAMP:20260819T040223Z
+UID:c847f6d8-9b82-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/2/28/cherry-bomb-3zha5
+ -elmtn-8xmr2-ggmhp-ep8n5-f3cry\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
