@@ -127519,4 +127519,17 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/2/28/cherry-bomb-3zha5
  -elmtn-8xmr2-ggmhp-ep8n5-f3cry\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bumpin Uglies – Orange Crush Tour
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+DTSTAMP:20260819T160735Z
+UID:17936168-9be8-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://mrsmalls.com/events/bumpin-uglies-3/\nThis Event Is All
+  Ages*BALCONY UPGRADE PATRONS*Please note that a General Admission ticket 
+ is REQUIRED to enter the venue in addition to your Balcony Reservation. Ba
+ lcony Area is 21 + Only. 25% gratuity added to unclosed tabs. For more inf
+ ormation on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
