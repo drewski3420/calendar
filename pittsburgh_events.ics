@@ -127544,4 +127544,41 @@ DESCRIPTION:https://mrsmalls.com/events/the-yeggs-monthly-surf-night-5/\nSu
   All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh September Vinofile VIP+ Pickup Party
+DTSTART:20260915T220000Z
+DTEND:20260915T230000Z
+DTSTAMP:20260819T190153Z
+UID:70df34fa-9c00-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://tickets.citywinery.com/event/pittsburgh-september-vinof
+ ile-vip-pickup-party-me19hy\nCity Winery Pittsburgh presents our Vinofile 
+ VIP+ Pickup Party on Tuesday\, September 15th\, at 6:00 PM!Join City Winer
+ y for our monthly Vinofile VIP+ Pick-Up Party with a tasting experience th
+ at puts your palate and your wine knowledge to the test. This month we’r
+ e hosting The Price of the Pour: A Blind Tasting Challenge. Members will t
+ aste a selection of wines without knowing their price tags\, then try to i
+ dentify which pours are the least to most expensive. Can your palate tell 
+ the difference between a great-value bottle and a splurge-worthy pour? Alo
+ ng with the blind tasting\, enjoy sipping our wine of the month\, and savo
+ r light bites and conversation with fellow Vinofile VIP+ members. Come sip
+ \, guess\, and see if you can put a price on the pour!Become a Vinofile Me
+ mber(opens in a new tab)🍷  Members get 48 hour early access to new show
+ s\, pay no ticket fees\, and earn points to exchange for complimentary tic
+ kets. Vinofile Plus members also receive many wine benefits. Add a members
+ hip to your cart during checkout to start saving now. Already a member? Ma
+ ke sure you are signed in to access your benefits. Become a Vinofile Membe
+ r and enjoy the benefits today.(opens in a new tab)(opens in a new tab)(op
+ ens in a new tab)DateSep15Doors Open6:00 PMLocationCity Winery Pittsburgh1
+ 627 Smallman StreetPittsburgh 15222United States(opens in a new tab)
+LOCATION:City Winery Pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beach House
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+DTSTAMP:20260819T190153Z
+UID:70e869b2-9c00-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nBeach House
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
