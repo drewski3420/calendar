@@ -127532,4 +127532,16 @@ DESCRIPTION:https://mrsmalls.com/events/bumpin-uglies-3/\nThis Event Is All
  ormation on Balcony Upgrades\,click here.All Sales Are Final.
 LOCATION:Mr. Smalls Theatre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Yeggs Monthly Surf Night
+DTSTART:20260828T230000Z
+DTEND:20260829T000000Z
+DTSTAMP:20260819T170154Z
+UID:ae090c0e-9bef-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://mrsmalls.com/events/the-yeggs-monthly-surf-night-5/\nSu
+ rf Nite with The YeggsEvery Last Friday in the Cafe at Mr. SmallsMusic fro
+ m 7pm-10pmTiki Drinks\, Beach Vibes\, Snacks\, and more!FREE!This Event Is
+  All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
