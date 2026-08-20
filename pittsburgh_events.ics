@@ -127668,4 +127668,17 @@ DESCRIPTION:https://app.opendate.io/e/beth-stelling-let-me-get-loose-saturd
  found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:bleood – KILL YOUR IDOLS TOUR
+DTSTART:20261206T010000Z
+DTEND:20261206T020000Z
+DTSTAMP:20260820T150831Z
+UID:01a2e592-9ca9-11f1-9906-faccbaf11d44
+DESCRIPTION:https://mrsmalls.com/events/bleood/\nThis Event Is All Ages*BAL
+ CONY UPGRADE PATRONS*Please note that a General Admission ticket is REQUIR
+ ED to enter the venue in addition to your Balcony Reservation. Balcony Are
+ a is 21 + Only. 25% gratuity added to unclosed tabs. For more information 
+ on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
