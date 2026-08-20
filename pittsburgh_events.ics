@@ -127668,4 +127668,25 @@ DESCRIPTION:https://app.opendate.io/e/beth-stelling-let-me-get-loose-saturd
  found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beach House
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+DTSTAMP:20260820T090750Z
+UID:9e8bf6c4-9c76-11f1-9906-faccbaf11d44
+DESCRIPTION:https://www.stagepittsburgh.com/events/beach-house-30-september
+ -2026/\nPittsburgh\, PA: Beach House at Stage AE on Wednesday\, September 
+ 30th\, 2026. Atmospheric pioneers Beach House (Victoria Legrand and Alex S
+ cally) perform in the intimate indoor music hall at Stage AE.\nBeach House
+  will be performing in support of their newest album\, Once Twice Melody. 
+ The duo will be making stops in Nashville and Knoxville\, as well as Pitts
+ burgh where they will be taking the stage at Stage AE's indoor music hall.
+  Fans can expect to hear classic songs such as "Myth\," "Zebra\," and "Spa
+ ce Song's" (yes\, that's how they're listed on social media) as well as ot
+ her discographies that Beach House has to offer.\nDoors open at 7:00 PM an
+ d the show starts at 8:00 PM. Beach House tickets for this show are curren
+ tly priced at $5 or higher. As a legendary music hall\, a cozy indoor spac
+ e\, Stage AE is the perfect venue for a wonderful night of music.
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
