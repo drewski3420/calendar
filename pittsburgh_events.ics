@@ -127581,4 +127581,38 @@ UID:70e869b2-9c00-11f1-9b79-e22aa3dde8f5
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nBeach House
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Jazz: Lou Stellute Quintet (with Three Tenors!) Pres
+ ents Something to Talk About
+DTSTART:20261211T000000Z
+DTEND:20261211T010000Z
+DTSTAMP:20260820T010158Z
+UID:be875458-9c32-11f1-9b79-e22aa3dde8f5
+DESCRIPTION:https://cityofasylum.org/program/thursday-night-jazz-lou-stellu
+ te-quintet/\n\nPhoto Courtesy: Lou Stellute. \nSaxophonist Lou Stellute l
+ eads two other saxophonists—Scott Boni and Ben Opie—and a rhythm secti
+ on filled out by Paul Thompson and George Heid III in a program featuring 
+ multiphonics and completely improvised tunes\, sure to be a hit among fans
+  of free jazz saxophonist Ornette Coleman. The performance will feature th
+ ree songs loosely based on jazz standards—you’ll think you know what
+ ’s coming\, and then the band will transform the tracks beyond recogniti
+ on. After that\, all bets are off! The remaining tunes will be completely 
+ improvised. It is a celebration of being in the moment and creating in the
+  moment\, a “very unique\, very exciting” performance Lou himself desc
+ ribes as exuding the “maximum amount of freedom.”\nFeatured Musicians:
+ \nLou Stellute: tenor saxophone\nScott Boni: tenor saxophone\nBen Opie: te
+ nor saxophone\nPaul Thompson: bass\nGeorge Heid III: drums\nAbout the Arti
+ st:\nLou Stellute is not only a favorite of City of Asylum audiences\; he
+ ’s a Pittsburgh Jazz Legend (Manchester Craftsmen’s Guild) and winner 
+ of the Pittsburgh Players’ Choice Award who has been performing internat
+ ionally\, composing for films\, and recording music for 72 years. He has w
+ orked in many legendary\, national jazz clubs such as the Blue Note\, Vill
+ age Vanguard\, Lenny’s on the Turnpike\, and the Key Club. Currently wit
+ h Roger Humphries & RH Factor\, with whom he has been playing for 28 years
+ \, Lou Stellute is known for his big sound\, versatility\, and animated pl
+ aying.\nAbout Your Visit: \nThe in-house restaurant\, Cucina Alfabeto\, i
+ s open for dinner from 5 to 10 p.m. Please visit OpenTable or call 412-435
+ -1111 to make a reservation.\nShare this: 
+LOCATION:City of Asylum
+END:VEVENT
 END:VCALENDAR
