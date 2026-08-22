@@ -129202,4 +129202,16 @@ DESCRIPTION:https://app.opendate.io/e/yinz-might-know-w-rachel-ann-bovier-s
  get to know the man behind one of Pittsburgh’s most famous faces. 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Silent Film Festival: Beau Geste (1926)
+DTSTART:20261005T000000Z
+DTEND:20261005T010000Z
+DTSTAMP:20260822T200931Z
+UID:62f4fc14-9e65-11f1-924a-7a8c23aa4558
+DESCRIPTION:https://trustarts.org/production/109960/pittsburgh-silent-film-
+ festival-beau-geste-1926\nA legendary silent adventure film about loyalty\
+ , courage\, and the French Foreign Legion. With live score provided by the
+  Pittsburgh Film Orchestra.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
