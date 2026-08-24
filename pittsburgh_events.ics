@@ -130096,4 +130096,32 @@ DESCRIPTION:https://mrsmalls.com/events/sap/\nSap is an independent\, alter
  ‘Erasure’.This Event Is All AgesAll Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speaker Saturday: American Nationalism on the Frontier
+DTSTART:20260912T170000Z
+DTEND:20260912T180000Z
+DTSTAMP:20260824T230201Z
+UID:d116fce6-a00f-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.heinzhistorycenter.org/event/speaker-saturday-ameri
+ can-nationalism-on-the-frontier/\nJay Donis\, assistant professor of histo
+ ry at Thiel College\, will reveal the surprising origins of unity among th
+ e thirteen colonies despite their many differences. Drawing on the writing
+ s of John…\nThe post Speaker Saturday: American Nationalism on the Front
+ ier appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tasting Through Time: Fall Educator Open House
+DTSTART:20260915T213000Z
+DTEND:20260915T223000Z
+DTSTAMP:20260824T230201Z
+UID:d120c8f2-a00f-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.heinzhistorycenter.org/event/tasting-through-time-f
+ all-educator-open-house/\nJoin the History Center for a night of education
+ al enrichment at our Tasting Through Time: Fall Educator Open House. Disco
+ ver the fascinating history of chocolate with American Heritage Chocolate 
+ historian…\nThe post Tasting Through Time: Fall Educator Open House appe
+ ared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
