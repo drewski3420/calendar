@@ -130399,4 +130399,32 @@ DESCRIPTION:https://tickets.citywinery.com/event/outdated-written-and-perfo
  )
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Shackleton
+DTSTART:20261112T010000Z
+DTEND:20261112T020000Z
+DTSTAMP:20260825T200830Z
+UID:bda0b02e-a0c0-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://thunderbirdmusichall.com/event/sam-shackleton/thunderbi
+ rd-cafe-music-hall/pittsburgh-pennsylvania/\n\nSam Shackleton\nWednesday\,
+  November 11\, 2026 Thunderbird Music Hall4053 Butler Street\, Pittsburgh
+ \, PADoors @ 7:00pmShow @ 8:00pmAGE RESTRICTION: 18+ or with legal guardia
+ nhttps://www.samshackleton.comWidely known for his viral videos and songs 
+ such as The Lone Prairie\, The Overgate\, and Rocky Road to Dublin\, Sam S
+ hackleton has developed a large touring fanbase across the UK and USA. He 
+ has become well known for his unique\, rowdy\, and exciting performance st
+ yle\, from his strong Scottish traditional ballad singing brogue reminisce
+ nt of the likes of Luke Kelly\, to his masterful interpretations of tradit
+ ional folk music from Scotland\, Ireland\, and the USA\, which he blends w
+ ith punk elements alongside his own original songs and deep introspective 
+ lyrics. Whether moving the audience to tears with an old folk ballad such 
+ as The Butcher Boy\, or rousing the whole room to sing and dance to his rh
+ ythmic clawhammer banjo and whooping harmonica\, the Scottish troubadour h
+ as been making a name for himself on the global folk scene by consistently
+  selling out headline shows across the UK and the USA.\n \nTicket Tier In
+ fo:General Admission Tickets – Standing Room Only\nFor accessible seatin
+ g accommodations\, please send an email in advance to contact@thunderbirdm
+ usichall.com after ticket purchase. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
