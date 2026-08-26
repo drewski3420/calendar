@@ -130446,4 +130446,13 @@ DESCRIPTION:https://app.opendate.io/e/dolly-parton-farewell-party-august-28
  good cry with us...and dance like Dolly would have wanted!  
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rich Zabinski\, Howie Alexander & Bob Insko
+DTSTART:20260829T233000Z
+DTEND:20260830T003000Z
+DTSTAMP:20260826T010507Z
+UID:2d96a0d6-a0ea-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:/corey.pisarski/detail/267/1788046200000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
