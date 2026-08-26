@@ -130455,4 +130455,14 @@ UID:2d96a0d6-a0ea-11f1-a51d-6ac7c6e113c2
 DESCRIPTION:/corey.pisarski/detail/267/1788046200000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn & The Afterthoughts // Stacey Mahoney
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T200000
+DTSTAMP:20260826T020631Z
+UID:c19c732a-a0f2-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.poetrymillvale.com/event/autumn-the-afterthoughts-s
+ tacey-mahoney/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
