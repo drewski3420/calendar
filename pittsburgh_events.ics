@@ -130509,4 +130509,24 @@ DESCRIPTION:https://www.poetrymillvale.com/event/pgh-pride-in-the-pit-a-fun
  draiser/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sundaze
+DTSTART:20260830T180000Z
+DTEND:20260830T190000Z
+DTSTAMP:20260826T050201Z
+UID:45e3cbc0-a10b-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla-n53j6-mjdxh-44stt\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labor Day on the Rooftop Garden Bar
+DTSTART:20260907T190000Z
+DTEND:20260907T200000Z
+DTSTAMP:20260826T050201Z
+UID:45f043dc-a10b-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/7/labor-day-on-the-r
+ ooftop-garden-bar\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
