@@ -130529,4 +130529,13 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/7/labor-day-on-the-r
  ooftop-garden-bar\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earlybirds Club
+DTSTART:20261025T000000Z
+DTEND:20261025T010000Z
+DTSTAMP:20260826T080159Z
+UID:69c16e4e-a124-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nEarlybirds Club
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
