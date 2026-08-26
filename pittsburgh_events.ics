@@ -130538,4 +130538,18 @@ UID:69c16e4e-a124-11f1-a51d-6ac7c6e113c2
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nEarlybirds Club
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jamie Shriner: Divorced & Disabled
+DTSTART:20261017T000000Z
+DTEND:20261017T010000Z
+DTSTAMP:20260826T150929Z
+UID:22d73efa-a160-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://mrsmalls.com/events/jamie-shriner-divorced-disabled/\nJ
+ amie Shriner is a comedian based in Chicago\, IL. A former theatre kid\, c
+ urrent queer\, deaf\, & mentally ill gig-worker\, Jamie uses humorous orig
+ inal songs to discuss her hearing loss and mental illness\, as well as her
+  struggles with body image\, womanhood\, and being queer in conservative I
+ ndiana where she grew up.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
