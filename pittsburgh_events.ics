@@ -130800,4 +130800,31 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/south-hills-school-of-ro
  t@thunderbirdmusichall.com after ticket purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energy Cleansing 101
+DTSTART:20260911T220000Z
+DTEND:20260911T230000Z
+DTSTAMP:20260827T180213Z
+UID:6e746e64-a241-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:http://abeillevoyanteteaco.com/products/energy-cleansing-101\nH
+ ave you ever wanted to learn how to cleanse your self and your spaces? Com
+ e learn from Char with Capturing Yinz this Slavic folk practice using herb
+ s\, candles and more. Included in the class are all of the supplies needed
+  and a tea bar.
+LOCATION:303 Grant Ave\, Millvale\, PA 15209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarot 101: two part class (Oct 16 & 23)
+DTSTART:20261016T220000Z
+DTEND:20261016T230000Z
+DTSTAMP:20260827T180213Z
+UID:6e7d7a68-a241-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:http://abeillevoyanteteaco.com/products/tarot-101-two-part-clas
+ s-oct-16-23\nHave you ever wanted to learn how to read tarot? Join us for 
+ a deep dive\, two part class where you will learn each of the cards and it
+ s meaning while also understanding the history of tarot. Included in the c
+ lass: Tarot deck Guide book Reference book Tea bar The class will be from 
+ 6-8 October 16th and 23rd.
+LOCATION:303 Grant Ave\, Millvale\, PA 15209
+END:VEVENT
 END:VCALENDAR
