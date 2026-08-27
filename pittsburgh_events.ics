@@ -130764,4 +130764,40 @@ DESCRIPTION:https://mrsmalls.com/events/acousticafe-songwriter-series-15/\n
  t Is All Ages
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASA BAILE: Latin House and Dance Night
+DTSTART:20260919T013000Z
+DTEND:20260919T023000Z
+DTSTAMP:20260827T170919Z
+UID:0a9047a8-a23a-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://app.opendate.io/e/casa-baile-latin-house-and-dance-nigh
+ t-september-18-2026-717561\n Casa Baile is BACK and better than ever...  T
+ urn up the heat and re-live memories from the night you never forgot... fr
+ om household favorites like our own BAD BUNNY to BRAZILLIAN HOUSE deep cut
+ s\, our DJs are going to show you the breath of latin music with tech hous
+ e selections to keep you dancing all night.   P.M.A. TATTOOS returns to gi
+ ve away goodies all in support of our friends and neighbors at CASA SAN JO
+ SE!   This time\, we have exciting an exciting line up featuring....  -EL 
+ MONTENEGRO  -DARCIE  -DJ LECHE -BOREALIS -DJ YUNGAURA (NORTH CAROLINA)  Co
+ me dance the night away and support our favorites from all over Pittsburgh
+  and beyond. We can’t wait to see you September 18th! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Hills School of Rock
+DTSTART:20260829T170000Z
+DTEND:20260829T180000Z
+DTSTAMP:20260827T170919Z
+UID:0a9af4d2-a23a-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://thunderbirdmusichall.com/event/south-hills-school-of-ro
+ ck-4/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/\n\nSouth Hills S
+ chool of Rock \nSummer End of Season ShowcaseSaturday\, August 29\, 2026T
+ hunderbird Music Hall4053 Butler Street\, Pittsburgh\, PADoors @ 12:00pmSh
+ ow @ 12:30pm\nSCHOOL OF ROCK SOUTH HILLS \nPresents the music of White S
+ tripes vs. Black Keys\nAC/DCThe ClashHair Metal\nAGE RESTRICTION: All Ages
+ Ticket Tier Info:General Admission Tickets – Standing Room Only\nFor acc
+ essible seating accommodations\, please send an email in advance to contac
+ t@thunderbirdmusichall.com after ticket purchase. All sales are final. 
+LOCATION:Thunderbird Music Hall
+END:VEVENT
 END:VCALENDAR
