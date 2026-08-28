@@ -130961,4 +130961,15 @@ UID:05ea4124-a314-11f1-a51d-6ac7c6e113c2
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nNinajirachi
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaguar
+DTSTART:20260905T020000Z
+DTEND:20260905T030000Z
+DTSTAMP:20260828T210156Z
+UID:b3fe968e-a323-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.spiritpgh.com//calendar/2024/11/29/jaguar-eh78n-ynh
+ 4h-5wjkr-8mhgj-rh64f-dczpc-hbb7t-p856t-ecjpe-j5bjt-gfdpt-3ald8-5shf7-sgbll
+ -9933h-psacj-4wzkt-252zc\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
