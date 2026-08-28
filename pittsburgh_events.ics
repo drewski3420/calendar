@@ -130892,4 +130892,19 @@ UID:9eb4a582-a29e-11f1-a51d-6ac7c6e113c2
 DESCRIPTION:/corey.pisarski/detail/315/1789851600000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ultimate Tribute to The Bee Gees & ABBA
+DTSTART:20270416T233000Z
+DTEND:20270417T003000Z
+DTSTAMP:20260828T140219Z
+UID:157a4c68-a2e9-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://librarymusichall.com/event/the-ultimate-tribute-to-the-
+ bee-gees-and-abba\nTheatre Shows Canada presents:\nThe Ultimate Tribute to
+  The Bee Gees & ABBA\nFriday\, April 16th\, 2026\nDoors: 6:30PM / Show: 7:
+ 30PM\nCarnegie of Homestead Music Hall (Munhall\, PA)\n*All tickets subjec
+ t to day of show price increase. Prices at the ticket link reflect the all
+ -in ticket price (face value + fees) - minus any taxes / credit card proce
+ ssing fees.\nThis event is recommended for all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
