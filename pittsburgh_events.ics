@@ -130907,4 +130907,31 @@ DESCRIPTION:https://librarymusichall.com/event/the-ultimate-tribute-to-the-
  ssing fees.\nThis event is recommended for all ages.
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Third Thursdays
+DTSTART:20260917T210000Z
+DTEND:20260917T220000Z
+DTSTAMP:20260828T160933Z
+UID:db528d5e-a2fa-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.heinzhistorycenter.org/event/third-thursdays-091720
+ 26/\nJoin us after hours on the third Thursday of every month for an eveni
+ ng at the History Center! Grab a drink from the cash bar and explore six f
+ loors of…\nThe post Third Thursdays appeared first on Heinz History Cent
+ er.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington & Greene Counties Covered Bridge Festival
+DTSTART:20260919T140000Z
+DTEND:20260919T150000Z
+DTSTAMP:20260828T160933Z
+UID:db5bf812-a2fa-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.heinzhistorycenter.org/event/washington-greene-coun
+ ties-covered-bridge-festival-09192026/\nExperience the charm of Meadowcrof
+ t’s historic Pine Bank Covered Bridge during Washington & Greene Countie
+ s’ Annual Covered Bridge Festival! Originally built in 1871\, this iconi
+ c bridge once crossed Tom’s Run…\nThe post Washington & Greene Countie
+ s Covered Bridge Festival appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
