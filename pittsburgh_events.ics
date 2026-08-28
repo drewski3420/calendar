@@ -130952,4 +130952,13 @@ DESCRIPTION:https://app.opendate.io/e/bad-movie-bingo-mom-and-dad-save-the-
  arthman's wife." - IMDB 
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ninajirachi
+DTSTART:20260925T000000Z
+DTEND:20260925T010000Z
+DTSTAMP:20260828T190941Z
+UID:05ea4124-a314-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nNinajirachi
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
