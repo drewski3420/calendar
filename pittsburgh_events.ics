@@ -130981,4 +130981,44 @@ UID:2117eaa0-a32d-11f1-a51d-6ac7c6e113c2
 DESCRIPTION:https://www.spiritpgh.com//calendar/2026/11/5/flipper\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUNGAZE + LAVISHER
+DTSTART:20261024T000000Z
+DTEND:20261024T010000Z
+DTSTAMP:20260829T040923Z
+UID:6a8fc9dc-a35f-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://app.opendate.io/e/sungaze-lavisher-october-23-2026-7284
+ 02\n  SUNGAZE LAVISHER with support from VYVA MELINKOLYA BLINDER  $18 ADV 
+ / $20 DOS 7PM DOORS / 8PM MUSIC ALL AGES  for fans of... my bloody valenti
+ ne\, The Smashing Pumpkins\, They Are Gutting A Body of Water\, Ethel Cain
+      
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theresa Musatto
+DTSTART;TZID=America/New_York:20261016T200000
+DTEND;TZID=America/New_York:20261016T210000
+DTSTAMP:20260829T040923Z
+UID:6a991d20-a35f-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.poetrymillvale.com/event/theresa-musatto-2/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seven Mile Detour
+DTSTART;TZID=America/New_York:20261017T200000
+DTEND;TZID=America/New_York:20261017T210000
+DTSTAMP:20260829T040923Z
+UID:6a9ca5a8-a35f-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:https://www.poetrymillvale.com/event/seven-mile-detour-3/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andy Reamer & Eric Susoeff
+DTSTART:20260919T233000Z
+DTEND:20260920T003000Z
+DTSTAMP:20260829T040923Z
+UID:6aa03aba-a35f-11f1-a51d-6ac7c6e113c2
+DESCRIPTION:/corey.pisarski/detail/285/1789860600000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
