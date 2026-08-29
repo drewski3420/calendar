@@ -131071,4 +131071,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/thursday-thrill-w-dj-stony
  -stone-3/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madison Bradfield Happy Hour Wine Tasting Art Show
+DTSTART:20260916T210000Z
+DTEND:20260916T220000Z
+DTSTAMP:20260829T100941Z
+UID:c0268412-a391-11f1-8c4a-a6dc29190ec5
+DESCRIPTION:/corey.pisarski/detail/335/1789592400000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
