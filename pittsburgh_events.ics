@@ -131080,4 +131080,18 @@ UID:c0268412-a391-11f1-8c4a-a6dc29190ec5
 DESCRIPTION:/corey.pisarski/detail/335/1789592400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TreeHouse!
+DTSTART:20261101T000000Z
+DTEND:20261101T010000Z
+DTSTAMP:20260829T150930Z
+UID:a2767132-a3bb-11f1-8c4a-a6dc29190ec5
+DESCRIPTION:https://mrsmalls.com/events/treehouse/\nTreeHouse! is a Southea
+ st US-based reggae jam-rock band known for positive messages\, high-energy
+  live shows\, and an expansive sound blending reggae rhythms and rock. For
+ med originally around Myrtle Beach\, the group has spent over a decade tou
+ ring nationally and sharing stages with major acts like 311\, SOJA\, and T
+ he Wailers.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
