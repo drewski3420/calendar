@@ -131309,4 +131309,36 @@ DESCRIPTION:https://www.heinzhistorycenter.org/event/washington-greene-coun
  s Covered Bridge Festival appeared first on Heinz History Center.\n
 LOCATION:Pittsburgh Parks Conservancy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary 
+DTSTART:20260916T123000Z
+DTEND:20260916T133000Z
+DTSTAMP:20260831T190914Z
+UID:74b803ae-a56f-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/project-hail-m
+ ary/\nOne night only! Science teacher Ryland Grace wakes up on a spaceship
+  light years from home with no recollection of who he is or how he got the
+ re. As
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chief Keef
+DTSTART:20261013T000000Z
+DTEND:20261013T010000Z
+DTSTAMP:20260831T190914Z
+UID:74c0928a-a56f-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://www.ticketmaster.com/chief-keef-mckees-rocks-pennsylvan
+ ia-10-12-2026/event/1600651BD13ED58A\nChief Keef
+LOCATION:Roxian Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaghetti Disco
+DTSTART:20260912T010000Z
+DTEND:20260912T020000Z
+DTSTAMP:20260831T190914Z
+UID:74c3a22c-a56f-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://www.spiritpgh.com//calendar/2024/10/11/spaghetti-disco-
+ hdtha-bwx5n-5xeld-skk7g-cm2bh-764zw-xx2x7-yht38-s6ahw-y2kmx-cr757-anm7s\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
