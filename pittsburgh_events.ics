@@ -131341,4 +131341,13 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2024/10/11/spaghetti-disco-
  hdtha-bwx5n-5xeld-skk7g-cm2bh-764zw-xx2x7-yht38-s6ahw-y2kmx-cr757-anm7s\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jellyfish
+DTSTART:20260919T000000Z
+DTEND:20260919T010000Z
+DTSTAMP:20260831T210606Z
+UID:c860f0f0-a57f-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/18/jellyfish\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
