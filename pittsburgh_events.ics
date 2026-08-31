@@ -131216,4 +131216,52 @@ UID:8b597c3c-a439-11f1-9dd2-4effcd78ff61
 DESCRIPTION:/corey.pisarski/detail/271/1790377200000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RADIATOR HOSPITAL
+DTSTART:20261029T000000Z
+DTEND:20261029T010000Z
+DTSTAMP:20260831T040210Z
+UID:bd4c8704-a4f0-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://app.opendate.io/e/radiator-hospital-october-28-2026-715
+ 478\n  RADIATOR HOSPITAL with support from DUSK  $17 ADV / $20 DOS 7PM DOO
+ RS / 8PM MUSIC ALL AGES  for fans of... Frankie Cosmos\, Hop Along\, Neutr
+ al Milk Hotel\, Jeff Rosenstock  BIO: Radiator Hospital is a rock and roll
+  group and home-recording project based out of Philadelphia\, PA   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STEELERS GAME (vs Browns)
+DTSTART:20261101T180000Z
+DTEND:20261101T190000Z
+DTSTAMP:20260831T040210Z
+UID:bd570b66-a4f0-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://app.opendate.io/e/steelers-game-vs-browns-november-01-2
+ 026-712948\n  STILLERS SUNDAY at Bottlerocket This season\, there's no bet
+ ter place to watch our beloved Steelers than your neighborhood Bottlerocke
+ t! With non-annoying music during the commercial breaks\, $3 Draft Beers\,
+  Steelers Bingo\, and food from our brand new BottleDogs cart - every Sund
+ ay it's the best dive bar in town\, and that means the best place to watch
+  a ballgame. The bar is open to ALL AGES & totally free! Come hang!  STEEL
+ ERS BINGO We give you a sheet of things that will proably happen at some p
+ oint during a Steelers game (Aaron Rogers first down point\, Mike Mccarthy
+  hometown mention\, TJ Watt Sacks\, someone in the bar disagreeing with a 
+ coaching decision\, etc.) - you mark them off as they happen\, and win! Ev
+ en if the Steelers lose you can still go home a winner from the prize pile
+  - and we don't interrupt a second of the game to play\, so if you're lock
+ ed in to the actual game\, have no fear.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIKE ROSES
+DTSTART:20261104T010000Z
+DTEND:20261104T020000Z
+DTSTAMP:20260831T040210Z
+UID:bd5aa6ae-a4f0-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://app.opendate.io/e/like-roses-november-03-2026-743925\n 
+  LIKE ROSES with support tba  $20 ADV / $22 DOS 7PM DOORS / 8PM MUSIC ALL 
+ AGES  for fans of... Arm's Length\, Hot Mulligan\, Ben Quad\, Free Throw  
+ BIO: Emo Alternative from Berkeley\, CA. People w/ instruments who yell ab
+ out being sad over the noise created by said instruments.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
