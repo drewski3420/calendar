@@ -131295,4 +131295,18 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
  top-jtgcd-d9fs3-ksd8r-m3z79-hd877\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington & Greene Counties Covered Bridge Festival
+DTSTART:20260920T140000Z
+DTEND:20260920T150000Z
+DTSTAMP:20260831T160926Z
+UID:56ce1acc-a556-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://www.heinzhistorycenter.org/event/washington-greene-coun
+ ties-covered-bridge-festival-09202026/\nExperience the charm of Meadowcrof
+ t’s historic Pine Bank Covered Bridge during Washington & Greene Countie
+ s’ Annual Covered Bridge Festival! Originally built in 1871\, this iconi
+ c bridge once crossed Tom’s Run…\nThe post Washington & Greene Countie
+ s Covered Bridge Festival appeared first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
