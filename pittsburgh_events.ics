@@ -131463,4 +131463,18 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/26/how-to-throw-a-pi
  zza-party-party\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tunes From The Crypt
+DTSTART:20260912T000000Z
+DTEND:20260912T010000Z
+DTSTAMP:20260901T190207Z
+UID:a0dd469c-a637-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://mrsmalls.com/events/tunes-from-the-crypt-2/\n!! THE CRY
+ PTID IS BACK AT THE CAFÉ !!Get ready for a goulishly good time\, Millvale
+ !This month we’re keeping it creepy with 🧛🏼 TUNES FROM THE CRYPT 
+ 🦇A goth night in all its glory\, from classic goth anthems\, dark wave\
+ , post-punk\, and everything in between!Get your dancing shoes on and head
+  down to Mr. Smalls Café!SEPT 11THALL AGESNO COVER8PM-11PM
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
