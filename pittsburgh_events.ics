@@ -131381,4 +131381,76 @@ DESCRIPTION:https://app.opendate.io/e/jessica-lea-mayfield-november-07-2026
  f my life complete.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCREENSHOT: Asia Film Festival - LALI
+DTSTART:20260918T000000Z
+DTEND:20260918T010000Z
+DTSTAMP:20260901T160419Z
+UID:c9d7590c-a61e-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://trustarts.org/production/109919/screenshot-asia-film-fe
+ stival-lali\nBound by love and haunted by fate\, Zeba and Sajawal spiral t
+ hrough feelings of desire\, superstition and fear in Lali\, a darkly comic
+  tale where the living share a restless world with the ghosts.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCREENSHOT: Asia Film Festival - DIVINE COMEDY
+DTSTART:20260919T000000Z
+DTEND:20260919T010000Z
+DTSTAMP:20260901T160419Z
+UID:c9e12e32-a61e-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://trustarts.org/production/109922/screenshot-asia-film-fe
+ stival-divine-comedy\nBahram\, a censored director\, embarks on a Vespa tr
+ ip with producer Sadaf to clandestinely screen his film in Iran\, challeng
+ ing the system.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCREENSHOT: Asia Film Festival - SLEEP NO MORE
+DTSTART:20260919T000000Z
+DTEND:20260919T010000Z
+DTSTAMP:20260901T160419Z
+UID:c9e45512-a61e-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://trustarts.org/production/109925/screenshot-asia-film-fe
+ stival-sleep-no-more\nThree siblings are forced to work in a hair factory 
+ in order to pay off their mother’s debt. While working there\, they witn
+ ess strange events that happens to the workers.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCREENSHOT: Asia Film Festival - FILIPIÑANA
+DTSTART:20260920T000000Z
+DTEND:20260920T010000Z
+DTSTAMP:20260901T160419Z
+UID:c9e7dd36-a61e-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://trustarts.org/production/109928/screenshot-asia-film-fe
+ stival-filipinana\nAt an exclusive Manila golf club\, a girl enters a para
+ dise of perfect lawns and polite humiliations. Rafael Manuel’s debut\, w
+ inner of the Sundance Film Festival’s Special Jury Award for Creative Vi
+ sion\, is a savage satire of capitalism and suspense.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCREENSHOT: Asia Film Festival - 3670
+DTSTART:20260923T000000Z
+DTEND:20260923T010000Z
+DTSTAMP:20260901T160419Z
+UID:c9eb7676-a61e-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://trustarts.org/production/109931/screenshot-asia-film-fe
+ stival-3670\n3670 tells the tale of Cheol-jun\, a North Korean defector li
+ ving in Seoul\, struggling to find his place in the city’s gay community
+ . Via an intimate and deeply human lens\, the film explores themes of iden
+ tity\, belonging\, displacement and resilience.
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sad Karaoke
+DTSTART:20260914T223000Z
+DTEND:20260914T233000Z
+DTSTAMP:20260901T160419Z
+UID:c9ef3cb6-a61e-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/10/sad-karaoke-akdze
+ \n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
