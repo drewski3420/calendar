@@ -131453,4 +131453,14 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/10/sad-karaoke-akdze
  \n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Throw a Pizza Party\, Party
+DTSTART:20260926T160000Z
+DTEND:20260926T170000Z
+DTSTAMP:20260901T170206Z
+UID:dcd16554-a626-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/26/how-to-throw-a-pi
+ zza-party-party\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
