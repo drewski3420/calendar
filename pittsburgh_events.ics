@@ -131350,4 +131350,13 @@ UID:c860f0f0-a57f-11f1-9dd2-4effcd78ff61
 DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/18/jellyfish\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grits & Eggs Podcast
+DTSTART:20261004T000000Z
+DTEND:20261004T010000Z
+DTSTAMP:20260901T020156Z
+UID:1bdd5786-a5a9-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nGrits & Eggs Podcast
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
