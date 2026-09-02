@@ -131538,4 +131538,29 @@ DESCRIPTION:https://app.opendate.io/e/josh-gondleman-november-12-2026-72671
   FAQ's can be found here   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:brat Night with The Moment 
+DTSTART:20260912T110500Z
+DTEND:20260912T120500Z
+DTSTAMP:20260902T160857Z
+UID:9a63f3a4-a6e8-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/the-moment-
+ 9-12-26-705-pm/\nRelive the magic of brat summer with this screening of Th
+ e Moment! We’ll have green cocktails\, Charli XCX playing in the taproom
+ \, and more surprises that are so brat. 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Throne of Blood with Shakespeare Monologues 
+DTSTART:20260926T040000Z
+DTEND:20260926T050000Z
+DTSTAMP:20260902T160857Z
+UID:9a6cc34e-a6e8-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/throne-of-b
+ lood-9-26-26-700-pm/\nOur friends from Shakespeare in the Park will introd
+ uce this amazing adaptation of Macbeth and perform a few monologues before
+  the show! A portion of all ticket sales will go back to supporting their 
+ nonprofit mission.
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
