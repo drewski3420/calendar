@@ -131996,4 +131996,23 @@ DESCRIPTION:Pick up CSA
 ATTENDEE:mailto:baikal@thejowers.com
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honeycrush
+DTSTART:20260922T230000Z
+DTEND:20260923T000000Z
+DTSTAMP:20260903T210319Z
+UID:e40b647c-a7da-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/22/honeycrush\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Honky Tonk: Dolly Parton Tribute Night
+DTSTART:20260925T230000Z
+DTEND:20260926T000000Z
+DTSTAMP:20260903T210319Z
+UID:e4161e6c-a7da-11f1-9d7b-4effcd78ff61
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/25/pittsburgh-honky-
+ tonk-dolly-parton-tribute-night\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
