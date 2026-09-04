@@ -132015,4 +132015,34 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/25/pittsburgh-honky-
  tonk-dolly-parton-tribute-night\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORST PARTY EVER x EQUIPMENT
+DTSTART:20261116T000000Z
+DTEND:20261116T010000Z
+DTSTAMP:20260904T040209Z
+UID:66700b36-a815-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://app.opendate.io/e/worst-party-ever-x-equipment-november
+ -15-2026-695200\n  WORST PARTY EVER x EQUIPMENT with support from OGBERT T
+ HE NERD SHORT FICTIONS  $18 ADV / $22 DOS 6PM DOORS / 7PM MUSIC ALL AGES  
+ for fans of... Modern Baseball\, Origami Angel\, Oso Oso\, Jimmy Eat World
+   WORST PARTY EVER BIO: Worst Party Ever is an emo band based in Tokyo\, J
+ apan.  EQUIPMENT BIO: With whiplash-inducing guitar hooks and sing-along p
+ assages mirroring the volatile subject matter\, Equipment shifts the spotl
+ ight toward the power-pop facet of the modern emo genre. Vulnerability is 
+ fully present\, yet often shaded by gallows humor and danceable choruses. 
+ The Toledo\, Ohio quartet has become known as a veteran of the DIY music s
+ cene\, striving to challenge the medium\, play with listener expectations\
+ , and champion radical optimism.     
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Midnight Dreary
+DTSTART;TZID=America/New_York:20261010T230000
+DTEND;TZID=America/New_York:20261011T000000
+DTSTAMP:20260904T040209Z
+UID:66799f52-a815-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://www.poetrymillvale.com/event/a-midnight-dreary/\ngoth i
+ ndustrial post punk darkwave
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
