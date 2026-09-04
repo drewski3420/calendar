@@ -132171,4 +132171,16 @@ DESCRIPTION:https://app.opendate.io/e/smush-november-11-2026-731343\n  SMUS
  (guitar)\, Jay Christie (drums). They are currently based in Brooklyn.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEVILLE
+DTSTART:20260905T233000Z
+DTEND:20260906T003000Z
+DTSTAMP:20260904T230203Z
+UID:a48f7dbc-a8b4-11f1-aeaf-a6708453d8c4
+DESCRIPTION:https://app.opendate.io/e/seville-september-05-2026-728389\n SE
+ VILLE with support from SORRY FACE YOU SHOULD HAVE BROUGHT ME FLOWERS  $10
+  6:30PM DOORS / 7:30PM MUSIC ALL AGES  for fans of... Slowdive\, Hotline T
+ NT\, Ovlov\, Cloakroom 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
