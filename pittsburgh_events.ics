@@ -132157,4 +132157,18 @@ DESCRIPTION:https://cityofasylum.org/program/world-literature-georgia-gospo
  hare this: 
 LOCATION:City of Asylum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMUSH
+DTSTART:20261112T010000Z
+DTEND:20261112T020000Z
+DTSTAMP:20260904T170845Z
+UID:49a08d96-a883-11f1-9dd2-4effcd78ff61
+DESCRIPTION:https://app.opendate.io/e/smush-november-11-2026-731343\n  SMUS
+ H with support tba  $15 ADV / $20 DOS 7PM DOORS / 8PM MUSIC ALL AGES  for 
+ fans of... They Are Gutting A Body of Water\, shower curtain\, Bleary Eyed
+ \, all under heaven  BIO: "smush" is a shoegaze band formed in Vancouver. 
+ Its members are comprised of Emily Borrowman (vocals\, bass)\, Atley King 
+ (guitar)\, Jay Christie (drums). They are currently based in Brooklyn.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
