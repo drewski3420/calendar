@@ -132478,4 +132478,15 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/firewall-dance-theater-b
  or Seats. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mabon Gathering & Ritual - POTLUCK!
+DTSTART:20260922T230000Z
+DTEND:20260923T000000Z
+DTSTAMP:20260905T210202Z
+UID:0b3525ea-a96d-11f1-aeaf-a6708453d8c4
+DESCRIPTION:3rk0pdkcpkisgls3bhmr91kjso@google.com\nJoin the Queer Coven for
+  a Mabon Celebration! \nGathering starts at 7pm. Ritual at 8pm. \nAll ar
+ e welcome (21+)\n$5 suggested cover.
+LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
+END:VEVENT
 END:VCALENDAR
