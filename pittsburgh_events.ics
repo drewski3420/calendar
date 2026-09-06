@@ -132529,4 +132529,13 @@ DESCRIPTION:https://trustarts.org/production/109987/nosferatu-a-symphony-of
  ing his own original score live.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aaron Lewinter
+DTSTART:20260926T233000Z
+DTEND:20260927T003000Z
+DTSTAMP:20260906T061000Z
+UID:97cdf30a-a9b9-11f1-88bf-4ae48606bfaa
+DESCRIPTION:/corey.pisarski/detail/272/1790465400000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
