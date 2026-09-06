@@ -132489,4 +132489,44 @@ DESCRIPTION:3rk0pdkcpkisgls3bhmr91kjso@google.com\nJoin the Queer Coven for
  e welcome (21+)\n$5 suggested cover.
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Horror Show
+DTSTART:20260928T000000Z
+DTEND:20260928T010000Z
+DTSTAMP:20260906T000423Z
+UID:848d721c-a986-11f1-aeaf-a6708453d8c4
+DESCRIPTION:https://trustarts.org/production/109982/steel-city-horror-show\
+ nThis month\, Sean and Dr. Gielgud pay tribute to Tom Savini. For the firs
+ t time ever\, we're announcing the movie in advance! Join us to watch CREE
+ PSHOW\, the Pittsburgh-shot\, Romero-directed film featuring chilling tale
+ s of terror by Stephen King!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampyr (1932) with live score by the Andrew Alden Ensemble
+DTSTART:20261012T000000Z
+DTEND:20261012T010000Z
+DTSTAMP:20260906T000424Z
+UID:849ab36e-a986-11f1-aeaf-a6708453d8c4
+DESCRIPTION:https://trustarts.org/production/109985/vampyr-1932-with-live-s
+ core-by-the-andrew-alden-ensemble\nCarl Theodor Dreyer's VAMPYR is as unse
+ ttling as it is conceptually disturbing. An alternative take on the cinema
+ tic vampire\, creating a nightmarish atmosphere that haunts the mind long 
+ after the lights go up. Live score by the Andrew Alden Ensemble!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu: A Symphony of Horror (1922) with live score by Tom Rober
+ ts
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+DTSTAMP:20260906T000424Z
+UID:849fb558-a986-11f1-aeaf-a6708453d8c4
+DESCRIPTION:https://trustarts.org/production/109987/nosferatu-a-symphony-of
+ -horror-1922-with-live-score-by-tom-roberts\nA genre-defining film for the
+  ages\, and one that still has the power to terrify us\, Nosferatu returns
+  to the Harris Theater in this annual tradition\, with Tom Roberts perform
+ ing his own original score live.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
