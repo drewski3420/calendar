@@ -132538,4 +132538,32 @@ UID:97cdf30a-a9b9-11f1-88bf-4ae48606bfaa
 DESCRIPTION:/corey.pisarski/detail/272/1790465400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMPROV JAM
+DTSTART:20260927T230000Z
+DTEND:20260928T000000Z
+DTSTAMP:20260907T190936Z
+UID:aacf16f0-aaef-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://app.opendate.io/e/improv-jam-september-27-2026-741970\n
+ Join us at Bottlerocket for a UCBurgh Improv Jam - folks of all levels are
+  welcome to join and watch or perform\, hosted by our UCBurgh instructors!
+  Whether you want to exercise the things you're learning in class\, or see
+  if you'd be interested in learning more yourself\, all are welcome!
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRIVIA W/ LOGAN
+DTSTART:20260929T000000Z
+DTEND:20260929T010000Z
+DTSTAMP:20260907T190936Z
+UID:aad963e4-aaef-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://app.opendate.io/e/trivia-w-logan-september-28-2026-7419
+ 98\n Calling all Trivia Fans! BOTTLEROCKET TRIVIA NIGHT IS BACK AGAIN!  Ou
+ r very own world famous Hot Dog Man becomes our Trivia Man for a brand new
+  Trivia night! You never know what questions he will come up with… histo
+ ry\, arts\, wildcard? It’s all in play! Bring a group or find one here\,
+  impress your friends or look like a fool!  Prizes for winners\, losers\, 
+ and even some prizes in between!  Free to play! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
