@@ -132873,4 +132873,17 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/sue-foley-ga-20/thunderb
  ckets – Standing Room tickets on the Main Floor\, behind Floor Seats. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Annual STEELERS POLKA PARTY!
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+DTSTAMP:20260908T160157Z
+UID:9e786c9e-ab9e-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://app.opendate.io/e/the-great-annual-steelers-polka-party
+ -october-01-2026-729861\nOur annual THURSDAY NIGHT FOOTBALL tradition retu
+ rns for a FOURTH year! Once again featuring the musical halftime stylings 
+ of the POLKAMANIACS! Plus more games\, surprises\, drink specials\, and lo
+ ts of fun for all! It's the best way to WATCH 'EM LIKE YOUR DADDY DID!
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
