@@ -132938,4 +132938,14 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
  fm8-l23zn-t6bla-n53j6-mjdxh-mm3nt\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greggy_oke Saturday Edition!
+DTSTART:20260913T000000Z
+DTEND:20260913T010000Z
+DTSTAMP:20260908T180904Z
+UID:6099f070-abb0-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://mrsmalls.com/events/greggy_oke-karaoke-97/\nA SPECIAL S
+ ATURDAY KARAOKE!8PM to 11PMFREE!This Event Is All Ages
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
