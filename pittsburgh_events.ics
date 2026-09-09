@@ -133005,4 +133005,14 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
  top-jtgcd-d9fs3-ksd8r-m3z79-l7h2s\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Comes Lifting Yoga on the Rooftop
+DTSTART:20260919T170000Z
+DTEND:20260919T180000Z
+DTSTAMP:20260909T220213Z
+UID:1cebd34e-ac9a-11f1-887b-4ae48606bfaa
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/8/death-comes-liftin
+ g-yoga-on-the-rooftop-73bmb\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
