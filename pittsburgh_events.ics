@@ -132995,4 +132995,14 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/27/rtc-disco-inferno
  -drag-bingo\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260913T160000Z
+DTEND:20260913T170000Z
+DTSTAMP:20260909T200213Z
+UID:594ee3f0-ac89-11f1-887b-4ae48606bfaa
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r-m3z79-l7h2s\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
