@@ -132970,4 +132970,19 @@ DESCRIPTION:https://mrsmalls.com/events/trivia-with-quiztina/\nAssemble the
  ept 14thDoors 7PM\, Trivia 8PMAll ages welcome!
 LOCATION:Mr. Smalls Cafe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tim Dillon
+DTSTART:20261114T000000Z
+DTEND:20261114T010000Z
+DTSTAMP:20260909T160946Z
+UID:e046a418-ac68-11f1-887b-4ae48606bfaa
+DESCRIPTION:https://librarymusichall.com/event/tim-dillon-3\nLive Nation Co
+ medy & Drusky Entertainment present:\nTim Dillon\nFriday\, November 13th\,
+  2026\nDoors: 6:00PM / Show: 7:00PM\nCarnegie of Homestead Music Hall (Mun
+ hall\, PA)\n*All tickets subject to day of show price increase. Prices at 
+ the ticket link reflect the all-in ticket price (face value + fees) - minu
+ s any taxes / credit card processing fees.\nThis event is recommended for 
+ all ages.
+LOCATION:Carnegie of Homestead
+END:VEVENT
 END:VCALENDAR
