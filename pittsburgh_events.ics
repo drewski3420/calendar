@@ -132985,4 +132985,14 @@ DESCRIPTION:https://librarymusichall.com/event/tim-dillon-3\nLive Nation Co
  all ages.
 LOCATION:Carnegie of Homestead
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTC DISCO INFERNO! Drag Bingo
+DTSTART:20260927T200000Z
+DTEND:20260927T210000Z
+DTSTAMP:20260909T170219Z
+UID:37865550-ac70-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/9/27/rtc-disco-inferno
+ -drag-bingo\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
