@@ -132957,4 +132957,17 @@ UID:a528039a-ac1d-11f1-887b-4ae48606bfaa
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nCorey Kent
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia with Quiztina
+DTSTART:20260915T000000Z
+DTEND:20260915T010000Z
+DTSTAMP:20260909T150205Z
+UID:6bfdfb32-ac5f-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://mrsmalls.com/events/trivia-with-quiztina/\nAssemble the
+  group chat for a fun night of 90s and 00s movies and soundtracks themed t
+ rivia!4 question rounds\, 1 name that tune/movie music round\, 1 bonus rou
+ nd.Dress in your favorite 90's-00's gear and get 5 bonus points.Monday\, S
+ ept 14thDoors 7PM\, Trivia 8PMAll ages welcome!
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
 END:VCALENDAR
