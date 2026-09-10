@@ -133015,4 +133015,18 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/8/8/death-comes-liftin
  g-yoga-on-the-rooftop-73bmb\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Maxwell King: “Fire in the Night Sky”
+DTSTART:20260922T220000Z
+DTEND:20260922T230000Z
+DTSTAMP:20260910T030917Z
+UID:023df25e-acc5-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://www.heinzhistorycenter.org/event/an-evening-with-maxwel
+ l-king-fire-in-the-night-sky/\nDiscover the life and work of pioneering in
+ dustrial landscape artist Aaron Gorson from author and philanthropist Maxw
+ ell King as he shares insights from his new book\, “Fire in the Night…
+ \nThe post An Evening with Maxwell King: “Fire in the Night Sky” appea
+ red first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
