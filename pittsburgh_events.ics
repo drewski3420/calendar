@@ -133095,4 +133095,30 @@ DESCRIPTION:https://mrsmalls.com/events/ween-o-ween-4/\nSamJAMwich returns
  l.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia with Quiztina
+DTSTART:20260929T000000Z
+DTEND:20260929T010000Z
+DTSTAMP:20260910T160200Z
+UID:f540b660-ad30-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://mrsmalls.com/events/trivia-with-quiztina-2/\nRaise your
+  hand if you were personally victimized by heavy eyeliner\, skinny jeans w
+ ith studded belts\, or coding My Chemical Romance songs into your MySpace 
+ page.Was it just a phase? Test your knowledge on all things emo: music\, p
+ op culture\, fashion\, hot topic circa 2004\, and more!4 question rounds\,
+  1 name that tune/movie music round\, 1 bonus round.Dress in your favorite
+  emo attire\, eyeliner encouraged!\, for 5 bonus points!Monday\, Sept 14th
+ Doors 7PM\, Trivia 8PMAll ages welcome!
+LOCATION:Mr. Smalls Cafe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High Vis
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+DTSTAMP:20260910T160201Z
+UID:f54d4d62-ad30-11f1-88bf-4ae48606bfaa
+DESCRIPTION:https://www.spiritpgh.com//calendar/2025/12/12/ryan-caraveo-phm
+ re-a9y38-47rhg\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
