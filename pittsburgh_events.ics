@@ -133083,4 +133083,16 @@ DESCRIPTION:https://www.poetrymillvale.com/event/intac-hags95-horace-whispe
  . More music can be heard here.
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ween-O-Ween 4: A Black Tie Event!
+DTSTART:20261025T010000Z
+DTEND:20261025T020000Z
+DTSTAMP:20260910T151005Z
+UID:b47cded0-ad29-11f1-887b-4ae48606bfaa
+DESCRIPTION:https://mrsmalls.com/events/ween-o-ween-4/\nSamJAMwich returns 
+ to Mr Smalls Funhouse for an evening of Ween!This is a black tie event!Cos
+ tumes encouraged but not required!This Event Is All AgesAll Sales Are Fina
+ l.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
