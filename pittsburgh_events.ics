@@ -134392,4 +134392,19 @@ DESCRIPTION:https://tickets.citywinery.com/event/valerie-june-l18t8f\nCity
   States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IN BED BY TEN: DJ MB 50
+DTSTART:20260912T230000Z
+DTEND:20260913T000000Z
+DTSTAMP:20260911T220156Z
+UID:677135a6-ae2c-11f1-887b-4ae48606bfaa
+DESCRIPTION:https://app.opendate.io/e/in-bed-by-ten-dj-mb-50-september-12-2
+ 026-725641\n In Bed by Ten: DJ MB 50  DJ MB is turning 50\, throwing a dan
+ ce party with some of his favorite DJs\, and you’re invited! Join us at 
+ Bottlerocket from 7-11pm for an early dance party celebrating 50 years of 
+ dance music. J Malls takes us through the 70s at 7pm\, EZ Lou takes on the
+  1980s at 8pm\, and Rojo brings us home with the 90s and 2000s from 9pm ti
+ l 11pm. Oh and it’s followed by free Late Night Karaoke at 11pm!  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
