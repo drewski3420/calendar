@@ -133235,4 +133235,17 @@ UID:753a0586-ada6-11f1-88bf-4ae48606bfaa
 DESCRIPTION:/corey.pisarski/detail/273/1790982000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil Master
+DTSTART:20261126T003000Z
+DTEND:20261126T013000Z
+DTSTAMP:20260911T140433Z
+UID:b70c771c-ade9-11f1-887b-4ae48606bfaa
+DESCRIPTION:https://mrsmalls.com/events/devil-master/\nDevil Master is an A
+ merican rock band from Philadelphia\, Pennsylvania. Formed in 2015 through
+  a shared interest in Japanese hardcore\, the band embrace the style's inf
+ luence while also prominently merging black metal and deathrock.This Event
+  Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
