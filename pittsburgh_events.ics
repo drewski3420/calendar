@@ -134418,4 +134418,23 @@ DESCRIPTION:https://www.poetrymillvale.com/event/yawp-carnival-poetica-4/\n
  ry Ruefle) \n 
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pollinator Pie: Johnny Appleseed River Trail Walk
+DTSTART:20261004T173000Z
+DTEND:20261004T183000Z
+DTSTAMP:20260912T061049Z
+UID:b32be4c0-ae70-11f1-87c2-fac838b69d5c
+DESCRIPTION:https://www.co-nectar.org/events-2-1/pollinator-pie-johnny-appl
+ eseed-river-trail-walk\n
+LOCATION:Co-nectar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ray Myers (guitar)\, Chris Fazio (keys) & Mike Farrell (bass)
+DTSTART:20261003T210000Z
+DTEND:20261003T220000Z
+DTSTAMP:20260912T061049Z
+UID:b341e428-ae70-11f1-87c2-fac838b69d5c
+DESCRIPTION:/corey.pisarski/detail/338/1791061200000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
