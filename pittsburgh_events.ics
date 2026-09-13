@@ -134456,4 +134456,13 @@ DESCRIPTION:https://app.opendate.io/e/febuary-october-06-2026-716962\n  FEB
   most recently bringing this energy to Coachella in 2026.   
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Kink
+DTSTART;TZID=America/New_York:20261024T200000
+DTEND;TZID=America/New_York:20261024T210000
+DTSTAMP:20260913T030155Z
+UID:7a2d2dd2-af1f-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/new-kink/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
