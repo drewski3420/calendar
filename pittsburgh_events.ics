@@ -134741,4 +134741,37 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/bpnl6zxjcens3gw-2ccn7-gzwtz
  f8d7-lsp6h-56mxg-n3xgf-62bjz-zhjsr-txp26\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom Batchelor Band X The Skalarks
+DTSTART:20261004T000000Z
+DTEND:20261004T010000Z
+DTSTAMP:20260914T170813Z
+UID:deccea1c-b05e-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/tbb-x-skalarks/\nThe Tom Batchelor 
+ Band is a rock\, reggae\, and funk group based out of Morgantown\, West Vi
+ rginia.The Skalarks are an independent\, grassroots band based in Pittsbur
+ gh\, Pennsylvania\, that plays original and traditional ska\, rocksteady\,
+  and reggae music.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturdaze
+DTSTART:20260919T180000Z
+DTEND:20260919T190000Z
+DTSTAMP:20260914T170813Z
+UID:ded5f21a-b05e-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla-n53j6-mjdxh-mm3nt-we42a\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260920T160000Z
+DTEND:20260920T170000Z
+DTSTAMP:20260914T170813Z
+UID:ded922dc-b05e-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r-m3z79-hd877-6w2nr\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
