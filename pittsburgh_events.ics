@@ -134532,4 +134532,92 @@ UID:dda9cab0-af28-11f1-8d5a-a68b4722bf56
 DESCRIPTION:/corey.pisarski/detail/324/1791586800000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPANISH LOVE SONGS
+DTSTART:20261111T010000Z
+DTEND:20261111T020000Z
+DTSTAMP:20260914T040322Z
+UID:3a0af1d0-aff1-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://app.opendate.io/e/spanish-love-songs-november-10-2026-7
+ 31789\n  SPANISH LOVE SONGS with support tba  $20 ADV / $25 DOS 7PM DOORS 
+ / 8PM MUSIC ALL AGES  for fans of... The Menzingers\, The Wonder Years\, T
+ he Hotelier  The National Independent Venue Association (NIVA) announces t
+ he first-ever “Certified Live Independent Tour” featuring Los Angeles 
+ indie rock quintet Spanish Love Songs. The band’s 20-city tour will visi
+ t independent venues exclusively\, marking the inaugural tour for the “L
+ ive Independent” certification program. NIVA developed the groundbreakin
+ g initiative to elevate and safeguard independent venues\, promoters\, and
+  festivals nationwide.  BIO: Over the last decade\, SPANISH LOVE SONGS hav
+ e watched a fiercely loyal community take shape one cramped club show and 
+ one new listener at a time. That momentum has carried the band to tours wi
+ th The Wonder Years\, Alkaline Trio and Hot Mulligan\, along with appearan
+ ces at Furnace Fest\, 2000trees and the revived Vans Warped Tour\, followi
+ ng the release of instant classics Schmaltz (2018)\, Brave Faces Everyone 
+ (2020) and No Joy (2023). This intimate\, powerful connection with their a
+ udience is proof that even in an era defined by isolation\, people are sti
+ ll out there yearning for others to stand beside them in the darkness.   T
+ hat search continues on FUTURE NAUSEA\, the Pure Noise quintet's fourth LP
+ . Drawing from the widescreen ambition of heartland rock – the anthemic 
+ sweep of records like Born in the U.S.A.\, Sam's Town and Full Moon Fever 
+ – shimmering synths\, ringing guitars and soaring choruses define an exp
+ ansive sound crafted across sessions with producers Chris Walla (Death Cab
+  for Cutie) and Sarah Tudzin (Illuminati Hotties). Against that backdrop\,
+  Dylan Slocum's characteristically observational lyricism remains the band
+ ’s beating heart: deeply empathetic and unflinchingly honest as he chron
+ icles political violence\, climate anxiety\, late-stage capitalism and the
+  quiet ways these existential crises seep into everyday life – and\, jus
+ t as critically\, how moments of love\, companionship and shared resilienc
+ e become the antidote to an increasingly uncertain future.   
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Karaoke w/ DJ Paris Not France
+DTSTART;TZID=America/New_York:20260914T220000
+DTEND;TZID=America/New_York:20260914T230000
+DTSTAMP:20260914T040322Z
+UID:3a16dd42-aff1-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-
+ not-france-59/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Tuesday w/ Pgh Poetry Collective
+DTSTART;TZID=America/New_York:20260915T190000
+DTEND;TZID=America/New_York:20260915T200000
+DTSTAMP:20260914T040322Z
+UID:3a1cdb70-aff1-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poe
+ try-collective-20/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds & Dust w/ DJ Jeremy
+DTSTART;TZID=America/New_York:20260915T220000
+DTEND;TZID=America/New_York:20260915T230000
+DTSTAMP:20260914T040322Z
+UID:3a237fd4-aff1-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-
+ 36/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock N Roll Wednesday w/ DJ Todd Cheat
+DTSTART;TZID=America/New_York:20260916T220000
+DTEND;TZID=America/New_York:20260916T230000
+DTSTAMP:20260914T040322Z
+UID:3a2c4e3e-aff1-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday
+ -w-dj-todd-cheat-22/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil Music w/ DJ Brian Sikes Howe
+DTSTART;TZID=America/New_York:20260917T220000
+DTEND;TZID=America/New_York:20260917T230000
+DTSTAMP:20260914T040322Z
+UID:3a349206-aff1-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/devil-music-w-dj-brian-sik
+ es-howe/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
