@@ -134620,4 +134620,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/devil-music-w-dj-brian-sik
  es-howe/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butt Toot King
+DTSTART:20261101T000000Z
+DTEND:20261101T010000Z
+DTSTAMP:20260914T060906Z
+UID:caf8565e-b002-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nButt Toot King
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
