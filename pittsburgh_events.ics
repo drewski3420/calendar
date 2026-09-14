@@ -134629,4 +134629,32 @@ UID:caf8565e-b002-11f1-bd38-a68b4722bf56
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nButt Toot King
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice Age Expedition: History Center and Meadowcroft Day Trip
+DTSTART:20260926T140000Z
+DTEND:20260926T150000Z
+DTSTAMP:20260914T130129Z
+UID:668bddb4-b03c-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.heinzhistorycenter.org/event/ice-age-expedition-his
+ tory-center-and-meadowcroft-day-trip/\nThe journey begins at the History C
+ enter with an exclusive guided tour of Planet Ice: Mysteries of the Ice Ag
+ es led by Chief Historian Anne Madarasz. Explore a frozen world…\nThe po
+ st Ice Age Expedition: History Center and Meadowcroft Day Trip appeared fi
+ rst on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History by a Hair: Book Talk with Richard Kurin
+DTSTART:20260927T180000Z
+DTEND:20260927T190000Z
+DTSTAMP:20260914T130129Z
+UID:668fd2f2-b03c-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.heinzhistorycenter.org/event/history-by-a-hair-book
+ -talk-with-richard-kurin/\nIn 2011\, staff at the Smithsonian’s National
+  Museum of American History discovered a light red hair pressed between th
+ e pages of the Thomas Jefferson Bible. That single strand sparked an…\nT
+ he post History by a Hair: Book Talk with Richard Kurin appeared first on 
+ Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
 END:VCALENDAR
