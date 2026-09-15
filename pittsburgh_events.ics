@@ -134811,4 +134811,25 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/4/the-moon-baby-amp
  -the-mignonettes-perform-lady-gaga\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil Music w/ DJ Brian Sikes Howe
+DTSTART;TZID=America/New_York:20260917T210000
+DTEND;TZID=America/New_York:20260917T220000
+DTSTAMP:20260915T020750Z
+UID:4121987a-b0aa-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/devil-music-w-dj-brian-sik
+ es-howe/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gogol Bordello Afterparty
+DTSTART;TZID=America/New_York:20260928T230000
+DTEND;TZID=America/New_York:20260929T000000
+DTSTAMP:20260915T020750Z
+UID:412a5e92-b0aa-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/gogol-bordello-afterparty/
+ \nGogol Bordello afterparty featuring Cassette Jockeys aka Erica Mancini a
+ nd Sam Gøødy\nAll tape dance obscurities.\n\nIG: @cassettejockeys
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
