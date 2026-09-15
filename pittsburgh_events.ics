@@ -135235,4 +135235,13 @@ DESCRIPTION:https://tickets.citywinery.com/event/lola-lecroix-drag-brunch-h
  gh1627 Smallman StreetPittsburgh 15222United States(opens in a new tab)
 LOCATION:City Winery Pittsburgh
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alan Walker
+DTSTART:20270224T010000Z
+DTEND:20270224T020000Z
+DTSTAMP:20260915T210207Z
+UID:b62f85a2-b148-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nAlan Walker
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
