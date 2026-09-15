@@ -135093,4 +135093,15 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/g-love-special-sauce-3/t
  usichall.com after ticket purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolate Cake w. Hereditary
+DTSTART:20261019T124500Z
+DTEND:20261019T134500Z
+DTSTAMP:20260915T180358Z
+UID:d2a11a2a-b12f-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/hereditary-
+ 10-19-26-845-pm/\nComplimentary chocolate cake with this screening (no nut
+ s). 
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
