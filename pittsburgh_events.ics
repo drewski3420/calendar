@@ -135039,4 +135039,17 @@ DESCRIPTION:10002199-1805227200-1805227200@www.warhol.org\nWe welcome back
 LOCATION:The Warhol theater\, 117 Sandusky Street\, Pittsburgh\, PA\, 15212
  \, United States
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sword
+DTSTART:20261101T000000Z
+DTEND:20261101T010000Z
+DTSTAMP:20260915T160134Z
+UID:b98fe0a4-b11e-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/the-sword-3/\nThis Event Is All Age
+ s*BALCONY UPGRADE PATRONS*Please note that a General Admission ticket is R
+ EQUIRED to enter the venue in addition to your Balcony Reservation. Balcon
+ y Area is 21 + Only. 25% gratuity added to unclosed tabs. For more informa
+ tion on Balcony Upgrades\,click here.All Sales Are Final.
+LOCATION:Mr. Smalls Theatre
+END:VEVENT
 END:VCALENDAR
