@@ -135244,4 +135244,14 @@ UID:b62f85a2-b148-11f1-bd38-a68b4722bf56
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nAlan Walker
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cherry Bomb
+DTSTART:20260926T010000Z
+DTEND:20260926T020000Z
+DTSTAMP:20260915T220158Z
+UID:125dad9c-b151-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/2/28/cherry-bomb-3zha5
+ -elmtn-8xmr2-ggmhp-ep8n5-f3cry-7fpad\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
