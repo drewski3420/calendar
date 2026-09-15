@@ -134832,4 +134832,14 @@ DESCRIPTION:https://www.poetrymillvale.com/event/gogol-bordello-afterparty/
  nd Sam Gøødy\nAll tape dance obscurities.\n\nIG: @cassettejockeys
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Stereo w/ DJs Cryptid Yinzer & Ben Duty
+DTSTART;TZID=America/New_York:20261008T220000
+DTEND;TZID=America/New_York:20261008T230000
+DTSTAMP:20260915T040122Z
+UID:1ce63910-b0ba-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/midnight-stereo-w-djs-cery
+ ptid-yinzer-ben-duty/\nCHILL BEATS TO STUDY TO (LO-FI & SYNTH WAVE)
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
