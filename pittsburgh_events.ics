@@ -135297,4 +135297,45 @@ DESCRIPTION:https://www.ticketmaster.com/laurie-berkner-early-show-fully-se
  erkner (Early Show - Fully Seated)
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Simon and Garfunkel Story
+DTSTART:20270311T010000Z
+DTEND:20270311T020000Z
+DTSTAMP:20260916T140226Z
+UID:3f830c00-b1d7-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://librarymusichall.com/event/the-simon-and-garfunkel-stor
+ y\nDrusky Entertainment presents:\nThe Simon and Garfunkel Story\nWednesda
+ y\, March 10th\, 2027\nDoors: 7:00PM / Show: 8:00PM\nCarnegie of Homestead
+  Music Hall (Munhall\, PA)\n*All tickets subject to day of show price incr
+ ease. Prices at the ticket link reflect the all-in ticket price (face valu
+ e + fees) - minus any taxes / credit card processing fees.\nThis event is 
+ recommended for all ages.\nThe Simon & Garfunkel Story VIP Experience Incl
+ udes:\nOne Ticket with seating in the first ten rows\nA private 20-minute 
+ acoustic performance with the lead performers of The Simon & Garfunkel Sto
+ ry for VIP attendees only\, featuring exclusive Simon & Garfunkel songs no
+ t performed in the main show. “Stripped back\, with one guitar and two v
+ oices… singing in harmony.”\nA Meet & Greet and photo opportunity with
+  the two lead performers of The Simon & Garfunkel Story.\nA limited editio
+ n\, collectible VIP laminate.\nThe Simon & Garfunkel Story VIP Experience 
+ Upgrade* Includes:\nA private 20-minute acoustic performance with the lead
+  performers of The Simon & Garfunkel Story for VIP attendees only\, featur
+ ing exclusive Simon & Garfunkel songs not performed in the main show. “S
+ tripped back\, with one guitar and two voices… singing in harmony.”\nA
+  Meet & Greet and photo opportunity with the two lead performers of The Si
+ mon & Garfunkel Story.\nA limited edition\, collectible VIP laminate.\n*Up
+ grade packages DO NOT INCLUDE TICKETS. A ticket is required to enter the v
+ enue
+LOCATION:Carnegie of Homestead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Official Four Chord Festival Pre-Party
+DTSTART:20260925T010000Z
+DTEND:20260925T020000Z
+DTSTAMP:20260916T140226Z
+UID:3f950c34-b1d7-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/fourchord-preparty/\nSong requests\
+ , sing-a-longs\, and photo ops all night long at EMOSOCIAL's "Emo Night."T
+ his Event Is 18+All Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
