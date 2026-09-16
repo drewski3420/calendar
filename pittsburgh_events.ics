@@ -135338,4 +135338,40 @@ DESCRIPTION:https://mrsmalls.com/events/fourchord-preparty/\nSong requests\
  his Event Is 18+All Sales Are Final.
 LOCATION:The Funhouse at Mr. Smalls
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archaeology Day
+DTSTART:20261003T140000Z
+DTEND:20261003T150000Z
+DTSTAMP:20260916T170933Z
+UID:6376edf6-b1f1-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.heinzhistorycenter.org/event/archaeology-day-2026/\
+ nHave you ever wondered how archaeologists uncover stories from prehistori
+ c times? Do you have a mysterious artifact at home and are curious if it
+ ’s the real deal? Meet the experts…\nThe post Archaeology Day appeared
+  first on Heinz History Center.\n
+LOCATION:Pittsburgh Parks Conservancy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pumpkin Painting w. Sleepy Hollow
+DTSTART:20261025T040000Z
+DTEND:20261025T050000Z
+DTSTAMP:20260916T170934Z
+UID:63923cd2-b1f1-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/sleepy-holl
+ ow-10-25-26-230-pm/\nCome early to the showtime to paint a little pumpkin 
+ in the taproom before watching this nostalgic Tim Burton film with a pumpk
+ in-headed horseman! (Movie starts at 2:30 pm.)
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pumpkin Beer Tasting w. Sleepy Hollow
+DTSTART:20261028T040000Z
+DTEND:20261028T050000Z
+DTSTAMP:20260916T170934Z
+UID:63a319da-b1f1-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/showtimes/sleepy-holl
+ ow-10-28-26-700-pm/\nTaste some of the best pumpkin brews of the season be
+ fore this screening of Sleepy Hollow! Come early to try them all!  21+
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
