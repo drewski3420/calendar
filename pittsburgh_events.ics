@@ -135425,4 +135425,36 @@ UID:4c6a4f02-b24d-11f1-8d5a-a68b4722bf56
 DESCRIPTION:/corey.pisarski/detail/325/1791662400000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaguar
+DTSTART:20261003T020000Z
+DTEND:20261003T030000Z
+DTSTAMP:20260917T150350Z
+UID:fdbcdaee-b2a8-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2024/11/29/jaguar-eh78n-ynh
+ 4h-5wjkr-8mhgj-rh64f-dczpc-hbb7t-p856t-ecjpe-j5bjt-gfdpt-3ald8-5shf7-sgbll
+ -9933h-psacj-4wzkt-252zc-gmzlk\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TITLE TOWN Soul & Funk Party: 17 Year Anniversary
+DTSTART:20261004T000000Z
+DTEND:20261004T010000Z
+DTSTAMP:20260917T150350Z
+UID:fdd3ffa8-b2a8-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2025/11/1/title-town-soul-a
+ mp-funk-partys-halloween-hangover-zt8cm-d2z4x-r74r9-yr69w-3e7pn-b4r2b-8hf2
+ p-wbmh7-b5krh\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Fetish Con
+DTSTART:20261010T190000Z
+DTEND:20261010T200000Z
+DTSTAMP:20260917T150350Z
+UID:fde1f95a-b2a8-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/10/steel-city-fetis
+ h-con\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
