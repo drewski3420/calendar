@@ -135457,4 +135457,34 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/10/steel-city-fetis
  h-con\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu the Vampyre 
+DTSTART:20261015T113000Z
+DTEND:20261015T123000Z
+DTSTAMP:20260917T170158Z
+UID:7ea43430-b2b9-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/nosferatu-the-
+ vampyre/\nOne night only!
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mouth of Madness
+DTSTART:20261017T121000Z
+DTEND:20261017T131000Z
+DTSTAMP:20260917T170159Z
+UID:7ebd99c0-b2b9-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/in-the-mouth-o
+ f-madness/\nOne night only!
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capser 
+DTSTART:20261022T040000Z
+DTEND:20261022T050000Z
+DTSTAMP:20260917T170159Z
+UID:7ecd6152-b2b9-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/casper/\nOne n
+ ight only!
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
