@@ -135545,4 +135545,45 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/night-of-the-l
  iving-dead/\nHalloween night only! 
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATE NITE KARAOKE
+DTSTART:20261010T020000Z
+DTEND:20261010T030000Z
+DTSTAMP:20260917T200219Z
+UID:b0456824-b2d2-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://app.opendate.io/e/late-nite-karaoke-october-09-2026-749
+ 632\n Late Night Karaoke returns for an exclusive OCTOBER installment! Spe
+ nd the evening with us at your favorite dive bar\, and sing all your favor
+ ite hits with your friends\, or make new friends here!  Singers of all ski
+ ll levels are encouraged!  Write your name on the sheet\, and when it's yo
+ ur turn\, you can dazzle the crowd with pretty much any song of your choic
+ e! (As long as we have it in our Karaoke software.)  The best part? It's t
+ otally FREE! 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELVIRA BINGO
+DTSTART:20261014T233000Z
+DTEND:20261015T003000Z
+DTSTAMP:20260917T200219Z
+UID:b0617e74-b2d2-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://app.opendate.io/e/elvira-bingo-october-14-2026-750763\n
+  GREETINGS GHOULS AND GOBLINS...  Our famous Bottlerocket Bingo is BACK wi
+ th another totally real celebrity guest host...or should we say GHOST (bec
+ ause it's Halloween\, get it?)  This October\, grab those costumes\, warm 
+ up those bingo daubers\, and enjoy a seasonal fall cocktail from the bar a
+ t a bingo event thats CAMPY\, VAMPY and a little bit TRAMPY! The one and o
+ nly ELVIRA\, MISTRESS OF THE DARK (or at least a Drag Queen version of her
+ \, portrayed by our amazing resident queen INDI SKIES) is your Bingo host 
+ for several spooktacular rounds of Bingo. Hold onto your spines\, darlings
+ \, it's sure to be a bone-chilling night!  For only $5 ADMISSION\, you get
+  TEN CHANCES to compete for FREE DRINKS from the bar\, swag from our beer 
+ reps\, and even a CASH PRIZE of $100 during the GRAND PRIZE ROUND... spons
+ ored by our wonderful friends at ABIDING MISSIONS!  You may be thinking...
+  haven't I seen this Elvira before? Doesn't she bear a certain resemblance
+  to the host of Bottlerocket's last bingo event\, Dolly Parton Bingo? If y
+ ou think about it\, Elvira really is just goth Dolly Parton. Don't ask any
+  questions. 
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
 END:VCALENDAR
