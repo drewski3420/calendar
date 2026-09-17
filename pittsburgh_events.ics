@@ -135397,4 +135397,23 @@ DESCRIPTION:7ol32i0at2utvbku3b0r9l51em@google.com\nTime to BELT and join th
  e Jamie Lee Coitus fan club
 LOCATION:Harold's Haunt\, 142 Grant Ave\, Millvale\, PA 15209\, USA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BENEATH THE SURFACE
+DTSTART;TZID=America/New_York:20260918T230000
+DTEND;TZID=America/New_York:20260919T000000
+DTSTAMP:20260917T000200Z
+UID:01a90d68-b22b-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/beneath-the-surface/\n
+LOCATION:Poetry Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-Stop Erotic Cabaret w/ DJs Krass Advert & Rameau's Nephew
+DTSTART;TZID=America/New_York:20260924T220000
+DTEND;TZID=America/New_York:20260924T230000
+DTSTAMP:20260917T000200Z
+UID:01c6e46e-b22b-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.poetrymillvale.com/event/non-stop-erotic-cabaret-w-
+ djs-krass-advert-cryptid-yinzer/\n
+LOCATION:Poetry Lounge
+END:VEVENT
 END:VCALENDAR
