@@ -135487,4 +135487,62 @@ DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/casper/\nOne n
  ight only!
 LOCATION:Rowhouse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CUT THE CAMERAS
+DTSTART:20261008T000000Z
+DTEND:20261008T010000Z
+DTSTAMP:20260917T181009Z
+UID:04e28c1e-b2c3-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://app.opendate.io/e/cut-the-cameras-october-07-2026-75110
+ 4\nThe insanity that is CUT THE CAMERAS returns for its most DARING\, THRI
+ LLING\, and HEART RACING edition yet...just in time for HALLOWEEN!   Intro
+ ducing CUT THE CAMERAS - an Improvised Reality Show by the UCBurgh Faculty
+  & Friends! Normally\, CUT THE CAMERAS puts improvisers in the roles of yo
+ ur favorite REALITY TV STARS\, but for this SPOOKY OCTOBER edition\, we're
+  recreating the SLASHER FILM... but with a FULL CAST of IMPROVISERS!   It'
+ s all the troupes and gimmicks you love from slasher movies... the final g
+ irl\, the mysterious gloved hand\, the weird purity culture\, the urban le
+ gends...AND MORE... with an IMPROV TWIST!  
+LOCATION:Bottlerocket Social Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodsucking Pharaohs in Pittsburgh
+DTSTART:20261023T040000Z
+DTEND:20261023T050000Z
+DTSTAMP:20260917T181009Z
+UID:04fe96ca-b2c3-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/bloodsucking-p
+ haraohs-in-pittsburgh/\nOne night only! 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick 'r Treat 
+DTSTART:20261024T120500Z
+DTEND:20261024T130500Z
+DTSTAMP:20260917T181009Z
+UID:05108d6c-b2c3-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/trick-r-treat/
+ \nOne night only! 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fright Night
+DTSTART:20261029T114500Z
+DTEND:20261029T124500Z
+DTSTAMP:20260917T181009Z
+UID:0523c33c-b2c3-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/fright-night/\
+ nOne night only! 
+LOCATION:Rowhouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Living Dead
+DTSTART:20261031T115500Z
+DTEND:20261031T125500Z
+DTSTAMP:20260917T181010Z
+UID:0535f41c-b2c3-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://rowhousecinemas.com/lawrenceville/movies/night-of-the-l
+ iving-dead/\nHalloween night only! 
+LOCATION:Rowhouse
+END:VEVENT
 END:VCALENDAR
