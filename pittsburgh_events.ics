@@ -135619,4 +135619,33 @@ UID:326b623a-b31f-11f1-8d5a-a68b4722bf56
 DESCRIPTION:/corey.pisarski/detail/296/1791675000000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Roast of Stephen King
+DTSTART:20261024T000000Z
+DTEND:20261024T010000Z
+DTSTAMP:20260918T150225Z
+UID:f563dc16-b371-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/the-roast-of-stephen-king/\nAll wor
+ k and no play makes October a dull month…The Roast of Stephen King is al
+ l play\, with his classic characters taking the stage in a friar style roa
+ st of their own creator. Will the hammering insults of Annie Wilkes break 
+ the author or will it be Carrie White’s mind games? Come play with us to
+  find out…A drag cabaret hosted by Wanda Bread will precede the roast so
+  please bring cash to tip the queens!This Event Is 18+All Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sadies
+DTSTART:20261121T010000Z
+DTEND:20261121T020000Z
+DTSTAMP:20260918T150225Z
+UID:f5805b66-b371-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/the-sadies/\nThe Sadies have played
+  all over the world where\, for the last 30 years\, they have astonished a
+ udiences with their earthy arsenal of roots music\, country\, spaghetti we
+ stern\, surf\, garage rock\, psychedelia\, and the slippery beast known as
+  alt rock\, all with uncanny precision and passion.This Event Is All AgesA
+ ll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
 END:VCALENDAR
