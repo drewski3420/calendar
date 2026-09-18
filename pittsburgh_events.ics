@@ -135610,4 +135610,13 @@ DESCRIPTION:https://www.poetrymillvale.com/event/constellation-x-skinsuit-e
  go-sum-sundras/\n
 LOCATION:Poetry Lounge
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rich Zabinski\, John Burgh & Juliet Ewing
+DTSTART:20261010T233000Z
+DTEND:20261011T003000Z
+DTSTAMP:20260918T050959Z
+UID:326b623a-b31f-11f1-8d5a-a68b4722bf56
+DESCRIPTION:/corey.pisarski/detail/296/1791675000000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
