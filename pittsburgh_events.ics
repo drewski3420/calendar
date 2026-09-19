@@ -135761,4 +135761,13 @@ DESCRIPTION:https://trustarts.org/production/110086/last-night-at-the-alamo
  sts.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz R Us Terrence Magursky\, Kevin Clark & Mark Smith
+DTSTART:20261016T230000Z
+DTEND:20261017T000000Z
+DTSTAMP:20260919T061104Z
+UID:e5656a6c-b3f0-11f1-8d5a-a68b4722bf56
+DESCRIPTION:/corey.pisarski/detail/318/1792191600000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
