@@ -135738,4 +135738,27 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/brahctopus-pittsburgh-af
  fter ticket purchase. All sales are final. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three Stooges Festival: Scared Stooged!
+DTSTART:20261012T000000Z
+DTEND:20261012T010000Z
+DTSTAMP:20260919T010209Z
+UID:bd98946c-b3c5-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://trustarts.org/production/110083/three-stooges-festival-
+ scared-stooged\nSlapstick skeletons! Dimwitted detectives! Apes A-Poppin'!
+  Join us for the annual Three Stooges Festival: SCARED STOOGED!
+LOCATION:Harris Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Night at the Alamo
+DTSTART:20261015T000000Z
+DTEND:20261015T010000Z
+DTSTAMP:20260919T010210Z
+UID:bde350a6-b3c5-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://trustarts.org/production/110086/last-night-at-the-alamo
+ \nA canceled Hollywood actor travels to Pittsburgh in an attempt to revive
+  his career and ends up involved with a group of wannabe left-wing terrori
+ sts.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
