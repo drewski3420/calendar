@@ -135877,4 +135877,17 @@ DESCRIPTION:https://thunderbirdmusichall.com/event/firewall-dance-theater-b
  kets – Standing Room tickets on the Main Floor\, behind Floor Seats. 
 LOCATION:Thunderbird Music Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F-Toys with director Annapurna Sriram
+DTSTART:20261003T000000Z
+DTEND:20261003T010000Z
+DTSTAMP:20260921T220211Z
+UID:18c2b590-b608-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://trustarts.org/production/110089/f-toys-with-director-an
+ napurna-sriram\nJoin AP on a bubblegum grindhouse adventure through sunny 
+ and romantic Trashtown\, USA. In this raucous odyssey across a dreamy land
+ scape of smut\, filth and psychics\, a wanton minx quests hard to make $10
+ 00\, find love\, and lift a curse.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
