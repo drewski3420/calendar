@@ -136178,4 +136178,15 @@ DESCRIPTION:https://www.ticketmaster.com/the-interrupters-mckees-rocks-penn
  sylvania-04-14-2027/event/1600652FE8DCE8F9\nThe Interrupters
 LOCATION:Roxian Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Interrupters with Doom Regulator and Rat Boy
+DTSTART:20270415T000000Z
+DTEND:20270415T010000Z
+DTSTAMP:20260922T230220Z
+UID:aa3f9476-b6d9-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.ticketmaster.com/the-interrupters-with-doom-regulat
+ or-and-mckees-rocks-pennsylvania-04-14-2027/event/1600652FE8DCE8F9\nThe In
+ terrupters with Doom Regulator and Rat Boy
+LOCATION:Roxian Theater
+END:VEVENT
 END:VCALENDAR
