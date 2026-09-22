@@ -136005,4 +136005,15 @@ UID:873fba1a-b697-11f1-bd38-a68b4722bf56
 DESCRIPTION:/corey.pisarski/detail/344/1790287200000\n
 LOCATION:Uncorked (Sharpsburg)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reel Q Film Festival Presents: Flesh & Fuel
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+DTSTAMP:20260922T160207Z
+UID:f5f613bc-b69e-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://trustarts.org/event/32308-2026/reel-q-film-festival-pre
+ sents-flesh-and-fuel\nA lonely French trucker finds an unexpected chance a
+ t love after meeting a Polish driver on the road.
+LOCATION:Harris Theater
+END:VEVENT
 END:VCALENDAR
