@@ -135933,4 +135933,13 @@ DESCRIPTION:https://app.opendate.io/e/sunny-daze-the-weathermen-album-relea
  arage rock\, psych-punk\, and neo-psychedelic influences.    
 LOCATION:Bottlerocket Social Hall
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braxton Keith
+DTSTART:20270207T010000Z
+DTEND:20270207T020000Z
+DTSTAMP:20260922T110215Z
+UID:122cb808-b675-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.stagepittsburgh.com/events/\nBraxton Keith
+LOCATION:Stage AE
+END:VEVENT
 END:VCALENDAR
