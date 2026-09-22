@@ -136016,4 +136016,41 @@ DESCRIPTION:https://trustarts.org/event/32308-2026/reel-q-film-festival-pre
  t love after meeting a Polish driver on the road.
 LOCATION:Harris Theater
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart To Gold
+DTSTART:20261118T010000Z
+DTEND:20261118T020000Z
+DTSTAMP:20260922T170204Z
+UID:55f1d488-b6a7-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/heart-to-gold/\nMinnesota alt-punk 
+ trio Heart to Gold stands as a testament to the Midwest’s enduring DIY s
+ cene\, fusing sky-splitting vocals with arena-sized instrumentation. Their
+  2024 album ‘Free Help\,’ was born from a moment of being stranded on 
+ tour\, and captures the sound and feeling of a band growing into adulthood
+  and maturity with a heartening mix of melodic punk\, cavernous post-hardc
+ ore\, and ’90s alt-rock. Heart to Gold’s sheer power burns brightest l
+ ive.This Event Is All AgesAll Sales Are Final.
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afro-Caribbean Third Saturdays: DJ Flipwave’s 10th Annual Birthda
+ y Bash
+DTSTART:20261018T020000Z
+DTEND:20261018T030000Z
+DTSTAMP:20260922T170205Z
+UID:568ce59a-b6a7-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/bpnl6zxjcens3gw-2ccn7-gzwtz
+ -gpz5t-hnjf7-jaayj-smc7n-sd8fw-3xm55-jl8c4-pbx39-2ebd4-sfwsp-dftc5-jdf6g-f
+ f8d7-lsp6h-56mxg-n3xgf-62bjz-zhjsr-tcwg6\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Axis: Sova
+DTSTART:20261111T003000Z
+DTEND:20261111T013000Z
+DTSTAMP:20260922T170205Z
+UID:569e6c70-b6a7-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/11/10/axis-sova\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
