@@ -135942,4 +135942,67 @@ UID:122cb808-b675-11f1-bd38-a68b4722bf56
 DESCRIPTION:https://www.stagepittsburgh.com/events/\nBraxton Keith
 LOCATION:Stage AE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AcoustiCafe Open Stage
+DTSTART:20261222T000000Z
+DTEND:20261222T010000Z
+DTSTAMP:20260922T150854Z
+UID:86d0b78c-b697-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://mrsmalls.com/events/acousticafe-open-stage-2-2/\nAcoust
+ icafe Show Details:Doors open downstairs in Mr Smalls Café at 5pm for che
+ ck-in.Time-slots are chosen at 6:30pm.Open stage begins at 7pm and runs un
+ til 11pm.Full sound and light system with backline (drums\, keys\, guitar 
+ + bass amp) available\, and a house band to back you up if you want!(ps so
+ metimes the drums are set up lefty\, try to give us warning when you need 
+ to flip 'em!)Follow AcoustiCafe on Facebook here:acousticafepghFollow Acou
+ stiCafe on Instagram here:@acousticafeVisit our website here:acousticafe.o
+ rgThis Event Is All Ages
+LOCATION:The Funhouse at Mr. Smalls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturdaze
+DTSTART:20260926T180000Z
+DTEND:20260926T190000Z
+DTSTAMP:20260922T150854Z
+UID:870f7fb2-b697-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/4/saturdaze-tlzd2-nz
+ fm8-l23zn-t6bla-n53j6-mjdxh-mm3nt-we42a-bbyp9\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raveioli
+DTSTART:20261010T010000Z
+DTEND:20261010T020000Z
+DTSTAMP:20260922T150854Z
+UID:8721b74a-b697-11f1-bd38-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/10/9/raveioli\n
+LOCATION:Spirit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Series: This Is The Kit
+DTSTART:20270410T000000Z
+DTEND:20270410T010000Z
+DTSTAMP:20260922T150854Z
+UID:872f6d68-b697-11f1-bd38-a68b4722bf56
+DESCRIPTION:10002198-1807300800-1807300800@www.warhol.org\nWe welcome This 
+ Is The Kit\, the musical project of British singer-songwriter and multi-in
+ strumentalist\, Kate Stables\, to our intimate theater. Now seven albums i
+ n\, some admiring peers and collaborators include Sharon Van Etten\, Aaron
+  Dessner (The National)\, Chris Thile (Nickel Creek\, Punch Brothers) and 
+ Guy Garvey (BBC 6Music). The past few records have been released on the ic
+ onic UK label\, Rough Trade Records\, and the band garnered this comment f
+ rom Paste: “Stables’ outside-the-box brand of folk music still sounds 
+ like nothing else you’ve ever heard.” \n\nDoors open at 7 p.m.
+LOCATION:The Warhol theater\, 117 Sandusky Street\, Pittsburgh\, PA\, 15212
+ \, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Aliquo\, Eric Susoeff & Bruce Wallace
+DTSTART:20260924T220000Z
+DTEND:20260924T230000Z
+DTSTAMP:20260922T150855Z
+UID:873fba1a-b697-11f1-bd38-a68b4722bf56
+DESCRIPTION:/corey.pisarski/detail/344/1790287200000\n
+LOCATION:Uncorked (Sharpsburg)
+END:VEVENT
 END:VCALENDAR
