@@ -136284,4 +136284,14 @@ DESCRIPTION:https://www.spiritpgh.com//calendar/2026/12/6/bazaar-bazaar-hol
  iday-market\n
 LOCATION:Spirit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch-ish
+DTSTART:20260927T160000Z
+DTEND:20260927T170000Z
+DTSTAMP:20260924T180205Z
+UID:0d27e034-b842-11f1-8d5a-a68b4722bf56
+DESCRIPTION:https://www.spiritpgh.com//calendar/2026/7/5/brunch-on-the-roof
+ top-jtgcd-d9fs3-ksd8r-m3z79-hd877-6w2nr-amrzn\n
+LOCATION:Spirit
+END:VEVENT
 END:VCALENDAR
